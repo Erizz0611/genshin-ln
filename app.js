@@ -84,4 +84,33 @@
     var note = document.getElementById('continue-note');
     if (note && p.title) { note.textContent = 'Đang đọc: ' + p.title; note.hidden = false; }
   }
+  // ----- hồ sơ nhân vật: thẻ nổi -----
+  var modal = document.getElementById('modal');
+  if (modal) {
+    var src = Array.prototype.slice.call(document.querySelectorAll('.profs-src .prof')), mb = modal.querySelector('.modal-body'), cur = -1;
+    function show(i) {
+      cur = (i + src.length) % src.length;
+      mb.innerHTML = src[cur].outerHTML; mb.firstChild.removeAttribute('id');
+      modal.querySelector('.modal-pos').textContent = src[cur].dataset.name + ' · ' + (cur + 1) + '/' + src.length;
+      modal.hidden = false; document.body.classList.add('noscroll'); modal.querySelector('.modal-card').scrollTop = 0;
+      history.replaceState(null, '', '#' + src[cur].id);
+    }
+    function close() { modal.hidden = true; document.body.classList.remove('noscroll'); history.replaceState(null, '', location.pathname); }
+    document.addEventListener('click', function (e) {
+      var o = e.target.closest('[data-open]');
+      if (o) { e.preventDefault(); show(src.findIndex(function (p) { return p.id === o.dataset.open; })); return; }
+      if (modal.hidden) return;
+      var s = e.target.closest('[data-step]');
+      if (s) show(cur + +s.dataset.step);
+      else if (e.target === modal || e.target.closest('[data-close]')) close();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (modal.hidden) return;
+      if (e.key === 'Escape') close();
+      if (e.key === 'ArrowLeft') show(cur - 1);
+      if (e.key === 'ArrowRight') show(cur + 1);
+    });
+    var h = location.hash.slice(1), k = src.findIndex(function (p) { return p.id === h; });
+    if (k >= 0) show(k);
+  }
 })();

@@ -98,9 +98,19 @@ main{max-width:760px;margin:0 auto;padding:16px}
 .progress{position:fixed;left:0;right:0;bottom:0;height:3px;z-index:30}
 .progress div{height:100%;width:0;background:var(--accent)}
 /* profiles */
-.profiles{max-width:960px}
+.profiles{max-width:1180px}
 .profiles h1{font-size:32px;margin:6px 0}
-.pgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px;margin:24px 0 32px;scroll-margin-top:70px}
+.plyt{display:grid;grid-template-columns:280px 1fr;gap:24px;align-items:start;margin-top:20px}
+.sidebar{position:sticky;top:68px;max-height:calc(100vh - 84px);overflow:auto;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:4px 14px 12px}
+.sidebar summary{font-weight:700;color:var(--head);padding:10px 0;cursor:pointer}
+.sb-act{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);font-weight:600;margin:12px 0 4px}
+.sb-ch{padding:8px 0;border-bottom:1px dashed var(--line)}
+.sb-t{display:block;font-size:13px;color:var(--ink);margin-bottom:6px}
+.chips{display:flex;flex-wrap:wrap;gap:5px}
+.chip{font-size:12px;padding:3px 9px;border-radius:99px;background:var(--log);color:var(--accent);font-weight:600}
+.chip:hover{background:var(--accent);color:var(--accent-ink)}
+.none{color:var(--muted);font-size:12px}
+.pgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px;margin:0 0 24px}
 .pcard{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;color:var(--ink);transition:transform .15s}
 .pcard:hover{transform:translateY(-3px)}
 .pcard .pic,.prof .pic{aspect-ratio:52/74;background:linear-gradient(160deg,#e3efeb,#f3ead9);display:flex;align-items:center;justify-content:center}
@@ -108,8 +118,14 @@ main{max-width:760px;margin:0 auto;padding:16px}
 .ph{font-size:56px;font-weight:700;color:#b9cfc8}
 .pn{font-weight:700;color:var(--head);padding:8px 10px 0}
 .pt{font-size:13px;color:var(--muted);padding:0 10px 10px}
-.prof{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:20px;margin-bottom:22px;scroll-margin-top:70px}
-.prof .top{display:grid;grid-template-columns:220px 1fr;gap:20px}
+.modal{position:fixed;inset:0;z-index:60;background:rgba(10,14,16,.55);display:flex;align-items:center;justify-content:center;padding:20px}
+.modal[hidden]{display:none}
+.modal-card{background:var(--card);color:var(--ink);width:100%;max-width:820px;max-height:calc(100vh - 40px);overflow:auto;border-radius:20px;box-shadow:0 20px 60px rgba(0,0,0,.35);animation:pop .18s ease-out}
+@keyframes pop{from{transform:scale(.96);opacity:0}to{transform:none;opacity:1}}
+.modal-bar{position:sticky;top:0;display:flex;align-items:center;gap:6px;padding:10px 12px;background:var(--card);border-bottom:1px solid var(--line);z-index:1}
+.modal-pos{flex:1;text-align:center;font-size:13px;color:var(--muted)}
+.prof{padding:20px 24px 26px}
+.prof .top{display:grid;grid-template-columns:220px 1fr;gap:22px}
 .prof .pic{border-radius:12px;overflow:hidden}
 .prof h2{font-size:30px;margin:4px 0 0}
 .ptitle{font-style:italic;color:var(--gold);font-family:var(--serif);margin:4px 0 12px}
@@ -118,7 +134,9 @@ main{max-width:760px;margin:0 auto;padding:16px}
 .prof td{padding:7px 0;border-bottom:1px solid var(--line)}
 .prof h3{font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);margin:22px 0 6px}
 .prof p{font-family:var(--serif);font-size:17px;line-height:1.7;margin:0}
-.totop{display:inline-block;margin-top:14px;font-size:14px}
+body.noscroll{overflow:hidden}
+@media (max-width:860px){.plyt{grid-template-columns:1fr}.sidebar{position:static;max-height:none;order:2}}
+@media (max-width:640px){.modal{padding:0;align-items:flex-end}.modal-card{max-height:92vh;border-radius:18px 18px 0 0}.prof{padding:14px 16px 24px}}
 /* settings sheet */
 .settings{position:fixed;inset:0;z-index:50;background:rgba(0,0,0,.35);display:flex;align-items:flex-end;justify-content:center}
 .settings[hidden]{display:none}
@@ -141,10 +159,9 @@ main{max-width:760px;margin:0 auto;padding:16px}
  .chlist .lab{width:72px;font-size:13px}
  .chlist a{gap:8px;padding:11px 4px}
  .cast-list{grid-template-columns:1fr}
- .prof{padding:14px}
- .prof .top{grid-template-columns:1fr}
- .prof .pic{max-width:240px;margin:0 auto;width:100%}
- .prof h2{text-align:center}.prof .ptitle{text-align:center}.prof .meta .kick{text-align:center}
+ .prof .top{grid-template-columns:96px 1fr;gap:14px}
+ .prof h2{font-size:24px}
+ .prof th{width:84px}
  .chnav .btn{padding:0 12px}
  .text p{text-align:left}
 }

@@ -183,20 +183,42 @@ for ai, a in enumerate(acts):
 </main><div class="progress" aria-hidden="true"><div></div></div>'''
         write(f"{a['id']}/{ci}.html", page(f"{c['label']}: {c['title']}", body, r, 'p-reader'))
 
-# Hồ sơ nhân vật
+# Hồ sơ nhân vật: lưới thẻ + thẻ nổi (modal) + thanh bên "nhân vật theo chương"
+# Nhân vật được coi là xuất hiện trong chương nếu tên (hoặc tên gọi khác) có trong văn bản chương.
+ALIASES = {'Phong Ma Long': ['Phong Ma Long', 'Ma Long', 'Dvalin', 'con rồng', 'Con rồng']}
+def appears(c, ch):
+    text = ' '.join(t for _, t in ch['body']) + ' ' + (ch['log'] or '')
+    return any(n in text for n in ALIASES.get(c['name'], [c['name']]))
+
 cards, profs = [], []
 for i, c in enumerate(P):
     pid = 'nv-' + str(i)
     pic = f'<img src="{img(c["img"], 520, ratio=52 / 74, focus=1.0 if "card" in c["img"] else 0.0)}" alt="{html.escape(c["name"])}" loading="lazy">' if c['img'] else f'<div class="ph">{html.escape(c["name"][0])}</div>'
-    cards.append(f'<a class="pcard" href="#{pid}"><div class="pic">{pic}</div><div class="pn">{esc(c["name"])}</div><div class="pt">{esc(c["title"])}</div></a>')
+    cards.append(f'<a class="pcard" href="#{pid}" data-open="{pid}"><div class="pic">{pic}</div><div class="pn">{esc(c["name"])}</div><div class="pt">{esc(c["title"])}</div></a>')
     rows = ''.join(f'<tr><th>{esc(k)}</th><td>{esc(v)}</td></tr>' for k, v in c['info'])
-    profs.append(f'''<article class="prof" id="{pid}"><div class="top"><div class="pic">{pic}</div><div class="meta">
+    profs.append(f'''<article class="prof" id="{pid}" data-name="{html.escape(c["name"])}"><div class="top"><div class="pic">{pic}</div><div class="meta">
 <div class="kick">Hồ sơ nhân vật</div><h2>{esc(c["name"])}</h2><div class="ptitle">{esc(c["title"])}</div><table>{rows}</table></div></div>
-<h3>Là ai</h3><p>{esc(c["who"])}</p><h3>Xuất thân</h3><p>{esc(c["origin"])}</p><h3>Vai trò trong cốt truyện</h3><p>{esc(c["role"])}</p>
-<a class="totop" href="#danh-sach">↑ Danh sách</a></article>''')
-body = f'''<main class="profiles"><div class="kick c">Phụ lục</div><h1 class="c">Hồ Sơ Nhân Vật</h1><p class="asub c">{esc(UPDATED)}</p>
-<div class="pgrid" id="danh-sach">{''.join(cards)}</div>{''.join(profs)}
-<p class="note">Hồ sơ chỉ ghi những gì đã xuất hiện trong các màn đã viết, kèm thông tin hồ sơ chính thức trong game. Sẽ được bổ sung sau mỗi màn mới.</p></main>'''
+<h3>Là ai</h3><p>{esc(c["who"])}</p><h3>Xuất thân</h3><p>{esc(c["origin"])}</p><h3>Vai trò trong cốt truyện</h3><p>{esc(c["role"])}</p></article>''')
+
+side = []
+for ai, a in enumerate(acts):
+    side.append(f'<div class="sb-act">{esc(a["act"])}</div>')
+    for ci, ch in enumerate(a['chapters']):
+        who = [(i, c) for i, c in enumerate(P) if appears(c, ch)]
+        chips = ''.join(f'<a href="#nv-{i}" data-open="nv-{i}" class="chip">{esc(c["name"])}</a>' for i, c in who) or '<span class="none">—</span>'
+        side.append(f'<div class="sb-ch"><a class="sb-t" href="{ch_url(ai, ci)}">{esc(ch["label"])}: {esc(ch["title"])}</a><div class="chips">{chips}</div></div>')
+
+body = f'''<main class="profiles"><div class="kick c">Phụ lục</div><h1 class="c">Hồ Sơ Nhân Vật</h1><p class="asub c">{esc(UPDATED)} · bấm vào nhân vật để xem hồ sơ</p>
+<div class="plyt">
+<aside class="sidebar"><details open><summary>Nhân vật theo chương</summary>{''.join(side)}</details></aside>
+<div><div class="pgrid">{''.join(cards)}</div>
+<p class="note">Hồ sơ chỉ ghi những gì đã xuất hiện trong các màn đã viết, kèm thông tin hồ sơ chính thức trong game. Sẽ được bổ sung sau mỗi màn mới.</p></div>
+</div>
+<div class="profs-src" hidden>{''.join(profs)}</div>
+</main>
+<div class="modal" id="modal" hidden><div class="modal-card" role="dialog" aria-modal="true">
+<div class="modal-bar"><button class="icon-btn" data-step="-1" aria-label="Nhân vật trước">‹</button><span class="modal-pos"></span><button class="icon-btn" data-step="1" aria-label="Nhân vật sau">›</button><button class="icon-btn" data-close aria-label="Đóng">✕</button></div>
+<div class="modal-body"></div></div></div>'''
 write('nhan-vat.html', page('Hồ Sơ Nhân Vật', body, '', 'p-prof'))
 
 open(OUT + '.nojekyll', 'w').close()
