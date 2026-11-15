@@ -37,7 +37,7 @@ P = [
   who='Người quản lý thư viện biếng nhác nhưng thông thái, là sinh viên tốt nghiệp thiên tài “Hai Trăm Năm Có Một” của Giáo Viện Sumeru.',
   origin='Quản lý thư viện của Đội Kỵ Sĩ Tây Phong. Hay gọi người khác là “cưng”, “đứa trẻ đáng yêu”.',
   role='Dùng ma pháp do thám, tìm ra cơn bão của Phong Ma Long bắt nguồn từ các ngôi đền Tứ Phong Thủ Hộ. Ở Màn 1.1, cô cùng Lumine đến Đền Sư Tử Nam Phong, giải thích về Vision, kể rằng tên thật của Phong Ma Long là Dvalin — Rồng Đông Phong — và trao cho Lumine một cuốn sách về câu chuyện hàng trăm năm trước.'),
- dict(name='Phong Ma Long', title='Dvalin, Rồng Đông Phong', img=None,
+ dict(name='Phong Ma Long', title='Dvalin, Rồng Đông Phong', img='dvalin.png',
   info=[('Vai trò','Mối đe dọa của Mondstadt'),('Tên thật','Dvalin'),('Xuất hiện','Màn 1, Chương 4')],
   who='Con rồng khổng lồ màu xanh thường xuất hiện quanh Mondstadt, gây bão tố, phá hoại hoa màu và việc buôn bán.',
   origin='Theo lời Lisa, Dvalin từng là Rồng Đông Phong, một trong Tứ Phong Thủ Hộ — những người bảo vệ gió bốn phương và là thuộc hạ của Phong Thần Barbatos — trước khi bị người dân gọi là Ma Long.',
