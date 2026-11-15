@@ -127,12 +127,18 @@ for ai, a in enumerate(acts):
     if not arcs or arcs[-1][0] != a['arc']: arcs.append((a['arc'], []))
     arcs[-1][1].append(ai)
 toc = []
+nav = []
+for arc, ais in arcs:
+    nav.append(f'<div class="an-arc">{esc(arc)}</div>')
+    for ai in ais:
+        a = acts[ai]
+        nav.append(f'<a href="#{a["id"]}" data-nav="{a["id"]}"><span class="an-n">{esc(a["act"].split("· ")[-1])}</span><span class="an-t">{esc(a["title"])}</span></a>')
 for arc, ais in arcs:
     toc.append(f'<h3 class="arc">{esc(arc)}</h3>')
     for ai in ais:
         a = acts[ai]
         tag = '<span class="tag side">Nhiệm vụ bắt buộc</span>' if a['side'] else '<span class="tag">Ma Thần</span>'
-        toc.append(f'''<details class="act" open><summary><img src="{banner(a["chapters"][0]["img"] if a["side"] else a["hero"])}" alt="" loading="lazy">
+        toc.append(f'''<details class="act" id="{a["id"]}" open><summary><img src="{banner(a["chapters"][0]["img"] if a["side"] else a["hero"])}" alt="" loading="lazy">
 <div><div class="kick">{esc(a["act"])} {tag}</div><div class="atitle">{esc(a["title"])}</div><div class="asub">{esc(a["sub"])} · {len(a["chapters"])} chương</div></div></summary>
 <div class="act-links"><a href="{a["id"]}/index.html">Giới thiệu & nhân vật</a></div>
 {chapter_list(ai, "")}</details>''')
@@ -143,7 +149,8 @@ home = f'''<main class="home">
 <div class="btns"><a class="btn primary" href="{first}">Đọc từ đầu</a><a class="btn" id="continue" hidden href="#">Đọc tiếp</a><a class="btn" href="nhan-vat.html">Hồ sơ nhân vật</a></div>
 <p class="continue-note" id="continue-note" hidden></p></div>
 <img class="hero-img" src="{hero}" alt="Nhà Lữ Hành"></section>
-<section class="toc" id="muc-luc"><h2>Mục lục</h2>{''.join(toc)}</section>
+<div class="toc-lyt"><nav class="actnav" aria-label="Đi tới màn"><div class="an-h">Các màn</div>{''.join(nav)}</nav>
+<section class="toc" id="muc-luc"><h2>Mục lục</h2>{''.join(toc)}</section></div>
 </main>'''
 write('index.html', page(SITE, home, '', 'p-home'))
 

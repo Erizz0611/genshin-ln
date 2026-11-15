@@ -124,4 +124,20 @@
       document.getElementById('pempty').hidden = n > 0;
     });
   }
+
+  // ----- thanh các màn ở trang chủ: tô sáng màn đang xem -----
+  var navs = document.querySelectorAll('[data-nav]');
+  if (navs.length && 'IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (e) {
+        if (!e.isIntersecting) return;
+        navs.forEach(function (a) {
+          var on = a.dataset.nav === e.target.id; a.classList.toggle('on', on);
+          if (on && a.parentNode.scrollWidth > a.parentNode.clientWidth) a.parentNode.scrollTo({ left: a.offsetLeft - 16, behavior: 'smooth' });
+        });
+      });
+    }, { rootMargin: '-30% 0px -60% 0px' });
+    navs.forEach(function (a) { var el = document.getElementById(a.dataset.nav); if (el) io.observe(el); });
+    navs.forEach(function (a) { a.addEventListener('click', function () { setTimeout(function () { navs.forEach(function (b) { b.classList.toggle('on', b === a); }); }, 700); }); });
+  }
 })();
