@@ -1,12 +1,12 @@
 # Hồ sơ nhân vật, dùng chung cho PDF (profiles.py) và web (web_build.py)
-UPDATED = 'Cập nhật đến: Mở Đầu · Màn 1 và Màn 1.1'
+UPDATED = 'Cập nhật đến: Mở Đầu · Màn 2'
 
 P = [
  dict(name='Lumine', title='Nhà Lữ Hành', img='lumine_solo.png',
   info=[('Vai trò','Nhân vật chính'),('Thuộc về','—— (đến từ thế giới khác)'),('Vision','Không'),('Vũ khí','Kiếm Đơn'),('Cung mệnh','Cung Lữ Khách'),('Xuất hiện','Lời Mở Đầu, Màn 1')],
   who='Nhà Lữ Hành lưu lạc đến đây từ thế giới khác, bị Thần cướp mất người thân, từ đó bước vào con đường đi tìm 7 vị Thần.',
   origin='Cùng anh trai song sinh Aether du hành qua nhiều thế giới. Khi hai anh em định rời Teyvat, một vị thần lạ mặt tự xưng “người duy trì thiên lý” đã chặn đường. Aether bị mang đi, còn Lumine bị phong ấn, mất đi sức mạnh ban đầu và chìm vào giấc ngủ không rõ bao lâu.',
-  role='Sau khi tỉnh lại, Lumine lang bạt một mình cho đến khi cứu Paimon khỏi chết đuối. Ở Màn 1, cô chạm vào Thất Thiên Thần Tượng và nhận được sức mạnh Nguyên Tố Phong dù không có Vision, gặp Amber, được tặng Phong Chi Dực, rồi đẩy lui Phong Ma Long khi nó tấn công Mondstadt. Đội Kỵ Sĩ Tây Phong mời cô cùng thanh lý ba ngôi đền Tứ Phong Thủ Hộ (Màn 1.1).'),
+  role='Sau khi tỉnh lại, Lumine lang bạt một mình cho đến khi cứu Paimon khỏi chết đuối. Ở Màn 1, cô chạm vào Thất Thiên Thần Tượng và nhận được sức mạnh Nguyên Tố Phong dù không có Vision, gặp Amber, được tặng Phong Chi Dực, rồi đẩy lui Phong Ma Long khi nó tấn công Mondstadt. Đội Kỵ Sĩ Tây Phong mời cô cùng thanh lý ba ngôi đền Tứ Phong Thủ Hộ (Màn 1.1). Ở Màn 2, cô được phong Kỵ Sĩ Danh Dự của Đội Kỵ Sĩ Tây Phong. Phát hiện mình có thể thanh tẩy Nước Mắt Kết Tinh của Dvalin dù chạm vào chúng khiến người có Vision đau đớn, cô cùng nhà thơ Venti tìm cách cứu Dvalin, lấy lại Đàn Thiên Không từ tay Fatui và được Venti gọi là “lá bài cuối cùng”.'),
  dict(name='Paimon', title='Bạn đồng hành, “người dẫn đường” của Lumine', img='paimon.png',
   info=[('Vai trò','Bạn đồng hành'),('Gặp Lumine','Hai tháng trước Màn 1'),('Xuất hiện','Lời Mở Đầu, Màn 1')],
   who='Sinh vật nhỏ bé biết bay, luôn lơ lửng bên cạnh Lumine. Paimon hay nói, mê đồ ăn và tự nhận mình là người dẫn đường của Lumine.',
@@ -31,16 +31,26 @@ P = [
   info=[('Vai trò','Đội Trưởng Đại Diện'),('Thuộc về','Đội Kỵ Sĩ Tây Phong'),('Vision','Phong'),('Vũ khí','Kiếm Đơn'),('Sinh nhật','14/3'),('Cung mệnh','Cung Ấu Sư'),('Xuất hiện','Màn 1, Chương 9')],
   who='Kỵ sĩ Bồ Công Anh chính trực nghiêm nghị, đội trưởng đại diện Đội Kỵ Sĩ Tây Phong của Mondstadt.',
   origin='Đội phó Đội Kỵ Sĩ, đảm nhận chức Đội Trưởng Đại Diện khi đại đội trưởng đi xa và mang theo 4/5 số Kỵ Sĩ. Amber gọi cô là “Người Thủ Hộ Mondstadt”.',
-  role='Đón tiếp Lumine tại tổng bộ, lên kế hoạch tấn công ba trong bốn ngôi đền Tứ Phong Thủ Hộ để cắt đứt nguồn sức mạnh của Phong Ma Long. Cuối Màn 1.1, cô cảm ơn Lumine và quyết tâm làm rõ chân tướng vụ tấn công.'),
+  role='Đón tiếp Lumine tại tổng bộ, lên kế hoạch tấn công ba trong bốn ngôi đền Tứ Phong Thủ Hộ để cắt đứt nguồn sức mạnh của Phong Ma Long. Cuối Màn 1.1, cô cảm ơn Lumine và quyết tâm làm rõ chân tướng vụ tấn công. Ở Màn 2, cô từ chối yêu cầu của Fatui muốn “xử lý” Dvalin, phong Lumine làm Kỵ Sĩ Danh Dự, rồi bí mật hợp tác với Diluc, Venti và Lumine để cứu Dvalin bằng danh nghĩa cá nhân.'),
  dict(name='Lisa', title='Ma Nữ Tường Vi', img='lisa_card.png',
   info=[('Vai trò','Quản lý thư viện'),('Thuộc về','Đội Kỵ Sĩ Tây Phong'),('Vision','Lôi'),('Vũ khí','Pháp Khí'),('Sinh nhật','9/6'),('Cung mệnh','Cung Sa Lậu'),('Xuất hiện','Màn 1, Chương 9')],
   who='Người quản lý thư viện biếng nhác nhưng thông thái, là sinh viên tốt nghiệp thiên tài “Hai Trăm Năm Có Một” của Giáo Viện Sumeru.',
   origin='Quản lý thư viện của Đội Kỵ Sĩ Tây Phong. Hay gọi người khác là “cưng”, “đứa trẻ đáng yêu”.',
-  role='Dùng ma pháp do thám, tìm ra cơn bão của Phong Ma Long bắt nguồn từ các ngôi đền Tứ Phong Thủ Hộ. Ở Màn 1.1, cô cùng Lumine đến Đền Sư Tử Nam Phong, giải thích về Vision, kể rằng tên thật của Phong Ma Long là Dvalin — Rồng Đông Phong — và trao cho Lumine một cuốn sách về câu chuyện hàng trăm năm trước.'),
+  role='Dùng ma pháp do thám, tìm ra cơn bão của Phong Ma Long bắt nguồn từ các ngôi đền Tứ Phong Thủ Hộ. Ở Màn 1.1, cô cùng Lumine đến Đền Sư Tử Nam Phong, giải thích về Vision, kể rằng tên thật của Phong Ma Long là Dvalin — Rồng Đông Phong — và trao cho Lumine một cuốn sách về câu chuyện hàng trăm năm trước. Ở Màn 2, cô phát hiện tạp chất trong Nước Mắt Kết Tinh tương khắc với Vision, nhưng lại không ảnh hưởng đến Lumine.'),
  dict(name='Phong Ma Long', title='Dvalin, Rồng Đông Phong', img='dvalin.png',
   info=[('Vai trò','Mối đe dọa của Mondstadt'),('Tên thật','Dvalin'),('Xuất hiện','Màn 1, Chương 4')],
   who='Con rồng khổng lồ màu xanh thường xuất hiện quanh Mondstadt, gây bão tố, phá hoại hoa màu và việc buôn bán.',
   origin='Theo lời Lisa, Dvalin từng là Rồng Đông Phong, một trong Tứ Phong Thủ Hộ — những người bảo vệ gió bốn phương và là thuộc hạ của Phong Thần Barbatos — trước khi bị người dân gọi là Ma Long.',
-  role='Lumine bắt gặp nó lần đầu trong rừng, khi một thiếu niên bí ẩn đang nói chuyện với nó. Sau đó nó tấn công thẳng vào Mondstadt và bị Lumine đẩy lui. Lisa cho rằng động cơ của nó là “hận thù” với Mondstadt.'),
+  role='Lumine bắt gặp nó lần đầu trong rừng, khi một thiếu niên bí ẩn đang nói chuyện với nó. Sau đó nó tấn công thẳng vào Mondstadt và bị Lumine đẩy lui. Lisa cho rằng động cơ của nó là “hận thù” với Mondstadt. Ở Màn 2, Venti tiết lộ nó từng uống máu độc của ác long để bảo vệ Mondstadt, chìm vào giấc ngủ dài và nay bị Pháp Sư Vực Sâu nguyền rủa ăn mòn. Ở Vực Hái Sao, nó suýt nhận lại Venti nhưng lại bị Pháp Sư Vực Sâu kích động và bay về sào huyệt ở Phế Tích Phong Long.'),
+ dict(name='Venti', title='Nhà Thơ Có Màu Của Gió', img='venti_card.png',
+  info=[('Vai trò','Nhà thơ lang thang'),('Thuộc về','Thành Mondstadt'),('Vision','Phong'),('Vũ khí','Cung'),('Sinh nhật','16/6'),('Cung mệnh','Cung Ca Tiên'),('Xuất hiện','Màn 1 (thiếu niên bí ẩn), Màn 2')],
+  who='Một trong các nhà thơ thành Mondstadt, tự do tự tại đi khắp hang cùng ngõ hẻm. Tự giới thiệu là quán quân “Nhà thơ được yêu thích nhất Mondstadt” ba kỳ liền.',
+  origin='Chính là thiếu niên bí ẩn Lumine bắt gặp nói chuyện với Dvalin trong Rừng Thì Thầm, và Lumine thấy giọng của cậu “có chút quen thuộc”. Cậu gọi Phong Ma Long bằng tên thật Dvalin, coi nó là bạn cũ, và có mối liên hệ với Nguyên Tố Phong mà Paimon cho là “còn mạnh hơn” Lumine. Trước mặt tu nữ, cậu tự xưng là Phong Thần Barbatos nhưng không ai tin.',
+  role='Kể cho Lumine nghe bài ca về Rồng Thiên Không và cho biết thù hận của Dvalin là do máu độc và lời nguyền của Pháp Sư Vực Sâu. Lập kế hoạch lấy Đàn Thiên Không để đánh thức Dvalin, dùng nước mắt rồng do Lumine thanh tẩy để hồi phục sức mạnh của đàn. Ở Vực Hái Sao, cuộc gặp với Dvalin thất bại vì Pháp Sư Vực Sâu, Đàn Thiên Không bị hỏng; cậu đọc được nhịp điệu ma lực để mở đường vào Phế Tích Phong Long.'),
+ dict(name='Diluc', title='Mặt Tối Của Bình Minh', img='diluc_card.png',
+  info=[('Vai trò','Chủ Tửu Trang Dawn'),('Thuộc về','Tửu Trang Dawn'),('Vision','Hỏa'),('Vũ khí','Trọng Kiếm'),('Sinh nhật','30/4'),('Cung mệnh','Cung Dạ Hiêu'),('Xuất hiện','Màn 1.1 (người đàn ông tóc đỏ), Màn 2')],
+  who='Là công tử nắm trong tay hơn một nửa ngành rượu Mondstadt, tài lực, danh vọng, năng lực đều khiến người khác không thể coi thường.',
+  origin='Người đàn ông tóc đỏ từng hạ gục Pháp Sư Vực Sâu ở Đền Sói Bắc Phong. Ông chủ lớn đứng sau quán rượu Quà Tặng Của Thiên Sứ, thỉnh thoảng tự đứng quầy. Không ưa Đội Kỵ Sĩ vì cho rằng họ e dè trước Phong Ma Long và nhu nhược với Fatui; Jean gọi anh là “tiền bối”, còn Fatui tuyên bố anh là “người không được hoan nghênh”.',
+  role='Che giấu nhóm Lumine khỏi vệ binh sau vụ Đàn Thiên Không bị trộm, nghe bài ca của Venti rồi dùng mạng lưới tình báo tìm ra Đàn Thiên Không ở chỗ Fatui. Cùng Jean và Lumine thu thập nước mắt rồng, chỉ đường đến Vực Hái Sao, và lần ra Pháp Sư Vực Sâu sau khi kế hoạch thất bại.'),
 ]
 
