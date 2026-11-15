@@ -113,4 +113,15 @@
     var h = location.hash.slice(1), k = src.findIndex(function (p) { return p.id === h; });
     if (k >= 0) show(k);
   }
+
+  // ----- tìm nhân vật (không phân biệt dấu) -----
+  var q = document.getElementById('psearch');
+  if (q) {
+    var norm = function (s) { return s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'd').replace(/Đ/g, 'D').toLowerCase(); };
+    q.addEventListener('input', function () {
+      var t = norm(q.value.trim()), n = 0;
+      document.querySelectorAll('.pcard').forEach(function (c) { var ok = !t || norm(c.dataset.q).indexOf(t) >= 0; c.hidden = !ok; if (ok) n++; });
+      document.getElementById('pempty').hidden = n > 0;
+    });
+  }
 })();

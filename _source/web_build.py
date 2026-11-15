@@ -194,7 +194,7 @@ cards, profs = [], []
 for i, c in enumerate(P):
     pid = 'nv-' + str(i)
     pic = f'<img src="{img(c["img"], 520, ratio=52 / 74, focus=1.0 if "card" in c["img"] else 0.0)}" alt="{html.escape(c["name"])}" loading="lazy">' if c['img'] else f'<div class="ph">{html.escape(c["name"][0])}</div>'
-    cards.append(f'<a class="pcard" href="#{pid}" data-open="{pid}"><div class="pic">{pic}</div><div class="pn">{esc(c["name"])}</div><div class="pt">{esc(c["title"])}</div></a>')
+    cards.append(f'<a class="pcard" href="#{pid}" data-open="{pid}" data-q="{html.escape((c["name"] + " " + c["title"] + " " + " ".join(v for _, v in c["info"])))}"><div class="pic">{pic}</div><div class="pn">{esc(c["name"])}</div><div class="pt">{esc(c["title"])}</div></a>')
     rows = ''.join(f'<tr><th>{esc(k)}</th><td>{esc(v)}</td></tr>' for k, v in c['info'])
     profs.append(f'''<article class="prof" id="{pid}" data-name="{html.escape(c["name"])}"><div class="top"><div class="pic">{pic}</div><div class="meta">
 <div class="kick">Hồ sơ nhân vật</div><h2>{esc(c["name"])}</h2><div class="ptitle">{esc(c["title"])}</div><table>{rows}</table></div></div>
@@ -202,16 +202,15 @@ for i, c in enumerate(P):
 
 side = []
 for ai, a in enumerate(acts):
-    side.append(f'<div class="sb-act">{esc(a["act"])}</div>')
-    for ci, ch in enumerate(a['chapters']):
-        who = [(i, c) for i, c in enumerate(P) if appears(c, ch)]
-        chips = ''.join(f'<a href="#nv-{i}" data-open="nv-{i}" class="chip">{esc(c["name"])}</a>' for i, c in who) or '<span class="none">—</span>'
-        side.append(f'<div class="sb-ch"><a class="sb-t" href="{ch_url(ai, ci)}">{esc(ch["label"])}: {esc(ch["title"])}</a><div class="chips">{chips}</div></div>')
+    who = [(i, c) for i, c in enumerate(P) if any(appears(c, ch) for ch in a['chapters'])]
+    chips = ''.join(f'<a href="#nv-{i}" data-open="nv-{i}" class="chip">{esc(c["name"])}</a>' for i, c in who) or '<span class="none">—</span>'
+    side.append(f'<div class="sb-ch"><a class="sb-t" href="{a["id"]}/index.html"><span class="sb-act">{esc(a["act"])}</span>{esc(a["title"])}</a><div class="chips">{chips}</div></div>')
 
 body = f'''<main class="profiles"><div class="kick c">Phụ lục</div><h1 class="c">Hồ Sơ Nhân Vật</h1><p class="asub c">{esc(UPDATED)} · bấm vào nhân vật để xem hồ sơ</p>
 <div class="plyt">
-<aside class="sidebar"><details open><summary>Nhân vật theo chương</summary>{''.join(side)}</details></aside>
-<div><div class="pgrid">{''.join(cards)}</div>
+<aside class="sidebar"><details open><summary>Nhân vật theo màn</summary>{''.join(side)}</details></aside>
+<div><div class="psearch"><input type="search" id="psearch" placeholder="Tìm nhân vật…" autocomplete="off" aria-label="Tìm nhân vật"></div>
+<p class="pempty" id="pempty" hidden>Không tìm thấy nhân vật nào.</p><div class="pgrid">{''.join(cards)}</div>
 <p class="note">Hồ sơ chỉ ghi những gì đã xuất hiện trong các màn đã viết, kèm thông tin hồ sơ chính thức trong game. Sẽ được bổ sung sau mỗi màn mới.</p></div>
 </div>
 <div class="profs-src" hidden>{''.join(profs)}</div>
