@@ -104,7 +104,8 @@ def cast_html(cast, root):
 def chapter_list(ai, root):
     a = acts[ai]
     return '<ol class="chlist">' + ''.join(
-        f'<li><a href="{ch_url(ai, ci, root)}" data-ch="{a["id"]}/{ci}"><span class="lab">{esc(c["label"])}</span><span class="ttl">{esc(c["title"])}</span></a></li>'
+        f'<li data-ch="{a["id"]}/{ci}"><a href="{ch_url(ai, ci, root)}"><span class="lab">{esc(c["label"])}</span><span class="ttl">{esc(c["title"])}</span></a>'
+        f'<button class="mark" type="button" data-mark="{a["id"]}/{ci}" aria-pressed="false" title="Đánh dấu đã đọc"><span class="box" aria-hidden="true"></span><span class="mt">Chưa đọc</span></button></li>'
         for ci, c in enumerate(a['chapters'])) + '</ol>'
 
 # ---------- xuất ----------
@@ -174,6 +175,7 @@ for ai, a in enumerate(acts):
 {'' if c['quest'] == c['title'] else '<div class="ch-quest c">✦ ' + esc(c['quest']) + ' ✦</div>'}
 {nav}
 <article class="text">{log}{chapter_body(c)}</article>
+<div class="done-wrap"><button class="mark big" type="button" data-mark="{a['id']}/{ci}" aria-pressed="false"><span class="box" aria-hidden="true"></span><span class="mt">Đánh dấu đã đọc chương này</span></button></div>
 {endnote}
 {nav}
 </main><div class="progress" aria-hidden="true"><div></div></div>'''

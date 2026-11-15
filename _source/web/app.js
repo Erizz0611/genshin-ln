@@ -36,7 +36,7 @@
   var reader = document.querySelector('.reader');
   if (reader) {
     var id = reader.dataset.chapter, bar = document.querySelector('.progress div'), top = document.querySelector('.topbar');
-    var prog = get(PROG, {}), read = get(READ, {});
+    var prog = get(PROG, {});
     if (prog.ch === id && prog.y > 200 && location.hash !== '#dau') setTimeout(function () { window.scrollTo(0, prog.y); }, 60);
     var lastY = 0, t;
     window.addEventListener('scroll', function () {
@@ -46,7 +46,6 @@
       clearTimeout(t);
       t = setTimeout(function () {
         set(PROG, { ch: id, y: y, url: location.pathname.split('/').slice(-2).join('/'), title: reader.dataset.title });
-        if (h > 0 && y / h > 0.9) { read[id] = 1; set(READ, read); }
       }, 250);
     }, { passive: true });
     set(PROG, Object.assign(get(PROG, {}), prog.ch === id ? {} : { ch: id, y: 0, url: location.pathname.split('/').slice(-2).join('/'), title: reader.dataset.title }));
@@ -58,12 +57,27 @@
     });
   }
 
-  // ----- đánh dấu chương đã đọc + nút Đọc tiếp -----
-  var p = get(PROG, null), r = get(READ, {});
-  document.querySelectorAll('[data-ch]').forEach(function (a) {
-    if (r[a.dataset.ch]) a.classList.add('read');
-    if (p && p.ch === a.dataset.ch) a.classList.add('current');
+  // ----- đánh dấu đã đọc (người đọc tự bấm, bấm lại để bỏ) -----
+  var p = get(PROG, null);
+  function paint() {
+    var r = get(READ, {});
+    document.querySelectorAll('[data-mark]').forEach(function (b) {
+      var on = !!r[b.dataset.mark], big = b.classList.contains('big');
+      b.setAttribute('aria-pressed', on);
+      b.querySelector('.mt').textContent = on ? (big ? 'Đã đọc xong · bấm để bỏ đánh dấu' : 'Đã đọc') : (big ? 'Đánh dấu đã đọc chương này' : 'Chưa đọc');
+    });
+    document.querySelectorAll('li[data-ch]').forEach(function (li) {
+      li.classList.toggle('read', !!r[li.dataset.ch]);
+      li.classList.toggle('current', !!(p && p.ch === li.dataset.ch));
+    });
+  }
+  document.addEventListener('click', function (e) {
+    var b = e.target.closest('[data-mark]'); if (!b) return;
+    var r = get(READ, {}), k = b.dataset.mark;
+    if (r[k]) delete r[k]; else r[k] = 1;
+    set(READ, r); paint();
   });
+  paint();
   var cont = document.getElementById('continue');
   if (cont && p && p.url) {
     cont.href = p.url; cont.hidden = false;
