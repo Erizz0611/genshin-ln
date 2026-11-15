@@ -68,7 +68,7 @@ Paimon bay vút lên, vẫy tay về phía con đường phía trước.
 
 “Phải xuất phát rồi, chúng ta đi thôi.”
 
-#CH|Chương 1|Dấu Chân Kẻ Lang Thang|traveler_portrait.png|Dấu Chân Kẻ Lang Thang
+#CH|Chương 1|Dấu Chân Kẻ Lang Thang|lumine_wide.png|Dấu Chân Kẻ Lang Thang
 
 >Thần mang đi người thân duy nhất của bạn, và bạn cũng bị Thần phong ấn, chìm vào giấc ngủ. Khi tỉnh dậy, bạn lang thang một mình, sau đó gặp được người bạn đồng hành tuyệt vời Paimon, cả hai cùng bắt đầu cuộc hành trình khám phá đại lục Teyvat...
 

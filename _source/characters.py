@@ -2,7 +2,7 @@
 UPDATED = 'Cập nhật đến: Mở Đầu · Màn 1 và Màn 1.1'
 
 P = [
- dict(name='Lumine', title='Nhà Lữ Hành', img='lumine_crop.png',
+ dict(name='Lumine', title='Nhà Lữ Hành', img='lumine_solo.png',
   info=[('Vai trò','Nhân vật chính'),('Thuộc về','—— (đến từ thế giới khác)'),('Vision','Không'),('Vũ khí','Kiếm Đơn'),('Cung mệnh','Cung Lữ Khách'),('Xuất hiện','Lời Mở Đầu, Màn 1')],
   who='Nhà Lữ Hành lưu lạc đến đây từ thế giới khác, bị Thần cướp mất người thân, từ đó bước vào con đường đi tìm 7 vị Thần.',
   origin='Cùng anh trai song sinh Aether du hành qua nhiều thế giới. Khi hai anh em định rời Teyvat, một vị thần lạ mặt tự xưng “người duy trì thiên lý” đã chặn đường. Aether bị mang đi, còn Lumine bị phong ấn, mất đi sức mạnh ban đầu và chìm vào giấc ngủ không rõ bao lâu.',
@@ -12,7 +12,7 @@ P = [
   who='Sinh vật nhỏ bé biết bay, luôn lơ lửng bên cạnh Lumine. Paimon hay nói, mê đồ ăn và tự nhận mình là người dẫn đường của Lumine.',
   origin='Truyện chưa cho biết Paimon từ đâu tới. Theo lời Paimon, Lumine đã cứu Paimon khỏi chết đuối hai tháng trước khi câu chuyện bắt đầu, và từ đó Paimon nguyện “cố gắng làm một người dẫn đường tốt”.',
   role='Dẫn Lumine tới Thất Thiên Thần Tượng ở Hồ Sao Rơi, giải thích về Bảy Vị Thần và đề nghị đến Mondstadt — thành phố của Phong Thần — để tìm manh mối về Aether. Là người cất giữ viên tinh thể đỏ tìm thấy trong rừng, và luôn phản đối kịch liệt khi bị coi là “thực phẩm dự trữ”.'),
- dict(name='Aether', title='Anh trai song sinh của Lumine', img='aether_crop.png',
+ dict(name='Aether', title='Anh trai song sinh của Lumine', img='aether_solo.png',
   info=[('Vai trò','Người thân thất lạc'),('Tình trạng','Mất tích'),('Xuất hiện','Lời Mở Đầu (hồi ức)')],
   who='Anh trai song sinh của Lumine, người cùng cô du hành qua nhiều thế giới.',
   origin='Bị vị thần lạ mặt mang đi trong ngày hai anh em định rời khỏi Teyvat.',
