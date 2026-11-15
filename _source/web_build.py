@@ -1,7 +1,7 @@
 # Dựng web đọc truyện tĩnh từ các file nguồn manX.txt + acts.py + characters.py
 # Dùng:  python web_build.py [thư_mục_ra]      (mặc định: ../web)
 # Thêm màn mới: thêm file nguồn + 1 mục trong ACTS (acts.py), cập nhật characters.py, rồi chạy lại lệnh này.
-import os, sys, html, json, shutil
+import os, sys, html, json, shutil, hashlib
 from PIL import Image
 from build import parse, esc, HERE, IMG
 from acts import ACTS, SERIES, FOOT
@@ -41,6 +41,8 @@ def avatar(name):
     return img(name, 160, ratio=1, focus=0.1)
 
 # ---------- khung trang ----------
+VER = hashlib.md5(open(WEB + 'style.css', 'rb').read() + open(WEB + 'app.js', 'rb').read()).hexdigest()[:8]  # chống trình duyệt giữ bản cũ
+
 def page(title, body, root='', cls='', extra_head=''):
     t = html.escape(title + (' — ' + SITE if title != SITE else ''))
     return f'''<!doctype html>
@@ -52,7 +54,7 @@ def page(title, body, root='', cls='', extra_head=''):
 <link rel="icon" href="{root}img/icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{root}style.css">
+<link rel="stylesheet" href="{root}style.css?v={VER}">
 <script>try{{var s=JSON.parse(localStorage.getItem('ln-settings')||'{{}}');var d=document.documentElement;d.dataset.theme=s.theme||'light';d.dataset.font=s.font||'serif';d.style.setProperty('--fs',(s.fs||18)+'px');d.style.setProperty('--lh',s.lh||1.8)}}catch(e){{}}</script>
 {extra_head}</head>
 <body class="{cls}">
@@ -70,7 +72,7 @@ def page(title, body, root='', cls='', extra_head=''):
   </div>
 </div>
 <footer class="foot"><p>{esc(FOOT)}</p></footer>
-<script src="{root}app.js"></script>
+<script src="{root}app.js?v={VER}"></script>
 </body></html>'''
 
 # ---------- dữ liệu ----------
