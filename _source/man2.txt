@@ -1,4 +1,4 @@
-#CH|Chương 1|Mondstadt Chìm Trong Sự Ám Ảnh|jean_splash.png|Mondstadt Chìm Trong Sự Ám Ảnh
+#CH|Phần 1|Mondstadt Chìm Trong Sự Ám Ảnh|jean_splash.png|Mondstadt Chìm Trong Sự Ám Ảnh
 
 >Dưới sự nỗ lực của các bạn, sự lưu động của Nguyên Tố trong thành Mondstadt đã trở lại bình thường, đã đến lúc về lại Mondstadt, thông báo cho Jean biết tiến độ của các bạn.
 
@@ -100,7 +100,7 @@ Jean gật đầu.
 
 “Cũng mong bạn giúp chúng tôi lần nữa, tìm ra đáp án của những việc rắc rối này. Sự khủng hoảng của Ma Long, và sự kỳ quái của kết tinh… Tôi nghĩ, đáp án phía sau nhất định có liên quan đến hòa bình của thành Mondstadt. Mong gió sẽ lau sạch mắt bạn, giúp bạn nhìn rõ chân tướng. Nếu có phát hiện gì mới, chúng ta sẽ gặp nhau ở đây.”
 
-#CH|Chương 2|Không Hẹn Mà Gặp|venti_nc.png|Không Hẹn Mà Gặp
+#CH|Phần 2|Không Hẹn Mà Gặp|venti_nc.png|Không Hẹn Mà Gặp
 
 >Các bạn trở về Thành Mondstadt, vô tình gặp phải Jean và Fatui đang có mâu thuẫn. Bạn nói cho Jean biết việc phát hiện được nước mắt của rồng trong rừng sâu, dưới sự yêu cầu của Jean, bạn lại tham gia vào cuộc điều tra Phong Ma Long Dvalin.
 
@@ -136,7 +136,7 @@ Lumine đáp: “Chúng ta cũng đuổi theo!”
 
 Lumine bám vào vách đá, leo lên trên.
 
-#CH|Chương 3|Tên Nhóc Màu Xanh Đó|venti_splash.png|Tên Nhóc Màu Xanh Đó
+#CH|Phần 3|Tên Nhóc Màu Xanh Đó|venti_splash.png|Tên Nhóc Màu Xanh Đó
 
 >Khi các bạn đang chuẩn bị xuất phát, bên ngoài cửa tổng bộ đội Kỵ Sĩ, các bạn nhìn thấy người thần bí nói chuyện với Phong Ma Long.
 
@@ -282,7 +282,7 @@ Paimon hỏi: “Hơn nữa?”
 
 Lumine đáp: “Giọng nói, có chút quen thuộc…”
 
-#CH|Chương 4|Nghe Theo Hướng Gió|venti_card.png|Nghe Theo Hướng Gió
+#CH|Phần 4|Nghe Theo Hướng Gió|venti_card.png|Nghe Theo Hướng Gió
 
 >Người thần bí đó tự xưng là nhà thơ Venti, chưa chờ đến lúc Venti giải thích rõ mối quan hệ với rồng thì anh ấy đã bỏ đi. Theo chân anh ấy, các bạn đã đến dưới gốc cây khổng lồ của Phong Khởi Địa.
 
@@ -350,7 +350,7 @@ Paimon hỏi: “Đại giáo đường Mondstadt? Đi đến nơi đó làm gì
 
 Venti đáp: “Đi lấy… cây đàn Thiên Không.”
 
-#CH|Chương 5|Kế Hoạch Của Venti|venti_nc.png|Kế Hoạch Của Venti
+#CH|Phần 5|Kế Hoạch Của Venti|venti_nc.png|Kế Hoạch Của Venti
 
 >Cuối cùng Venti cũng dừng lại và giải thích, khi anh ấy gặp Dvalin trong Rừng Thì Thầm, vốn dĩ định xóa bỏ lời nguyền cho nó, nhưng lại thất bại. Bây giờ nếu muốn Dvalin hồi phục, không thể không nhờ vào sức mạnh của “Đàn Thiên Không”.
 
@@ -440,7 +440,7 @@ Lumine đáp: “Trên đường đi bị Paimon ăn mất rồi.”
 
 Gotelinde nói: “Nói tóm lại văn bản là bắt buộc phải có. Nếu không có việc gì khác, tôi xin thất lễ. Gần đây thực sự rất bận.”
 
-#CH|Chương 6|Kế Hoạch Mới Của Venti|venti_splash.png|Kế Hoạch Mới Của Venti
+#CH|Phần 6|Kế Hoạch Mới Của Venti|venti_splash.png|Kế Hoạch Mới Của Venti
 
 >Kế hoạch dùng miệng lưỡi để lấy đàn Thiên Không của Venti đương nhiên đã thất bại, cho nên Venti nghĩ ra một kế hoạch mới, kế hoạch này cần bạn giúp đỡ.
 
@@ -530,7 +530,7 @@ Venti đang đứng chờ bên ngoài, vừa thấy hai người lao ra thì gi�
 
 “A?! Mau đi theo tôi!”
 
-#CH|Chương 7|Chạy Trốn|diluc_nc.png|Chạy Trốn
+#CH|Phần 7|Chạy Trốn|diluc_nc.png|Chạy Trốn
 
 >Bạn gần như thực hiện được kế hoạch của Venti, đã sắp có được Đàn Thiên Không, nhưng một người lạ xuất hiện và lấy nó đi. Động tĩnh của các bạn cũng đã kinh động đến thủ vệ, cả nhóm buộc phải chạy trốn khỏi Giáo Đường.
 
@@ -664,7 +664,7 @@ Venti nói: “Không sao cả! Tôi thích quán rượu.”
 
 Diluc nói: “… Vậy thì, buổi tối sau khi quán rượu đóng cửa, chúng ta gặp lại nhau ở đây.”
 
-#CH|Chương 8|Cuộc Nói Chuyện Sau Hậu Trường|diluc_splash.png|Cuộc Nói Chuyện Sau Hậu Trường
+#CH|Phần 8|Cuộc Nói Chuyện Sau Hậu Trường|diluc_splash.png|Cuộc Nói Chuyện Sau Hậu Trường
 
 >Sau khi trốn khỏi Giáo Đường, bạn vội vã nấp trong quán rượu của Diluc, nhưng Diluc lại đột nhiên bảo vệ và giúp đỡ bạn. Dưới sự hướng dẫn của Diluc, các bạn gặp được một người không ngờ tới sau khi quán rượu đóng cửa.
 
@@ -762,7 +762,7 @@ Khi Lumine đã ra đến cửa, Venti chống cằm nhìn theo bóng Jean, lẩ
 
 “Ừm… Đội trưởng đại diện, Jean. Với con mắt của nhà thơ mà nói, dường như cũng không phải là một nữ kỵ sĩ thông thường.”
 
-#CH|Chương 9|Đuổi Theo Bóng Người|diluc_card.png|Đuổi Theo Bóng Người
+#CH|Phần 9|Đuổi Theo Bóng Người|diluc_card.png|Đuổi Theo Bóng Người
 
 >Người Diluc đưa đến chính là Jean của Đội Kỵ Sĩ, sau một hồi trò chuyện, phát hiện người lấy trộm Đàn Thiên Không chính là Fatui. Để cứu Dvalin, các bạn buộc phải lấy lại Đàn Thiên Không.
 
@@ -838,7 +838,7 @@ Lumine bước tới, nhấc cây đàn lên.
 
 Paimon nói: “Cuối cùng cũng lấy được Đàn Thiên Không rồi.”
 
-#CH|Chương 10|Hiện Trạng Của Bảo Vật|venti_card.png|Hiện Trạng Của Bảo Vật
+#CH|Phần 10|Hiện Trạng Của Bảo Vật|venti_card.png|Hiện Trạng Của Bảo Vật
 
 >Sau một trận chiến, cuối cùng các bạn cũng lấy lại được Đàn Thiên Không từ tay Fatui. Không hiểu vì sao Venti lại rất lưu luyến Đàn Thiên Không.
 
@@ -918,7 +918,7 @@ Diluc nhìn Lumine, ánh mắt dò xét.
 
 “Tại sao có thể làm được việc này… trên người cô đúng là tràn ngập sự bí ẩn.”
 
-#CH|Chương 11|Giọt Nước Mắt Bị Bỏ Quên|jean_card.png|Giọt Nước Mắt Bị Bỏ Quên
+#CH|Phần 11|Giọt Nước Mắt Bị Bỏ Quên|jean_card.png|Giọt Nước Mắt Bị Bỏ Quên
 
 >Đàn Thiên Không không còn được như trước, nhưng nhờ nước mắt của rồng, các bạn đã đem Nguyên Tố Phong đổ vào đàn thành công. Vì để khôi phục sức mạnh cho Đàn Thiên Không, các bạn bắt đầu tìm thêm nước mắt của rồng.
 
@@ -944,7 +944,7 @@ Paimon nói: “Thu thập thành công! Thật không dễ dàng gì.”
 
 “Không được lơ là. Tình hình Phong Ma Long vẫn đang rất nguy hiểm,” Diluc nhắc. “Hơn nữa… bên phía Fatui nói không chừng cũng có động tĩnh.”
 
-#CH|Chương 12|Giọt Nước Mắt Được Cất Giấu|jean_nc.png|Giọt Nước Mắt Được Cất Giấu
+#CH|Phần 12|Giọt Nước Mắt Được Cất Giấu|jean_nc.png|Giọt Nước Mắt Được Cất Giấu
 
 >Dấu vết của Dvalin có mặt trên khắp Mondstadt, và có một giọt nước mắt rơi ở phế tích trong rừng.
 
@@ -984,7 +984,7 @@ Lumine đi vào bên trong tàn tích, tiêu diệt đám quái canh giữ, rồ
 
 Paimon nói: “Thật không ngờ tìm được nước mắt rồng ở chỗ như thế này.”
 
-#CH|Chương 13|Giọt Nước Mắt Bị Đánh Cắp|diluc_nc.png|Giọt Nước Mắt Bị Đánh Cắp
+#CH|Phần 13|Giọt Nước Mắt Bị Đánh Cắp|diluc_nc.png|Giọt Nước Mắt Bị Đánh Cắp
 
 >Nước Mắt Phong Long bị ô nhiễm đã thu hút Hilichurl, bạn phải đi đòi lại giọt nước mắt đó.
 
@@ -1014,7 +1014,7 @@ Diluc nói: “Có thể thử xem. Là hàng giả tôi cũng sẽ không từ 
 
 Lumine tiến vào doanh trại, mở chiếc rương nơi đám Hilichurl cất giữ chiến lợi phẩm và lấy lại giọt Nước Mắt Phong Long.
 
-#CH|Chương 14|Giọt Nước Mắt Thuần Khiết|diluc_card.png|Giọt Nước Mắt Thuần Khiết
+#CH|Phần 14|Giọt Nước Mắt Thuần Khiết|diluc_card.png|Giọt Nước Mắt Thuần Khiết
 
 >Sau khi thu thập xong nước mắt, các bạn lại tập hợp.
 
@@ -1100,7 +1100,7 @@ Lumine hỏi: “Tại sao lại giúp chúng tôi?”
 
 Diluc đáp: “Có thể là sở thích nhất thời, hoặc là có hứng thú với tên nhà thơ đó. Hơn nữa, nếu để mặc Phong Ma Long tự tung tự tác, việc kinh doanh của tửu trang cũng bị ảnh hưởng. Nhưng phải chú ý một việc, đối tượng tôi giúp là các bạn, tuyệt đối không phải do có kỳ vọng gì với đội Kỵ Sĩ. Giác ngộ xong rồi chứ, chúng ta gặp nhau ở Vực Hái Sao nhé.”
 
-#CH|Chương 15|Gặp Gỡ Rồng|dvalin_wide.png|Gặp Gỡ Rồng
+#CH|Phần 15|Gặp Gỡ Rồng|dvalin_wide.png|Gặp Gỡ Rồng
 
 >Nhờ vào Nước Mắt Phong Long, Đàn Thiên Không đã khôi phục sức mạnh. Công tác chuẩn bị cho việc thanh tẩy Phong Ma Long đã hoàn thành.
 

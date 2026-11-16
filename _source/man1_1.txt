@@ -1,4 +1,4 @@
-#CH|Chương 1|Gió Của Ngày Cũ|amber_splash.png|Gió Của Ngày Cũ
+#CH|Phần 1|Gió Của Ngày Cũ|amber_splash.png|Gió Của Ngày Cũ
 
 >Vì để loại bỏ mối đe dọa của Phong Ma Long, các bạn phải loại bỏ sức mạnh còn sót lại trong phế tích. Vì vậy, các bạn đến Đền Chim Ưng Tây Phong, Amber đang chờ các bạn ở cửa.
 
@@ -100,7 +100,7 @@ Rồi cô vội vàng nói thêm:
 
 “…Nhưng nói trước, không phải do môn lịch sử tôi học không tốt! Kho tàng kiến thức của người quản lý thư viện, thường thì… sẽ tốt hơn Kỵ Sĩ Trinh Thám một chút chứ nhỉ?”
 
-#CH|Chương 2|Luyện Tập Hiện Trường Của Kỵ Sĩ|kaeya_splash.png|Luyện Tập Hiện Trường Của Kỵ Sĩ
+#CH|Phần 2|Luyện Tập Hiện Trường Của Kỵ Sĩ|kaeya_splash.png|Luyện Tập Hiện Trường Của Kỵ Sĩ
 
 >Kỵ sĩ Kaeya cùng các bạn thăm dò Đền Sói Bắc Phong.
 
@@ -226,7 +226,7 @@ Kaeya chẳng hề phật ý.
 
 “Không sao. Nếu anh cũng bị kéo vào chuyện này, vậy thì sự việc lại càng thú vị rồi.”
 
-#CH|Chương 3|Điện Hỏa Hoa Trong Trang Sách|lisa_splash.png|Điện Hỏa Hoa Trong Trang Sách
+#CH|Phần 3|Điện Hỏa Hoa Trong Trang Sách|lisa_splash.png|Điện Hỏa Hoa Trong Trang Sách
 
 >Lisa phụ trách cùng các bạn điều tra Đền Sư Tử Nam Phong.
 

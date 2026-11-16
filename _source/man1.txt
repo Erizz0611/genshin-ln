@@ -60,7 +60,7 @@ Paimon bay vút lên, vẫy tay về phía con đường phía trước.
 
 “Phải xuất phát rồi, chúng ta đi thôi.”
 
-#CH|Chương 1|Dấu Chân Kẻ Lang Thang|lumine_wide.png|Dấu Chân Kẻ Lang Thang
+#CH|Phần 1|Dấu Chân Kẻ Lang Thang|lumine_wide.png|Dấu Chân Kẻ Lang Thang
 
 >Thần mang đi người thân duy nhất của bạn, và bạn cũng bị Thần phong ấn, chìm vào giấc ngủ. Khi tỉnh dậy, bạn lang thang một mình, sau đó gặp được người bạn đồng hành tuyệt vời Paimon, cả hai cùng bắt đầu cuộc hành trình khám phá đại lục Teyvat...
 
@@ -104,7 +104,7 @@ Rồi Paimon quay sang nhìn cô, nghiêng đầu.
 
 Paimon hỏi: “Trong bảy vị thần linh của thế giới này, không biết bạn cần tìm vị nào?”
 
-#CH|Chương 2|Nhìn Bằng Mắt Chim|venti_nc.png|Nhìn Bằng Mắt Chim
+#CH|Phần 2|Nhìn Bằng Mắt Chim|venti_nc.png|Nhìn Bằng Mắt Chim
 
 >Bắt đầu từ Vực Sao Rơi, bạn và Paimon thẳng tiến về phía trước.
 
@@ -138,7 +138,7 @@ Paimon nói: “Có thể bơi thẳng qua đó.”
 
 Lumine lội xuống nước, bơi về phía hòn đảo, nơi bức tượng của Phong Thần đang lặng lẽ đứng chờ.
 
-#CH|Chương 3|Sức Mạnh Kỳ Lạ|jean_nc.png|Sức Mạnh Kỳ Lạ
+#CH|Phần 3|Sức Mạnh Kỳ Lạ|jean_nc.png|Sức Mạnh Kỳ Lạ
 
 >Trên đường đi có một pho Thất Thiên Thần Tượng kỳ lạ. Theo đề nghị của Paimon, bạn tiến lên xem thế nào.
 
@@ -198,7 +198,7 @@ Paimon chắp tay, mắt sáng rực.
 
 “A… Thật là ngưỡng mộ. Tôi cũng muốn có phong cách chiến đấu ngầu như vậy!”
 
-#CH|Chương 4|Cuộc Gặp Gỡ Trong Rừng|venti_nc.png|Cuộc Gặp Gỡ Trong Rừng
+#CH|Phần 4|Cuộc Gặp Gỡ Trong Rừng|venti_nc.png|Cuộc Gặp Gỡ Trong Rừng
 
 >Điều bất ngờ là Nguyên Tố Phong trong Thất Thiên Thần Tượng có phản ứng với bạn. Hai bạn quyết định bắt đầu điều tra từ chỗ Phong Thần, bước đầu tiên của hai bạn là đến vùng đất của Phong Thần: Thành Mondstadt.
 
@@ -264,7 +264,7 @@ Paimon cất viên đá đi, rồi giục giã:
 
 “Ừm, đã cất xong! Chúng ta mau rời khỏi đây.”
 
-#CH|Chương 5|Kỵ Sĩ Đến Từ Ngọn Gió|amber_nc.png|Kỵ Sĩ Đến Từ Ngọn Gió
+#CH|Phần 5|Kỵ Sĩ Đến Từ Ngọn Gió|amber_nc.png|Kỵ Sĩ Đến Từ Ngọn Gió
 
 >Trên đường đến Thành Mondstadt, hai bạn vô tình quấy rầy cuộc gặp gỡ của rồng khổng lồ với người bí ẩn. Khi hai bạn đi tiếp với sự nghi ngờ, thì một cô gái xuất hiện cản đường.
 
@@ -348,7 +348,7 @@ Paimon hỏi: “Nói chứ, là nhiệm vụ gì vậy?”
 
 Amber đáp: “Rất đơn giản, đợi chút các bạn xem sẽ hiểu.”
 
-#CH|Chương 6|Đồng Hành Cùng Gió|amber_card.png|Đồng Hành Cùng Gió
+#CH|Phần 6|Đồng Hành Cùng Gió|amber_card.png|Đồng Hành Cùng Gió
 
 >Cô gái đó tên Amber, là một Kỵ Sĩ Trinh Thám, cô ấy muốn hộ tống hai bạn đến Mondstadt. Nhưng trước đó, cô ấy phải giải quyết bọn Hilichurl ngoài thành, đây là nhiệm vụ của cô ấy.
 
@@ -392,7 +392,7 @@ Amber quay người, tươi tỉnh trở lại.
 
 “Hãy đi theo tôi! Người Kỵ Sĩ chăm chỉ có trách nhiệm sẽ hộ tống bạn vào thành.”
 
-#CH|Chương 7|Thành Phố Tự Do|jean_nc.png|Thành Phố Tự Do
+#CH|Phần 7|Thành Phố Tự Do|jean_nc.png|Thành Phố Tự Do
 
 >Nhờ hai bạn giúp đỡ, rắc rối nhanh chóng được giải quyết. Được Amber dẫn đường, hai bạn đã đến được Mondstadt.
 
@@ -448,7 +448,7 @@ Họ leo lên tới một nơi cao của thành phố, từ đó có thể nhìn
 
 Theo hướng dẫn của Amber, Lumine bước tới mép cao, nhún người lao xuống. Đôi cánh bung ra, đón lấy làn gió, nâng cô lướt đi trên những mái nhà của Mondstadt rồi đáp xuống phía dưới, nơi Amber đã hẹn gặp lại cô.
 
-#CH|Chương 8|Tai Họa Rồng|dvalin_wide.png|Tai Họa Rồng
+#CH|Phần 8|Tai Họa Rồng|dvalin_wide.png|Tai Họa Rồng
 
 >Rồng khổng lồ đột nhiên tấn công Mondstadt yên bình. Nó chính là Phong Ma Long mà Amber nhắc đến, cũng là con thú khổng lồ mà lần trước các bạn gặp trong rừng.
 
@@ -516,7 +516,7 @@ Kaeya bật cười, rồi nói tiếp:
 
 “Cuộc chiến trên không lúc nãy của cô với Ma Long đều đã được người dân chứng kiến. Đội Trưởng Đại Diện cũng rất có hứng thú với hai vị, hy vọng hai vị có thể đến tổng bộ Đội Kỵ Sĩ nói chuyện.”
 
-#CH|Chương 9|Đội Kỵ Sĩ Tây Phong|jean_splash.png|Đội Kỵ Sĩ Tây Phong
+#CH|Phần 9|Đội Kỵ Sĩ Tây Phong|jean_splash.png|Đội Kỵ Sĩ Tây Phong
 
 >Các bạn đã đánh bại được Phong Ma Long. Kaeya của Đội Kỵ Sĩ Tây Phong chứng kiến chuyện này, thế là các bạn được mời đến trụ sở của Đội Kỵ Sĩ để nói chuyện.
 

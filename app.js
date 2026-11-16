@@ -64,7 +64,7 @@
     document.querySelectorAll('[data-mark]').forEach(function (b) {
       var on = !!r[b.dataset.mark], big = b.classList.contains('big');
       b.setAttribute('aria-pressed', on); b.title = on ? 'Bấm để bỏ đánh dấu' : 'Bấm để đánh dấu đã đọc';
-      b.querySelector('.mt').textContent = on ? (big ? 'Đã đọc xong (bấm lần nữa để bỏ)' : 'Đã đọc, bấm để bỏ') : (big ? 'Đánh dấu đã đọc chương này' : 'Chưa đọc, bấm để đánh dấu');
+      b.querySelector('.mt').textContent = on ? (big ? 'Đã đọc xong (bấm lần nữa để bỏ)' : 'Đã đọc, bấm để bỏ') : (big ? 'Đánh dấu đã đọc phần này' : 'Chưa đọc, bấm để đánh dấu');
     });
     document.querySelectorAll('li[data-ch]').forEach(function (li) {
       li.classList.toggle('read', !!r[li.dataset.ch]);

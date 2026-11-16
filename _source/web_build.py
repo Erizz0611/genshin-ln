@@ -140,7 +140,7 @@ for arc, ais in arcs:
         a = acts[ai]
         tag = '<span class="tag side">Nhiệm vụ bắt buộc</span>' if a['side'] else '<span class="tag">Ma Thần</span>'
         toc.append(f'''<details class="act" id="{a["id"]}"><summary><img src="{banner(a.get("thumb") or (a["chapters"][0]["img"] if a["side"] else a["hero"]))}" alt="" loading="lazy">
-<div><div class="kick">{esc(a["act"])} {tag}</div><div class="atitle">{esc(a["title"])}</div><div class="asub">{esc(a["sub"])} · {len(a["chapters"])} chương</div></div><span class="chev" aria-hidden="true"><svg viewBox="0 0 24 24" width="18" height="18"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span></summary>
+<div><div class="kick">{esc(a["act"])} {tag}</div><div class="atitle">{esc(a["title"])}</div><div class="asub">{esc(a["sub"])} · {len(a["chapters"])} phần</div></div><span class="chev" aria-hidden="true"><svg viewBox="0 0 24 24" width="18" height="18"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span></summary>
 <div class="act-links"><a href="{a["id"]}/index.html">Giới thiệu & nhân vật</a></div>
 {chapter_list(ai, "")}</details>''')
 first = ch_url(*order[0])
@@ -164,7 +164,7 @@ for ai, a in enumerate(acts):
 <div class="kick c">{esc(a["act"])}</div><h1 class="c">{esc(a["title"])}</h1><p class="asub c">{esc(a["sub"])}</p>
 <div class="btns c"><a class="btn primary" href="0.html">Bắt đầu đọc</a></div>
 <h2>Nhân vật xuất hiện</h2>{cast_html(a["cast"], r)}
-<h2>Các chương</h2>{chapter_list(ai, r)}
+<h2>Các phần</h2>{chapter_list(ai, r)}
 <p class="note">Toàn bộ lời thoại được lấy từ bản tiếng Việt chính thức của trò chơi. Ở những đoạn người chơi được chọn câu trả lời, truyện chọn một lựa chọn duy nhất.</p>
 </main>'''
     write(f"{a['id']}/index.html", page(a['act'] + ' — ' + a['title'], body, r, 'p-act'))
@@ -176,10 +176,10 @@ for ai, a in enumerate(acts):
         for arc, ais in arcs:
             opts += f'<optgroup label="{esc(arc)}">' + ''.join(f'<option value="{ch_url(x, y, r)}"{" selected" if (x, y) == (ai, ci) else ""}>{esc(acts[x]["act"].split(" · ", 1)[-1])} · {esc(acts[x]["chapters"][y]["label"])}: {esc(acts[x]["chapters"][y]["title"])}</option>' for x in ais for y in range(len(acts[x]["chapters"]))) + '</optgroup>'
         nav = (f'<nav class="chnav">' + (f'<a class="btn" href="{prev}" rel="prev">‹ Trước</a>' if prev else '<span class="btn off">‹ Trước</span>')
-               + f'<select aria-label="Chọn chương" data-jump>{opts}</select>'
+               + f'<select aria-label="Chọn phần" data-jump>{opts}</select>'
                + (f'<a class="btn" href="{nxt}" rel="next">Sau ›</a>' if nxt else '<span class="btn off">Sau ›</span>') + '</nav>')
         log = f'<div class="log"><span>Nhật ký nhiệm vụ</span>{esc(c["log"])}</div>' if c['log'] else ''
-        endnote = '' if nxt else '<p class="end-all">Bạn đã đọc đến chương mới nhất. Các màn tiếp theo sẽ được cập nhật sau.</p>'
+        endnote = '' if nxt else '<p class="end-all">Bạn đã đọc đến phần mới nhất. Các màn tiếp theo sẽ được cập nhật sau.</p>'
         body = f'''<main class="reader" data-chapter="{a['id']}/{ci}" data-title="{html.escape(titles[a['id'] + '/' + str(ci)])}">
 <div class="banner"><img src="{r}{banner(c['img'])}" alt=""></div>
 <div class="kick c"><a href="index.html">{esc(a['act'])}</a></div>
@@ -187,7 +187,7 @@ for ai, a in enumerate(acts):
 {'' if c['quest'] == c['title'] else '<div class="ch-quest c">✦ ' + esc(c['quest']) + ' ✦</div>'}
 {nav}
 <article class="text">{log}{chapter_body(c)}</article>
-<div class="done-wrap"><button class="mark big" type="button" data-mark="{a['id']}/{ci}" aria-pressed="false"><span class="box" aria-hidden="true"></span><span class="mt">Đánh dấu đã đọc chương này</span></button></div>
+<div class="done-wrap"><button class="mark big" type="button" data-mark="{a['id']}/{ci}" aria-pressed="false"><span class="box" aria-hidden="true"></span><span class="mt">Đánh dấu đã đọc phần này</span></button></div>
 {endnote}
 {nav}
 </main><div class="progress" aria-hidden="true"><div></div></div>'''
@@ -236,4 +236,4 @@ body = f'''<main class="profiles"><div class="kick c">Phụ lục</div><h1 class
 write('nhan-vat.html', page('Hồ Sơ Nhân Vật', body, '', 'p-prof'))
 
 open(OUT + '.nojekyll', 'w').close()
-print('Web ->', OUT, '|', len(acts), 'màn,', len(order), 'chương,', len(P), 'hồ sơ')
+print('Web ->', OUT, '|', len(acts), 'màn,', len(order), 'phần,', len(P), 'hồ sơ')
