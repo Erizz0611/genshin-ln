@@ -196,6 +196,16 @@ MINGJUN = dict(name='Mingjun', role='Bạn thân của cha Shenhe', img='mingjun
 BEISHT = dict(name='Beisht', role='“Tàn Dư Lốc Xoáy”', img='beisht_icon.png', desc='Vợ của Osial, người cuối cùng đi theo Ma Thần Lốc Xoáy. Trồi lên từ biển khi Quần Ngọc Các bay lên.')
 LIU = dict(name='Liu Mặt Sẹo và Qiang', role='Kẻ bán tình báo', desc='Hai gã lưu manh bám theo Shenhe đòi tiền, bị Thiên Nham Quân bắt đi.')
 
+# --- Chương II · Màn IV ---
+KATHERYNE_C2M4 = dict(name='Katheryne', role='Hiệp Hội Nhà Mạo Hiểm', desc='Giới thiệu cho Lumine ủy thác của người thợ mỏ Yuehui ở Vực Đá Sâu. Sáng hôm đó cô rút quẻ được lời dự báo về một “cuộc hội ngộ bất ngờ”.')
+YUEHUI = dict(name='Yuehui', role='Thợ mỏ ở Vực Đá Sâu', img='yuehui_icon.png', desc='Một trong những thợ mỏ đầu tiên được cấp giấy phép khai thác Vực Đá Sâu. Ủy thác Lumine điều tra những Hilichurl chạy vào Vực Đá Sâu rồi không quay trở ra.')
+DAIN_C2M4 = dict(name='Dainsleif', role='“Kiếm Sĩ Hoàng Hôn” · cựu đội trưởng đội cận vệ hoàng gia Khaenri\'ah', img='dainsleif_icon.png', desc='Đuổi theo một Sứ Đồ Vực Sâu qua cổng dịch chuyển và lạc đến Vực Đá Sâu, gặp lại Lumine. Cùng cô điều tra tòa thành đảo ngược, nơi có khả năng làm suy yếu lời nguyền.')
+HALFDAN = dict(name='Halfdan', role='Kỵ Sĩ Hắc Xà', img='halfdan_icon.png', desc='Tinh anh trẻ tuổi trong đội cận vệ hoàng gia Khaenri\'ah năm xưa. Vẫn giữ được ý chí sau năm trăm năm, dẫn các Kỵ Sĩ Hắc Xà bảo vệ những Hilichurl đang chờ kết cục của mình.')
+AETHER_C2M4 = dict(name='Aether', role='Anh trai song sinh của Lumine · “Hoàng tử điện hạ”', img='aether_icon.png', desc='Hiện ra trong ký ức mà Lumine thấy khi chạm vào hoa Inteyvat, đồng ý để Sứ Đồ Vực Sâu dùng “thiết bị” thanh tẩy lời nguyền.')
+HERALD_C2M4 = dict(name='Sứ Đồ Vực Sâu', img='herald_icon.png', role='Giáo Đoàn Vực Sâu', desc='Kẻ từng bỏ chạy khỏi Dainsleif qua cổng dịch chuyển. Chặn đường nhóm Lumine để bảo vệ “ý chí của điện hạ” và bị đánh bại.')
+LECTOR = dict(name='Linh Mục Vực Sâu', role='Giáo Đoàn Vực Sâu', desc='Canh giữ thiết bị khuếch đại ở căn phòng trung tâm của di tích, bị Lumine đánh bại.')
+BSK = dict(name='Kỵ Sĩ Hắc Xà', role='Cựu cận vệ hoàng gia Khaenri\'ah', desc='Những kỵ sĩ mang lời nguyền canh giữ di tích và những Hilichurl già yếu. Theo Dainsleif, họ đang hô “mau chạy đi” bằng tiếng Khaenri\'ah cổ.')
+
 ACTS = [
   dict(id='man1', arc='Mở Đầu', src='man1.txt', act='Mở Đầu · Màn I', title='Người Phương Xa Đuổi Theo Gió', sub='Nhiệm vụ Ma Thần — Mondstadt',
        hero='traveler_portrait.png', cast=[LUMINE, PAIMON, AETHER, GOD, AMBER, KAEYA, JEAN, LISA, DRAGON, BOY, VOICE],
@@ -251,4 +261,7 @@ ACTS = [
   dict(id='cd-man1', arc='Chương II · Inazuma', src='cd_man1.txt', act='Chương Đệm · Màn I', title='Phong Khởi Hạc Quy', sub='Nhiệm vụ Ma Thần — Liyue',
        hero='shenhe_splash.png', cast=[LUMINE, PAIMON, SHENHE, YUNJIN, NINGGUANG_CD, BEIDOU_CD, CLOUD_CD, XINGQIU, BAIZHU_CD, KEQING_CD, BAIWEN, ZHANG, MINGJUN, BEISHT, LIU],
        pdf='', footer='Chương Đệm · Màn I — Phong Khởi Hạc Quy', side=False),
+  dict(id='c2-man4', arc='Chương II · Inazuma', src='c2_man4.txt', act='Chương II · Màn IV', title='Khúc An Hồn Nơi Đáy Vực', sub='Nhiệm vụ Ma Thần — Liyue',
+       hero='c2m4_act.png', cast=[LUMINE, PAIMON, DAIN_C2M4, HALFDAN, AETHER_C2M4, KATHERYNE_C2M4, YUEHUI, HERALD_C2M4, LECTOR, BSK],
+       pdf='', footer='Chương II · Màn IV — Khúc An Hồn Nơi Đáy Vực', side=False),
 ]

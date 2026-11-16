@@ -1,0 +1,759 @@
+#CH|Phần 1|Hội Ngộ Nơi Đáy Vực|c2m4_q1.png|Hội Ngộ Nơi Đáy Vực
+
+>Hình như tiểu thư Katheryne có ủy thác mới, hãy đến xem nội dung ủy thác nào.
+
+>Nói chuyện với Katheryne.
+
+Lumine và Paimon ghé qua quầy của Hiệp Hội Nhà Mạo Hiểm ở Cảng Liyue, nơi Katheryne đang đứng chờ như mọi ngày.
+
+“Chào nhà lữ hành, trùng hợp ghê,” Katheryne nói.
+
+“Tiểu thư Katheryne, hôm nay có ủy thác gì không? À mà sao... hôm nay nhìn thấy chúng tôi sao cô vui quá vậy?” Paimon hỏi.
+
+“Bởi vì sáng nay tôi có đến đền thần rút quẻ, các pháp sư nói với tôi rằng sắp có ‘cuộc hội ngộ bất ngờ’ đó!” Katheryne đáp.
+
+“Tiểu thư Katheryne đến đền thần rút quẻ sao? Nghe lạ ghê!” Paimon nói. “À mà khoan, có cái gì đó sai sai, đây là Liyue mà? Cô vừa đi một vòng từ Inazuma về đây sao?”
+
+“Haha, dù cho là tôi đi nữa thì cũng có cuộc sống riêng của mình mà,” Katheryne đáp.
+
+“Cho nên ‘cuộc hội ngộ bất ngờ’ mà cô nói là đang chỉ chúng tôi sao?” Paimon hỏi.
+
+“Ai mà biết được, ít nhất thì nếu có lời dự báo này thì gặp ai cũng thấy vui cả mà,” Katheryne đáp.
+
+“Được rồi... dù là chúng ta ngày nào cũng gặp, nhưng mà tiểu thư Katheryne vui là được rồi,” Paimon nói.
+
+“Cuộc hội ngộ bất ngờ,” Lumine nói.
+
+“...Paimon hiểu rồi, Lumine, nếu như lời của pháp sư nói linh nghiệm thì hay biết mấy...” Paimon nói. “Anh trai của Lumine...”
+
+“Hình như tôi... đã nói ra những câu không nên nói sao? Trông hai bạn có vẻ buồn,” Katheryne nói.
+
+“Không sao đâu, chúng ta nói tiếp chuyện ủy thác đi, hôm nay có ủy thác gì cho chúng tôi không?” Paimon hỏi.
+
+“À ừm, cũng vừa hay có một ủy thác của anh thợ mỏ, hình như liên quan đến việc điều tra Vực Đá Sâu,” Katheryne đáp.
+
+“Hả, không lẽ bên đó đã hết phong tỏa rồi sao?” Paimon hỏi.
+
+“Tình hình cụ thể thì bạn đi tìm người ủy thác để hiểu rõ thêm nhé. Anh ta tên là Yuehui, đang ở gần Vực Đá Sâu,” Katheryne đáp.
+
+“Ừm, vậy chúng tôi đi tìm anh ta đây!” Paimon nói.
+
+“Ừm, hướng về những ngôi sao và vực sâu... lần này thì đúng là hướng về ‘vực sâu’ rồi đó, chúc hai bạn may mắn,” Katheryne nói.
+
+---
+
+>Tìm người thợ mỏ đã gửi ủy thác gần Vực Đá Sâu.
+
+Theo lời Katheryne, Lumine và Paimon lên đường đến Vực Đá Sâu, rồi tìm thấy người thợ mỏ tên Yuehui đang đứng gần đó.
+
+“Xin chào! Anh là... Yuehui đúng không? Chúng tôi được Hiệp Hội Nhà Mạo Hiểm phái đến,” Paimon nói.
+
+“Ồ, hân hạnh hân hạnh, đúng là tôi đã gửi ủy thác,” Yuehui nói. “Hmm? Vị này trông rất quen... hình như là nhà mạo hiểm rất có tiếng đó đúng không?”
+
+“Chúng ta nói chuyện chính đi,” Lumine nói.
+
+“Ừm được rồi, để tôi giới thiệu bản thân, không lâu trước đây tôi có nhận được giấy phép khai thác ở Vực Đá Sâu, trong nhóm tôi còn có vài huynh đệ nữa,” Yuehui nói.
+
+“Ồ! Anh nhận được giấy phép khai thác ở Vực Đá Sâu sao?” Paimon hỏi.
+
+“Ừm, bên phía Ngọc Kinh Đài đã phê chuẩn rồi, đã có thể khai thác một số khu vực nông dưới sự bảo vệ của Thiên Nham Quân. Chúng tôi cũng là nhóm đầu tiên đó,” Yuehui đáp. “Nhưng mà gần đây xảy ra một số chuyện, khiến cho các huynh đệ có chút bất an.”
+
+“Xảy ra chuyện gì vậy? Hình như chúng tôi chưa nghe nói qua,” Paimon nói.
+
+“Ừm... Chuyện này nói lớn không lớn, nói nhỏ không nhỏ, chỉ là có chút kỳ dị thôi...” Yuehui nói. “Các huynh đệ trong lúc nghỉ ngơi có thấy được một vài tên Hilichurl với vẻ mặt ngẩn ngơ chạy qua. Với lại những tên Hilichurl đó cũng không thèm nhìn anh ta, chỉ chăm chăm chạy vào Vực Đá Sâu. Cho nên các huynh đệ đã để ý quan sát bọn chúng, phát hiện chuyện này xảy ra khá thường xuyên.”
+
+“Hilichurl không lẽ là đang tò mò sao? Hay là chỉ muốn qua bên đó dạo chơi thôi...” Paimon nói.
+
+“Không, kỳ lạ ở chỗ, họ phát hiện ra những tên Hilichurl khi chạy vào Vực Đá Sâu đó...” Yuehui nói. “...Đã không còn quay trở ra nữa. Hành tung của đám Hilichurl này chỉ có một hướng thôi, sau khi vào đó đã không còn trở ra nữa. Dạo gần đây thì chuyện tương tự như vậy xảy ra thường xuyên hơn. ‘Mục đích của đám Hilichurl đó là gì’, ‘chúng sẽ ra sao’, ‘liệu có mối nguy hại nào đang ẩn nấp không’... Những suy nghĩ này cứ vây lấy các huynh đệ, khiến họ cảm thấy rất lo sợ.”
+
+“Ừm, hiểu hiểu... chỉ nghe thôi cũng thấy nổi da gà rồi,” Paimon nói.
+
+“Đúng là một câu chuyện kỳ dị...” Lumine nói.
+
+“Đúng vậy, có lẽ nỗi sợ chưa rõ mới là nỗi sợ kinh khủng nhất. Nên chỉ khi điều tra được chân tướng thì các huynh đệ mới có thể yên tâm làm việc được,” Yuehui nói.
+
+“Chúng ta... chúng ta phải nhận ủy thác này thật sao? Đợi chút nhé anh thợ mỏ, để chúng tôi suy nghĩ chút...” Paimon nói.
+
+“Cứ giao cho chúng tôi,” Lumine nói.
+
+“Này! Ít ra cũng phải hỏi ý kiến của tôi đã chứ!” Paimon nói.
+
+“Tôi nghĩ là có liên quan đến ‘Giáo Đoàn Vực Sâu’,” Lumine nói.
+
+“Ra đây là suy nghĩ của bạn sao. Ừm... vậy được rồi, không chừng trong đấy sẽ có tung tích về người thân của bạn thì sao,” Paimon nói. “Nếu không đi thì chắc bạn bứt rứt lắm đúng không?”
+
+“Hai vị quyết định nhận ủy thác rồi chứ? Tôi cũng không muốn lãng phí giấy phép khai thác ở đây,” Yuehui đáp.
+
+“Ừm, chúng tôi đương nhiên sẽ nhận để thỏa mãn lòng đam mê rồi,” Paimon nói.
+
+“Hay quá, vậy để tôi ghi lại vị trí đại khái của đám Hilichurl cho hai người...” Yuehui nói.
+
+---
+
+>Vực Đá Sâu đã bị phong tỏa từ lâu. Muốn xuống được lòng đất, Lumine đã nhận ủy thác thám hiểm Vực Đá Sâu (“Ký Sự Thám Hiểm Vực Đá Sâu”), tìm đến chuyên viên Tổng Vụ Muning, rồi cùng nhà mạo hiểm Zhiqiong điều tra (“Che Giấu Thất Tinh Giải Thạch Ấn”): đánh lui Đạo Bảo Đoàn ở kho của thợ mỏ, nhận “Chất Xúc Tác Lưu Minh Thạch”, rồi dùng tạo vật nham dạng lồng phá hủy từng “Thạch Ấn” của Thất Tinh Trận Pháp. Khi “Thạch Ấn” cuối cùng vỡ tan, phong ấn được giải, lối xuống Khu Mỏ Ngầm của Vực Đá Sâu cuối cùng đã mở ra.
+
+>Vào Vực Đá Sâu - Khu Mỏ Ngầm.
+
+Lumine và Paimon theo lối mỏ đi xuống lòng đất của Vực Đá Sâu.
+
+>Đến khu vực chỉ định để điều tra.
+
+Men theo những vị trí mà Yuehui đã ghi lại, hai người đi sâu xuống tận đáy khu mỏ. Ở đó, một khoảng không mênh mông mở ra trước mắt, và giữa không trung, một thứ khiến cả hai sững người.
+
+“Đó là... một tòa thành!” Paimon nói. “Một tòa thành, đảo ngược, ở trên không?”
+
+“Hoàn toàn vượt xa tưởng tượng...” Lumine nói.
+
+“Nhìn tòa thành này, Lumine có nhớ ra chuyện gì không...” Paimon nói. “Ừm, để xem nào...”
+
+“Tượng Thần Ô Uế,” Lumine nói.
+
+“Đúng đúng! Rất kinh dị, lại còn đảo ngược nữa, thực sự có chút sợ hãi,” Paimon nói. “Như vậy không lẽ bên dưới Vực Đá Sâu đúng là có liên quan đến Giáo Đoàn Vực Sâu sao? Chúng ta phải nghĩ cách đến đó điều tra thôi... ....A!”
+
+Một cánh cổng dịch chuyển của Vực Sâu bất ngờ mở ra trước mặt hai người. Từ bên trong, một bóng người bước ra: Dainsleif.
+
+“...” Dainsleif im lặng.
+
+“Dainsleif?” Lumine hỏi.
+
+“Tôi cũng không ngờ sẽ gặp hai người ở đây,” Dainsleif nói.
+
+“Lâu rồi không gặp... À không đúng, sao anh lại đột nhiên xuất hiện ở Vực Đá Sâu thế?” Paimon hỏi.
+
+“Vực Đá Sâu... Ở đây là Vực Đá Sâu sao, một nơi mà đến tôi cũng chưa từng đặt chân đến... thì ra là vậy,” Dainsleif đáp.
+
+“Tôi có rất nhiều chuyện muốn hỏi anh,” Lumine nói.
+
+“Lần gặp mặt và chia tay đó có chút vội vàng, tôi hiểu tâm trạng của hai người,” Dainsleif nói. “Với cả cuộc hội ngộ này nữa, vận mệnh đúng là đã nợ cô một câu trả lời.”
+
+“Tại sao ban nãy lại có cổng dịch chuyển xuất hiện vậy?” Lumine hỏi.
+
+“Dễ đoán mà. Trước đó tôi đã dò được động tĩnh của một tên Sứ Đồ Vực Sâu, nên đã bắt đầu truy tìm,” Dainsleif nói. “Đáng tiếc, tên đó khi bị tôi ép đến đường cùng đã giở thủ đoạn cũ... Tôi đã vội đuổi theo hắn qua cổng dịch chuyển, đúng là không ngoài dự đoán, tôi đã bị lạc.”
+
+“Cũng không đuổi kịp anh trai tôi đúng không?” Lumine hỏi.
+
+“Ừm, cộng thêm những trải nghiệm gần đây, tôi chỉ có thể đoán rằng, năng lực dịch chuyển mà Vực Sâu nắm giữ, có vẻ không chỉ là hai điểm liên kết, mà là cả một cấu trúc mạng lưới,” Dainsleif nói. “Phía bên kia của cổng dịch chuyển có thể là một trong những điểm đến do chúng quyết định trong toàn bộ mạng lưới.”
+
+“Nghe có vẻ giống với điểm dịch chuyển của chúng ta nhỉ?” Paimon hỏi.
+
+“Nói chung, lần trước khi tôi đuổi theo người thân của cô vào trong cổng dịch chuyển, cho đến khi tôi ý thức được xung quanh...” Dainsleif đáp. “...Thì tôi phát hiện bản thân chỉ còn lại một mình trong sào huyệt của Phong Ma Long.”
+
+“Vậy còn... con mắt của ‘Máy Cày’ đầu tiên thế nào rồi?” Paimon hỏi.
+
+“Tôi đã cất giữ rồi, trước khi làm rõ chân tướng kế hoạch của ‘Máy Dệt Vận Mệnh’ thì không cần lo nó bị lọt vào tay của Vực Sâu đâu,” Dainsleif đáp.
+
+“‘Kiếm Sĩ Hoàng Hôn’,” Lumine nói.
+
+“Hừm, cô nhớ danh hiệu này ư,” Dainsleif nói. “Không phải tôi có ý muốn giấu, nhưng danh hiệu này từng là vinh quang của Khaenri'ah, nhưng giờ đây... ...Chỉ còn là một lời nguyền châm biếm mà thôi. Thân là đội trưởng đội cận vệ hoàng gia từng chứng kiến quốc gia của mình bị hủy diệt, tôi nghĩ tôi có lý do để không nhắc đến danh hiệu này nữa.”
+
+“Xem ra điều mà anh trai bạn nói là thật...” Paimon nói.
+
+“Giữa hai người rốt cuộc đã xảy ra chuyện gì?” Lumine hỏi.
+
+“Chúng tôi từng là ‘bạn đồng hành’,” Dainsleif nói. “Đó là một chuyến hành trình đau khổ đi tìm kiếm vận mệnh, chỉ là... chúng tôi chưa thể cùng nhau đi đến ‘điểm cuối’.”
+
+“‘Điểm cuối của chuyến hành trình’...” Lumine nói.
+
+“Trước khi cô tiếp tục lên đường, tôi có một chuyện cần nhắc nhở...” Dainsleif nói. “Giả sử ‘mạng lưới dịch chuyển’ mà tôi đoán là đúng, ban nãy tôi trùng hợp được dịch chuyển đến đây, chứng tỏ là nơi này có giá trị để họ thiết lập điểm dịch chuyển.”
+
+“Ý anh là Giáo Đoàn Vực Sâu đang âm mưu gì đó ở đây sao? Đúng như dự liệu của chúng tôi,” Paimon nói.
+
+“Vậy thì, ngay lúc này đây... rất có thể chúng ta đang bị ‘Vực Sâu’ theo dõi,” Dainsleif nói.
+
+“Đừng, đừng nói vậy chứ, tôi nổi hết da gà rồi nè!” Paimon nói.
+
+“Chúng ta điều tra trước đi,” Lumine nói.
+
+“Rất sáng suốt. Có ánh lửa gần bức tường đá đằng kia, chúng ta qua đó thử xem,” Dainsleif nói.
+
+#CH|Phần 2|Linh Cữu Người Được Bảo Vệ|c2m4_q2.png|Linh Cữu Người Được Bảo Vệ
+
+>Trong Vực Đá Sâu, bạn bất ngờ gặp lại Dainsleif. Sau khi tìm hiểu tình hình, các bạn cho rằng nơi này và Giáo Đoàn Vực Sâu có vô số mối liên hệ, thế là các bạn đã triển khai điều tra...
+
+Ba người đi về phía ánh lửa gần bức tường đá.
+
+“Ở đây có vài vết tích sinh hoạt của Hilichurl, không biết có phải là của đám Hilichurl mà anh thợ mỏ ủy thác không nhỉ?” Paimon hỏi.
+
+“Ủy thác? Nhắc mới nhớ, hai người chưa nói tôi nghe tại sao lại ở đây đó. Thường thì nhà lữ hành đâu có lý do gì để đến đây đâu nhỉ,” Dainsleif đáp.
+
+“Chúng tôi nhận được ủy thác từ Hiệp Hội Nhà Mạo Hiểm, đến đây để điều tra hành vi khác thường của Hilichurl trong Vực Đá Sâu,” Paimon nói. “Đi mãi mới tìm được tung tích ở đây đó...”
+
+“Hai người muốn có đáp án sao?” Dainsleif hỏi.
+
+“Hả? Dain biết sao?” Paimon hỏi.
+
+“Chỉ vô tình biết thôi,” Dainsleif đáp.
+
+“Có liên quan đến tòa thành đảo ngược đó sao?” Lumine hỏi.
+
+“Hai người không thể cảm nhận được cũng có nguyên do. Sự kỳ dị của nơi này thực ra là ở...” Dainsleif nói. “...khả năng làm suy yếu ‘lời nguyền’.”
+
+“Lời nguyền? Trước đây hình như tôi có nghe... Dain do là người dân của Khaenri'ah nên mang lời nguyền bất tử gì đó đúng không...” Paimon nói.
+
+“Mấy trăm năm nay, nỗi đau của sự bất tử cứ bám lấy tôi mỗi ngày. Nhưng khi đến đây, cơ thể tôi lại cảm thấy yên bình đôi chút,” Dainsleif nói. “Vào thời khắc này, cơ thể của tôi cũng đang tỏa ra một ý nguyện mãnh liệt, đó chính là ‘ở lại đây’.”
+
+“Suy yếu lời nguyền... tại sao nơi này lại có tác dụng thần kỳ vậy chứ?” Paimon hỏi.
+
+“Đó cũng là điều mà tôi muốn điều tra rõ, nhưng theo tôi biết, Giáo Đoàn Vực Sâu chưa từng có được kỹ thuật tương tự như thế,” Dainsleif đáp.
+
+“Những tên Hilichurl đến nơi này...” Lumine nói.
+
+“Ừm, có biết tại sao Hilichurl lại luôn mang mặt nạ không?” Dainsleif hỏi.
+
+“Tôi không rõ lắm...” Lumine nói.
+
+“Bởi vì chúng đang né tránh gương mặt hiện tại của bản thân, sợ những hình ảnh phản chiếu dưới nước...” Dainsleif nói. “Dẫu sao thì so với ký ức trước đây của chúng, chúng đã quá xấu xí, quá tuyệt vọng rồi.”
+
+“Hilichurl quả nhiên là...” Lumine nói.
+
+“Lời nguyền bất tử thật ra... cũng không hẳn là ‘bất tử’ thực sự,” Dainsleif nói.
+
+“Không lẽ còn có cơ hội xoay chuyển sao?” Paimon hỏi.
+
+“Không, chỉ là dưới tác dụng của ‘sự mài mòn’, linh hồn và thể xác đã bị hủy hoại gần hết, như là một dạng ‘chết đi’ vậy,” Dainsleif đáp. “Khi Hilichurl cảm nhận được thời gian của mình sắp cạn, có vẻ như bản năng của chúng sẽ đi tìm một nơi u ám và yên tĩnh để làm điểm kết thúc cho nỗi đau mấy trăm năm. Và nơi có thể làm suy yếu lời nguyền, đối với chúng mà nói chính là linh cữu hoàn hảo nhất.”
+
+“Không ngờ... lại như vậy...” Paimon nói.
+
+“Nói đến đây thôi, cẩn thận!” Dainsleif nói.
+
+“Sao vậy!” Paimon nói.
+
+“Có kẻ địch,” Dainsleif nói.
+
+Từ trong bóng tối, những Kỵ Sĩ Hắc Xà lao ra tập kích. Lumine và Dainsleif cùng nhau đánh lui chúng.
+
+---
+
+>Nói chuyện với Dainsleif.
+
+“Ban nãy là... sao chúng lại tập kích chúng ta?” Paimon hỏi.
+
+“‘Kỵ Sĩ Hắc Xà’, từng thuộc đội cận vệ hoàng gia của Khaenri'ah,” Dainsleif đáp.
+
+“Chờ đã! Đội cận vệ hoàng gia... họ từng là thuộc hạ của anh sao!?” Paimon hỏi.
+
+“Từng là vậy. Giờ đây lời nguyền mãnh liệt trên người họ, cả cách thức chiến đấu từ bỏ mọi vinh quang của họ...” Dainsleif đáp.
+
+“...Đã trở thành tay sai của Vực Sâu rồi sao?” Paimon hỏi.
+
+“...Cứ đi tiếp đi,” Dainsleif đáp.
+
+“A, Dain...” Paimon nói.
+
+“Mm?” Dainsleif hỏi.
+
+Một Kỵ Sĩ Hắc Xà khác xuất hiện, lặng lẽ đứng nhìn về phía Dainsleif.
+
+“...” Kỵ Sĩ Hắc Xà ấy im lặng.
+
+“Sót một tên sao...” Dainsleif nói.
+
+“...” Kỵ Sĩ Hắc Xà ấy im lặng.
+
+“Đợi đã, hai người lui ra sau, tên này có gì đó rất khác...” Dainsleif nói.
+
+Chưa kịp để ai ra tay, tên kỵ sĩ ấy đã biến mất.
+
+“...Biến mất rồi,” Dainsleif nói.
+
+“Chuyện gì vậy, tên Kỵ Sĩ Hắc Xà đó! Không lẽ muốn nói chuyện sao?” Paimon hỏi.
+
+Dainsleif thầm nghĩ: “Không thể nào... không có ‘thứ đó’ thì sao có thể lưu trữ được ý thức của bản thân suốt năm trăm năm chứ... Hơn nữa, đó lại là một cảm giác quen thuộc...”
+
+“Có thể hắn nhận ra anh,” Lumine nói.
+
+“Trong biến cố tuyệt vọng như vậy, kỳ tích vốn không nên xảy ra mới đúng... cứ coi như là trùng hợp vậy,” Dainsleif nói. “Chúng ta đi tiếp thôi, hướng về phía ‘thành phố’.”
+
+---
+
+Ba người tiến về phía “thành phố” đảo ngược, nhưng đến gần thì bị chặn lại.
+
+“Hình như có một luồng sức mạnh kỳ lạ đang bao trùm lấy tòa thành đó, không thể đi tiếp được nữa rồi,” Paimon nói. “Theo lý mà nói thì gần đó phải có cơ quan gì đó đúng không? Nhà lữ hành, vận dụng sở trường thám hiểm của chúng ta thôi.”
+
+“Xem ra đến lúc phải giải đố rồi,” Lumine nói.
+
+“Không cần lãng phí thời gian,” Dainsleif nói.
+
+“Hả!?” Paimon hỏi.
+
+“Kỹ thuật của Khaenri'ah, dấu vết sức mạnh của Vực Sâu... thật quá quen thuộc. Những sự vật đang diễn ra trước mắt tôi, chẳng qua chỉ là ảo ảnh hư vô,” Dainsleif đáp.
+
+“Tôi hiểu rồi! Giáo Đoàn Vực Sâu đang muốn che giấu bí mật gì đó đúng không?” Paimon hỏi. “Ừm... ban nãy Dain hiểu rõ về nội tình quá, không biết có bị Giáo Đoàn Vực Sâu nhắm đến không.”
+
+“Tòa thành đảo ngược đó có quan hệ gì với Khaenri'ah chăng?” Lumine hỏi.
+
+“Tôi e rằng không có mối liên hệ gì. Càng đến gần, tôi càng xác nhận rằng di tích này là thuộc về nền văn minh cổ đại hơn,” Dainsleif nói. “Chỉ là bị Giáo Đoàn Vực Sâu tìm ra trước mà thôi.”
+
+“Nền văn minh cổ đại hơn sao! Ừm... không tưởng tượng ra được...” Paimon nói.
+
+“Nhưng kết cấu của tòa kiến trúc này đúng là khá giống với Khaenri'ah trong quá khứ. Ừm... đảo ngược lại thì giống hơn,” Dainsleif nói. “Đi thôi, bên kia có ánh sáng. Chú ý đừng để bị trượt chân rớt xuống nhé.”
+
+---
+
+Đi theo ánh sáng, cả nhóm leo lên những tầng kiến trúc của di tích và bắt gặp một toán Kỵ Sĩ Hắc Xà khác.
+
+“Ối, là Kỵ Sĩ Hắc Xà!” Paimon nói. “Đây là hang ổ của chúng sao? Hay là, chúng đang bảo vệ thứ gì đó...”
+
+“Hoặc là, thứ mà Giáo Đoàn Vực Sâu muốn giấu đang ở gần đây. Tiêu diệt chúng trước đi,” Dainsleif nói.
+
+>Đánh bại Kỵ Sĩ Hắc Xà.
+
+Lumine và Dainsleif hạ gục đám Kỵ Sĩ Hắc Xà, rồi tiếp tục tiến lên. Không lâu sau, họ lại chạm trán thêm những Kỵ Sĩ Hắc Xà nữa.
+
+“Bên đây cũng có Kỵ Sĩ Hắc Xà!” Paimon nói.
+
+“...!!” một Kỵ Sĩ Hắc Xà nói.
+
+“Chúng không xông qua đây, là đang uy hiếp chúng ta sao?” Paimon hỏi. “Những tên Kỵ Sĩ Hắc Xà này hình như đang giấu thứ gì đó phía sau...”
+
+“...!!” một Kỵ Sĩ Hắc Xà nói.
+
+“Đợi đã, hình như...” Dainsleif nói.
+
+“...!!” một Kỵ Sĩ Hắc Xà nói.
+
+“Woa, chúng xông đến đây rồi, mau ứng chiến!” Paimon nói.
+
+>Đánh bại Kỵ Sĩ Hắc Xà.
+
+Trận chiến lại nổ ra, và một lần nữa các Kỵ Sĩ Hắc Xà gục xuống.
+
+“Đánh bại được chúng rồi! Mau đi xem thử Kỵ Sĩ Hắc Xà đang bảo vệ bí mật gì đi!” Paimon nói.
+
+>Điều tra vật mà Kỵ Sĩ Hắc Xà bảo vệ.
+
+Phía sau nơi các kỵ sĩ đứng canh là một nhóm Hilichurl già nua, ngồi lặng lẽ trong bóng tối.
+
+“Ối! Đây, đây là...” Paimon nói.
+
+“...Quả nhiên, đám Kỵ Sĩ Hắc Xà này không có liên quan gì đến bí mật của Giáo Đoàn Vực Sâu. Hừ... tôi nên đoán ra từ sớm mới phải,” Dainsleif nói.
+
+“Đám Hilichurl này là sao đây?” Paimon hỏi.
+
+“Như tôi đã nói trước đó, đây chính là ‘kết cục’ của Hilichurl,” Dainsleif đáp.
+
+“‘Kết cục’...” Lumine nói.
+
+“Lão hóa, sợ hãi ánh sáng, thậm chí dần dần hòa mình vào bóng tối. Nhưng dù là vậy, lời nguyền vẫn cứ bám lấy chúng,” Dainsleif nói.
+
+“Nhưng tại sao Kỵ Sĩ Hắc Xà lại bảo vệ chúng chứ...” Paimon nói.
+
+“...!!” một Kỵ Sĩ Hắc Xà nói.
+
+“Ối! Kỵ Sĩ Hắc Xà lại bao vây chúng ta rồi!” Paimon nói.
+
+“...!!” một Kỵ Sĩ Hắc Xà nói.
+
+“Cuộc chiến này không có ý nghĩa,” Lumine nói.
+
+Một tiếng hô vang lên. Tên Kỵ Sĩ Hắc Xà từng xuất hiện rồi biến mất lúc trước lại hiện ra.
+
+“.................!” Kỵ Sĩ Hắc Xà ấy nói.
+
+“Là tên đó! Cái tên cứ bất thình lình xuất hiện rồi biến mất!” Paimon nói. “Chúng rút hết rồi... không lẽ là do hiệu lệnh của tên kỵ sĩ đó sao?”
+
+“...Halfdan?” Dainsleif hỏi.
+
+“...” Kỵ Sĩ Hắc Xà ấy im lặng.
+
+Tên kỵ sĩ ấy rời đi, những Kỵ Sĩ Hắc Xà khác cũng lui theo.
+
+“Này, chuyện gì vậy, anh quen Kỵ Sĩ Hắc Xà ban nãy sao?” Paimon hỏi.
+
+“...Là vậy sao... nếu thật sự là vậy, thật là bi thương,” Dainsleif đáp.
+
+“Dain?” Paimon hỏi.
+
+“Hai người muốn biết tại sao họ lại bảo vệ những Hilichurl này đúng không?” Dainsleif hỏi. “Đó là bởi vì, đối với những Kỵ Sĩ Hắc Xà mà nói, họ chỉ đang thực hiện trách nhiệm của mình. Tôi cũng vừa nhận ra, người ban nãy ra lệnh cho các kỵ sĩ khác... chính là tinh anh trẻ tuổi trong đội cận vệ hoàng gia năm xưa, Halfdan.”
+
+“Là người của năm trăm năm trước sao...” Paimon nói.
+
+“Theo tôi nhớ, ngày Khaenri'ah gánh chịu số phận, tôi thân là ‘Kiếm Sĩ Hoàng Hôn’ đã vội chạy về hoàng cung, căn dặn vị kỵ sĩ trẻ tuổi Halfdan đó...” Dainsleif nói. “‘Chuyển lời đến tất cả Kỵ Sĩ Hắc Xà, cho dù thế nào cũng phải bảo vệ người dân Khaenri'ah.’ Quả thực, chúng tôi mang theo hàm tước ‘Cận Vệ Hoàng Cung’ trên người. Nhưng đối mặt với tai kiếp ấy, những thân phận như quý tộc, danh nhân, thường dân... đều đã mất đi ý nghĩa. Đối diện với sức mạnh của thần, trên mặt đất chỉ còn lại một thân phận duy nhất, đó là ‘người Khaenri'ah’.”
+
+“...” Lumine im lặng.
+
+“Có thể trong lòng những Kỵ Sĩ Hắc Xà đã mất đi lý trí này, họ vẫn đang cố gắng chiến đấu vì người dân Khaenri'ah,” Dainsleif nói. “Xem tòa di tích này như Khaenri'ah khi diệt vong, xem Hilichurl như là dân chúng cần tương trợ... Những âm thanh mà tôi nghe thấy từ miệng của họ, chắc chắn không phải là lời cảnh cáo đối với người khác.”
+
+“Vậy... họ nói gì?” Paimon hỏi.
+
+“Dù cho rất khó để nhận biết, nhưng tôi có thể nghe ra, đó là ‘mau chạy đi’ trong tiếng Khaenri'ah cổ,” Dainsleif đáp.
+
+“Mà là đang nói với các Hilichurl phía sau...” Lumine nói.
+
+“Dù tôi không thể không thừa nhận, nhưng phần ý chí ngoan cường này đã không bị mai một trong suốt năm trăm năm... có thể xem như là một kỳ tích sinh ra từ trong nỗi tuyệt vọng,” Dainsleif nói.
+
+“Vậy chúng ta đã hiểu lầm họ rồi sao...” Paimon nói.
+
+“Không sao. Cho dù là tôi thì lúc đó cũng sẽ xem họ như kẻ địch thôi,” Dainsleif nói. “Cứ đi tiếp theo ánh sáng phía trên đi, Kỵ Sĩ Hắc Xà có lẽ sẽ không còn cản trở chúng ta nữa.”
+
+---
+
+Đúng như lời Dainsleif, các Kỵ Sĩ Hắc Xà không còn cản đường nữa.
+
+“Kỵ Sĩ Hắc Xà quả nhiên không xuất hiện nữa, là do kỵ sĩ Halfdan đã nhận ra đội trưởng Dain sao?” Paimon hỏi. “Dain... sao lại im lặng rồi?”
+
+“Không có gì, tôi chỉ đang suy nghĩ thôi. Muốn an ủi tôi thì không cần đâu,” Dainsleif đáp.
+
+“Hứ! Được thôi...” Paimon nói.
+
+>Đến căn phòng trung tâm ở trên cùng của di tích.
+
+“Dây leo phía trước, hình như có thể leo được lên, thử xem nhé?” Paimon hỏi.
+
+Cả nhóm leo theo dây leo, tìm đường lên những tầng cao hơn của di tích.
+
+“Chậc, phòng này không có cửa, xem ra cuối cùng cũng có thể đến được căn phòng trung tâm rồi,” Paimon nói. “Chúng ta mau qua đó thôi!”
+
+---
+
+Căn phòng trung tâm nằm ở nơi cao nhất của di tích. Từ đây nhìn lên, có thể thấy một hồ nước treo lơ lửng trên đầu, còn bên dưới hồ là một thiết bị kỳ lạ.
+
+“Mau nhìn trên đầu kìa, có một hồ nước!” Paimon nói. “Đến cả hồ nước cũng bị đảo ngược sao, thật kỳ lạ. Anh có biết hồ nước đó là gì không Dain?”
+
+“Hồ nước gần như là một thể với tòa thành, có lẽ cũng là di tích của nền văn minh cổ,” Dainsleif đáp. “Điều quan trọng là... tôi cho rằng, nó chính là chìa khóa làm suy yếu lời nguyền. Khi ở đây, cơ thể tôi có một cảm giác yên tĩnh đến kỳ lạ. Cảm giác này lớn mạnh hơn trước kia, tôi nghĩ đa phần là do hiệu quả ‘thanh tẩy’ từ trong hồ nước.”
+
+“‘Thanh tẩy’? Vậy không lẽ... nước trong cái hồ đó có thể thanh tẩy triệt để lời nguyền sao?” Paimon hỏi.
+
+“Không thể,” Dainsleif đáp.
+
+“Khẳng định vậy sao?” Paimon hỏi.
+
+“Tôi đã duy trì sự tỉnh táo để sống chung với lời nguyền đến nay đã năm trăm năm rồi. Không ai hiểu rõ chuyện của lời nguyền hơn tôi,” Dainsleif đáp. “Nó là dấu ấn cấp bậc nhân quả của thế giới này, lời nguyền của các vị thần thậm chí còn cao hơn chính con người. Tôi có thể cảm nhận được, lời nguyền đang không ngừng thâm nhập vào tôi, trở thành một phần của tôi, thậm chí dần dần ‘thay thế’ tôi. Muốn chống lại sự xâm nhập của lời nguyền thì còn có khả năng, nhưng nói đến thanh tẩy... Chỉ cần tưởng tượng rằng tự mình thiêu cháy bộ phận nào đó trên cơ thể là ra rồi. Đến lúc đó, đến cả mạng sống của mình cũng sẽ không thể cứu được.”
+
+“Hả?! Vậy có nghĩa là sẽ chết sao! Sao có thể chứ... lời nguyền không thể thanh tẩy...” Paimon nói.
+
+“Từ đây có thể cảm nhận được hiệu quả thanh tẩy của hồ nước còn kém xa. Chỉ có thể miễn cưỡng ngăn chặn được một phần của lời nguyền thôi,” Dainsleif nói.
+
+“Vậy còn thứ ở bên dưới là gì? Có vẻ như không ăn khớp với xung quanh cho lắm...” Paimon nói.
+
+“Không lẽ nó thuộc về Giáo Đoàn Vực Sâu sao?” Lumine hỏi.
+
+“Thành thật mà nói, tôi cũng chưa từng thấy qua thứ này. Cô cho rằng đây là do Giáo Đoàn Vực Sâu sắp đặt cũng có lý. Không lẽ, chúng đang chuẩn bị cho cái gì đó sao...” Dainsleif nói.
+
+“Cạch cạch...” Tiếng động vang lên khắp căn phòng.
+
+“Ối ối! Hết hồn, những cánh cửa xung quanh đều mở ra rồi kìa!” Paimon nói.
+
+Những cánh cửa xung quanh đồng loạt mở ra. Kỵ sĩ Halfdan đứng ở một lối đi, nhìn về phía ba người.
+
+“...” Halfdan im lặng.
+
+“A, đó là kỵ sĩ Halfdan...” Paimon nói.
+
+“Anh có gì muốn nói với tôi đúng không? Halfdan,” Dainsleif nói.
+
+“...” Halfdan im lặng.
+
+Halfdan quay người, bước đi.
+
+“Anh ta đi rồi... nhưng lần này không phải là đột ngột biến mất nữa!” Paimon nói.
+
+“Hình như là đang gợi ý cho chúng ta đi theo. Hai người có muốn đi theo không?” Dainsleif hỏi.
+
+“Anh ta có vẻ như không có ác ý,” Lumine nói.
+
+“Nói cũng phải... vậy... chúng ta đi thôi,” Paimon nói.
+
+#CH|Phần 3|Ký Ức Của Inteyvat|c2m4_q3.png|Ký Ức Của Inteyvat
+
+>Thật ra Kỵ Sĩ Hắc Xà ở nơi này không có ác ý gì với các bạn, chỉ là ý chí còn sót lại thúc giục họ bảo vệ những Hilichurl kia mà thôi. Sau khi phát hiện những bí mật trong thành phố kỳ dị này, hình như Kỵ Sĩ Hắc Xà Halfdan có thứ gì đó muốn cho các bạn xem...
+
+Halfdan dẫn đường đến mép một gờ đá rồi nhảy xuống.
+
+“Halfdan nhảy xuống đây sao, chúng ta cũng xuống dưới xem thử nhé?” Paimon hỏi.
+
+Lumine, Paimon và Dainsleif theo xuống phía dưới.
+
+“Hình bóng của Halfdan hình như biến mất ở phía cuối con đường rồi...” Paimon nói.
+
+“Phía trước hình như có thứ mà anh ta muốn cho chúng ta xem, mau đi theo thôi,” Dainsleif nói.
+
+>Đi dọc theo con đường và tiếp tục khám phá.
+
+“Gần đây cũng có dấu vết sinh hoạt của Hilichurl,” Paimon nói.
+
+“Phía trước là lối vào doanh trại Hilichurl đúng không, chúng ta mau qua đó xem thử đi,” Paimon nói.
+
+>Đến doanh trại Hilichurl.
+
+“Một nơi có những doanh trại thô sơ của Hilichurl...” Paimon nói. “Nơi đây cũng có những Hilichurl đáng thương, có một số... đã không còn thở nữa... Nơi mà Halfdan muốn dẫn chúng ta đến chính là chỗ này phải không?”
+
+“Dù phải hay không thì nơi này cũng rất đáng để điều tra đấy. Thử quan sát xung quanh xem, đừng để bỏ sót thứ gì,” Dainsleif đáp.
+
+>Điều tra manh mối trong doanh trại của Hilichurl.
+
+Lumine đi một vòng quanh doanh trại. Bên đống lửa trại vẫn còn cháy:
+
+“Như Hilichurl bình thường khác, ở đây cũng có lửa trại,” Paimon nói. “Nhưng rõ ràng Dainsleif có nói là khi sinh mạng của Hilichurl sắp hết thì chúng sẽ rất sợ ánh sáng mà... Không lẽ ở thời khắc cuối cùng của cuối cùng ấy, chúng lại muốn cảm nhận hơi ấm của ánh sáng sao? À ừm, tôi chỉ đoán bừa thôi... có thể là có nguyên nhân nào khác chăng.”
+
+Bên những chiếc rương gỗ:
+
+“Những chiếc rương này thường là nơi Hilichurl đựng thực phẩm đúng không?” Paimon hỏi. “Hình như... trống không. Có vẻ như sinh mệnh của Hilichurl sắp cạn thì chúng không cần ăn gì nữa thì phải? Nếu là Paimon thì, chí ít... cũng sẽ rất nhớ mùi vị của đồ ăn đó...”
+
+Bên những Hilichurl đang nằm bất động:
+
+“Những tên Hilichurl này... đã không còn thở nữa, sắp hòa mình vào trong bóng tối rồi,” Paimon nói. “Những tên Hilichurl ồn ào sẽ già đi bằng cách này sao, đúng là không thể tưởng tượng được. Dù cho không có nhiều ký ức với Hilichurl lắm, nhưng mà, Paimon cũng hy vọng chúng có thể tìm được nơi bình yên cho mình.”
+
+Cuối cùng, giữa doanh trại, Lumine nhìn thấy một bông hoa màu trắng.
+
+“Dưới lòng đất sâu như vậy sao lại có bông hoa thế này nhỉ?” Paimon hỏi. “Là để dâng cho những Hilichurl đã chết sao?”
+
+“Tôi đã thấy qua loài hoa này,” Lumine nói.
+
+“Chậc, bạn nói vậy thì tôi thấy cũng quen quen...” Paimon nói.
+
+“Đây là quốc hoa của Khaenri'ah - ‘Inteyvat’, từng nở rộ khắp mọi nơi trong lãnh địa Khaenri'ah,” Dainsleif nói. “Vòng đời của loài hoa này chỉ có hai tuần. Nếu bị người khác ngắt đi, mang khỏi Khaenri'ah thì cánh hoa sẽ khô cứng lại, không còn sinh trưởng nữa. Cho đến khi quay về cố hương, cánh hoa mới mềm mại trở lại, tan biến tại quê nhà... Vì vậy, Inteyvat cũng tượng trưng cho ‘kẻ tha hương’, cũng có nghĩa là ‘sự ấm áp của quê hương’.”
+
+“Loại hoa này đã có trên tóc tôi từ khi tôi tỉnh dậy,” Lumine nói.
+
+“A! Loài hoa này xuất hiện ở đây, cũng có nghĩa là...” Paimon nói.
+
+Khi Lumine chạm vào bông hoa, một cảnh tượng hiện ra trước mắt cô. Đó là anh trai cô, Aether, cùng một Sứ Đồ Vực Sâu.
+
+“Hoàng tử điện hạ, người cuối cùng cũng đồng ý rồi sao?” Sứ Đồ Vực Sâu hỏi.
+
+“Quá chú tâm vào việc chống lại ‘Thiên Lý’ mà quên đi mất sứ mệnh ‘khôi phục đất nước’,” Aether đáp. “Đúng vậy, ta không nên do dự như vậy.”
+
+“‘Thiết bị’ đã được chuẩn bị xong, đang đợi lệnh của điện hạ,” Sứ Đồ Vực Sâu nói.
+
+“Nắm chắc được bao nhiêu phần trăm?” Aether hỏi.
+
+“Dựa theo nguyên lý mà nói, vào khoảng...” Sứ Đồ Vực Sâu đáp.
+
+“Kệ đi, dù cho chỉ là một tia hy vọng mong manh đi chăng nữa...” Aether nói. “Chúng ta cũng như vậy mà đúng không, sớm đã ở trong Vực Sâu rồi. Đối với ‘họ’ mà nói, sống một cuộc sống không có tôn nghiêm như vậy, thôi thì sớm quay về trong ‘luân hồi’ thì hơn. Đừng để ‘họ’ tiếp tục mang... những tội lỗi không đáng có đó.”
+
+“Sự quyết đoán của điện hạ chính là may mắn của giáo đoàn,” Sứ Đồ Vực Sâu nói.
+
+Hình ảnh dần tan biến. Lumine đưa tay về phía người anh.
+
+“Anh...” Lumine nói.
+
+“Thấy được gì vậy, có thể nói cho tôi nghe không?” Dainsleif hỏi.
+
+“Đúng vậy, bạn đã thất thần một hồi lâu rồi đó,” Paimon đáp.
+
+Lumine kể cho Dainsleif nghe cảnh tượng ban nãy...
+
+“Phải chăng đây chính là sự kết nối kỳ diệu chỉ thuộc về những cặp song sinh sao...” Dainsleif nói. “Nghe có vẻ, họ muốn lợi dụng thiết bị gì đó để thanh tẩy lời nguyền, có thể là vật mà chúng ta đã thấy trước đó. Vả lại... cậu ấy có nhắc đến ‘phục quốc’, đúng không?”
+
+“Anh ấy nói đây là sứ mệnh,” Lumine nói.
+
+“Thật cứng đầu, quả nhiên đến giờ vẫn không buông bỏ,” Dainsleif nói. “Xem ra, kế hoạch của giáo đoàn chính là mượn nơi này để thanh tẩy lời nguyền của Hilichurl, muốn khiến họ hồi sinh... từ đó làm bàn đạp để phục hưng Khaenri'ah. Dẫu sao thì, không có ‘dân’ thì sao mà có ‘quốc gia’ chứ.”
+
+“Có cơ hội để thực hiện không?” Lumine hỏi.
+
+“Hừ, thật ngu ngốc, đến một phần trăm khả năng cũng không có,” Dainsleif nói. “Tôi đã nói rồi, thân là một người sống chung với lời nguyền đã năm trăm năm, không ai hiểu rõ hơn tôi cả... không hề tồn tại sự cứu rỗi nào khác, lời nguyền sẽ không thể bị xóa bỏ đâu. Nếu như miễn cưỡng xóa bỏ lời nguyền, ngoài sự đau khổ ra thì không còn nhận được thêm gì cả. Cho nên, phải duy trì sự tỉnh táo, phải luôn nhắc nhở bản thân rằng những thứ đó đã không còn là... con người nữa. Quá chấp nhất, đặt quá nhiều tình cảm vào chỉ tổ càng dấn càng sâu... đến cuối cùng giống như chúng vậy, sa lầy vào vũng bùn không lối thoát. Nếu đã vậy thì hãy đặt hết tâm tư của mình vào thứ xứng đáng để cứu rỗi hơn đi.”
+
+“Tại sao tôi phải tin anh?” Lumine hỏi.
+
+“Hả?” Dainsleif hỏi. “Haha... cũng đúng, giữa chúng ta không có mối quan hệ gì cả, mà cậu ta mới là người thân của cô. Cô chọn đứng về phía cậu ta, về tình về lý, đúng là không có gì sai trái cả. Dù cho cô lựa chọn thế nào cũng không ảnh hưởng đến tôi. Ngăn cản Vực Sâu chính là con đường mà tôi đã chọn. Nếu như không có chung mục tiêu, vậy thì hãy...”
+
+“Lần này tôi sẽ chọn tin anh,” Lumine nói. “Nhưng không có nghĩa là tôi sẽ tin anh hoàn toàn.”
+
+“Vậy sao,” Dainsleif nói.
+
+“Một phần trăm khả năng có được sự cứu rỗi,” Lumine nói. “Chín mươi chín phần trăm có thể sẽ chết đi trong đau khổ. Không ai có đủ tư cách... Để đưa ra lựa chọn cho sinh mạng của người khác. Huống chi những Hilichurl đó... Vốn đã chọn được nơi an nghỉ của mình.”
+
+“Xem ra, ba câu hỏi trước đây của tôi không phải không có ý nghĩa. Cô đã có cách nhìn độc lập về thế giới này rồi,” Dainsleif nói. “Nếu cô đã thổ lộ suy nghĩ của mình, tôi cũng không muốn tiếp tục giấu nữa. Trước mắt, thay vì ngăn cản Vực Sâu, điều tôi quan tâm hơn là... Tuyệt đối không cho phép Vực Sâu độc đoán chà đạp lên ‘di nguyện’ của Halfdan.”
+
+“Tiếp tục hợp tác thôi,” Lumine nói.
+
+“Vực Sâu có thể sẽ xuất hiện bất cứ lúc nào, hãy cảnh giác,” Dainsleif nói.
+
+---
+
+>Rời khỏi doanh trại của Hilichurl.
+
+“Ở đây cũng có thể thấy được tòa thành đảo ngược đó,” Paimon nói.
+
+“Không ổn... cẩn thận!” Dainsleif nói.
+
+Một luồng sáng chói lòa bất ngờ quét qua.
+
+“Wao!” Paimon nói. “Chuyện gì vậy! Là ánh sáng phát ra từ căn phòng trung tâm đó sao? Đau mắt quá!”
+
+“Vực Sâu đã ra tay rồi sao?” Dainsleif hỏi.
+
+“Dainsleif... ngươi lại tiếp tục hợp tác với máu mủ của điện hạ sao...” Sứ Đồ Vực Sâu đáp. “Lúc đấy chưa thiết lập xong mạng lưới dịch chuyển nên đã chuyển nhầm ngươi đến đây... quả là sai lầm.”
+
+“Hừ! Tên nhát gan chỉ biết bỏ chạy, là ai cho ngươi lòng can đảm để đứng đối diện với ta thế?” Dainsleif hỏi.
+
+“Ý chí của điện hạ cần phải được bảo vệ, ta sẽ quét sạch tất cả chướng ngại cản đường bằng mọi giá,” Sứ Đồ Vực Sâu đáp. “Lần này nhất định sẽ... thanh tẩy hoàn toàn lời nguyền giày vò dân chúng.”
+
+“Thứ giày vò họ chính là các ngươi,” Dainsleif nói. “Trên người đám Hilichurl đó ngoài lời nguyền ra, căn bản đã không còn lưu lại gì nữa.”
+
+“Ta sẽ không trốn chạy nữa, xông lên đi, Dainsleif,” Sứ Đồ Vực Sâu nói.
+
+“Ý chí nực cười này, đáng để ngươi dùng sinh mạng để kéo dài thời gian sao? Nếu ngươi kiên quyết thì ta sẽ cho ngươi toại nguyện!” Dainsleif nói.
+
+>Đánh bại Sứ Đồ Vực Sâu.
+
+Sứ Đồ Vực Sâu lao vào trận chiến. Giữa những đợt giao tranh, Dainsleif lên tiếng:
+
+“‘Thanh tẩy lời nguyền’ mà các ngươi nói chính là dùng thiết bị bên dưới hồ nước đó sao?” Dainsleif hỏi.
+
+“Đừng xem thường kỹ thuật của Vực Sâu, dựa vào thiết bị đó, bọn ta sẽ khuyếch đại khả năng thanh tẩy của hồ nước lên hơn trăm lần...” Sứ Đồ Vực Sâu nói.
+
+“Cách làm đơn sơ như vậy sao... Ta đã đánh giá cao các ngươi rồi,” Dainsleif nói.
+
+Cuối cùng, Sứ Đồ Vực Sâu gục ngã.
+
+>Nói chuyện với Dainsleif.
+
+“Phù! Cuối cùng cũng tiêu diệt được hắn rồi!” Paimon nói.
+
+“Không còn thời gian để nói chuyện phiếm nữa. Xem ra thiết bị của Giáo Đoàn Vực Sâu đã khởi động rồi, giờ đi phá hủy nó có lẽ vẫn còn kịp,” Dainsleif nói.
+
+“Ừm! Chúng ta mau qua đó xem thử thôi!” Paimon nói.
+
+#CH|Phần 4|Vinh Quang Của Kỵ Sĩ Hắc Xà|c2m4_q4.png|Vinh Quang Của Kỵ Sĩ Hắc Xà
+
+>Theo ký ức của cặp song sinh để lại trên những bông hoa của Inteyvat, Dainsleif đã phán đoán được kế hoạch của Giáo Đoàn Vực Sâu, chỉ là không biết có kịp ngăn cản hay không...
+
+>Đến căn phòng trung tâm ở trên cùng của di tích xem tình hình.
+
+Cả nhóm vội vã quay lại căn phòng trung tâm. Thiết bị bên dưới hồ nước đã khởi động, tỏa ra thứ ánh sáng chói gắt.
+
+“Thiết bị đó giúp tăng năng lực thanh tẩy của nước hồ,” Dainsleif nói.
+
+Ánh sáng quét qua cơ thể Dainsleif và những Hilichurl xung quanh, khiến họ đau đớn.
+
+“Dain,” Paimon nói.
+
+“Không kịp rồi sao...” Dainsleif nói. “Nhất định phải bắt chúng... Kết liễu sinh mạng trong đau khổ tột cùng sao... Nghĩ cách... Để thứ đó dừng lại đi.”
+
+Halfdan xuất hiện, dùng chính thân mình chắn trước luồng sáng phát ra từ thiết bị.
+
+“Halfdan,” Dainsleif nói. “Làm như thế anh sẽ...”
+
+“Cứ ngỡ là linh hồn của Halfdan sẽ tan biến ngay chứ... không ngờ anh ấy lại kiên cường như vậy,” Dainsleif nói.
+
+“Thứ cản đường! Mau tránh ra...” Linh Mục Vực Sâu nói.
+
+“Nhìn đi đâu vậy? Cơ hội hiếm có, cuối cùng ngươi cũng có cơ hội để trừ khử ta rồi, không phải sao?” Dainsleif hỏi.
+
+“...Dainsleif!” Linh Mục Vực Sâu đáp.
+
+“Tiêu diệt hắn rồi đóng thiết bị đó lại đi!” Dainsleif nói.
+
+>Đánh bại Linh Mục Vực Sâu.
+
+Lumine lao vào giao chiến với Linh Mục Vực Sâu và đánh bại hắn.
+
+>Nói chuyện với Dainsleif.
+
+“Làm sao đây, dù cho tiêu diệt tên Vực Sâu đó rồi nhưng vẫn không thể dừng thiết bị lại...” Paimon nói. “Halfdan...”
+
+“Hãy để tôi thay thế anh ấy,” Lumine nói.
+
+“Không được! Chỉ cần thiết bị vẫn đang chạy, những người hứng chịu lời nguyền như chúng tôi sẽ không thể phát huy sức mạnh như ban đầu, chỉ có cô mới có thể chống lại Vực Sâu thôi,” Dainsleif nói. “Nếu cô quý trọng sự cống hiến của anh ấy, thì đừng tiếp tục lãng phí thời gian ở đây nữa. Nhìn thấy những tia sáng và cửa dịch chuyển đó không? Chúng chắc là đã phân tán các thiết bị đến những nơi khác. Mau qua đó kiểm tra tình hình đi!”
+
+“Phải đi xuyên qua cửa dịch chuyển của Vực Sâu sao... Này đợi đã!” Paimon nói.
+
+---
+
+>Phá hủy toàn bộ thiết bị nạp năng lượng.
+
+Lumine và Paimon bước qua những cánh cửa dịch chuyển của Vực Sâu, lần lượt tìm đến những nơi đặt thiết bị khuếch đại. Ở mỗi nơi, những Hilichurl đang quằn quại vì ánh sáng. Lumine phá hủy thiết bị đầu tiên.
+
+“Mấy tên Hilichurl trông có vẻ rất đau khổ... Ối! Lẽ nào hiện giờ Dain cũng đang chịu đựng nỗi đau như vậy sao?” Paimon hỏi.
+
+“Đừng bận tâm. Những gì Halfdan phải chịu còn đau khổ hơn tôi nhiều. Tranh thủ thời gian đi!” Dainsleif nói.
+
+Lumine phá hủy thêm một thiết bị nữa.
+
+“Hãy nhanh tay phá hủy những thiết bị này và chấm dứt nỗi thống khổ của Hilichurl thôi!” Paimon nói.
+
+Khi thiết bị cuối cùng bị phá hủy, ánh sáng tắt hẳn.
+
+“Xung quanh tối om rồi, chúng ta mau trở về căn phòng trung tâm đi!” Paimon nói.
+
+---
+
+>Đến chỗ Halfdan.
+
+Lumine và Paimon trở về căn phòng trung tâm. Thiết bị đã ngừng hoạt động. Halfdan nằm bất động ở nơi anh đã đứng chắn luồng sáng.
+
+“Lần này cuối cùng cũng đóng được thiết bị đó rồi!” Paimon nói.
+
+“Cảm thấy dễ chịu hơn rồi...” Dainsleif nói.
+
+“Chúng ta đã ngăn cản được kế hoạch của Vực Sâu rồi sao?” Paimon hỏi.
+
+“Anh ấy hình như đã không còn sống nữa rồi,” Lumine nói.
+
+“...” Dainsleif im lặng. “Để tôi xác nhận lại xem.”
+
+“Dain, anh ấy... hẳn đang rất buồn nhỉ?” Paimon hỏi. “Chiến hữu năm xưa, không ngờ lại tái ngộ như vậy...”
+
+“...” Dainsleif im lặng. “...Đi thôi.”
+
+Khi Dainsleif quay người định rời đi, một đốm sáng hiện lên phía sau anh.
+
+“Ánh sáng?” Dainsleif hỏi.
+
+Linh hồn của Halfdan hiện ra, giơ tay chào Dainsleif.
+
+“Xin lỗi ngài ‘Kiếm Sĩ Hoàng Hôn’ Dainsleif, khi đó... tôi đã không thể bảo hộ được người dân, phụ sự kỳ vọng của ngài,” Halfdan nói.
+
+“Không, trong 500 năm này, anh đã làm tròn trách nhiệm của mình,” Dainsleif nói. “Cho đến hôm nay, các anh vẫn luôn là niềm tự hào của tôi.”
+
+Dainsleif đáp lễ, giơ tay chào người kỵ sĩ năm xưa.
+
+“Khaenri'ah vẫn chưa bị diệt vong phải không? Dù sao thì ngài vẫn còn ở đây mà,” Halfdan nói.
+
+“Ừm,” Dainsleif nói.
+
+“Vì vậy... cũng không cần phải phục quốc,” Dainsleif nói.
+
+---
+
+>Nói chuyện với Dainsleif.
+
+“Ban nãy là... linh hồn của Halfdan...” Paimon nói.
+
+“Nơi này không chỉ tập trung một loại sức mạnh kỳ lạ, đến cả linh hồn cũng rất kỳ quái,” Dainsleif nói. “Nhưng mà, nếu hai người muốn tiếp tục đi về phía trước thì phải hết sức cẩn thận. Khụ khụ...”
+
+“Ừm, chúng tôi sẽ cẩn thận. À đúng rồi, Dain không đi cùng chúng tôi sao?” Paimon hỏi.
+
+“Thiết bị lúc nãy gây ra cho tôi khá nhiều chấn thương, tôi cần chút thời gian để hồi phục,” Dainsleif đáp.
+
+“Thì ra là vậy... Không đúng, thật ra tôi đã nhìn ra từ lâu rồi, anh chỉ đang gắng gượng mà thôi!” Paimon nói. “Cũng nên nghỉ ngơi rồi, Dain... Ví dụ như là, hãy tự cho mình một kỳ nghỉ hay gì đó!”
+
+“Nghỉ phép sao? Đây không phải là một từ nên xuất hiện ở tôi,” Dainsleif nói. “Tôi còn có việc quan trọng hơn phải làm. Kế hoạch ‘Máy Dệt Vận Mệnh’ vẫn đang được tiến hành. Thậm chí tôi còn nghi ngờ rằng những thiết bị khuếch đại ở đây có liên quan đến kế hoạch đó nữa.”
+
+“Tôi cũng sẽ để ý,” Lumine nói.
+
+“Cám ơn sự thông cảm của cô, ‘chủ nhân’,” Dainsleif nói. “Chỉ hy vọng lần sau gặp lại, cô sẽ không đứng ở chiến tuyến bên kia.”
+
+“Này, có phải Dain thù dai nên mới nói như vậy không...” Paimon nói. “Mặc dù không thể gặp lại anh trai bạn lần nữa, nhưng cũng xem như tìm hiểu được rất nhiều thông tin có ích đúng không? Chỉ cần tiếp tục nỗ lực với hành trình của mình, hai người nhất định sẽ gặp lại nhau, và mọi thứ sẽ trở lại bình thường thôi, đúng chứ? À đúng rồi, bạn còn nhớ lý do ban đầu chúng ta đến đây là để điều tra hành tung của Hilichurl không? Bây giờ xem ra đã có thể tìm anh thợ mỏ để báo cáo rồi, có điều... những chuyện xảy ra ở đây quá phức tạp đối với những người bình thường! Tóm lại, đừng quên ủy thác này là được.”
+
+---
+
+Trở lại mặt đất, Lumine và Paimon tìm gặp Yuehui để báo cáo kết quả ủy thác.
+
+“Anh thợ mỏ, chúng tôi đến để báo cáo kết quả ủy thác!” Paimon nói.
+
+“Ồ! Cuối cùng cũng lại gặp được các bạn! Trước đây tôi có chút lo lắng, mặc dù đã trả tiền, nhưng nghĩ kỹ lại, ủy thác người khác đi điều tra một nơi quỷ dị như vậy...” Yuehui nói. “Lỡ như có chuyện gì, tôi sẽ cắn rứt lương tâm cả đời đó!”
+
+“Không sao không sao, chúng tôi đã trở về an toàn rồi mà! Tình hình bên dưới cũng đã được điều tra rõ ràng rồi,” Paimon nói.
+
+“Lợi hại thế! Vậy thì tình hình bên dưới là như thế nào?” Yuehui hỏi.
+
+“Ừm... Haiz... Ừm...” Paimon đáp.
+
+“Có một nhóm Hilichurl đang dưỡng lão ở bên dưới,” Lumine nói.
+
+“Dưỡng lão?” Yuehui hỏi.
+
+“Tóm, tóm lại, đám Hilichurl bên dưới không có ý xấu, tôi cũng mong các thợ mỏ sẽ không làm phiền chúng,” Paimon nói.
+
+“Có thể yên tâm rồi,” Lumine nói.
+
+“Những người thợ mỏ chúng tôi rất sợ rắc rối, tuyệt đối không chủ động gây sự với chúng đâu. Trong mắt chúng tôi, chỉ có những thứ sáng bóng và lấp lánh ánh vàng thôi,” Yuehui nói.
+
+“Ồ, ồ... vậy nhờ cả vào các anh nhé,” Paimon nói.
+
+“Mặc dù không hiểu hai vị đang nói gì, nhưng có hai vị đảm bảo là tôi yên tâm rồi,” Yuehui nói. “Lần này may nhờ có hai vị! Đi như vậy vất vả cho hai vị quá, đây là quà cảm ơn, hãy nhận lấy món quà này đi.”
+
+(Hết Chương II Màn IV)
