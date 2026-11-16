@@ -190,10 +190,10 @@ BEIDOU_CD = dict(name='Beidou', role='Thủ lĩnh đội thuyền Nam Thập T�
 CLOUD_CD = dict(name='Lưu Vân Tá Phong Chân Quân', role='Sư phụ của Shenhe', img='cloudretainer.png', desc='Kể cho Lumine và Paimon nghe quá khứ của Shenhe, nhờ họ chăm sóc con bé, và âm thầm quan sát xem Ningguang có vượt qua được phong ba sắp tới không.')
 BAIZHU_CD = dict(name='Baizhu', role='Chủ Nhà Thuốc Bubu', img='baizhu_icon.png', desc='Cho nhóm Lumine biết về Minh Hà Phù Sinh Thạch trong “Thất Tàng Sơn Kinh” và gợi ý đến Thương Hội Phi Vân hỏi thăm.')
 KEQING_CD = dict(name='Keqing', role='“Ngọc Hành Tinh” của Thất Tinh Liyue', img='keqing_icon.png', desc='Chỉ huy Thiên Nham Quân, ra lệnh cho máy Guizhong kiểu mới khai hỏa vào Beisht.')
-BAIWEN = dict(name='Baiwen', role='Thư ký của Ningguang ở công trường', desc='Người nhận và chấm nguyên liệu của cuộc thi trùng tu Quần Ngọc Các.')
-ZHANG = dict(name='Lão Zhang', role='Thợ rèn tiệm Hàn Phong Thiết Khí', desc='Người từng làm Lõi Thần Kỳ cho Ningguang, chỉ cho nhóm Lumine đi tìm Quặng Sắt Sao Vỡ và Bí Hoa Thạch.')
-MINGJUN = dict(name='Mingjun', role='Bạn thân của cha Shenhe', desc='Ông lão ở ngôi làng bỏ hoang gần Thiên Hoành Sơn, nơi Shenhe sinh ra. Nhiều năm vẫn day dứt vì đã không ngăn được cha của Shenhe.')
-BEISHT = dict(name='Beisht', role='“Tàn Dư Lốc Xoáy”', desc='Vợ của Osial, người cuối cùng đi theo Ma Thần Lốc Xoáy. Trồi lên từ biển khi Quần Ngọc Các bay lên.')
+BAIWEN = dict(name='Baiwen', role='Thư ký của Ningguang ở công trường', img='baiwen_icon.png', desc='Người nhận và chấm nguyên liệu của cuộc thi trùng tu Quần Ngọc Các.')
+ZHANG = dict(name='Lão Zhang', role='Thợ rèn tiệm Hàn Phong Thiết Khí', img='zhang_icon.png', desc='Người từng làm Lõi Thần Kỳ cho Ningguang, chỉ cho nhóm Lumine đi tìm Quặng Sắt Sao Vỡ và Bí Hoa Thạch.')
+MINGJUN = dict(name='Mingjun', role='Bạn thân của cha Shenhe', img='mingjun_icon.png', desc='Ông lão ở ngôi làng bỏ hoang gần Thiên Hoành Sơn, nơi Shenhe sinh ra. Nhiều năm vẫn day dứt vì đã không ngăn được cha của Shenhe.')
+BEISHT = dict(name='Beisht', role='“Tàn Dư Lốc Xoáy”', img='beisht_icon.png', desc='Vợ của Osial, người cuối cùng đi theo Ma Thần Lốc Xoáy. Trồi lên từ biển khi Quần Ngọc Các bay lên.')
 LIU = dict(name='Liu Mặt Sẹo và Qiang', role='Kẻ bán tình báo', desc='Hai gã lưu manh bám theo Shenhe đòi tiền, bị Thiên Nham Quân bắt đi.')
 
 ACTS = [
