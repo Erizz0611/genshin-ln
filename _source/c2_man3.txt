@@ -1,0 +1,1488 @@
+#CH|Phần 1|Kiếm, Cá Và Kẻ Kháng Chiến|kokomi_splash.png|Kiếm, Cá Và Kẻ Kháng Chiến
+
+>Theo lời hẹn với Sangonomiya Kokomi, bạn quyết định đến làm khách tại bản doanh quân kháng chiến Sangonomiya...
+
+>Đến nơi hẹn để gặp Teppei.
+
+Đã đến ngày hẹn với Sangonomiya Kokomi. Lumine và Paimon đến chỗ hẹn, nơi Teppei đã đứng chờ sẵn.
+
+>Nói chuyện với Teppei.
+
+“Ồ, Lumine, bạn đến rồi à,” Teppei nói. “Cũng sắp đến ngày hẹn với Sangonomiya đại nhân rồi, chúng ta cũng nên xuất phát thôi. Bạn đã chuẩn bị xong chưa? Tôi đưa bạn đến doanh trại ở Đảo Watatsumi xem trước, sau đó chúng ta sẽ đi tìm Sangonomiya đại nhân. Nếu có bị say sóng thì nhớ nói ngay với tôi. Nhưng nghe nói bạn đã từng ở Đội thuyền Nam Thập Tự, nên chắc không sao đâu... Chuẩn bị, khởi hành!”
+
+---
+
+>Đến doanh trại Quân Kháng Chiến.
+
+Teppei đưa Lumine và Paimon vượt biển sang Đảo Watatsumi, rồi dẫn hai người đến doanh trại của quân kháng chiến trên đảo.
+
+>Nói chuyện với Teppei.
+
+“Đây chính là trại huấn luyện của quân đội chúng ta ở Đảo Watatsumi,” Teppei nói. “Quân kháng chiến hiện tại phần lớn đều là những binh sĩ người bản địa ở Đảo Watatsumi. Một số người đang giao chiến với quân Shogunate ở Tatarasuna, một số ở lại trên Đảo Watatsumi bảo vệ bá tánh.”
+
+“Teppei lúc trước cũng huấn luyện ở đây à?” Paimon hỏi.
+
+“Đúng vậy, nhưng tiếc là tôi chưa được giáo quan công nhận, nên không thể tham chiến ở Tatarasuna, chỉ có thể giúp đỡ hậu cần...” Teppei đáp. “Tạm thời tôi sẽ ở đây, nếu bạn muốn tìm tôi thì cứ đến đây nhé. Nếu tôi không có ở đây, thì bạn có thể viết mảnh giấy dán lên tường. Tôi nhìn thấy sẽ đi tìm bạn... ...Chết rồi, đã sắp đến giờ hẹn với Sangonomiya đại nhân rồi. Để lần sau chúng ta mới đi tham quan Đảo Watatsumi vậy, bây giờ tôi sẽ dẫn bạn đến Sangonomiya!”
+
+“Sangonomiya, chắc là nơi ở của Sangonomiya Kokomi đó...Chúng ta đi xem thử đi,” Paimon nói.
+
+---
+
+>Đến Sangonomiya.
+
+Teppei dẫn đường đến Sangonomiya, nơi ở của Sangonomiya Kokomi. Khi nhóm Lumine bước vào, Kokomi đang bàn bạc với một người đàn ông về chuyện quân lương.
+
+>Nói chuyện với Sangonomiya Kokomi.
+
+“Bất luận thế nào, lương thảo cũng là yếu tố quan trọng nhất, không thể để xảy ra sai sót gì,” Sangonomiya Kokomi nói. “Hiện tại xung đột giữa chúng ta và quân Shogunate ngày càng kịch liệt, nhất định phải đảm bảo hậu phương ổn định.”
+
+“Đúng. Để tôi nghĩ cách xem...” Ookubo Daisuke nói.
+
+“Yên tâm, có được số vật tư lần trước, tôi cũng đang bắt tay vào mở rộng quân đội rồi,” Sangonomiya Kokomi nói. “Không đủ nhân lực nên vất vả cho mọi người quá, sau này cục diện chắc sẽ có chuyển biến tốt hơn.”
+
+“Mở rộng quân đội sao? Quá tốt rồi. Tuy rằng không biết lần này ai đã âm thầm tài trợ cho chúng ta, nhưng đúng là đã giúp được rất nhiều...” Ookubo Daisuke nói. “Ủa? Đây không phải là Teppei sao, tên nhóc nhà ngươi quay về Đảo Watatsumi rồi sao? Vị này là...”
+
+“Hì hì, là khách của Sangonomiya đại nhân, tôi phụ trách đưa cô ấy về Đảo Watatsumi,” Teppei nói.
+
+“Ồ? Chẳng lẽ đây là người mà các anh em đồn là... có năng lực gánh đội siêu tốt, kiếm thuật thông thạo đến mức tối thượng, một chém hất tung cả năm tên samurai trong truyền thuyết sao?” Ookubo Daisuke hỏi.
+
+“Ai lại đồn bậy bạ vậy chứ?” Paimon hỏi.
+
+“Hai vị từ xa đến đây, chắc có việc quan trọng cần bàn. Tôi không làm phiền nữa, sau này có thời gian, có thể đến chỗ tôi chơi,” Ookubo Daisuke đáp. “Vậy Sangonomiya đại nhân, tôi xin phép đi trước.”
+
+“Sangonomiya đại nhân, vừa nãy tôi có nghe thấy anh Ookubo nhắc đến ‘tài trợ’, chuyện đó là sao?” Teppei hỏi.
+
+“Không lâu trước đây, có người viết thư cho tôi, nói là muốn ủng hộ kháng chiến ở Đảo Watatsumi, và tặng rất nhiều vật tư,” Sangonomiya Kokomi đáp. “Cũng nhờ như vậy mà chúng ta cuối cùng cũng đã có thể mạnh tay chiêu binh mãi mã, triển khai chiến tranh trực diện với quân Shogunate rồi.”
+
+“Vậy thì quá tốt rồi,” Lumine nói.
+
+“Thật ra tôi vẫn còn chút lo lắng về chuyện này...nhưng Đảo Watatsumi không hề giàu có, cho nên nhận được khoản vật tư này quả thật như là nắng hạn gặp mưa rào,” Sangonomiya Kokomi nói. “Yêu cầu của đối phương cũng không quá đáng, chỉ nói muốn chúng ta dốc hết sức lực chống lại quân Shogunate. Bất luận mục đích của họ là gì, chí ít thì về điểm này chúng ta có cùng quan điểm, vậy thì cứ xem như thêm được một đồng minh không muốn lộ diện. Đương nhiên, cũng không thể hoàn toàn buông lỏng cảnh giác. Nếu các bạn phát hiện điều gì bất thường, hãy nhanh chóng báo lại với tôi.”
+
+“Sangonomiya đại nhân, vậy thì lương thực cho quân tiền tuyến có phải cũng sẽ tốt hơn không? Mấy hôm trước đi thăm hỏi thương binh, họ đều nói muốn được ăn thịt nướng,” Teppei nói.
+
+“Haha...yên tâm, tôi đã sắp xếp rồi. Đảm bảo thịt nướng đủ ăn no luôn, nhưng vẫn không được phép uống rượu nhé,” Sangonomiya Kokomi nói.
+
+“Tuyệt quá!” Teppei nói.
+
+“Cũng làm khó mọi người quá rồi. Từ khi Lệnh Truy Lùng Vision được ban bố, chúng ta khởi binh kháng chiến đến nay, cơm nước trong quân đội quả thật rất ít khi thay đổi,” Sangonomiya Kokomi nói. “Sau này tôi sẽ thương lượng với đội hậu cần, cải thiện một chút về mặt này. Chỉ có điều vật tư của chúng ta vẫn rất hạn chế, trước khi giành thắng lợi, hy vọng các anh có thể nhẫn nại thêm một chút.”
+
+“Lệnh Truy Lùng Vision đó đến khi nào mới có thể kết thúc đây?” Paimon hỏi.
+
+“Vấn đề này...Tôi cũng không có đáp án,” Sangonomiya Kokomi đáp. “Việc ban bố Lệnh Truy Lùng Vision vốn dĩ đã rất kỳ lạ. Bất luận là Hiệp Hội Tenryou, hay là Shogun đại nhân, thái độ của họ đều rất khó hiểu. Hiệp Hội Tenryou đột nhiên vô cùng gấp rút thực thi Lệnh Truy Lùng Vision, còn Shogun đại nhân thì dường như không thèm quan tâm chuyện chiến tranh bùng nổ do Lệnh Truy Lùng Vision gây ra... Trước khi giải được những câu hỏi này, thì e rằng Lệnh Truy Lùng Vision sẽ không kết thúc. Tôi chỉ có thể đảm bảo với bạn, chỉ cần Lệnh Truy Lùng Vision vẫn còn, thì chúng ta sẽ không bao giờ từ bỏ kháng chiến. Lumine, tôi muốn xác nhận lại một lần nữa. Sau khi hiểu được tình trạng của Đảo Watatsumi và Quân Kháng Chiến, bạn có còn muốn đứng cùng chiến tuyến với chúng tôi không?”
+
+“Nguyện dâng hiến cả con tim,” Lumine đáp.
+
+“Tốt lắm, vậy thì bây giờ, tôi sẽ chính thức bổ nhiệm cho bạn,” Sangonomiya Kokomi nói. “Bắt đầu từ bây giờ, bạn sẽ thăng chức thành đội trưởng ‘Đội Cá Kiếm 2’ - đội hành động đặc biệt của Đảo Watatsumi.”
+
+“Đội... Đội Cá Kiếm 2 sao? Là đội hành động đặc biệt có tên là ‘Cá Kiếm’ sao?” Teppei hỏi. “Tôi nhớ là để vào được đội hành động đặc biệt là đã rất khó rồi, không ngờ có thể lên thẳng chức đội trưởng...Thật là lợi hại quá đi!”
+
+“Tuy là bổ nhiệm ngoại lệ, nhưng tôi tin rằng với trí tuệ, dũng khí và sức mạnh của bạn, sẽ có thể dẫn dắt chi đội này giành thắng lợi,” Sangonomiya Kokomi nói.
+
+“Hay quá! Vậy khi nào chúng tôi nhậm chức?” Paimon hỏi.
+
+“Đội Cá Kiếm 2 hiện đang ở hẻm núi phía Tây Nam trên đảo, gần đây có một số Ronin gây rối, cần đội hành động đặc biệt đến để ổn định hậu phương,” Sangonomiya Kokomi đáp. “Thư ủy thác tôi cũng đã viết rồi, bạn đem cho họ xem là được. Những tên Ronin đó, cũng phiền bạn xử lý giúp nhé. Người trong đội hành động đặc biệt đều là tinh nhuệ của Đảo Watatsumi, nên có lẽ ít nhiều cũng hơi kiêu ngạo, nhưng tin rằng bạn sẽ giành được sự tín nhiệm từ phía họ.”
+
+“Vậy, vậy còn tôi? Sangonomiya đại nhân, có việc gì cần tôi hỗ trợ không?” Teppei hỏi. “Tôi cũng muốn cống hiến nhiều hơn cho quân kháng chiến!”
+
+“Đương nhiên là có, đợi một chút tôi cũng sẽ sắp xếp cho anh,” Sangonomiya Kokomi nói.
+
+“Tôi sẽ đảm bảo hoàn thành nhiệm vụ! Hihi, Lumine, tuy rằng bạn đã lên chức đội trưởng Đội Cá Kiếm 2, nhưng tôi cũng sẽ không chịu thua bạn đâu,” Teppei nói.
+
+“Được thôi, bạn cẩn thận một chút, đừng cố quá để rồi quá... sức nhé,” Paimon nói. “Lumine, chúng ta cũng xuất phát thôi.”
+
+---
+
+>Đến nơi đóng quân của “Đội Cá Kiếm 2”.
+
+Cầm theo thư ủy thác của Kokomi, Lumine và Paimon tìm đến nơi đóng quân của Đội Cá Kiếm 2 ở hẻm núi phía Tây Nam đảo.
+
+>Nói chuyện với thành viên “Đội Cá Kiếm 2”.
+
+“Bạn chính là đội trưởng mới nhậm chức của Đội Cá Kiếm 2 phải không, Sangonomiya đại nhân đã nói với chúng tôi rồi,” đội trưởng đại diện của Đội Cá Kiếm 2 nói. “Trong quân đội đã có rất nhiều lời đồn về bạn, thư ủy thác cũng đã xác nhận xong. Nhưng tôi vẫn có chút nghi ngờ...”
+
+“Ừm? Còn có vấn đề gì sao?” Paimon hỏi.
+
+“Đơn giản mà nói, chính là bạn có xứng để dẫn dắt chúng tôi hay không,” đội trưởng đại diện của Đội Cá Kiếm 2 đáp.
+
+“Ý của bạn là...” Paimon nói.
+
+“Nếu là lúc bình thường, thì cách trực tiếp nhất là đánh một trận. Nhưng bây giờ thì, ở đây đã có mục tiêu lý tưởng hơn,” một thành viên cốt cán của Đội Cá Kiếm 2 nói. “Chúng tôi trú đóng ở đây là bởi vì có rất nhiều ronin đến gây rối. Nếu bạn có thể xử lý hết đám ronin đó thì chúng tôi sẽ công nhận thực lực của bạn.”
+
+“Không thành vấn đề,” Lumine nói.
+
+“Ừm ừm, hãy để họ tâm phục khẩu phục đi!” Paimon nói.
+
+---
+
+>Loại bỏ ma vật uy hiếp gần đây.
+
+Lumine lao vào đám ronin đang quấy phá gần nơi đóng quân, đánh bại từng tên một.
+
+>Nói chuyện với thành viên “Đội Cá Kiếm 2”.
+
+“Cũng có bản lĩnh thật...Tuy rằng không quá khoa trương như lời đồn, nhưng quả thật rất lợi hại,” đội trưởng đại diện của Đội Cá Kiếm 2 nói.
+
+“Xin tự giới thiệu, tôi là Koutoku, đội trưởng đại diện của Đội Cá Kiếm 2. Đây là Yoshihisa, cũng là thành viên lão làng trong đội,” Koutoku nói. “Bây giờ, tôi chính thức giao lại chức ‘đội trưởng’ cho bạn. Đội Cá Kiếm 2, xin đợi lệnh.”
+
+“Còn tên ronin nào gây rối không?” Lumine hỏi.
+
+“Có hai nơi bị tấn công nghiêm trọng, những tên ronin ở đây đã bị đội trưởng dẹp sạch, căn cứ của bọn chúng chỉ còn ở vùng nước cạn phía Đông hòn đảo thôi,” Yoshihisa đáp. “Nhưng số lượng ronin ở đó đông hơn, khả năng chiến đấu cũng mạnh hơn.”
+
+“Đi xem thử thôi,” Lumine nói.
+
+“Đúng vậy, Đảo Watatsumi vẫn còn đang đánh trận với quân Shogunate, không thể để những tên này gây rối phía sau được!” Paimon nói.
+
+---
+
+>Đến nơi có ma vật uy hiếp.
+
+Cả đội kéo đến vùng nước cạn phía Đông hòn đảo, nơi đám ronin đóng doanh trại.
+
+>Nói chuyện với thành viên “Đội Cá Kiếm 2”.
+
+“Nhiều ronin quá...” Paimon nói.
+
+“Đây chỉ là một phần trong đó, chúng có hai doanh trại nữa ở gần đây,” Koutoku nói. “Bất luận chúng ta tấn công vào doanh trại nào, thì hai doanh trại còn lại cũng trở thành mối nguy hiểm. Chúng sẽ có thể lựa chọn chi viện hoặc bỏ chạy.”
+
+“Vậy thì tấn công cùng lúc thôi...” Lumine nói.
+
+“Nhưng nếu vậy, đội trưởng có thể sẽ gặp nguy hiểm...” Koutoku nói. “Sau khi chia binh lực, thì số người bảo vệ đội trưởng sẽ rất ít, tôi có chút không yên tâm.”
+
+“Không sao,” Lumine đáp.
+
+“Đúng vậy đúng vậy, nhiêu đây người thôi mà, chúng tôi chấp!” Paimon nói.
+
+“Được thôi. Vậy chúng tôi sẽ quét sạch chúng, sau đó sẽ quay về chi viện đội trưởng!” Koutoku nói.
+
+---
+
+>Loại bỏ ma vật uy hiếp gần đây.
+
+Đội Cá Kiếm 2 chia quân đánh hai doanh trại còn lại. Lumine và Paimon ở lại xông vào doanh trại trước mặt.
+
+“Chắc là những tên ronin đó rồi, chúng ta lên thôi!” Paimon nói.
+
+“Chúng tôi sẽ cố gắng phân tán binh lực của chúng, chuyện còn lại phải nhờ đội trưởng rồi!” Koutoku nói.
+
+“Đừng để thêm nhiều tên ronin đến gần đội trưởng, chúng ta hãy dụ chúng đi!” Yoshihisa nói.
+
+Lumine đánh tan đám ronin trong doanh trại.
+
+>Nói chuyện với thành viên “Đội Cá Kiếm 2”.
+
+“Như vậy chắc là xong rồi...Lumine, bạn không bị thương chứ?” Paimon hỏi.
+
+“Không sao,” Lumine đáp.
+
+“Ừm ừm...Cũng không biết bên Koutoku và Yoshihisa sao rồi. Hay là chúng ta qua đó xem thử nhé?” Paimon hỏi.
+
+Koutoku và Yoshihisa trở về.
+
+“Đội trưởng,” Yoshihisa nói.
+
+“Báo cáo đội trưởng, hai doanh trại kia cũng đã xử lý xong, như vậy hậu phương của cả hòn đảo Watatsumi tạm thời đã an toàn rồi,” Koutoku nói.
+
+“Thật tốt quá! Hi hi, giải quyết được đám ronin, lại còn được mọi người công nhận...” Paimon nói. “Nhưng tiếp theo phải làm gì nữa đây? Hay là quay về hỏi Kokomi thử.”
+
+“Cuối cùng cũng đã trút được cơn giận rồi, đã sớm không ưa đám ronin này rồi, nhưng trước đây Koutoku cứ không đánh lại chúng,” Yoshihisa nói.
+
+“Hả? Nói như thể không có đội trưởng thì các người có thể đánh lại chúng vậy đó. Tôi chỉ vì muốn tốt cho mọi người thôi được chưa?” Koutoku hỏi.
+
+“Rõ ràng là tại anh nhát gan...” Yoshihisa đáp.
+
+“Này này, không được cãi nhau đâu đó!” Paimon nói. “Thật là...Lumine, chúng ta vẫn nên về báo cáo cho Kokomi trước thôi.”
+
+---
+
+>Trở về trụ sở nói chuyện với Sangonomiya Kokomi.
+
+Lumine và Paimon quay về Sangonomiya báo cáo.
+
+“Thế nào rồi Lumine, quá trình nhậm chức thuận lợi chứ?” Sangonomiya Kokomi hỏi.
+
+“Rất thuận lợi,” Lumine đáp.
+
+“Haha...Tuy nói vậy, nhưng Koutoku bọn họ chắc cũng đã thử thách bạn một chút rồi, đúng chứ?” Sangonomiya Kokomi hỏi. “Nhưng mà, tôi tin chắc rằng với năng lực của bạn, vượt qua thử thách đó chỉ là chuyện nhẹ nhàng thôi. Bạn quay về đây báo cáo, có nghĩa là đám ronin trên Đảo Watatsumi đã bị đuổi đi hết rồi đúng không? Như vậy là được rồi, tiếp theo chỉ cần Ookubo phái người canh gác nghiêm ngặt, là có thể tránh được việc chúng lại đến gây rối. Vất vả cho bạn rồi. Có công ắt thưởng, nhất định phải thưởng cho bạn mới được. Để tôi nghĩ xem...thăng chức thì không được, nhanh quá. Tăng quân hưởng...”
+
+“Sao không thấy Teppei?” Lumine hỏi.
+
+“Tôi đã giao nhiệm vụ cho Teppei, là tập kích hải quân Shogunate,” Sangonomiya Kokomi đáp. “Anh ấy không muốn ở mãi chốn hậu phương, tôi cũng tôn trọng lựa chọn của anh ấy. Quay lại việc chính, Lumine, có một nhiệm vụ đặc biệt tôi muốn giao cho bạn.”
+
+“‘Nhiệm vụ đặc biệt’?” Paimon hỏi.
+
+“Đúng vậy. Ở giữa Đảo Watatsumi và Tatarasuna có một Di Tích Ma Thần. Nơi đó có mấy hòn đảo nhỏ, thường được dùng làm trạm trung chuyển hàng hóa,” Sangonomiya Kokomi đáp. “Nhưng thời gian gần đây, lương thảo cất giữ ở đó thường biến mất một cách kỳ lạ. Nhưng khi quân đội đi ngang qua, thì không phát hiện nguy hiểm gì...Tôi muốn ủy thác bạn giúp đỡ điều tra chân tướng sự tình. Chuyện này không cấp bách, không cần quá vội vàng. Mấy ngày này, các bạn có thể làm quen với quân đội, hoặc đi dạo quanh các nơi trên Đảo Watatsumi cũng được. Chờ Teppei trở về, bạn có thể trò chuyện với anh ấy, rồi chờ một ngày đẹp trời hãy khởi hành.”
+
+“Teppei thật sự không sao chứ...” Paimon nói. “Cứ nghĩ đến bộ dạng khinh suất của anh ta lúc trước là tôi thấy hơi lo. Đúng rồi, Lumine, chúng ta đến trại huấn luyện đợi bạn ấy đi!”
+
+---
+
+>Nói chuyện với Teppei.
+
+Lumine và Paimon đến trại huấn luyện chờ Teppei. Ít lâu sau, Teppei trở về.
+
+“Đã lâu không gặp, Lumine,” Teppei nói. “Thế nào rồi, có hòa hợp được với những người ở đội Cá Kiếm 2 không?”
+
+“Hợp chứ,” Lumine đáp.
+
+“Hihi, hãy để tiền bối tôi dạy bạn một số cách để thống lĩnh quân binh!” Teppei nói. “Bạn phải tăng quân hưởng cho họ, còn phải thêm một số phần thưởng, phải bắt họ tuân thủ kỷ luật...còn gì nữa nhỉ?”
+
+“Wao...Teppei, sao bạn biết vậy?” Paimon hỏi.
+
+“Tôi đọc được từ một quyển tiểu thuyết của Nhà Xuất Bản Yae...Đó là chuyện rất lâu về trước rồi. Lúc đó tôi phải dùng biết bao nhiêu Dango để hối lộ, thì người bạn đó mới cho tôi mượn đọc đó,” Teppei đáp.
+
+“Dám dùng những thứ trong tiểu thuyết để chỉ đạo quân đội, đây là ‘tướng quân giấy’ mà mọi người hay rêu rao sao?” Paimon hỏi.
+
+“Hờ hờ, đừng xem thường tôi nhé. Bây giờ tôi cũng giống như các bạn, đang học tập và tìm hiểu ‘đạo trị quân’ đó,” Teppei đáp.
+
+“Chẳng lẽ...” Lumine nói.
+
+“Không sai! Vì đã lập công lớn trong trận hải chiến, nên hiện giờ tôi cũng là đội trưởng đội hành động đặc biệt rồi!” Teppei nói. “Mà còn là một đội hoàn toàn mới, Đội Cá Trích 1! Thế nào, nghe có lợi hại không? Tôi đã hỏi Sangonomiya đại nhân rồi, Sangonomiya đại nhân nói đang may quân phục mới cho chúng ta. Đợi khi may xong, chúng ta cùng đi nhận quân phục về. Sau đó mặc lên người bộ quân phục mới rồi gặp nhau, nghĩ thôi đã thấy ngầu rồi! Tốt quá, cũng nhờ có những thứ nhận được từ phía nhà tài trợ...”
+
+“Quân phục đó, tôi cũng sẽ có chứ?” Paimon hỏi.
+
+“Đương nhiên rồi! Bạn là một thành viên của quân đội Đảo Watatsumi mà,” Teppei đáp.
+
+“Tuyệt quá!” Paimon nói.
+
+“Đội trưởng, đã có nhiệm vụ tác chiến mới rồi...” một thành viên Đội Cá Trích 1 nói.
+
+“Ừm, bây giờ tôi sẽ qua đó. Vậy tôi đi trước nhé, Lumine, lần sau gặp,” Teppei nói. “Bạn phải cẩn thận đó, đừng để bị tôi vượt mặt nha.”
+
+“Chúng tôi sẽ không để thua bạn đâu!” Paimon nói.
+
+“Khụ khụ... Khó nói lắm. Trạng thái hiện giờ của tôi đang rất tốt, đây là thời cơ thích hợp để lập công!” Teppei nói.
+
+“Thật không ngờ Teppei cũng được phong làm đội trưởng rồi, xem ra anh ấy thật sự đã rất cố gắng,” Paimon nói. “Chúng ta nghỉ ngơi một lát, rồi đến chỗ Di Tích Chiến Tranh Ma Thần xem thử nhé!”
+
+#CH|Phần 2|Người Khao Khát Được Thần Linh Chú Ý|gorou_splash.png|Người Khao Khát Được Thần Linh Chú Ý
+
+>Bạn đã trở thành đội trưởng Đội Cá Kiếm 2 của quân kháng chiến, không ngờ Teppei cũng được đề bạt như vậy...
+
+>Đến Di Tích Cổ Đại điều tra.
+
+Theo nhiệm vụ đặc biệt Kokomi giao, Lumine và Paimon đến Di Tích Ma Thần nằm giữa Đảo Watatsumi và Tatarasuna, nơi lương thảo cất giữ thường biến mất một cách kỳ lạ.
+
+“Chắc là ở đây rồi. Nhưng đúng là không thấy kẻ nào đáng nghi cả...” Paimon nói. “Chẳng lẽ trốn hết rồi sao? Lumine, chúng ta lùng sục xung quanh thử xem.”
+
+>Điều tra Di Tích Cổ Đại.
+
+Lumine lùng sục khắp hòn đảo. Giữa khu di tích có mấy tấm bia đá tỏa ánh tím.
+
+“Những tấm Bia Nguyên Tố Lôi này, cảm giác hơi đáng nghi...” Paimon nói.
+
+Lumine dùng nguyên tố Lôi kích hoạt những tấm Bia Nguyên Tố Lôi. Ngay sau đó, một con quái vật khổng lồ xuất hiện.
+
+>Đánh bại ma vật xuất hiện.
+
+“Wao! Vua Giáp Lôi Hilichurl to quá! Là do bị hấp dẫn bởi nguyên tố Lôi nên xuất hiện sao?” Paimon hỏi.
+
+Lumine giao chiến với Vua Giáp Lôi Hilichurl và hạ gục nó.
+
+>Nói chuyện với Paimon.
+
+“Phù...cuối cùng cũng xử xong rồi,” Paimon nói. “Đúng là một tên khó đối phó mà, nhưng sao ở đây lại có một tên Vua Giáp Lôi Hilichurl to như vậy chứ? Thật không hiểu...hơn nữa không khí ở đây cũng có chút quái lạ. Tóm lại, chuyện ở đây chắc đã giải quyết xong rồi, chúng ta mau chạy thôi... Úi, Teppei, sao bạn cũng ở đây?”
+
+Teppei đã đứng ở đó từ lúc nào.
+
+“Khụ khụ...Bất ngờ thật, hóa ra các bạn đang điều tra ở đây à,” Teppei nói. “Tôi vừa mới vận chuyển xong vật tư từ tiền tuyến trở về, định sẵn tiện dẹp sạch các mối nguy hiểm ở xung quanh đây. Khụ...”
+
+“Không sao chứ, trông bạn hơi là lạ,” Paimon nói.
+
+“Không sao không sao, chắc do mấy hôm trước bị cảm lạnh trong lúc ra biển,” Teppei nói. “Lúc đi ngang qua đây, tôi nghe nói vừa có người lên đảo điều tra, nên đã đến xem thử. Nếu có gì nguy hiểm, không chừng tôi còn có thể làm anh hùng...Nhưng đáng tiếc là gặp phải các bạn, xem ra đã uổng công tôi đến đây rồi.”
+
+“Teppei, bạn có thấy không khí ở đây có gì đó đặc biệt không?” Paimon hỏi.
+
+“Ừm...Nói như vậy thì quả thật là có một chút,” Teppei đáp. “Có thể là do nơi này gần với xương cốt của Ma Thần Orobaxi, nên mùi của Họa Thần tương đối nặng.”
+
+“Ma Thần Orobaxi, đó là...” Paimon nói.
+
+“Bạn nhìn xem, đó chính là xương cốt của Orobaxi để lại,” Teppei nói.
+
+“Quào! Bộ xương rắn lớn như vậy, trông thật đáng sợ!” Paimon nói.
+
+“Là do Orobaxi đã đưa tổ tiên của chúng tôi từ Enkanomiya sâu thẳm lên mặt đất, nên mới có Đảo Watatsumi của ngày nay,” Teppei nói. “Tổ tiên của chúng tôi luôn xem Orobaxi là vị thần bảo vệ, nhưng trong thời kỳ chiến tranh Ma Thần, Orobaxi đã xâm chiếm Đảo Yashiori. Raiden Shogun đã đích thân đuổi đến, dùng ‘Lưỡi Đao Vô Tưởng’ để trảm sát. Nhát đao đó cũng đã hình thành nên Hẻm Núi Musoujin ngày nay.”
+
+“Hẻm Núi Musoujin là do Raiden Shogun chém ra sao...Thật lợi hại...” Paimon nói.
+
+“Đúng vậy, cuộc chiến Ma Thần vô cùng tàn khốc, Đảo Yashiori cũng biến thành phế tích trong trận chiến đó, nghe nói Shogun cũng từng mất đi thứ quan trọng vào lúc đó,” Teppei nói. “Sau khi Orobaxi chết, Đảo Watatsumi và Shogunate có rất nhiều chuyện bất hòa. Nhưng lần này thành lập quân kháng chiến, không phải là vì tín ngưỡng, mà là để đối phó với Lệnh Truy Lùng Vision. Orobaxi đã phá hủy nền văn minh, là Shogun đã đứng ra ngăn cản. Ngày nay Shogun ban bố Lệnh Truy Lùng Vision, tước đoạt đi ước nguyện của dân chúng, cũng phải có người đứng ra ngăn cản Shogun...khụ khụ. Tôi quay về trước, vừa giải quyết xong đám samurai tinh nhuệ của quân Shogunate, tôi về nghỉ ngơi một lát, chút nữa còn có việc khác phải làm. Các bạn cũng mau về báo cáo với Sangonomiya đại nhân đi. Ở đây không chừng vẫn còn hơi thở tàn dư của Họa Thần, ở lâu sẽ không tốt cho sức khỏe... Khụ khụ...khụ...”
+
+“Bạn cũng phải chú ý sức khỏe,” Lumine nói.
+
+“Đừng lo, sức khỏe của tôi còn tốt lắm,” Teppei nói.
+
+“Thật không ngờ Teppei đã có thể giao chiến với samurai của quân Shogunate rồi, không biết từ lúc nào anh ấy đã trưởng thành hơn nhiều như thế,” Paimon nói. “Lumine, chúng ta quay về báo cáo với Kokomi thôi.”
+
+---
+
+>Trở về trụ sở nói chuyện với Sangonomiya Kokomi.
+
+Lumine và Paimon trở về Sangonomiya. Ngoài Kokomi, ở đó còn có một chàng trai có đôi tai và chiếc đuôi như loài chó, gương mặt nghiêm nghị.
+
+“Kokomi, chúng tôi về...Ủa, Gorou cũng ở đây kìa,” Paimon nói. “Có chuyện gì sao? Sao trông họ nghiêm túc quá vậy...”
+
+“Có khoảng bao nhiêu người xuất hiện triệu chứng lạ này?” Sangonomiya Kokomi hỏi.
+
+“Vẫn chưa kịp thống kê đầy đủ...” Gorou đáp.
+
+“Kokomi, Gorou, xảy ra chuyện gì rồi sao?” Paimon hỏi.
+
+“Lumine, gần đây có một số quân sĩ của quân kháng chiến xuất hiện triệu chứng lão hóa kỳ lạ,” Gorou đáp. “Tôi gọi họ đến dò hỏi, mới biết được họ đã lén lút lấy một số ‘vũ khí bí mật’ từ chỗ nhà tài trợ. Đa số họ đều rất háo thắng, vô cùng bất mãn với Lệnh Truy Lùng Vision, sau khi lấy được số vũ khí bí mật này, đã lén lút sử dụng.”
+
+“Chả trách dạo này thường xuyên chiến thắng một cách lạ thường...Nhưng đây không phải chính đạo, nhất định phải nhanh chóng cấm cản,” Sangonomiya Kokomi nói. “Gorou, anh có lấy được thứ mà họ gọi là ‘vũ khí bí mật’ đó không?”
+
+“Phần lớn những người giữ vũ khí bí mật đều không muốn giao ra, nhưng tôi đã lấy được một chiếc...” Gorou đáp.
+
+“Đây là...” Lumine nói.
+
+“Lumine, bạn biết thứ này sao?” Sangonomiya Kokomi hỏi.
+
+“Delusion...của Fatui...” Lumine đáp.
+
+“Nói như vậy, thân phận của phía tài trợ thực ra là Fatui sao?” Gorou hỏi.
+
+“Nhưng Fatui tại sao lại làm như vậy...” Sangonomiya Kokomi đáp. “Không còn thời gian để suy nghĩ nhiều, bây giờ điều quan trọng nhất là phải nhanh chóng thông báo quân đội từ bỏ Delusion. Những binh sĩ có biểu hiện bất thường gần đây đều phải được chữa trị, hy vọng còn kịp.”
+
+“Chờ đã, Lumine, nhắc đến binh sĩ có biểu hiện khác thường...” Paimon nói.
+
+“Teppei...” Lumine nói.
+
+“Chắc, chắc không phải đâu...” Paimon nói. “Chúng ta mau đi xem xem!”
+
+“Gorou, chúng ta cùng đến doanh trại quân kháng chiến. Nhất định phải ngăn cản việc lưu hành Delusion,” Sangonomiya Kokomi nói.
+
+“Tuân lệnh Sangonomiya đại nhân!” Gorou nói.
+
+---
+
+>Tìm Teppei.
+
+Lumine và Paimon vội vã chạy đi tìm Teppei. Anh đang ngồi dưới đất, trông vô cùng mệt mỏi.
+
+>Nói chuyện với Teppei.
+
+“Teppei!!” Paimon nói.
+
+“A...Là các bạn à. Các bạn đến rồi sao?” Teppei hỏi. “Đợi một chút, để tôi đứng lên...Kỳ lạ, cứ cảm thấy toàn thân không có chút sức lực...”
+
+“Teppei...” Lumine nói.
+
+“Hử?” Teppei hỏi. “À à, vẫn chưa kịp nói rõ với bạn. Tôi gần đây, lại lập thêm mấy chiến công rồi. Ra khơi hải chiến với quân Shogunate, một mình đánh lui samurai của Shogunate, giải cứu đồng đội bị giam, trước đây có nằm mơ tôi cũng không dám nghĩ đến. Nếu tôi có thể mạnh thêm nữa thì tốt rồi. Mạnh hơn một chút, thì sẽ có thể làm thêm nhiều việc...Kỳ lạ, ‘vũ khí bí mật’ của tôi đâu?”
+
+“Thứ đó...” Lumine đáp.
+
+“Từ lúc nào nhỉ...tầm sau khi bạn được phong làm đội trưởng Đội Cá Kiếm 2, tôi đã gặp được người bí ẩn của phía tài trợ,” Teppei nói. “Họ cho tôi cái này. Rồi nói với tôi rằng, chỉ cần muốn mạnh hơn, thì vũ khí bí mật này sẽ đáp ứng cho tôi. Ha ha, quả thực giống y như Vision đúng chứ? Tôi chưa từng sử dụng Vision, nên cũng không biết có gì khác...”
+
+“Đây là...Delusion,” Lumine nói.
+
+“Delusion...? Nghe có vẻ không phải thứ gì tốt nhỉ...” Teppei nói. “So với Vision, thì có gì khác không?”
+
+“Nó sẽ hút lấy sinh mạng của người sử dụng,” Lumine đáp.
+
+“...” Teppei nói. “Vậy sao...Đúng là những thứ có lai lịch bất minh như vậy, thì có rủi ro cũng là điều bình thường. Mấy hôm nay, tôi càng lúc càng mệt mỏi, trong lòng cứ như có dự cảm gì đó không hay. Trước đây chỉ là sau khi chiến đấu sẽ hơi mệt một chút, nhưng hôm nay sau khi trở về, tôi đột nhiên nhìn không rõ mọi thứ nữa. Thật là đáng tiếc, tôi vốn định đuổi kịp bạn...Haha... Tôi quả nhiên, không được thần linh chú ý mà...”
+
+“...” Lumine nói.
+
+“Lumine, có thể nhờ bạn một việc không?” Teppei hỏi. “Chờ khi nào quân phục của chúng ta làm xong, bạn giúp tôi, lấy bộ của tôi về...chúng ta cùng mặc vào... Biểu cảm của bạn như thế là sao chứ, bạn tốt à. Đừng lo lắng, hãy để tôi nghỉ ngơi một lát...nghỉ ngơi một lát...không chừng sẽ không sao nữa...”
+
+“Teppei...” Paimon nói.
+
+“Fatui...” Lumine nói.
+
+“Này, Lumine, bạn muốn đi đâu? Này...” Paimon nói.
+
+Lumine quay lưng bỏ đi.
+
+#CH|Phần 3|Delusion|kokomi_card.png|Delusion
+
+>Thứ “vũ khí bí mật” là tia hy vọng mong manh của quân kháng chiến hóa ra lại là Delusion, cái chết của chiến hữu Teppei đã khiến cho bạn không thể nào kiềm chế được cơn giận đối với Fatui...
+
+>Nói chuyện với Sangonomiya Kokomi.
+
+Lumine tìm đến chỗ Kokomi và Gorou.
+
+“Lumine, tình trạng của Teppei có ổn không?” Sangonomiya Kokomi hỏi.
+
+“Chúng ta đều không để ý đến...” Lumine đáp.
+
+“...Tôi đã hạ lệnh, tịch thu tất cả Delusion trong quân đội,” Sangonomiya Kokomi nói. “Phần lớn binh sĩ tuy có tình trạng tổn thất sinh lực, nhưng không đến nỗi nghiêm trọng. Nhưng cũng có một phần nhỏ...”
+
+“Sangonomiya đại nhân, tôi định mở riêng một trại thương binh để quan sát tình trạng của họ,” Gorou nói. “Các binh sĩ rất náo loạn, rõ ràng biết đó là Delusion, nhưng họ vẫn muốn tiếp tục dùng.”
+
+“Việc này giao cho anh phụ trách, tôi phải đến tiền tuyến một chuyến,” Sangonomiya Kokomi nói. “Xảy ra việc lớn như vậy, lòng quân ắt có dao động. Nếu lúc này quân Shogunate thừa cơ tấn công, thì xem như mất cả chì lẫn chài. Lumine, bạn có dự định gì không?”
+
+“Kế hoạch ngăn cản Fatui,” Lumine đáp.
+
+“Không được, quá nguy hiểm!” Sangonomiya Kokomi nói. “Lệnh bế quan tỏa cảng vẫn đang có hiệu lực, Delusion của chúng chắc là sản xuất tại Inazuma. Có thể điều động nhân lực và tài nguyên với quy mô to lớn như vậy, phía sau chắc chắn có thế lực bản địa ủng hộ. Muốn ngăn cản chúng, chỉ còn cách phá hủy công xưởng sản xuất Delusion của chúng. Nhưng ở đó chắc chắn có nhiều binh lính canh giữ... Không thể để bạn mạo hiểm như vậy, chí ít phải dẫn theo một đội quân đi cùng...”
+
+“Không còn thời gian nữa,” Lumine nói.
+
+“Sangonomiya đại nhân, lúc chúng ta tịch thu Delusion đã rất vội vàng, chắc sẽ không qua được tai mắt của Fatui,” Gorou nói. “Nếu chúng ta mất thêm thời gian chỉnh đốn quân đội, để chúng biết tin thì chúng nhất định sẽ chạy trước.”
+
+“Tôi biết...để tôi nghĩ xem...” Sangonomiya Kokomi nói. “Khi tịch thu Delusion, tôi quả thật đã suy nghĩ. Công xưởng vừa phải lớn, lại phải kín đáo, còn phải gần đường giao thông chính để đảm bảo cung ứng đầy đủ nguyên liệu... Nơi phù hợp với những điều kiện này không nhiều, kết hợp với địa điểm mà những binh sĩ đó nhận được Delusion để suy đoán, công xưởng rất có thể nằm ở vách núi sát biển phía Tây Nam Đảo Yashiori. Tôi sẽ không ngăn cản bạn, nhưng bạn nhất định phải cẩn thận. Tôi đã mất đi rất nhiều người cùng kề vai chiến đấu, không muốn lại mất đi bạn nữa.”
+
+“Chúng ta đi thôi,” Lumine nói.
+
+“Hử? Muốn đến chỗ Công Xưởng Delusion đó sao?” Paimon hỏi.
+
+“...” Lumine đáp.
+
+“Thật sao? Thật sự không suy nghĩ thêm sao? Được thôi...” Paimon nói.
+
+---
+
+>Tìm nơi chế tạo Delusion.
+
+Lumine và Paimon lên đường đến vách núi sát biển phía Tây Nam Đảo Yashiori. Dưới chân vách đá ẩn giấu một công xưởng rộng lớn của Fatui.
+
+>Vào xưởng sản xuất Delusion.
+
+Lumine lẻn vào bên trong. Khắp nơi chất đầy nguyên liệu.
+
+“Những thứ này đều là nguyên liệu chế tạo Delusion sao? Nhiều Tủy Pha Lê quá... trông quen thật...” Paimon nói. “Đợi đã, số Tủy Pha Lê này, không lẽ được chuyển từ Đảo Ritou tới sao? Không lẽ, Hiệp Hội Kanjou...”
+
+Lính Fatui canh giữ công xưởng lập tức phát hiện ra hai người.
+
+“Phát hiện kẻ xâm nhập...” một lính Fatui quát.
+
+“Không được để chúng tiếp cận đại nhân,” một lính Fatui khác nói.
+
+“Muốn sống thì mau rời khỏi đây!” một lính Fatui quát.
+
+Lumine đánh bại đám lính Fatui chặn đường, tiếp tục tiến sâu vào trong. Có những cỗ máy bắn tia nguy hiểm canh giữ lối đi.
+
+“Ối! Trông nguy hiểm quá...” Paimon nói. “Phải quan sát cẩn thận mới được, bị bắn trúng là tiêu...”
+
+Trong xưởng, Lumine tìm thấy một văn thư có tiêu đề “Chỉ Thị Giám Sát”:
+
+“Thế cuộc nội chiến ở Inazuma hiện vẫn chưa rõ. Chiến tranh càng kéo dài thì sẽ càng có lợi cho ta...” văn thư viết. “Để phát triển nhu cầu ‘Delusion’ của Quân Kháng Chiến, kích động cường độ chiến tranh, thúc đẩy quyết tâm về một trận chiến trường kỳ của chỉ huy hai phe... Kính mời các vị đồng liêu hỗ trợ công việc cho trung úy hải quân Nathan, dập tắt hi vọng đánh nhanh thắng nhanh của quân Sangonomiya... Nếu có bất trắc thì kịp thời giúp Nathan trốn thoát, không được để lại bất kỳ chứng cứ nào cho cả hai phe về việc ‘Fatui’ trà trộn! Đây là việc quan trọng, đảm bảo cho chuỗi cung ứng ‘Delusion’, hãy nhớ lấy!”
+
+>Tìm kẻ chủ mưu trong xưởng.
+
+Ở nơi sâu nhất của công xưởng, một thiếu niên đội chiếc nón rộng vành đang đứng chờ.
+
+“Không ngờ các ngươi có thể tìm đến đây, cũng khá lắm,” người thiếu niên nói.
+
+“Ngươi là Quan Chấp Hành Fatui...giống như Signora và Childe sao?” Paimon hỏi.
+
+“Signora? Childe? Ồ...Thật không ngờ ngươi đã gặp được hai vị đồng nghiệp không đáng tin cậy nhất của bọn ta,” người thiếu niên đáp.
+
+“Quan Chấp Hành thứ 6 của Fatui, Scaramouche. Rất vui được gặp ngươi, Nhà Lữ Hành danh tiếng lẫy lừng,” Scaramouche nói. “Đến tìm ta với bộ dạng khốn khổ như vậy, không biết có việc gì không?”
+
+“Các ngươi chế tạo Delusion...” Lumine đáp.
+
+“Ồ, hóa ra là chuyện này sao,” Scaramouche nói. “Hình như các ngươi có chút nhầm lẫn rồi. Tuy rằng ta đứng ở đây, nhưng chỉ là thay mặt thực hiện kế hoạch mà thôi. Chủ mưu đương nhiên là người khác. Không phải giỏi lắm sao? Cứ tìm tự nhiên nhé! Mới có chút ‘chuyện nhỏ’ mà đã bị chọc tức rồi à? Không ngờ ngươi lại yếu đuối như vậy.”
+
+“Ngươi dám nói đây là chuyện nhỏ sao...” Paimon nói.
+
+“Chẳng lẽ không phải sao? Trong thế giới này, sinh mạng cũng như cỏ rác mà thôi,” Scaramouche nói. “Không có Delusion, chúng cũng sẽ chết. Chí ít thì Delusion còn cho chúng cơ hội để thực hiện ‘ước nguyện’ của mình. Giá trị của Lệnh Truy Lùng Vision, các ngươi có thật sự hiểu không? Ban đầu để thúc tiến cho việc này đã phải tốn không ít công sức, đương nhiên là vì nó có lợi cho bọn ta. Nhưng bây giờ xem ra, tất cả đều rất xứng đáng. Tạo ra tranh chấp là để lót đường cho việc phát tán Delusion, để sức mạnh tự thu hút những kẻ yếu đuối đang theo đuổi nó... Chỉ phải trả một cái giá rẻ bèo, là đã có được cảm giác nắm lấy cả thế giới trong tay. Dùng sinh mạng để đổi lấy sức mạnh vô thượng, chẳng phải lời quá rồi sao?”
+
+“Lệnh Truy Lùng Vision là do các ngươi thúc đẩy mà thành sao? Chẳng lẽ, ngay từ đầu các ngươi đã...” Paimon đáp.
+
+“Inazuma nhìn từ bên ngoài có vẻ vô cùng kiên cố, nhưng bên trong...thì tràn trề cơ hội dành cho bọn ta. Chỉ cần dùng chút sức lực, là có thể công phá từ bên trong,” Scaramouche nói. “Vĩnh hằng có thể khiến thời gian kéo dài vô tận, thế nhưng mỗi một mốc bên trong đó đều sẽ trở nên yếu đuối vô cùng. Cũng giống như những người bạn trong quân kháng chiến của ngươi, bất luận có cố gắng thế nào đi nữa, thì cũng đều là tốn công vô ích mà thôi. Giống như bong bóng nước vậy, đẹp đẽ đó, nhưng rồi sẽ phải tan biến ngay lập tức. Càng dễ mất đi thì càng muốn có được, càng vô dụng thì lại càng vùng vẫy! Hahaha, vở kịch này thật vui biết bao.”
+
+“Teppei không phải là người vô dụng!” Lumine nói.
+
+“Này! Lumine, hãy bình tĩnh lại đi...” Paimon nói.
+
+Cơn giận khiến Lumine không còn kiềm chế được nữa. Cô lao về phía Scaramouche, nhưng đã rơi vào cạm bẫy của hắn. Oán niệm Ma Thần trong công xưởng ập đến, nhấn chìm Lumine.
+
+“Ha ha ha...” Scaramouche nói. “Không sai, chính là như vậy! Hãy phẫn nộ đi, phẫn nộ đi... Đối với oán niệm Ma Thần trong công xưởng này mà nói, phẫn nộ chính là món ăn tốt nhất...”
+
+“A, bạn sao vậy,” Paimon nói. “Mau đứng lên đi...!”
+
+Ý thức của Lumine mờ dần. Khoảnh khắc trước khi hôn mê, cô nhìn thấy hình bóng của Yae Miko.
+
+#CH|Phần 4|Con Đường Của Thân Quyến|yae_splash.png|Con Đường Của Thân Quyến
+
+>Bị cơn giận lấn át hết lý trí, bạn rơi vào cạm bẫy của Scaramouche, khoảnh khắc trước khi hôn mê, bạn nhìn thấy hình bóng của Yae Miko...
+
+>Nói chuyện với Yae Miko.
+
+Khi Lumine tỉnh lại, Yae Miko đang ở ngay bên cạnh cô.
+
+“Nói theo tôi, ‘Ba, hai, một, một, hai, ba, a a!’, nói nhanh lên,” Yae Miko nói.
+
+“‘Ba, hai, một, một, hai, ba, a a!’” Lumine nói.
+
+“Ừm ừm, khá lắm khá lắm, điều này chứng tỏ não bộ không có gì đáng ngại cho lắm, ừm...” Yae Miko nói. “Khó khăn lắm tôi mới nhặt được bạn về đấy, nếu như chết giữa chừng thì uổng lắm.”
+
+“Ừm, từ nãy tôi đã muốn hỏi rồi, Miko, cách nói chuyện và cử chỉ của bạn khác hẳn lần đầu chúng tôi gặp bạn...” Paimon nói.
+
+“Vậy sao? Có lẽ là do không có những pháp sư khác chăng. Hơn nữa, tôi vẫn luôn như vậy mà?” Yae Miko hỏi. “Cái mà người ta thể hiện ra, luôn là một mặt mà bản thân muốn thể hiện, về điểm này thì tôi hiểu rõ lắm. Cho nên, bất luận là mặt nào thì thực ra đều là ‘cái tôi’ chân chính, chỉ là mọi người vẫn cứ thích định nghĩa một cách vô nghĩa mà thôi. Trong xã hội thuộc về nhân loại này, tôi chẳng qua cũng chỉ làm theo cảm hứng của mình thôi.”
+
+“Tôi nghe không hiểu lắm,” Paimon nói.
+
+“Haha, nghiên cứu nhiều về nhân loại đi, nhóc con, rồi sẽ hiểu thôi,” Yae Miko nói.
+
+“Bạn rốt cuộc làm thế nào...” Lumine nói.
+
+“Đúng vậy! Lúc đó tôi đã dồn hết mọi sự chú ý vào Nhà Lữ Hành, hoàn toàn không để ý rốt cuộc bạn đã làm gì...” Paimon nói.
+
+“Là ‘bí thuật của Đền Narukami’, trong chốc lát là có thể khiến tên Scaramouche đó quỳ xuống xin tha, bạn tin không?” Yae Miko hỏi.
+
+“...” Lumine đáp.
+
+“Haha, so với việc suy nghĩ về vấn đề này, bạn càng nên suy nghĩ xem làm sao để trả ơn tôi mới phải chứ?” Yae Miko hỏi. “Hay là, đầu óc của bạn, vẫn có chút vấn đề gì đó...”
+
+“Vô cùng cảm tạ, Yae Miko đại nhân,” Lumine nói.
+
+“Không nói suông thế được, cái tôi cần là hành động của bạn cơ, haha,” Yae Miko nói. “Bạn hiện tại chắc là...vẫn đang day dứt về chuyện Delusion đúng không?”
+
+“Đúng vậy...” Lumine đáp.
+
+“Cứ yên tâm đi, thủ lĩnh của đảo Watatsumi đã dẫn theo thuộc hạ đi giải quyết rồi, cũng đã ban hành quân lệnh nghiêm cấm sử dụng Delusion,” Yae Miko nói. “Trong tình trạng căn cứ đã bị bại lộ, cái tên Scaramouche đó chắc cũng sẽ không làm những chuyện ngu ngốc thay cho đồng nghiệp của mình đâu. Làm cũng tốt lắm chứ, cô gái tên Sangonomiya Kokomi đó, tôi cũng muốn gặp mặt nói chuyện với cô ấy, chỉ đáng tiếc...vướng phải rào cản về khác biệt tín ngưỡng.”
+
+“Rào cản? Bạn là Guuji của Đền Narukami đó!” Paimon nói.
+
+“Được rồi, nói những chuyện này với bạn là để bạn yên tâm, sau đó chuyên tâm...giúp tôi làm một chuyện,” Yae Miko nói.
+
+“Chuyện gì?” Lumine hỏi.
+
+“Bạn...đã gặp cô ấy chưa?” Yae Miko hỏi.
+
+“Bạn nói Raiden Shogun?” Lumine hỏi.
+
+“Người tôi nói, không phải là ‘con rối’ đó, tôi muốn nói...chắc bạn đã gặp ‘cô ấy’ rồi chứ?” Yae Miko hỏi.
+
+“Ý bạn là...” Lumine đáp.
+
+“Ừm, là Raiden Shogun chân chính, vì để duy trì ‘bản ngã’ nên đã ở trong ‘Nhất Tâm Tịnh Thổ’ nhập tâm thiền tịnh...” Yae Miko nói. “Cô ấy tên là Ei.”
+
+“Ý bạn là, người xuất hiện trong nghi thức chỉ là con rối, còn Raiden Shogun chân chính là người mà Nhà Lữ Hành đã gặp sau đó?” Paimon hỏi. “Cũng có nghĩa là, thứ thay đổi lúc đó không chỉ là ‘chiến trường’, mà cả ‘đối thủ’ cũng thay đổi sao?”
+
+“Tôi cũng có để ý về những khác biệt nho nhỏ...” Lumine đáp.
+
+“Đây mới chính là sự ‘vĩnh hằng’ của vị Raiden Shogun đó,” Yae Miko nói. “Trước khi để vương quốc này theo đuổi vĩnh hằng, thì bản thân mình phải chạm đến vĩnh hằng trước tiên mới đúng. Thân xác rồi cũng sẽ trở về với cát bụi, thì cứ dùng ‘con rối’ để thay thế. Tinh thần cũng khó tránh hao tổn, nên cô ấy đã gửi ý thức vào trong thanh đao, dùng thiền tịnh để tránh mọi phiền nhiễu.”
+
+“Vậy thì, cái không gian do thanh đao vạch ra đó chính là...” Paimon nói.
+
+“‘Nhất Tâm Tịnh Thổ’, chính là không gian giống như ‘Thế Giới Nội Tâm’ của cô ấy, thường chỉ cho phép ‘bản ngã’ tồn tại,” Yae Miko nói. “Tự nhốt mình vào trong thế giới riêng, những thứ hỗn tạp bên ngoài thì lại giao cho một con rối chỉ biết hướng về vĩnh hằng mà bất chấp tất cả... ...Đây chính là đạo vĩnh hằng do Ei chiêm nghiệm ra.”
+
+“Zhongli cũng từng nhắc đến ‘sự mài mòn’,” Lumine nói.
+
+“Bạn nói về Morax sao? Lâu rồi không gặp, hóa ra vị thần của Liyue đã đưa ra lựa chọn như vậy, đúng là một vị thần thú vị,” Yae Miko nói.
+
+“Nhưng Raiden Shogun làm như vậy, có vẻ như sẽ tránh được vấn đề mà Zhongli băn khoăn...” Paimon nói.
+
+“Ha ha, nhưng mà...cách làm của cô ấy không phải cũng rất giống một đứa trẻ giận dỗi tự nhốt mình trong phòng sao?” Yae Miko hỏi. “Còn cái mà cô ấy gọi là ‘vĩnh hằng’, từ lâu cũng đã biến thành ‘vĩnh hằng’ mà bản thân cô ấy tưởng tượng ra vậy. Suy cho cùng...cũng chỉ là sợ mất đi mà thôi...”
+
+“Tôi vẫn chưa rõ bạn muốn tôi phải làm gì,” Lumine nói.
+
+“Thật ra...lập trường của bạn và tôi giống nhau,” Yae Miko nói. “Bạn muốn cứu giúp con dân Inazuma dưới Lệnh Truy Lùng Vision, tôi cũng vậy, chỉ là muốn sẵn tiện cứu rỗi vương quốc này, cũng như cứu rỗi cô ấy. Mà mấu chốt nằm ở chỗ, nếu như ‘Nhất Tâm Tịnh Thổ’ cũng đại diện cho thế giới nội tâm của Ei, vậy thì đánh bại cô ấy ở đó, sẽ có khả năng ‘xoay chuyển’ ý chí của Raiden Shogun.”
+
+“Đây chính là cách bãi bỏ Lệnh Truy Lùng Vision mà bạn nghĩ ra sao?” Paimon hỏi. “Không phải dựa vào ngôn từ để phản bác, cũng không phải dựa vào sức mạnh của quân kháng chiến, mà là...trực tiếp xoay chuyển thế giới nội tâm của Raiden Shogun?”
+
+“Hiểu cũng nhanh đó chứ, tóm lại, đây chính là cách duy nhất để kịp thời kéo Inazuma trở về quỹ đạo đúng đắn trước khi nó rơi vào ‘vĩnh hằng đen tối’,” Yae Miko đáp.
+
+“Nhưng tại sao...” Lumine nói.
+
+“Bạn vẫn chưa ý thức được điểm đặc biệt của mình sao? Tôi đã từng nói, ‘Nhất Tâm Tịnh Thổ’ là không gian thường chỉ cho phép bản ngã tồn tại, nhưng bạn có thể xuất hiện ở đó, chứng minh rằng...” Yae Miko nói. “...Cô ấy có hứng thú đối với bạn. Hoặc...so với vĩnh hằng mà nói, cô ấy chưa từng gặp một cá thể ‘không ổn định’ như vậy.”
+
+“Chưa từng có người khác vào sao?” Paimon hỏi.
+
+“Từ khi tín đồ của vĩnh hằng đó bắt đầu tự nhốt mình lại, thì chưa từng có ai, thậm chí không ai biết không gian đó rốt cuộc trông như thế nào,” Yae Miko đáp. “Sự tồn tại của bạn không chỉ là bước ngoặt, mà đúng hơn là ‘chìa khóa’...Bạn quả nhiên không làm tôi thất vọng mà, người bạn nhỏ.”
+
+“Ủa, sao bạn bỏ đi rồi? Muốn đi đâu vậy?” Paimon hỏi.
+
+“Huấn Luyện Phản Công Raiden Shogun, tôi đã tận tình chuẩn bị cho bạn đó, mau đi nào,” Yae Miko đáp. “Haizz, nếu như có thời gian, thật muốn được nhìn thấy bộ mặt nhăn nhó của Fatui...”
+
+---
+
+>Đến nơi huấn luyện.
+
+Lumine và Paimon đi theo Yae Miko đến nơi huấn luyện. Ở đó đã đặt sẵn một cơ quan kỳ lạ.
+
+“Là đây sao? Cơ quan bên trong là...?” Paimon hỏi.
+
+“Có thể xem đây là pháp khí mô phỏng lại chiêu thức của Raiden Shogun do tôi tạo ra...” Yae Miko đáp. “Nếu như nắm được chiêu thức của cô ấy và tìm ra đối sách ứng phó, xem chừng sẽ có lợi thế không nhỏ đấy! Vậy thì cố gắng đừng để bị đánh trúng nhé, dù sao cũng đã thoát chết dưới tay cô ta một lần rồi nên xem như cũng có kinh nghiệm mà đúng không?”
+
+>Hoàn thành “Huấn Luyện Phản Chiến Raiden Shogun” (Độ khó bất kỳ).
+
+Cơ quan khởi động, mô phỏng lại những chiêu thức của Raiden Shogun. Lumine vừa né tránh những đòn đánh, vừa tìm cách ứng phó cho đến khi hoàn thành bài huấn luyện.
+
+>Nói chuyện với Yae Miko.
+
+“Đúng là phải cố gắng tập luyện cho thật tốt mới được...” Paimon nói.
+
+“Chẳng qua cũng chỉ thế mà thôi,” Lumine nói.
+
+“Suy nghĩ lại thì, tại sao Yae lại biết nhiều chuyện về Raiden Shogun vậy?” Paimon hỏi.
+
+“Hử, đang hỏi tôi sao?” Yae Miko hỏi. “Có thể do...tôi là ‘gia quyến của Lôi Thần’ chăng.”
+
+“Ồ! Cũng giống như mối quan hệ giữa Dvalin và Barbatos đúng không? Thật là bất ngờ đó...” Paimon nói.
+
+“Haha, nói vậy có nghĩa là các bạn có hứng thú với hình dạng ‘tiểu thư hồ ly’ của tôi đúng không?” Yae Miko hỏi.
+
+“Đương nhiên rồi...” Lumine đáp.
+
+“Xì, còn lâu nhé,” Yae Miko nói.
+
+“Ối...” Paimon nói.
+
+“Thực ra điểm kỳ lạ ở đây không phải là hình dáng của tôi, mà là tại sao tôi và cô ấy lại không gặp nhau nữa, đúng không?” Yae Miko hỏi. “‘Vương quốc vĩnh hằng bất biến’ là ước mơ của tôi và cô ấy, nhưng tôi không cho rằng điều đó có nghĩa là mọi thứ phải ‘hoàn toàn không đổi’. Từ một lúc nào đó, cô ấy đã bước vào con đường khác với tôi. Trước khi Ei bước vào ‘Nhất Tâm Tịnh Thổ’, cũng không nói lời từ biệt với tôi. Hoặc có lẽ chỉ là ý kiến chủ quan của tôi mà thôi. Theo tôi nghĩ, cô ấy cho rằng đây cũng là cách để cho tình bạn hóa thành vĩnh hằng. Không nói lời từ biệt, cũng sẽ không gặp lại, mối quan hệ của chúng tôi sẽ mãi được duy trì như năm xưa, chí ít thì trong suy nghĩ của cô ấy là vậy.”
+
+“Người mang ý kiến chủ quan có chăng chính là Raiden Shogun,” Lumine nói.
+
+“Nếu như đã bước vào hai con đường vĩnh hằng khác nhau, tôi vẫn có thể cứ duy trì tình trạng hiện tại, hoặc cũng có thể lựa chọn kéo cô ấy quay về con đường đúng đắn bằng mọi giá...” Yae Miko nói. “Hiện tại, tôi lựa chọn cách thứ hai, bởi vì...nếu ẩn mình vào ‘Nhất Tâm Tịnh Thổ’ là chấp niệm của cô ấy đối với sự vĩnh hằng... Thì đưa cô ấy ra khỏi thế giới của ‘cái tôi’ ấy, chính là hành động thực tiễn của một ‘gia quyến vĩnh hằng’ như tôi.”
+
+“Tiểu thư Yae...quả là một người bạn tốt,” Paimon nói.
+
+“Hừm, tôi cung cấp những thông tin này đều là để các bạn hiểu được kế hoạch hiện giờ của tôi, cho nên đừng tưởng bở nhé!” Yae Miko nói. “Được rồi, nói đến đây thôi, đến lúc tiến hành ‘phản công Raiden Shogun giai đoạn 2’ rồi.”
+
+“Vẫn còn nữa sao!” Paimon nói.
+
+>Hoàn thành giai đoạn tiếp theo của “Huấn Luyện Phản Chiến Raiden Shogun”.
+
+Lumine bước vào giai đoạn huấn luyện thứ hai và cũng vượt qua nó.
+
+>Nói chuyện với Yae Miko.
+
+“Phù... hoàn thành rồi, thấy thế nào?” Paimon hỏi.
+
+“Ừm, không tệ đấy, tôi đã thấy được quyết tâm và nỗ lực của các bạn rồi,” Yae Miko đáp.
+
+“Vậy theo bạn, chúng tôi có cơ hội đánh thắng Raiden Shogun không?” Paimon hỏi.
+
+“Theo tôi thấy thì...chưa đủ trình đâu,” Yae Miko đáp.
+
+“Này! Vậy không phải là phí công vô ích sao!” Paimon nói.
+
+“Haha, các bạn là mấu chốt quan trọng trong kế hoạch, nên tôi tự có tính toán, sao lại để các bạn lao đầu vào chỗ chết như vậy chứ,” Yae Miko nói. “Nói ra thì...Nhà Lữ Hành, bạn đánh giá thực lực của quân kháng chiến như thế nào?”
+
+“Nói thật thì...” Lumine đáp.
+
+“Haha, đúng vậy. Nếu như có thể may mắn chiếm được ưu thế trước quân Shogunate, thì khi đối mặt với Raiden Shogun cũng sẽ...” Yae Miko nói. “Chỉ với sức lực của những con người bị mất đi Vision thì cuộc chiến này quả thật như lấy trứng chọi đá.”
+
+“Đừng có nói toạc ra vậy chứ, dù sao Nhà Lữ Hành cũng là đội trưởng của ‘Đội Cá Kiếm 2’ mà!” Paimon nói.
+
+“Ha ha, tôi không có ý xem thường họ, nếu như nhìn theo chiều hướng tích cực...” Yae Miko nói. “Thì chính vì họ nhỏ bé và mất đi Vision, nên ‘ý chí’ của họ mới kiên cường đến vậy. Tóm lại, nếu như có thể tiến hành theo kế hoạch thì họ cũng xem như là giúp được đôi chút.”
+
+“Kế hoạch...rốt cuộc là gì?” Lumine hỏi.
+
+“Hừm...cũng không còn sớm nữa, tôi còn có vị khách cần tiếp, hãy theo tôi về Đền Narukami rồi tính tiếp nhé!” Yae Miko đáp.
+
+“Sao lại đột nhiên đòi đi tiếp khách thế! Thật khó hiểu...” Paimon nói.
+
+---
+
+>Trở về Đền Narukami, nói chuyện với Yae Miko.
+
+Lumine và Paimon theo Yae Miko trở về Đền Narukami.
+
+“Được rồi, tiếp tục bàn chuyện ở đây đi. Về phần kế hoạch, thì bản thân tôi cũng đã nghiền ngẫm khá lâu rồi,” Yae Miko nói. “Bạn có biết trước khi lập kế hoạch thì điều quan trọng nhất là gì không?”
+
+“Là gì vậy?” Paimon hỏi.
+
+“Là nhìn thấu thời cuộc,” Yae Miko đáp. “Việc ban bố Lệnh Truy Lùng Vision, rõ ràng là có người lợi dụng đặc điểm chỉ hướng đến vĩnh hằng của ‘con rối Shogun’ mà bày trò.”
+
+“Tình báo của ‘Scaramouche’ cũng đã chứng thực điều này,” Lumine nói.
+
+“Ừm, đấy là bằng chứng rõ ràng nhất,” Yae Miko nói. “Thử nghĩ lại, việc ban bố và chấp hành Lệnh Truy Lùng Vision, xưa nay chỉ do Hiệp Hội Tenryou theo dõi và báo cáo.”
+
+“Hình như trước đây Ayaka đã từng nói, mỗi lần công văn phản đối Lệnh Truy Lùng Vision được trình lên thì Hiệp Hội Tenryou và Hiệp Hội Kanjou đều lập tức phủ quyết, không cho cơ hội thương lượng,” Paimon nói.
+
+“Hiệp Hội Tenryou đang làm việc cho Fatui sao,” Lumine nói.
+
+“Ừm, thực ra mọi thứ đã rõ ràng từ lâu rồi, hai hiệp hội đó đều đã cấu kết với Fatui. Hừ, một đám người ngu ngốc hám lợi,” Yae Miko nói. “Cho nên, kẻ thù thực sự của chúng ta chính là Fatui, chúng vừa lôi kéo hai hiệp hội, vừa âm thầm sản xuất Delusion... Chỉ tiếc rằng bây giờ hai hiệp hội đó dưới sự bảo hộ của Shogun vẫn chưa để lộ sơ hở gì.”
+
+“Vậy phải làm sao đây?” Paimon hỏi.
+
+“Mọi chuyện sẽ dễ dàng hơn khi chúng ta nhắm thẳng vào một ai đó trong Inazuma,” Yae Miko đáp. “Vậy nên, tôi chuẩn bị...ly gián Hiệp Hội Tenryou.”
+
+“Ly gián Hiệp Hội Tenryou? Không phải Hiệp Hội Tenryou đang làm phản rồi sao?” Paimon hỏi.
+
+“Haha, ý của tôi là...khiến một ai đó phản bội lại Hiệp Hội Tenryou hiện giờ,” Yae Miko đáp. “Nếu lợi dụng ‘cô ấy’, tôi nghĩ chắc chắn sẽ đưa được bạn...đến trước mặt Raiden Shogun lần nữa.”
+
+“Đừng có úp mở nữa...” Lumine nói.
+
+“Chính là người đang thống lĩnh quân đội Shogunate, mỗi tháng cứ đến giờ này đều sẽ vào đền bái tế, và cũng là vị khách của chúng ta hôm nay,” Yae Miko nói. “Cô ấy có vẻ...đang đứng phía sau bạn đấy.”
+
+Phía sau lưng Lumine, Kujou Sara đã dẫn theo binh lính bao vây từ lúc nào.
+
+“Không được cử động! Kẻ bị truy nã lại dám nhởn nhơ trước đền thần sao!” Kujou Sara nói. “Đừng có giở trò, ngoan ngoãn theo ta về hiệp hội. Bắt lấy ả!”
+
+“Vâng!” Motosuke nói.
+
+“Kujou...Sara!” Paimon nói.
+
+“Yo, có phải các vị đã quên mất nơi đây là Đền Narukami nhỉ...” Yae Miko nói. “Dùng vũ lực ở đây, chính là bất kính với Shogun...tội danh này các người có gánh nổi không?”
+
+“...Hừ,” Kujou Sara đáp. “Đại nhân Yae, cô đang bảo vệ cho tên tội phạm này sao?”
+
+“Chỉ là mối quan hệ bạn bè mà thôi, nói gì mà bảo vệ với không bảo vệ chứ. Cô bảo người của cô rút lui trước đi, hôm nay chúng ta có chuyện cần thương lượng đấy,” Yae Miko đáp.
+
+“Các người đi trước đi,” Kujou Sara nói.
+
+“Tuân lệnh,” Sue Yoshitaka nói.
+
+“Vậy thì, dám hỏi đại nhân Yae, việc bao che cho tội phạm truy nã, có phải sẽ được khép vào tội bất kính với Shogun không?” Kujou Sara hỏi.
+
+“Hahaha... vẫn phong cách cũ nhỉ Kujou Sara, xét về độ trung thành với Shogun thì không ai hơn được cô cả,” Yae Miko đáp.
+
+“Thân là thuộc hạ, đương nhiên phải trung thành với Shogun. Thân là người luyện võ, cảnh giới của Shogun đương nhiên là điều mà tôi theo đuổi cả đời,” Kujou Sara nói.
+
+“Cho dù Raiden Shogun một ngày nào đó... có tước đi Vision của cô cũng được sao?” Yae Miko hỏi.
+
+“Lệnh Truy Lùng Vision là do Shogun ban bố, tôi tuyệt đối không oán trách nửa lời,” Kujou Sara đáp.
+
+“Haiz, chỉ tiếc là... sự trung thành này lại bị thời thế phản bội. Không biết nên nói cô đang hồ đồ, hay đang là người tỉnh táo nhất nhỉ?” Yae Miko hỏi.
+
+“Đừng vòng vo nữa Yae, lời này của cô là có ý gì,” Kujou Sara đáp.
+
+“Lệnh Truy Lùng Vision chỉ là do Fatui giật dây, để cho Inazuma tự tay phế bỏ sức mạnh của mình mà thôi,” Yae Miko nói. “Và kẻ nhận lệnh lại chính là gia chủ của nhà cô, gia tộc Kujou của Hiệp Hội Tenryou.”
+
+“Cô nói sao, nhà Kujou... đã phản bội Shogunate?” Kujou Sara hỏi.
+
+“Đúng vậy, cô hiểu đúng đấy,” Yae Miko đáp.
+
+“Đại nhân Yae, lời vu khống này của cô không chỉ buồn cười, mà còn nguy hiểm cho tính mạng của cô đấy. Hiệp Hội Tam Cực xưa nay luôn trung thành với Shogun, chưa hề thay đổi,” Kujou Sara nói. “Tôi được nhà Kujou thu nhận, xưa nay đã tận mắt chứng kiến cả gia tộc trên dưới đều trung thành tuyệt đối với Shogun, đặc biệt là đại nhân Takayuki... Sự sùng bái của gia chủ đối với ‘Lưỡi Đao Vô Tưởng’ cao hơn bất kỳ ai, sự tôn trọng của tôi với Shogun chưa bằng một phần mười của ngài ấy. Vậy thì thử hỏi tại sao gia chủ lại làm ra chuyện bất lợi cho Shogun đại nhân được chứ?”
+
+“Cho tôi ba ngày... ba ngày sau cô quay lại đây, tôi sẽ đưa bằng chứng cho cô,” Yae Miko đáp. “Thân là một Guuji, tôi hiểu rõ một điều, rằng con người rất hay tin tưởng những điều bản thân tình nguyện tin tưởng. Cho nên có những chuyện chỉ là do cô tự mình không muốn nhìn thấy mà thôi. Vậy thì chi bằng... để tôi làm kẻ xấu, thu gom hết tất cả lại và trình lên trước mặt cô.”
+
+“Hừ... ba ngày đúng không, tôi sẽ đợi. Nếu không lấy được bằng chứng thì cô chuẩn bị tinh thần đi trình bày với Shogun đại nhân đi, còn nữa...” Kujou Sara nói. “...Tôi cũng sẽ bắt cho bằng được ả về.”
+
+“Được rồi! Vậy thì ba ngày sau mong quý khách quay lại đây nhé,” Yae Miko nói.
+
+“Nguy hiểm quá, không ngờ Kujou Sara lại đến đây...” Paimon nói. “Hơn nữa... cô nói chứng cứ phản bội của Hiệp Hội Tenryou... không lẽ đã có manh mối rồi sao?”
+
+“Sao cứ mãi hỏi chuyện này thế nhỉ, đương nhiên là không có rồi. Ban nãy do tôi thấy không thể thuyết phục được Kujou Sara nên mới nói thế thôi,” Yae Miko đáp.
+
+“Úi... không ngờ luôn đó,” Paimon nói.
+
+“Chuyện chống lại thần linh đến bây giờ vẫn luôn là một ván cược, ai mà dám đảm bảo sẽ nắm chắc phần thắng chứ?” Yae Miko hỏi.
+
+“Vậy chúng ta phải làm sao đây, thời gian chỉ còn ba ngày nữa mà thôi!” Paimon đáp.
+
+“Muốn có được chứng cứ thì chúng ta phải cần có sự giúp đỡ. Bây giờ thì... theo tôi đi gặp ‘chuyên gia’ đi,” Yae Miko nói.
+
+#CH|Phần 5|Công Văn Định Tội|sayu_splash.png|Công Văn Định Tội
+
+>Trong thời hạn 3 ngày, bạn phải nhanh chóng tìm được chứng cứ để chứng minh với Kujou Sara rằng nhà Kujou đã phản bội Shogunate.
+
+>Đến Rừng Chinju.
+
+Yae Miko dẫn Lumine và Paimon đến Rừng Chinju để gặp “chuyên gia” mà cô nhắc tới.
+
+>Tìm người giúp đỡ mà Yae Miko nói đến.
+
+Lumine tìm thấy một con Tanuki trong rừng. Khi cô tiến lại gần, nó bỗng biến thành một cô bé nhỏ nhắn đang ngái ngủ.
+
+“Ối, Tanuki biến thành người rồi!” Paimon nói. “Đây là gì vậy, lần đầu tiên thấy đó!”
+
+“Không phải Tanuki... mà là Mujina... Hơ...” cô bé nói. “Buồn ngủ quá... ngủ không đủ giấc thì sẽ không cao lên được đâu...”
+
+“Không lẽ đây là ‘chuyên gia’ mà tiểu thư Yae nhắc đến sao?” Paimon hỏi. “Trông có vẻ sai sai sao ấy.”
+
+“...Đây là thành viên của ‘Shuumatsuban’, là một Ninja xịn đấy,” Yae Miko nói.
+
+“Ninja! Vậy ban nãy, không lẽ là thuật thế thân trong truyền thuyết sao?” Paimon hỏi. “Nhưng mà, ‘Shuumatsuban’ là gì nhỉ?”
+
+“Shuumatsuban trực thuộc Hiệp Hội Yashiro, là đội quân bí mật của Kamisato Ayato,” Yae Miko đáp. “Giờ đây Kamisato Ayato và Hiệp Hội Yashiro đang giữ thái độ trung lập, nên tôi cũng không thể điều động Shuumatsuban. Nhưng mà, việc tóm cổ một thành viên lười biếng của Shuumatsuban đến giúp đỡ thì cũng không phải chuyện khó.”
+
+“Hứ...” cô bé nói.
+
+“Vậy thì nhờ các bạn trà trộn vào trong thành để tìm chứng cứ phản loạn của Hiệp Hội Tenryou nhé,” Yae Miko nói. “Dẫu sao dưới thân phận của tôi thì tôi cũng không thích hợp lộ mặt cho lắm.”
+
+“Cho dù có nói vậy...” Paimon nói.
+
+“Cảm giác không có chút manh mối gì,” Lumine nói.
+
+“Hừm? Tôi còn nghĩ bạn đã đoán ra rồi chứ. Được rồi, vậy tôi sẽ gợi ý,” Yae Miko nói. “Đối với người ngoài mà nói, nếu muốn lật tẩy Hiệp Hội Tenryou đúng là rất khó. Nhưng Hiệp Hội Tam Cực cùng phò trợ Shogun, quan hệ rất mật thiết, vì vậy có một hiệp hội có thể phát hiện được sự bất thường trong đó...”
+
+“Hiệp Hội Yashiro!” Lumine nói.
+
+“Ha ha... xem ra bạn cũng hiểu được đôi chút rồi,” Yae Miko nói. “Shogunate vẫn đang truy nã bạn, nhưng với sự giúp đỡ của vị ninja này, tin rằng rất nhanh thôi bạn sẽ gặp lại bạn bè. Đừng quên lấy chứng cứ cho tôi trước giờ hẹn nhé.”
+
+---
+
+>Đến Phòng Trà Komore.
+
+Có Sayu giúp đỡ, Lumine lẻn vào thành Inazuma, đến Phòng Trà Komore.
+
+>Nói chuyện với Thoma.
+
+“Thoma! Thoma anh đâu rồi?” Paimon hỏi. “Là chúng tôi đây, chúng tôi trở về rồi!”
+
+“Lumine, sao hai bạn lại quay về đây rồi?” Thoma hỏi. “Đã gặp được quân kháng chiến chưa? Tình hình chiến trận thế nào rồi? Tôi có thể ra ngoài được chưa?”
+
+“Có lẽ vẫn chưa... Khi chúng tôi tới vẫn thấy có rất nhiều lính tuần tra bên ngoài,” Paimon đáp.
+
+“Xem ra vẫn chưa kết thúc... vậy thì các bạn đến đây, tôi nghĩ là có chuyện cần tìm chúng tôi thương lượng đúng không,” Thoma nói. “Để tôi tìm người gọi tiểu thư đến, chờ chút nhé.”
+
+Thoma đi gọi tiểu thư nhà Kamisato đến. Lumine kể tình hình hiện tại cho Thoma và Ayaka nghe.
+
+“Thì ra là vậy, các bạn cũng trải qua nhiều chuyện nhỉ,” Kamisato Ayaka nói. “Tôi đã nắm được tình hình rồi, chuyện tìm chứng cứ phản loạn của Hiệp Hội Tenryou, để tôi nghĩ cách... Nói ra tôi mới để ý, Shogunate và quân kháng chiến giao chiến đã lâu, nhưng Shogun chưa từng hỏi qua chuyện này. Tôi tưởng rằng Shogun không để tâm đến việc này, nhưng giờ đây suy nghĩ lại, có thể công văn của Hiệp Hội Tenryou trình cho Shogun có vấn đề.”
+
+“Ý của Ayaka là...” Paimon nói.
+
+“Hiệp Hội Tenryou nắm giữ mọi việc của quân đội, nếu như họ có ý muốn che giấu thì chúng tôi sẽ không thể nào biết được,” Kamisato Ayaka nói. “Kết quả cho thấy, Shogun đang hiểu sai về tình hình của Lệnh Truy Lùng Vision, cho nên vẫn hành động theo ý mình. Nếu như mình có thể lấy được công văn đó thì mọi chuyện sẽ sáng tỏ.”
+
+“Theo tôi nhớ, người có quyền lực tiếp xúc với những công văn thượng tấu đó, chỉ có Kujou Takayuki,” Thoma nói. “Nhưng ở đó có nhiều thân binh canh giữ, cho dù có Sayu giúp đỡ đi nữa cũng khó lòng trộm được công văn.”
+
+“Nếu như có thứ gì đó đánh lạc hướng đám thân binh đó là tốt rồi,” Kamisato Ayaka nói. “Ừm...”
+
+“Nếu có thể thu hút sự chú ý...” Lumine nói.
+
+“Pháo hoa của Yoimiya!” Thoma nói.
+
+“Đầu óc của Thoma nhanh nhạy thật...” Kamisato Ayaka nói. “Cũng không phải là không có lý. Kế bên Hiệp Hội Tenryou là tượng thần, nếu như đốt pháo hoa ở đó thì Hiệp Hội Tenryou không thể không quản. Đến lúc đó Sayu sẽ có thể đột nhập vào Hiệp Hội Tenryou, lấy đi công văn và các bằng chứng khác...”
+
+“Được! Tôi cảm giác ngày tôi được tự do đang đến gần rồi,” Thoma nói. “Phù... cảm giác được nói chuyện chung với nhau thế này, có vẻ như đã rất lâu rồi nhỉ.”
+
+“Hình như cũng mới đây mà...” Lumine nói.
+
+“Đối với tôi mà nói thì đã rất lâu rồi, tôi mong chờ tin tức của các bạn mỗi ngày đó!” Thoma nói. “Trước đây thì đây là nơi trú ẩn bí mật mà tôi thích nhất, nhưng sau khi trải qua chuyện này, tôi đã không biết bao lâu rồi chưa rời khỏi phòng trà. Đáng ghét, tôi muốn đi suối nước nóng quá!”
+
+“Thoma thật đáng thương...” Paimon nói.
+
+“Chúng ta phải giải quyết vấn đề trước mắt đã, sau khi loại bỏ được Lệnh Truy Lùng Vision thì Thoma sẽ được tự do rồi,” Kamisato Ayaka nói. “Tuy là chúng ta đã gặp lại nhau, nhưng trước mắt không có thời gian để hàn huyên rồi. Đợi khi mọi thứ kết thúc, chúng ta sẽ tổ chức ăn mừng thật lớn.”
+
+“Đến lúc đó chúng ta lại sẽ chơi trò nấu lẩu nữa nhé!” Thoma nói.
+
+“Tôi vẫn còn nhớ trò đó đấy nhé!” Paimon nói.
+
+“Thân binh của Hiệp Hội Tenryou rất nhiều, các bạn khi tiếp cận phải tuyệt đối cẩn thận. Chúng ta sẽ gặp lại nhau sau,” Kamisato Ayaka nói.
+
+“Vậy thì Lumine, chúng ta đến Hanamizaka tìm Yoimiya thôi,” Paimon nói.
+
+---
+
+>Đến nhờ Yoimiya giúp đỡ.
+
+Lumine và Paimon đến Hanamizaka, tìm Yoimiya ở tiệm pháo hoa Naganohara.
+
+“Yoimiya, chúng tôi muốn đặt một loại pháo hoa siêu to khổng lồ!” Paimon nói.
+
+“Pháo hoa siêu to khổng lồ?” Yoimiya hỏi. “Hihi, vậy thì tìm đúng người rồi đó. Thực ra hai ngày trước tôi có làm ra một thứ đặc biệt lợi hại. Nhưng chính vì uy lực của nó lớn quá nên đến giờ vẫn chưa tìm được chỗ để thí nghiệm... Giờ tôi tặng cho các bạn, các bạn mang đi thí nghiệm giúp tôi nhé. Nhớ lấy, đốt xong là chạy ngay nhé, còn phải bịt tai lại nữa đó...”
+
+“Sao có cảm giác không lành thế nhỉ...” Paimon nói.
+
+“Hihi, không sao đâu, pháo hoa thôi mà, chỉ là pháo hoa thôi, yên tâm yên tâm nhé!” Yoimiya nói.
+
+“Vậy chúng tôi sẽ sử dụng nó thử... cảm ơn nhé Yoimiya,” Paimon nói.
+
+“Lấy được pháo hoa rồi, giờ đợi đến tối thôi,” Paimon nói.
+
+>Chờ đến nửa đêm (0-5 giờ).
+
+Hai người chờ cho đến khi trời tối hẳn.
+
+---
+
+>Đến nơi chỉ định ở gần Phủ Hiệp Hội Tenryou.
+
+Nửa đêm, Lumine và Paimon đến nơi đã hẹn gần Phủ Hiệp Hội Tenryou, gặp lại Sayu.
+
+>Nói chuyện với Sayu.
+
+“Ừm... đúng như tôi nghĩ...” Sayu nói. “Rất nhiều rất nhiều người... chúng ta rất dễ bị phát hiện... Cần phải dụ chúng ra thì mới có thể lẻn vào được...”
+
+“Trông cậy vào Yoimiya rồi,” Lumine nói.
+
+“Đợi khi tôi lấy được công văn, chúng ta sẽ gặp nhau tại Phòng Trà Komore, được chứ?” Sayu hỏi. “Còn nữa, nếu như tôi bị tóm thì... nhớ đến cứu tôi nha...”
+
+“Có ổn thật không đó...” Paimon nói. “Nói chung thì chúng ta đến chỗ Tượng Trăm Mắt Nghìn Tay trước đi! Phải cẩn thận không được để bị phát hiện!”
+
+>Đốt pháo hoa dụ lính gác.
+
+Lumine lén mang pháo hoa của Yoimiya đến cạnh Tượng Trăm Mắt Nghìn Tay rồi châm ngòi. Một tiếng nổ lớn vang lên giữa đêm, pháo hoa bùng sáng trên bầu trời.
+
+“Pháo hoa gì thế này! Lỗ tai choáng váng cả luôn rồi!” Paimon nói. “Yoimiya hành động lỗ mãng quá...”
+
+Thân binh của Hiệp Hội Tenryou từ khắp nơi kéo đến.
+
+“Xảy ra chuyện gì sao?” một thủ vệ hỏi.
+
+“Hình như là ở phía tượng thần...” một thủ vệ khác đáp.
+
+“Tượng thần có chuyện rồi...” một thủ vệ nói.
+
+“Mau hành động!” một thủ vệ khác nói.
+
+“Hình như có người...” một thủ vệ nói.
+
+“Chết rồi, tất cả lính canh đều phát hiện chúng ta rồi. Lumine, mau chạy thôi...” Paimon nói.
+
+>Rời khỏi hiện trường, trở về Phòng Trà Komore.
+
+Lumine và Paimon cắt đuôi đám lính canh rồi chạy một mạch về Phòng Trà Komore.
+
+---
+
+>Về Phòng Trà Komore.
+
+>Nói chuyện với Kamisato Ayaka.
+
+“Sao rồi Lumine, kế hoạch thuận lợi chứ?” Kamisato Ayaka hỏi.
+
+“Tôi đốt xong pháo hoa là chạy đi mất rồi...” Lumine đáp.
+
+“Vất vả rồi, vậy thì chúng ta ngồi đợi tin tức của Sayu thôi,” Kamisato Ayaka nói.
+
+Một lúc sau, Sayu trở về, thở không ra hơi.
+
+“Phù... phù...” Sayu nói. “Tuy là vận động nhiều sẽ tăng chiều cao, nhưng hôm nay tôi vận động hơi quá rồi... Chóng mặt quá... mọi người... đều đang quay vòng vòng... Không được, trước khi đi ngủ, hình như có chuyện quan trọng... À phải rồi, tôi đã lấy được rồi. Tôi không biết các bạn cần loại ‘công văn’ nào, nên đã lấy hết tất cả những thứ khả nghi về rồi. Hoàn thành nhé... tôi đi ngủ đây...”
+
+“Tiểu thư, đây là...” Thoma nói.
+
+“Cái này có dấu ấn dán lại, có thể là công văn trình lên cho Shogun,” Kamisato Ayaka nói. “Còn cái này... là thư trao đổi giữa họ và Fatui. Xem ra Yae đã đoán đúng, tình thế chiến loạn của Inazuma hiện giờ chính là do họ giật dây. Lumine, những chứng cứ này đã đủ rồi. Chúng ta mang đi giao cho Guuji Yae đi, tin rằng cô ấy sẽ có kế hoạch tiếp theo. Tôi cũng sẽ triệu tập nhân lực để truy quét lũ Fatui đang rình mò Inazuma.”
+
+“Nhưng mà, cần phải cẩn thận Shogun đại nhân nhé, nghĩ tới cảnh rút đao trước đây của cô ta thôi là tôi cứng hết cả người luôn rồi,” Thoma nói.
+
+“Chỉ còn cách tin tưởng vào Guuji Yae thôi, cô ấy có mối quan hệ mật thiết với Shogun, có thể sẽ có cách...” Kamisato Ayaka nói.
+
+“Cũng sắp đến ngày hẹn với Yae Miko rồi,” Paimon nói. “Chúng ta mau chuẩn bị rồi khởi hành đến Đền Narukami thôi.”
+
+#CH|Phần 6|Trung Dũng Mù Quáng|sara_splash.png|Trung Dũng Mù Quáng
+
+>Đã có được chứng cứ Hiệp Hội Tenryou phản bội Shogunate, như vậy, lập trường của Kujou Sara sẽ thay đổi hay không?
+
+>Trở về Đền Narukami, tìm Yae Miko.
+
+Đến ngày hẹn, Lumine và Paimon mang theo chứng cứ trở về Đền Narukami. Kujou Sara cũng đã đến, một mình.
+
+“Đại nhân Guuji Yae, tôi đến rồi đây. Xin hãy yên tâm, tôi không có dẫn theo tùy tùng đến, chuyến đi này cũng sẽ không có ai biết,” Kujou Sara nói.
+
+“Tôi biết là cô sẽ giữ lời, tôi đoán thậm chí... mấy ngày nay cô cũng ăn ngủ không yên đúng không?” Yae Miko hỏi.
+
+“Tôi... tôi không bao giờ có ý nghi ngờ gia chủ của tôi, cô suy nghĩ quá nhiều rồi,” Kujou Sara đáp. “Vậy bây giờ, cho tôi hỏi chứng cứ đang ở đâu?”
+
+“Ở đây,” Lumine đáp.
+
+“Ồ! Thêm một người giữ chữ tín nữa quay về rồi,” Yae Miko nói.
+
+“Chúng tôi vất vả lắm mới lấy được thứ này đó,” Paimon nói.
+
+“Đưa cho Sara xem đi, rồi tự cô ấy sẽ có kết luận,” Yae Miko nói.
+
+“Đây là...” Kujou Sara nói. “...Đây đúng là quan ấn của gia chủ... Quân kháng chiến, Sangonomiya, chuyện tiền tuyến, đúng là không hề nhắc đến... Những tướng sĩ đã ngã xuống, sự đau khổ của dân chúng, đều không đáng để nhắc đến sao! Thật là xem thường mạng người, tại sao gia chủ lại giấu chuyện này chứ...”
+
+“Đương nhiên là vì để Lệnh Truy Lùng Vision được thi hành thuận lợi rồi, nếu như báo cáo chân thật quá lỡ Shogun rút lại mệnh lệnh thì sao?” Yae Miko hỏi.
+
+“Hiệp Hội Tenryou... quả nhiên cố ý qua mặt Shogun!” Kujou Sara đáp.
+
+“Đúng vậy, nghĩ thử xem, nếu Lệnh Truy Lùng Vision được thi hành thuận lợi... thì ai là người có lợi nhất?” Yae Miko hỏi.
+
+“Ở đây còn có một lá thư mật,” Lumine đáp.
+
+“Là thư trao đổi giữa Hiệp Hội Tenryou và Fatui, cũng là do gia chủ nhà Kujou cố tình che giấu,” Paimon nói.
+
+“...” Kujou Sara nói.
+
+“Thế nào? Thứ mà cô muốn thấy và không muốn thấy đều đã được trình lên trước mặt cô rồi,” Yae Miko nói. “Cô còn có ý định... tránh né sự thật không?”
+
+“Tôi cố gắng đến tận bây giờ là vì cái gì chứ... bọn họ... đáng ghét!” Kujou Sara đáp. “Tôi sẽ không tha thứ cho hành vi phản bội... tôi sẽ tìm gia chủ để đối chất!”
+
+Nói rồi, Kujou Sara quay người bỏ đi.
+
+“Kujou Sara nổi giận rồi, xem ra kế hoạch thành công rồi,” Paimon nói.
+
+“Quân Shogunate sẽ tạm thời như rắn mất đầu,” Lumine nói.
+
+“Ừm, đuổi theo cô ta,” Paimon nói.
+
+“Đợi đã, tôi còn có chuyện muốn nói,” Yae Miko nói.
+
+“Hử?” Paimon hỏi.
+
+“Lần đầu tiên bạn vào ‘Nhất Tâm Tịnh Thổ’, là ở trước Tượng Trăm Mắt Nghìn Tay đúng không?” Yae Miko hỏi.
+
+“Đúng vậy,” Lumine đáp.
+
+“Bạn cần phải nghĩ cách để tái hiện lại chuyện này,” Yae Miko nói. “Đến trước Tượng Trăm Mắt Nghìn Tay, để cho Raiden Shogun mở Tịnh Thổ một lần nữa, như vậy là sẽ có cơ hội...”
+
+“Tôi sẽ cố gắng,” Lumine nói.
+
+“Mang theo thứ này đi, xem như là quà tạm biệt,” Yae Miko nói.
+
+“Đây là...?” Paimon hỏi.
+
+“Là bùa hộ mệnh của Đền Narukami, rất linh nghiệm, tôi đã làm cho bạn đấy,” Yae Miko đáp.
+
+“Cảm ơn...” Lumine nói.
+
+“Nếu như gặp phải hiểm cảnh, có thể nó sẽ hóa dữ thành lành,” Yae Miko nói. “Đương nhiên là khi nhớ tôi thì cũng có thể lấy ra ngắm, biết đâu tôi sẽ xuất hiện ngay phía sau bạn thì sao!”
+
+“Sự việc đang nguy cấp mà tiểu thư hồ ly vẫn có hứng trêu đùa nhỉ,” Paimon nói.
+
+“Hahaha... vậy thì tôi giao cô bạn ngốc nghếch của tôi cho các bạn nhé,” Yae Miko nói.
+
+---
+
+>Đi theo Kujou Sara đến Phủ Hiệp Hội Tenryou.
+
+Lumine và Paimon đuổi theo, bắt kịp Kujou Sara trên đường.
+
+>Nói chuyện với Kujou Sara.
+
+“Các người cũng đến rồi sao? Lá gan cũng khá to đấy,” Kujou Sara nói. “Các người thân là nhân chứng, trước khi tôi đối chất xong với gia chủ thì các người có thể sẽ được an toàn. Nhưng mà... nếu như lời nói trước đây của các người có vấn đề gì, thì đừng trách tôi không khách sáo, hiểu rồi chứ?”
+
+“Cứ việc,” Lumine đáp.
+
+“Hừ, rất tốt,” Kujou Sara nói.
+
+>Cùng Kujou Sara xông vào Phủ Hiệp Hội Tenryou.
+
+Kujou Sara đi thẳng vào Phủ Hiệp Hội Tenryou. Hộ vệ canh cửa vội vàng chặn lại.
+
+“Kujou Sara đại nhân, gia chủ có dặn dò, không ai được phép đi vào!” một hộ vệ Hiệp Hội Tenryou nói.
+
+“Tránh ra, ta có việc cần tìm gia chủ!” Kujou Sara nói.
+
+>Đánh bại Hộ Vệ Hiệp Hội Tenryou.
+
+Đám hộ vệ lao vào ngăn cản. Lumine cùng Kujou Sara đánh bại bọn họ, xông vào bên trong.
+
+>Nói chuyện với Kujou Takayuki.
+
+“Dừng tay! Sara, ngươi điên rồi à! Dám vi phạm lệnh cấm của ta sao!” Kujou Takayuki nói.
+
+“Gia chủ...” Kujou Sara nói.
+
+“Chất vấn đi, đừng để khí thế của hắn làm cho nhụt chí!” Paimon nói.
+
+“Hừ... Đại nhân Takayuki, tôi đã xem qua công văn trình lên Shogunate và bức thư trao đổi với Fatui. Xin ngài... hãy cho tôi lời giải thích!” Kujou Sara nói.
+
+“Thì ra công văn là do ngươi trộm sao? Hừ...” Kujou Takayuki nói.
+
+“Câu này tôi có thể hiểu là... Công văn và bức thư đó đều chính do ngài viết, không hề ngụy tạo đúng không?” Kujou Sara hỏi. “Gia chủ, ngài hãy trả lời tôi, Hiệp Hội Tenryou... có phải đã phản bội Shogunate không!”
+
+“Hừ... Ta đích thực có qua lại với Fatui, công văn đó cũng chính là do ta viết,” Kujou Takayuki nói.
+
+“Thừa nhận rồi sao...” Paimon nói.
+
+“Chỉ cần hỗ trợ Lệnh Truy Lùng Vision được thi hành thuận lợi, vậy là sẽ có được lợi ích như đã hứa từ sứ giả Snezhnaya...” Kujou Takayuki nói. “Từ trước đến giờ, có rất nhiều gia tộc đang manh nha thế chỗ nhà Kujou, tiềm lực của chúng cũng không nhỏ. Nếu như có được sự ủng hộ của Snezhnaya, lại có thể mượn Lệnh Truy Lùng Vision để làm suy yếu thực lực của kẻ địch thì... Ta cho rằng đây là cuộc giao dịch đáng làm, chỉ là không việc gì phải nói cho ngươi nghe thôi Sara.”
+
+“Ngài rõ ràng... rõ ràng rất tôn sùng Shogun, tại sao lại thản nhiên bàn chuyện phản bội vậy chứ!” Kujou Sara nói.
+
+“Phản bội? Đây xem như là phản bội sao?” Kujou Takayuki hỏi. “Đám Fatui đó chẳng qua cũng chỉ bị ta lợi dụng thôi, chúng thì làm được cái gì chứ? Trên lãnh thổ của Inazuma, một khi sấm sét giáng xuống thì chúng cũng chỉ như đám tôm tép run rẩy sợ hãi. Dẫu sao... Chúng ta cũng có Raiden Shogun đại nhân thiên hạ vô song, còn có ‘Lưỡi Đao Vô Tưởng’ nữa!”
+
+“Không có ý định phản bội Raiden Shogun...” Lumine nói.
+
+“Có nghĩa cái mà hắn sùng bái không phải là Raiden Shogun, mà chỉ là sức mạnh của Raiden Shogun và ‘Lưỡi Đao Vô Tưởng’ thôi sao...” Paimon nói.
+
+“Lòng trung nghĩa của ngài đâu rồi, gia chủ...” Kujou Sara nói. “Từ khi được nhà Kujou nhận nuôi, tôi đã luôn được dạy cho lòng trung nghĩa của một quan thần... Xem ra, cái mà ngài muốn chỉ là lòng trung thành của tôi đối với nhà Kujou, ngài lo sợ rằng có một ngày tôi sẽ phản bội sao? Những đạo lý này, chẳng qua chỉ là công cụ để che đậy bản tính ích kỷ thối nát của ngài!”
+
+“Ích kỷ? Ta cũng chỉ vì quan tâm đến sự vĩnh hằng của gia tộc Kujou, ta cũng tin rằng Shogun sẽ hiểu cho ta, gia chủ đời trước... cũng nhất định sẽ hiểu cho ta,” Kujou Takayuki nói.
+
+“Tuy là không nên nói, nhưng nhà Kujou đã quá tự cao rồi, Fatui không dễ đối phó thế đâu...” Paimon nói.
+
+“Tiếp tục tranh luận với hắn cũng đã không còn ý nghĩa...” Lumine nói.
+
+“Tôi cũng từng tự vấn, chấp hành Lệnh Truy Lùng Vision có thực sự đúng không? Có trái với đạo nghĩa trong lòng tôi hay không?” Kujou Sara hỏi. “Nhưng tôi vẫn hạ quyết tâm rằng, chỉ cần đó là con đường mà Shogun dẫn lối, thì tôi sẽ luôn đi đến cùng! Nhưng đến bây giờ tôi đã hiểu, con đường vĩnh hằng sẽ không có kết thúc, ngược lại trên con đường đó... sớm đã bị ô uế bởi sự ích kỷ của các người. Tôi sẽ kháng lệnh, tôi sẽ tự mình đặt dấu chấm hết cho sự quyết tâm này của tôi!”
+
+“Ngu dốt...” Kujou Takayuki nói. “Ngươi muốn đi thì cứ việc, giờ đây không một ai có thể làm lung lay vị thế của nhà Kujou nữa, thế cục sẽ không vì các người mà thay đổi đâu. Shogun đang ở Thiên Thủ Các tiếp kiến sứ giả của Snezhnaya - quan chấp hành ‘Signora’.”
+
+“Signora!” Lumine nói.
+
+“Kẻ giật dây cho chiến loạn ở Inazuma là Signora sao!” Paimon nói. “Lúc trước ở Đảo Ritou, tiểu thư Chisato cũng có nhắc đến việc Hiệp Hội Kanjou đang tiếp kiến một phụ nữ cao quý... lúc đó tôi đã lờ mờ đoán ra rồi...”
+
+“Sứ giả Snezhnaya... Đúng lúc lắm, ả ta đừng hòng nghĩ rằng sẽ có thể toàn mạng trở về!” Kujou Sara nói.
+
+“Sara chạy đi rồi, cô ta đang muốn lao vào Thiên Thủ Các sao?” Paimon hỏi.
+
+“Chúng ta cũng có món nợ cần tính sổ với ‘Signora’,” Lumine đáp.
+
+“Đúng vậy!” Paimon nói. “Vậy chúng ta đuổi theo thôi!”
+
+“Chúng ta mau đến Thiên Thủ Các!” Kujou Sara nói.
+
+#CH|Phần 7|Ngự Tiền Quyết Đấu|signora.png|Ngự Tiền Quyết Đấu
+
+>Kujou Sara phẫn nộ lao về Thiên Thủ Các, bạn nhận thức được đây là cơ hội để gặp lại Raiden Shogun, nhưng phía trước ngự tọa của Shogun đột nhiên xuất hiện một bóng hình quen thuộc...
+
+>Đuổi theo Kujou Sara đến Thiên Thủ Các.
+
+Lumine và Paimon đuổi theo Kujou Sara vào Thiên Thủ Các. Trước ngự tọa của Raiden Shogun, Kujou Sara đã bị đánh gục. Người đứng bên cạnh cô là Signora.
+
+>Nói chuyện với Signora.
+
+“Một tên lại một tên, chạy vào đây như lũ chuột mất nhà thế...” Signora nói. “Nếu không nói ta biết đây là Thiên Thủ Các thì ta còn nghĩ đây là cái chợ đấy. Lần này biết thân biết phận rồi chứ?”
+
+“Ối, Kujou Sara đã bị ‘Signora’...” Paimon đáp.
+
+“Lỗi lầm của con dân Inazuma sẽ do chính tay ta trừng trị, ngươi không đủ tư cách đâu Signora,” Raiden Shogun nói.
+
+“...Vậy thì xin thứ lỗi, đại nhân Shogun,” Signora nói.
+
+“Signora!” Lumine nói.
+
+“Được rồi được rồi, có nhớ ta quá thì cũng đừng luôn miệng gọi tên ta thế chứ,” Signora nói. “Ta biết các ngươi ghi thù ta mà... lũ thiêu thân lảng vảng. Ta không hề thấy bất ngờ khi gặp các ngươi ở đây.”
+
+“Ngươi lén lút sản xuất Delusion...” Lumine nói.
+
+“Gấp gáp vạch tội của ta trước mặt Shogun vậy sao?” Signora hỏi. “Hahaha, ta chẳng qua chỉ là một sứ giả của Snezhnaya, việc mà các ngươi nói, ta hoàn toàn không hiểu.”
+
+“Ả ta không coi chúng ta ra gì...” Paimon nói.
+
+“Những người dân mất đi Vision...” Lumine nói.
+
+“Đừng kể chuyện của những người mà ta không quan tâm nữa,” Signora nói. “Ta còn chẳng biết họ là ai, có thể chỉ là những viên gạch lót đường cho lý tưởng ‘vĩnh hằng’ chăng... Đối với những sinh mạng nhỏ bé đó mà nói, đây chẳng phải là một vinh dự to lớn rồi sao? Đại nhân Shogun, tôi nói đúng chứ?”
+
+“...” Raiden Shogun đáp.
+
+“Còn có Gnosis của Venti nữa...” Lumine nói.
+
+“Lại nhắc chuyện cũ nữa rồi, thù dai thật đấy,” Signora nói. “Lý tưởng của nữ hoàng Snezhnaya, chính là thứ thanh cao thuần khiết nhất trên thế gian này. Hơn nữa, những thứ mà ngươi nói... chẳng qua chỉ là vật hy sinh cần thiết mà thôi.”
+
+“Đến lúc tính sổ món nợ này rồi,” Lumine nói.
+
+“Hở, tính sổ? Hahahaha...” Signora nói. “Ta cũng cảm thấy chán bản mặt của ngươi rồi. Nhưng ta không ngờ rằng ngươi cũng là loại người hữu dũng vô mưu. Ngươi có ý thức được ngươi vẫn đang là tội phạm của Inazuma không? Lo cho hoàn cảnh của ngươi trước đi. Xông vào Thiên Thủ Các, làm loạn trước ngự tiền, còn không phải tự mình sa lưới sao? Hy vọng ngươi hiểu được khoảng cách giữa ta với ngươi, xét cả về mặt địa vị... lẫn thực lực.”
+
+“Ta phải...” Lumine nói. “Phát động ‘Ngự tiền quyết đấu’ với ngươi!”
+
+“...” Signora nói.
+
+“Hừm,” Raiden Shogun nói.
+
+“Quả nhiên, còn có trò này sao... ngươi cũng khéo lợi dụng ‘quy tắc’ của quốc gia này đấy!” Signora nói. “Có thể miễn cưỡng kéo được ta đến đối mặt với ngươi, ta khá bất ngờ đấy. Kẻ thất bại... sẽ phải chết! Ngươi nghĩ kỹ chưa?”
+
+“Lumine...” Paimon đáp.
+
+“Hahaha... vậy thì để ta cùng nhảy một điệu với ngươi, cho đến khi... ta hoặc là ngươi sẽ phải chết,” Signora nói.
+
+---
+
+>Đánh bại Signora trong Ngự Tiền Quyết Đấu.
+
+Cuộc quyết đấu trước mặt Raiden Shogun bắt đầu.
+
+“Để ta cho ngươi xem quyền năng và sự quý phái của quan chấp hành,” Signora nói. “Hừ... dám chạm vào ta...”
+
+Bị dồn ép, Signora khoác lên mình ngọn lửa.
+
+“Ta sẽ giải thoát vận mệnh thuộc về ta. Trước lúc đó, ngươi hãy run rẩy đi!” Signora nói. “Ngọn lửa trắng xám, phá hủy băng giá và chứng kiến sự thống khổ của ta đi. Ta sẽ thiêu cháy linh hồn ngươi từ trong biển lửa! Cháy lên đi...nỗi đau này...ngươi cũng cảm nhận được chứ?”
+
+Lumine đánh bại Signora. Ả gục xuống, không tin vào kết cục trước mắt.
+
+“Sức mạnh của ngươi...” Signora nói. “Tại, tại sao...”
+
+Raiden Shogun đứng dậy, bước về phía Signora.
+
+“Ta là sứ giả của Snezhnaya...” Signora nói. “Ngươi phải biết hậu quả khi đụng vào ta... Ta thề, nếu như ngươi thực sự chém ta, ta sẽ khiến lãnh thổ của ngươi... Fatui sẽ khiến cho Inazuma yêu dấu của ngươi... Dừng tay! Ta mệnh lệnh cho ngươi! Ngươi! Và cả ngươi nữa! Ta! Sao ta lại...”
+
+Raiden Shogun rút đao chém xuống. Signora ngã xuống trước ngự tọa, không bao giờ đứng dậy được nữa.
+
+“Ngươi, là kẻ thù của vĩnh hằng...” Raiden Shogun nói. “Nhưng ta thừa nhận vinh quang của kẻ chiến thắng. Cho nên...ta cho phép ngươi rời khỏi Thiên Thủ Các.”
+
+>Rời Thiên Thủ Các.
+
+#CH|Phần 8|Trăm Mắt Nghìn Tay|raiden_splash.png|Trăm Mắt Nghìn Tay
+
+>Đối diện với võ nghệ của Raiden Shogun, bạn ý thức được rằng muốn thực hiện kế hoạch của Yae Miko là điều không dễ dàng, rời Thiên Thủ Các trước rồi tính sau...
+
+>Rời Thiên Thủ Các.
+
+Lumine và Paimon bước ra khỏi Thiên Thủ Các.
+
+“Raiden Shogun sao lại dễ dàng thả chúng ta đi như thế chứ?” Paimon hỏi. “Không khí xung quanh trở nên nặng nề quá... đây là sát khí của Raiden Shogun sao... Signora đã chết dưới đao của Raiden Shogun rồi... Tuy nói rằng ác giả ác báo, nhưng cũng có chút gì đó bùi ngùi... Nói ra thì...chiêu thức ‘Lưỡi Đao Vô Tưởng’ khi chém Signora quả thật vượt ngoài sức tưởng tượng... Nếu chiêu thức đó đúng là vô địch, vậy thì chúng ta không còn cách nào để đánh bại Raiden Shogun rồi... Yae đã nhờ chúng ta đến trước Tượng Trăm Mắt Nghìn Tay để vào lại ‘Nhất Tâm Tịnh Thổ’... Nhưng mà bây giờ chúng ta thân mình còn lo chưa xong! Tạm gác kế hoạch lại được không... Bên ngoài Thiên Thủ Các có tiếng gì đó... ở đó có xung đột gì sao? Đám thủ vệ cũng rất căng thẳng... chúng ta mau đi xem thử nhé!”
+
+---
+
+>Kẻ Tiên Phong Nổi Dậy.
+
+Lumine và Paimon đi ra ngoài. Đầu Lumine bỗng đau nhói.
+
+“Ối, nhà lữ hành, bạn đau đầu sao?” Paimon hỏi. “Phấn chấn lên nào... chúng ta phải mau chóng rời khỏi đây, tôi có... một dự cảm không lành. Không khí xung quanh ngày càng nặng nề...tôi thấy tức ngực quá... Nhà lữ hành, bạn ổn chứ? Sao không nói gì vậy...”
+
+Mọi thứ xung quanh Lumine chìm vào một màu tím. Khi định thần lại, cô đã đứng giữa “Nhất Tâm Tịnh Thổ”. Raiden Shogun chân chính, Ei, đang ở trước mặt cô.
+
+>Nói chuyện với Raiden Shogun trong “Nhất Tâm Tịnh Thổ”.
+
+“Để ta nghĩ xem, chuyện gì đã khiến ngươi quay trở lại đây gặp ta?” Ei hỏi. “Sự liều lĩnh của ngươi, là để bảo vệ dân chúng, hay chỉ là... do muốn gặp được ta?”
+
+“Lệnh Truy Lùng Vision không nên được ban bố,” Lumine nói.
+
+“Gọi ta từ trong cõi vĩnh hằng ra đây, không lẽ chỉ là để nói những thứ này thôi sao,” Ei nói. “Ngươi đang xem thường ta sao. Chuyện Truy Lùng Vision ta đương nhiên là biết.”
+
+“Cô biết được mọi chuyện bên ngoài sao?” Lumine hỏi.
+
+“Không hẳn, chuyện ta biết chỉ liên quan đến ‘vĩnh hằng’,” Ei đáp. “Bao gồm cả việc ban bố Lệnh Truy Lùng Vision, cũng do ta phê chuẩn. Còn những việc của Fatui gây ra, chưa uy hiếp đến sự vĩnh hằng, nếu không... bọn chúng đã sớm bị quét sạch rồi.”
+
+“Đã khiến người dân mất đi rất nhiều,” Lumine nói.
+
+“Nguyện vọng vốn là thứ gây bất lợi cho vĩnh hằng,” Ei nói. “Ngươi hẳn là không để ý được, theo đuổi nguyện vọng... sẽ luôn khiến người ta mất đi nhiều thứ hơn chứ. Vả lại, chuyện thu hồi Vision cũng sẽ không khiến ai phải bỏ mạng. Kẻ mất đi sinh mạng, không phải là những tên cố chấp theo đuổi nguyện vọng sao?”
+
+“Teppei...” Lumine đáp.
+
+“Nhà lữ hành, ngươi là một sự tồn tại đặc biệt trong mắt ta,” Ei nói. “Trên người ngươi có vô số điều bất ổn, nói cách khác, khoảng cách của ngươi với ‘vĩnh hằng’ là xa nhất. Cho nên, ta không yêu cầu ngươi phải hiểu, ta chỉ thay thiên hạ nhân gian thi hành con đường của ‘vĩnh hằng’ mà thôi.”
+
+“Đây là không gian cấu tạo từ ý thức của cô, đúng chứ?” Lumine hỏi.
+
+“Đúng vậy, ngươi hiểu cũng khá rõ đấy...” Ei đáp. “Hừm, ngươi đang tìm... một cơ hội để làm ta lung lay ý chí, đúng chứ?”
+
+“Tôi sẽ trực tiếp ‘bác bỏ’ lập luận của cô,” Lumine đáp.
+
+“...” Ei nói. “Được rồi, ‘kẻ chống lại vĩnh hằng’, hãy cho ta xem... sự giác ngộ của ngươi.”
+
+---
+
+>Đánh bại Lôi Thần.
+
+Trận chiến với Lôi Thần bắt đầu. Sức mạnh của Lệnh Truy Lùng Vision áp đảo Lumine. Trên màn hình hiện lên dòng chữ:
+
+>Quyền năng của “Lệnh Truy Lùng Vision” xuất hiện trở lại...Chỉ cần có quyết tâm của quân nổi dậy, có lẽ “cơ hội” sẽ xuất hiện...
+
+Đúng lúc ấy, quân kháng chiến xông tới. Giọng nói của Kazuha vang lên.
+
+“‘Rồi cũng sẽ có sinh linh dám đối mặt với hào quang của sấm sét’,” Kaedehara Kazuha nói.
+
+“Xông lên!” Gorou hô.
+
+“Chúng ta xông lên!” các binh sĩ quân kháng chiến hô theo.
+
+“Làm sao đây, họ không phải là đối thủ của Raiden Shogun,” Paimon nói.
+
+Raiden Shogun vung đao chém xuống. Một bóng người lao ra đỡ lấy nhát “Lưỡi Đao Vô Tưởng”, trong tay là một viên Vision đang tỏa sáng. Đó là Kaedehara Kazuha.
+
+“Lại gặp nhau rồi,” Kaedehara Kazuha nói.
+
+Nhưng ý chí của Ei vẫn chưa hề lay chuyển. Đúng lúc ấy, Yae Miko xuất hiện.
+
+“Ây da. Bây giờ mới nhớ ra sao?” Yae Miko hỏi.
+
+“Miko. Đây là tính toán của ngươi sao,” Ei đáp.
+
+“Đừng quên ai là người dạy cho bạn cách chuyển ý thức vào sự vật,” Yae Miko nói.
+
+“Không phải bạn nghĩ là chỉ dựa vào nguyện vọng của bạn là có thể thắng được ý chí của Ei chứ?” Yae Miko nói với Lumine. “Mặc dù bạn ở đây, nhưng ước nguyện của ‘họ’ đã gửi gắm vào bạn rồi. Cho nên, nhắm mắt lại.”
+
+Lumine nhắm mắt lại. Những Vision bị tước đoạt trên Tượng Trăm Mắt Nghìn Tay đồng loạt tỏa sáng. Nguyện vọng của người dân Inazuma truyền đến cô.
+
+“Hi vọng có thể bãi bỏ Lệnh Truy Lùng Vision,” một giọng nói vang lên.
+
+Mang theo nguyện vọng của mọi người, Lumine đối đầu với nhát đao của Lôi Thần, và đánh bại Ei.
+
+---
+
+>Nói chuyện với Raiden Shogun.
+
+Giữa Nhất Tâm Tịnh Thổ, Ei nhớ lại quá khứ của mình.
+
+“Dư ảnh của sấm chớp, chính là ta. Lấy ‘vô tưởng’ để xóa bỏ mọi trở ngại cho bước tiến của Inazuma,” Ei nói. “Tuy nhiên...mỗi bước đi về phía trước, sẽ mất đi thứ gì đó. Thậm chí cuối cùng, ngay cả ‘cô ấy’ cũng mất đi. Những câu chuyện đó, đến nay nó vẫn được truyền tụng dưới bóng râm của mỗi cây Lôi Anh Đào. Nhưng những dấu ấn ‘mất mát’ đó đã để lại cho đất nước này, vẫn mãi âm ỉ. ‘Hãy cứ theo đuổi nó, cho dù đó là ánh sáng trong chốc lát.’ ‘Ít nhất chúng ta đã có khoảnh khắc này.’ ‘Cô ấy’ từng nói như vậy. Nhưng ta đã chứng kiến một đất nước đang hoạt động hết mình, đánh mất mọi thứ trước Thiên Lý. ...Có lẽ cách duy nhất là đóng băng thời gian, sấm sét mới không biến mất. ‘Thời khắc này’ là hư ảo mong manh. Chỉ có ‘vĩnh hằng’ là nơi gần với thiên lý nhất. Bây giờ, ta không còn là chiếc bóng. ‘Thân này là tấm thân cao quý nhất, xứng đáng nắm giữ đại quyền trong thiên hạ.’ ‘Thân này hứa hẹn với thần dân một giấc mơ, đó là sự trường tồn bất biến từ nhiều đời.’”
+
+“Cô thua rồi, Ei,” Yae Miko nói.
+
+“...” Ei nói. “...Đúng vậy, tôi đã thua rồi.”
+
+“Tại sao cô không tin tưởng vào thần dân, tin tưởng vào sức mạnh nguyện vọng của họ chứ?” Yae Miko hỏi. “Những nguyện vọng đó đã vượt qua khoảng cách, vượt qua không gian và thời gian, đã không còn thứ gì có thể ngăn cản rồi.”
+
+“Khi mọi người đã toàn tâm hợp lực...” Lumine nói.
+
+“Đây là thứ mà bạn đã đúc kết được từ Liyue sao?” Yae Miko hỏi.
+
+“Đúng vậy,” Lumine đáp.
+
+“Một quốc gia luôn hướng về phía trước, bỏ thần linh lại phía sau sao...” Yae Miko nói. “Vậy thì tại sao chúng ta lại từ bỏ việc cùng nhau tiến về phía trước chứ?”
+
+“...Tiến về phía trước đã lấy đi của chúng ta những gì, tôi và cô đều đã từng chứng kiến qua,” Ei đáp. “Chỉ có vĩnh hằng, chỉ có vĩnh hằng mới có thể...”
+
+“Thiên Lý... đối với tôi mà nói là một thứ không ra gì,” Yae Miko nói. “Nhìn chung thì cô chỉ muốn mãi mãi bảo vệ cho Inazuma yêu dấu, đúng không?”
+
+“Những gì cô nói nghe có vẻ nhẹ nhàng quá nhỉ,” Ei đáp.
+
+“Nhưng quốc gia này, có phải có giá trị tồn tại của vĩnh hằng không?” Yae Miko hỏi. “Mất đi nguyện vọng, mất đi sự đổi mới, chỉ là một quốc gia đang tồn tại, đó chỉ là một cái vỏ rỗng mà thôi. Nếu đã như vậy, thì cho dù diệt vong thì cũng có làm sao chứ?”
+
+“Miko, rút lời ngông cuồng đó lại,” Ei đáp. “Một sự vĩnh hằng bất biến trải dài thiên thu vạn thế, chính là lời hứa của tôi đối với thần dân.”
+
+“Nhưng thứ mà thần dân của cô muốn, không phải là lời hứa của cô, thứ mà họ muốn chính là ‘sự dõi theo’ của cô đấy,” Yae Miko nói.
+
+“...Vision sao,” Ei nói. “Tuổi thọ của con người chỉ có trăm năm, họ sẽ không đủ sức để gánh vác những thứ đã mất đi. Người đã trải qua tất cả như tôi, mới có thể soi sáng đường cho họ đến với ‘vĩnh hằng’ chân chính.”
+
+“Haiz...” Yae Miko nói. “...Nhưng mà ‘vĩnh hằng’ đối với cô mà nói, thật quá tàn nhẫn đấy Ei à.”
+
+“Đối với tôi sao?” Ei hỏi.
+
+“Cô không những không dõi theo thần dân, cũng đã không dõi theo chính bản thân mình nữa,” Yae Miko đáp. “Mấy trăm năm nay, chỉ một mình cô ngồi ở đây, hẳn là rất cô đơn rồi.”
+
+“Điều này là cần thiết...” Ei nói.
+
+“Nếu không tiến về phía trước, thì sẽ bỏ lỡ rất nhiều thứ... Cô tồn tại trong vĩnh hằng, không phải cũng đã mất đi rất nhiều thứ sao?” Yae Miko hỏi. “Rõ ràng cô đang rất cô độc, nhưng lại chỉ vì bảo vệ cho sự ‘vĩnh hằng’ mà tự mình kéo dài quãng thời gian đó đến vô hạn sao... Nói cho tôi nghe, bầu trời nơi đây từng rất u ám... tại sao bây giờ lại tràn đầy ánh sáng chứ? Đây là ‘Nhất Tâm Tịnh Thổ’ của cô, là thế giới nội tâm của cô. Thực ra... cô đã rất vui khi gặp lại tôi, cô đã sớm không thể chịu đựng được sự cô độc này rồi đúng không?”
+
+“Tôi... không còn gì để nói,” Ei đáp.
+
+“Nhưng tôi lại có rất nhiều chuyện muốn nói với cô. À đúng rồi, để tôi kể những chuyện đã xảy ra trong mấy trăm năm nay cho cô nghe nhé,” Yae Miko nói.
+
+“Chuyện của mấy trăm năm, phải kể bao lâu?” Ei hỏi.
+
+“Trí nhớ của hồ ly tốt lắm, mỗi một câu chuyện trong mấy trăm năm nay tôi đều không quên,” Yae Miko đáp. “Cho nên có lẽ cần phải kể mấy trăm năm đấy.”
+
+“Hahaha... Miko, tôi vốn tưởng rằng đã không còn cơ hội để gặp lại cô rồi,” Ei nói. “Gặp lại cô, có thể nói đây là biến số của vĩnh hằng... nhưng cũng rất vui.”
+
+“Hì, nếu cô đã thành thật như vậy rồi, vậy thì chúng ta vẫn là bạn tốt của nhau nhé?” Yae Miko hỏi.
+
+“Trông cô thật trẻ con,” Ei đáp. “Nhưng mà, nếu như tôi đã thua kế hoạch của mọi người, vậy thì tôi cũng sẽ thuận theo ý nguyện, phế bỏ Lệnh Truy Lùng Vision. Nhưng đối với vĩnh hằng, đối với sự đổi mới của quốc gia này, tôi sẽ phải tiếp tục suy nghĩ thêm.”
+
+“Hầy, người tính khí trẻ con trước giờ luôn là cô đấy Ei à,” Yae Miko nói.
+
+Câu chuyện ở Inazuma khép lại bằng lời kể:
+
+“Sau đó, Raiden Shogun bãi bỏ lệnh truy lùng Vision như đã hứa. Nguyện vọng của người dân cuối cùng cũng đã mở được cánh cửa nơi trái tim đã khóa chặt của cô ấy. Ở ngoài Nhất Tâm Tịnh Thổ, cô ấy đã nhìn thấy được ‘vĩnh hằng’ trong mắt của người đời,” giọng kể vang lên. “Khi nguyện vọng quá mãnh liệt, các vị thần sẽ để mắt đến. Có những nguyện vọng... đủ để xoa dịu nỗi đau, mang đến chiến thắng, khơi dậy hy vọng. Có những nguyện vọng, ngay cả khi người mong ước nó đã chết, linh hồn trở về cõi trời, thì nó vẫn giống khi được sinh ra, chân thành và nóng bỏng... ...cho đến ‘vĩnh hằng’.”
+
+#CH|Phần 9|Nguyện Vọng|yae_card.png|Nguyện Vọng
+
+>Bạn đã không phụ lòng những người gửi gắm ước nguyện vào bạn, Raiden Shogun cuối cùng đã phế bỏ Lệnh Truy Lùng Vision. Sóng gió tạm thời lắng xuống, hãy đi gặp Yae Miko đi.
+
+>Nói chuyện với Paimon.
+
+“Các người đã làm gì trong ‘Nhất Tâm Tịnh Thổ’ của Raiden Shogun vậy?” Paimon hỏi. “Lệnh Truy Lùng Vision đã thật sự bị phế bỏ rồi.”
+
+“Chủ yếu là do công lao của Yae Miko,” Lumine nói.
+
+“Ồ, vậy sao... tôi lo lắng quá,” Paimon nói. “Vậy lần này Miko tìm chúng ta, không lẽ là để cảm ơn sao? Hihi... chúng ta mau đi tìm cô ấy đi.”
+
+---
+
+>Gặp Yae Miko.
+
+Lumine và Paimon đến Đền Narukami gặp Yae Miko.
+
+“Đây không phải là nhà lữ hành sao, đến đây để cầu phúc à?” Yae Miko hỏi.
+
+“Không phải là cô gọi chúng tôi đến sao!” Paimon đáp.
+
+“Haha... đùa thôi, tôi đang đợi mọi người đây,” Yae Miko nói.
+
+“Trông Miko đã phấn chấn hơn nhiều rồi,” Paimon nói.
+
+“Đúng vậy, khó khăn lắm mới được gặp lại bạn cũ nói chuyện xưa, đây có thể xem là một chuyện đáng vui mừng,” Yae Miko nói. “Tôi còn nghe nói... bạn đã phát động ngự tiền quyết đấu với một quan chấp hành Fatui, lòng dũng cảm này thật đáng khen ngợi.”
+
+“Chỉ là bất đắc dĩ mà thôi,” Lumine nói.
+
+“Có thể trực tiếp đả bại ‘Signora’, sức mạnh của bạn đã vượt xa tôi nghĩ rồi,” Yae Miko nói. “Nói chung thì, thắng là được, rất đáng chúc mừng.”
+
+“Cuối cùng cũng có thể phá hủy được kế hoạch của Fatui rồi, hì hì,” Paimon nói. “Ít ra thì lần này không để cho chúng lấy mất ‘Gnosis’!”
+
+“Đợi đã, các bạn nhắc đến Gnosis sao?” Yae Miko hỏi. “Là một thứ có hình dạng giống quân cờ đúng không?”
+
+“Đúng vậy, Miko cũng thấy qua rồi sao? Nó thuộc về Thất Thần, có mối liên hệ mật thiết với Đảo Thiên Không đó!” Paimon đáp.
+
+“À ừm...” Yae Miko nói.
+
+“Sao vậy?” Paimon hỏi.
+
+“Thứ đó, tôi đã giao ra rồi,” Yae Miko đáp.
+
+“Ừm?” Lumine hỏi.
+
+“Sao?” Paimon hỏi.
+
+“Nếu không như vậy... thì sao tôi có thể cứu được bạn từ tay ‘Scaramouche’ chứ?” Yae Miko hỏi.
+
+“Thì ra từ lúc đó đã...” Lumine đáp.
+
+“‘Scaramouche’ là quan chấp hành thứ 6 của Fatui, xét về thực lực, hắn còn vượt trên cả ‘Signora’,” Yae Miko nói. “Tôi không phải kiểu người hành động bất chấp nguy hiểm tính mạng đâu.”
+
+“Chậc, đúng là không biết phải nói sao nữa,” Paimon nói.
+
+“Nhưng mà, sao cô lại có được ‘Gnosis’,” Lumine nói.
+
+“Ei từ khi tạo ra bản thể con rối, đã không còn quan tâm đến ‘Gnosis’ nữa,” Yae Miko nói. “Thân là một người bạn thân của Ei... Ei đã giao ‘Gnosis’ cho tôi để bảo quản trong đền. Bản thân cô ấy đã không cần sức mạnh của ‘Gnosis’ nữa, theo lời cô ấy nói, cô ấy đã đoạn tuyệt quan hệ với Đảo Thiên Không. Nếu vậy thì ‘Gnosis’ đã trở thành một thứ vô dụng. Cho nên, dùng nó để đổi lấy nhân vật trọng tâm trong ‘kế hoạch’, không phải là cuộc giao dịch thỏa đáng sao? Vả lại nếu xét về kết quả hiện giờ thì xem như tôi đã có lời rồi, haha.”
+
+“Nói vậy nghĩa là... tính mạng của nhà lữ hành quan trọng hơn cả Gnosis sao...” Paimon nói.
+
+“Thì ra tôi có giá đến vậy,” Lumine nói.
+
+“Thôi kệ vậy, chuyện đã qua rồi thì để cho qua vậy,” Paimon nói. “Nhưng mà, lần này Miko gọi chúng tôi đến là có chuyện gì.”
+
+“Là để cảm ơn,” Yae Miko nói.
+
+“Thật sao!” Paimon nói.
+
+“Nếu như các bạn đang trong cuộc hành trình khắp Teyvat, thì có vẻ như chuyến viếng thăm Inazuma đã dần đến hồi kết rồi đúng không?” Yae Miko hỏi. “Để cảm tạ, tôi sẽ giải đáp cho hai bạn những nghi vấn từ trước đến giờ. Bạn có gì cần hỏi không?”
+
+“Về ‘con rối’ Shogun...” Lumine nói.
+
+“‘Con rối’ Shogun là một loại kỹ thuật đến từ nền văn minh đã lụi tàn, có thể chỉ có thần linh như cô ấy mới biết được nguồn gốc...” Yae Miko nói. “Nhưng mà... các bạn có vẻ sẽ có hứng thú với chuyện này. Trước khi Ei tạo ra cơ thể thần linh của mình, đã từng tạo ra một ‘con rối nguyên bản’...”
+
+“Vậy, không lẽ có đến ba vị Raiden Shogun sao!?” Paimon hỏi.
+
+“Không, mẫu nguyên bản đó chỉ là thử nghiệm về tính khả thi thôi, xét về dung mạo và tư duy cũng không thiết kế theo bản thân Ei. Có thể nói đó chỉ là vật thí nghiệm,” Yae Miko đáp. “Chiếu theo lý thì đáng lẽ Ei phải phá hủy vật thí nghiệm này, nhưng có lẽ do Ei cảm thấy như vậy là quá tàn nhẫn, nên chỉ phong ấn sức mạnh của hắn. Sau đó, hắn giống như một người bình thường, dựa vào ý thức của mình để lang thang trên lãnh thổ Inazuma, cho đến khi... gặp được Fatui.”
+
+“Fatui!” Paimon nói.
+
+“Con rối nguyên bản đó trải qua cuộc thí nghiệm của Fatui, đã giải trừ được phong ấn, thậm chí còn trở nên mạnh mẽ hơn trước đây,” Yae Miko nói.
+
+“Không lẽ...” Lumine nói.
+
+“Đúng vậy, tạo vật của thần đã đích thân lấy đi Gnosis... Hắn chính là ‘Scaramouche’ của bây giờ,” Yae Miko nói.
+
+“Có, có chuyện này thật sao!” Paimon nói.
+
+“Đúng vậy, không biết đây là sự trùng hợp, hay là do duyên số,” Yae Miko nói.
+
+“Về Raiden Shogun tiền nhiệm...” Lumine nói.
+
+“Một người ngoại quốc như bạn lại muốn biết được quá khứ của Lôi Thần sao... tham lam quá đấy,” Yae Miko nói.
+
+“Là do Morax đã từng đề cập qua chuyện Lôi Thần Baal đã qua đời...” Paimon nói.
+
+“Ừm, sự thật đúng là vậy, ‘Baal’ và ‘Beelzebul’ là một cặp ma thần song sinh,” Yae Miko nói.
+
+“Ma thần... song sinh?” Paimon hỏi.
+
+“Họ đã cùng nhau chiến thắng cuộc chiến Ma Thần, sau khi Baal thành lập Shogunate, Beelzebul chính là phân thân của Baal dưới thân phận Kagemusha,” Yae Miko đáp. “Beelzebul chính là Ei, còn Baal, tên thật là ‘Makoto’. Trong mắt dân chúng, hai người họ là một thể thống nhất, họ cũng luôn hỗ trợ lẫn nhau, cùng trị vì Inazuma. Chính vì vậy mà dân chúng cũng không cần phải biết sự thật. Cho dù là danh xưng ‘Baal’, hay là Raiden Shogun cũng được, trước giờ họ đều dùng chung với nhau, cho đến khi...”
+
+“Cho đến khi?” Paimon hỏi.
+
+“Cho đến khi Makoto chết trong một trận chiến vài trăm năm trước mà chính bản thân tôi cũng không thể có mặt. Sau đó Ei mới đảm nhận Shogunate,” Yae Miko đáp.
+
+“Chuyện này nhất định là một cú sốc đối với Ei, dù sao thì họ cũng là chị em...” Paimon nói.
+
+“Cuộc chiến... vài trăm năm trước...” Lumine nói.
+
+“Từ sau sự kiện đó, Ei đã phải gánh chịu sự ‘mất mát’ lớn nhất trong đời,” Yae Miko nói.
+
+“Thì ra họ có một quá khứ đau thương như vậy... Vậy ‘Makoto’ là một vị thần như thế nào?” Paimon hỏi.
+
+“Thời gian tôi ở bên cô ấy không lâu, nhưng trong ấn tượng của tôi... cô ấy là một vị thần hiền dịu, rất trân trọng những điều tốt đẹp trước mắt,” Yae Miko đáp.
+
+“Là vậy sao...” Paimon nói.
+
+“Về anh trai của tôi...” Lumine nói.
+
+“Xin lỗi, chuyện này tôi không có manh mối, tôi không có thông tin gì về vị thần mà các bạn miêu tả,” Yae Miko nói. “Nhưng nếu bạn vẫn còn nghi ngờ Ei, thì tôi cho rằng chuyện này uổng công vô ích rồi. Ei không những không giống với miêu tả của bạn, mà từ rất lâu rồi Ei đã chủ động từ bỏ Gnosis, cắt đứt mối quan hệ với Đảo Thiên Không.”
+
+“Sau khi gặp mặt, cảm giác đúng là không phải cô ấy,” Lumine nói.
+
+“Vậy thì tốt, nếu không thì mối liên hệ giữa chúng ta lại phải xấu đi rồi!” Yae Miko nói.
+
+“Yên tâm đi, chúng tôi sẽ không đánh nhau với cô đâu!” Paimon nói.
+
+“Hahaha... vậy chúc các bạn sớm ngày đạt được mục đích, biết được tất cả chân tướng,” Yae Miko nói. “Về phần anh trai của bạn, tôi sẽ dùng hết tất cả mọi khả năng để điều tra, bao gồm cả việc điều động Shuumatsuban từ Ayato. Nếu có thông tin gì thì tôi sẽ báo cho bạn, xem như là một phần trong quà cảm ơn.”
+
+“Về chuyến hành trình tiếp theo,” Lumine nói.
+
+“Sau khi rời khỏi Inazuma, tôi nghĩ... đi đến Sumeru là tiện nhất rồi,” Yae Miko nói.
+
+“Sumeru sao, chúng tôi đã từng gặp qua rất nhiều học giả đến từ Sumeru đó,” Paimon nói.
+
+“Ừm, Sumeru là đất nước của Thần Trí Tuệ, họ rất xem trọng việc phát triển trí tuệ và kiến thức,” Yae Miko nói. “Nhưng chấp niệm này cũng dẫn đến những việc khiến người khác khó hiểu, ví dụ như... ...Ở Sumeru, tri thức là một loại ‘tài nguyên’ được quản lý chặt chẽ.”
+
+“Tri thức... cũng là tài nguyên sao?” Paimon hỏi.
+
+“Ừm, chỉ là không biết quyết định này được đưa ra bởi ‘hiền giả’, hay là ‘Tiểu Vương Kusanali’,” Yae Miko đáp.
+
+“‘Tiểu Vương Kusanali’? Cái tên nghe dễ thương vậy,” Paimon nói.
+
+“Các bạn vẫn chưa biết sao, Tiểu Vương Kusanali chính là vị thần của Sumeru, và đó là tên thân mật mà người dân gọi cô ấy,” Yae Miko nói. “Có lẽ các bạn sẽ có một số chuyện cần tìm cô ấy để xác nhận đúng không? Chúc các bạn thượng lộ bình an.”
+
+“Đã không còn gì để hỏi rồi,” Lumine nói.
+
+“Vậy sao, vậy thì tốt rồi. À đúng rồi, lá bùa hộ mệnh tôi tặng cho bạn, bạn còn giữ chứ?” Yae Miko hỏi.
+
+“Ừm, tôi vẫn luôn giữ trong người,” Lumine đáp.
+
+“Chỉ giữ trong người thôi sao?” Yae Miko hỏi. “Tôi còn nghĩ rằng bạn sẽ đeo nó trước ngực. Khi có người hỏi sẽ còn tự hào nói rằng đây là do Yae Miko tài sắc vẹn toàn tặng cho nữa.”
+
+“Ai lại làm như thế chứ!” Paimon nói.
+
+“Haha... được rồi được rồi. Nói ra thì, nhà lữ hành, nguyện vọng của bạn là gì?” Yae Miko hỏi.
+
+“Ừm... được gặp lại anh trai!” Lumine đáp.
+
+“Vậy sao... nhưng theo tôi thấy thì đây có lẽ chỉ là một mục tiêu nhỏ của bạn mà thôi,” Yae Miko nói. “Đối với bạn mà nói, ‘nguyện vọng’ hẳn là thứ có thể vượt qua trần thế và trời sao, lấp lánh như vận mệnh vậy. Bạn không có Vision, có thể là do nguyện vọng đó chưa được hình thành... nói không chừng đấy. Bạn cứ từ từ kiểm chứng trong chuyến hành trình sau này nhé.”
+
+>(Hết Chương II Màn III — Thiên Thủ Bách Nhãn, Thiên Hạ Nhân Gian)
+
