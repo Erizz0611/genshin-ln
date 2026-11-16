@@ -75,6 +75,19 @@ PING = dict(name='Bình Lão Lão', role='Người giữ Chuông Tẩy Trần', 
 QIQI = dict(name='Qiqi', role='Nhân viên Nhà Thuốc Bubu', img='qiqi_icon.png', desc='Cô bé cương thi chỉ hành động theo “mệnh lệnh” tự đặt cho mình, nhờ nhóm Lumine đi bắt “Dê Dừa” để đổi lấy Hương Bất Tử.')
 BAIZHU = dict(name='Baizhu', role='Chủ Nhà Thuốc Bubu', img='baizhu_icon.png', desc='Ông chủ nhà thuốc cùng con rắn biết nói Changsheng. Bán Hương Bất Tử giá 299 vạn Mora sau khi bắt tay với Childe.')
 GANYU = dict(name='Ganyu', role='Thư ký Nguyệt Hải Đình', img='ganyu_icon.png', desc='Thư ký của toàn thể Thất Tinh, sứ giả đặc biệt của Ningguang. Tìm đến quán Ba Cốc Say Mèm để trao thư mời Lumine đến Quần Ngọc Các.')
+# --- Chương 1 Màn 3 (Liyue) ---
+KEQING_C3 = dict(name='Keqing', role='“Ngọc Hành Tinh” của Thất Tinh Liyue', img='keqing_icon.png', desc='Gặp Lumine bên máy Guizhong ở Thiên Hoành Sơn. Thẳng thắn, “bất kính với thần tiên”, tin rằng thời đại của tiên nhân đã qua.')
+NINGGUANG_C3 = dict(name='Ningguang', role='“Thiên Quyền” của Thất Tinh Liyue', img='ningguang_icon.png', desc='Mời Lumine lên Quần Ngọc Các, chỉ cho cô dấu vết nghiên cứu Bách Vô Cấm Kỵ Lục của Fatui. Từ bỏ Quần Ngọc Các để trấn áp Ma Thần.')
+GANYU_C3 = dict(name='Ganyu', role='Thư ký Nguyệt Hải Đình', img='ganyu_icon.png', desc='Sứ giả của Thiên Quyền Tinh, con lai giữa loài người và Kỳ Lân. Tặng Bách Hợp Lưu Ly cho Điển Lễ Tiễn Tiên.')
+ZHONGLI_C3 = dict(name='Zhongli', role='Khách của Vãng Sinh Đường', img='zhongli_icon.png', desc='Cùng Lumine đi chặng cuối chuẩn bị Điển Lễ Tiễn Tiên, hiểu biết sâu rộng về lịch sử Liyue.')
+CHILDE_C3 = dict(name='Childe', role='Quan Chấp Hành Fatui', img='childe_icon.png', desc='Tìm đến Hoàng Kim Ốc để đoạt Gnosis, giao chiến với Lumine, rồi dùng Bách Vô Cấm Kỵ Lục đánh thức Ma Thần Osial.')
+SIGNORA_C3 = dict(name='Signora', role='Quan Chấp Hành thứ 8 của Fatui', img='signora_icon.png', desc='Kẻ từng cướp Gnosis của Phong Thần ở Mondstadt, xuất hiện trở lại ở Ngân Hàng Bắc Quốc tại Liyue.')
+XIAO_C3 = dict(name='Xiao', role='Hộ Pháp Dạ Xoa · Hàng Ma Đại Thánh', img='xiao_icon.png', desc='Cùng các tiên nhân lên Quần Ngọc Các chống lại Ma Thần Lốc Xoáy.')
+ADEPTI_C3 = dict(name='Ba vị Chân Quân', role='Tiên nhân Tuyệt Vân Gián', desc='Tước Nguyệt Trúc Dương, Lưu Vân Tá Phong và Lí Thủy Điệp Sơn Chân Quân đến Liyue hỏi tội Thất Tinh, rồi cùng Thất Tinh chống lại Ma Thần.')
+PING_C3 = dict(name='Bình Lão Lão', role='Tiên nhân', desc='Lên tiếng bênh vực Ningguang và khuyên các tiên nhân hãy nhìn vào con người Liyue.')
+OSIAL = dict(name='Osial', role='Ma Thần Lốc Xoáy', desc='Ma Thần thất bại dưới tay Morax trong chiến tranh ma thần, bị trấn áp dưới Cô Vân Các, bị Childe đánh thức.')
+MENGDAN = dict(name='Meng Dan', role='Người cung cấp hàng cho Minh Tinh Trai', desc='Bị Đạo Bảo Đoàn nhốt trong di tích, được Lumine cứu và tặng hộp đựng quà.')
+
 
 SERIES = 'Genshin Impact · Light Novel'
 FOOT = 'Truyện chuyển thể phi thương mại từ cốt truyện Genshin Impact (HoYoverse). Lời thoại theo bản tiếng Việt chính thức của game.'
@@ -100,6 +113,9 @@ ACTS = [
   dict(id='c1-man2', arc='Chương 1 · Liyue', src='c1_man2.txt', act='Chương 1 Màn 2', title='Lời Tạm Biệt Thể Xác Vĩnh Hằng', sub='Nhiệm vụ Ma Thần — Liyue',
        hero='zhongli_card.png', cast=[LUMINE, PAIMON, ZHONGLI, CHILDE2, PING, QIQI, BAIZHU, GANYU, EKATERINA, SHITOU, YINGER],
        pdf='', footer='Chương 1 Màn 2 — Lời Tạm Biệt Thể Xác Vĩnh Hằng', side=False),
+  dict(id='c1-man3', arc='Chương 1 · Liyue', src='c1_man3.txt', act='Chương 1 Màn 3', title='Ngôi Sao Đang Đến', sub='Nhiệm vụ Ma Thần — Liyue',
+       hero='keqing_card.png', cast=[LUMINE, PAIMON, KEQING_C3, NINGGUANG_C3, GANYU_C3, ZHONGLI_C3, CHILDE_C3, SIGNORA_C3, XIAO_C3, ADEPTI_C3, PING_C3, OSIAL, MENGDAN],
+       pdf='', footer='Chương 1 Màn 3 — Ngôi Sao Đang Đến', side=False),
   dict(id='c1-man4-gt', arc='Chương 1 · Liyue', src='c1_man4_gt.txt', act='Chương 1 Màn 4 - Giới Thiệu', title='Dainsleif', sub='Nhiệm vụ mở đầu bắt buộc của Chương 1 Màn 4 — Người Giữ Cành',
        hero='lumine_wide.png', cast=[LUMINE, PAIMON, DAIN_GT, KATHERYNE, LAWRENCE, CHARLES],
        pdf='', footer='Chương 1 Màn 4 - Giới Thiệu — Dainsleif', side=True),
