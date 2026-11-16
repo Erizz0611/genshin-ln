@@ -181,6 +181,21 @@ KAZUHA2 = dict(name='Kaedehara Kazuha', role='Ronin Samurai · đội thuyền N
 BEIDOU2 = dict(name='Beidou', role='Thủ lĩnh đội thuyền Nam Thập Tự', img='beidou_icon.png', desc='Đưa “Ngôi Sao Chết Chóc” phục kích Quân Shogunate để hỗ trợ quân kháng chiến.')
 RESIST = dict(name='Kaida Ryouma, Tokuda, Masashi, Shouji, Hisahiko', role='Người của quân kháng chiến', desc='Những người lính, thương binh và tân binh mà Lumine gặp trong doanh trại ở Tatarasuna.')
 
+# --- Chương Đệm · Màn I ---
+SHENHE = dict(name='Shenhe', role='Đệ tử của Lưu Vân Tá Phong Chân Quân', img='shenhe_icon.png', desc='Cô gái tóc trắng được Lumine giúp thoát khỏi đám lừa đảo ở Cảng Liyue. Lớn lên cùng tiên nhân nhưng là người phàm, mang Bùa Chú Tiên Gia đến cho Ningguang và giúp Lumine trong cuộc thi trùng tu Quần Ngọc Các.')
+YUNJIN = dict(name='Yun Jin', role='Diễn viên nhạc kịch nổi tiếng của Liyue', img='yunjin_icon.png', desc='Đến tham gia cuộc thi để hỏi Ningguang về sân khấu cho vở kịch “Thần Nữ Hủy Diệt” của cha mình. Đề nghị nhóm Lumine và Beidou lập đội cùng giành ba suất đầu.')
+XINGQIU = dict(name='Xingqiu', role='Nhị thiếu gia Thương Hội Phi Vân', img='xingqiu_icon.png', desc='Chỉ cho nhóm Lumine động tiên của Minh Hải Thê Hà Chân Quân ở gần Ngoại Ô Li Sa, nơi có thể có Minh Hà Phù Sinh Thạch.')
+NINGGUANG_CD = dict(name='Ningguang', role='“Thiên Quyền” của Thất Tinh Liyue', img='ningguang_icon.png', desc='Tổ chức cuộc thi tìm nguyên liệu để trùng tu Quần Ngọc Các, đồng thời dùng việc này để dụ Beisht, kẻ đi theo Ma Thần Lốc Xoáy, ra khỏi mặt biển.')
+BEIDOU_CD = dict(name='Beidou', role='Thủ lĩnh đội thuyền Nam Thập Tự', img='beidou_icon.png', desc='Mang đến một khối Minh Hà Phù Sinh Thạch, cùng Lumine và Yun Jin giành ba suất đầu của cuộc thi. Là người đã cảnh báo Ningguang về biến động dưới biển.')
+CLOUD_CD = dict(name='Lưu Vân Tá Phong Chân Quân', role='Sư phụ của Shenhe', img='cloudretainer.png', desc='Kể cho Lumine và Paimon nghe quá khứ của Shenhe, nhờ họ chăm sóc con bé, và âm thầm quan sát xem Ningguang có vượt qua được phong ba sắp tới không.')
+BAIZHU_CD = dict(name='Baizhu', role='Chủ Nhà Thuốc Bubu', img='baizhu_icon.png', desc='Cho nhóm Lumine biết về Minh Hà Phù Sinh Thạch trong “Thất Tàng Sơn Kinh” và gợi ý đến Thương Hội Phi Vân hỏi thăm.')
+KEQING_CD = dict(name='Keqing', role='“Ngọc Hành Tinh” của Thất Tinh Liyue', img='keqing_icon.png', desc='Chỉ huy Thiên Nham Quân, ra lệnh cho máy Guizhong kiểu mới khai hỏa vào Beisht.')
+BAIWEN = dict(name='Baiwen', role='Thư ký của Ningguang ở công trường', desc='Người nhận và chấm nguyên liệu của cuộc thi trùng tu Quần Ngọc Các.')
+ZHANG = dict(name='Lão Zhang', role='Thợ rèn tiệm Hàn Phong Thiết Khí', desc='Người từng làm Lõi Thần Kỳ cho Ningguang, chỉ cho nhóm Lumine đi tìm Quặng Sắt Sao Vỡ và Bí Hoa Thạch.')
+MINGJUN = dict(name='Mingjun', role='Bạn thân của cha Shenhe', desc='Ông lão ở ngôi làng bỏ hoang gần Thiên Hoành Sơn, nơi Shenhe sinh ra. Nhiều năm vẫn day dứt vì đã không ngăn được cha của Shenhe.')
+BEISHT = dict(name='Beisht', role='“Tàn Dư Lốc Xoáy”', desc='Vợ của Osial, người cuối cùng đi theo Ma Thần Lốc Xoáy. Trồi lên từ biển khi Quần Ngọc Các bay lên.')
+LIU = dict(name='Liu Mặt Sẹo và Qiang', role='Kẻ bán tình báo', desc='Hai gã lưu manh bám theo Shenhe đòi tiền, bị Thiên Nham Quân bắt đi.')
+
 ACTS = [
   dict(id='man1', arc='Mở Đầu', src='man1.txt', act='Mở Đầu · Màn I', title='Người Phương Xa Đuổi Theo Gió', sub='Nhiệm vụ Ma Thần — Mondstadt',
        hero='traveler_portrait.png', cast=[LUMINE, PAIMON, AETHER, GOD, AMBER, KAEYA, JEAN, LISA, DRAGON, BOY, VOICE],
@@ -233,4 +248,7 @@ ACTS = [
   dict(id='c2-man3', arc='Chương II · Inazuma', src='c2_man3.txt', act='Chương II · Màn III', title='Thiên Thủ Bách Nhãn, Thiên Hạ Nhân Gian', sub='Nhiệm vụ Ma Thần — Inazuma',
        hero='raiden_nc.png', cast=[LUMINE, PAIMON, KOKOMI3, TEPPEI3, GOROU3, OOKUBO, KOUTOKU, SCARA, YAE3, SARA3, SAYU, THOMA3, AYAKA3, YOIMIYA3, TAKAYUKI, SIGNORA3, RAIDEN3, KAZUHA3],
        pdf='', footer='Chương II · Màn III — Thiên Thủ Bách Nhãn, Thiên Hạ Nhân Gian', side=False),
+  dict(id='cd-man1', arc='Chương Đệm', src='cd_man1.txt', act='Chương Đệm · Màn I', title='Phong Khởi Hạc Quy', sub='Nhiệm vụ Ma Thần — Liyue',
+       hero='shenhe_splash.png', cast=[LUMINE, PAIMON, SHENHE, YUNJIN, NINGGUANG_CD, BEIDOU_CD, CLOUD_CD, XINGQIU, BAIZHU_CD, KEQING_CD, BAIWEN, ZHANG, MINGJUN, BEISHT, LIU],
+       pdf='', footer='Chương Đệm · Màn I — Phong Khởi Hạc Quy', side=False),
 ]
