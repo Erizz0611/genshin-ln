@@ -276,7 +276,11 @@ Lumine đáp: “Là một người kỳ quái, cần phải quan sát thêm.”
 
 Paimon nói: “Đối với hắn, bạn cũng là người kỳ quái.”
 
-Lumine nói: “Hơn nữa… Hơn nữa? Giọng nói, có chút quen thuộc…”
+Lumine nói: “Hơn nữa…”
+
+Paimon hỏi: “Hơn nữa?”
+
+Lumine đáp: “Giọng nói, có chút quen thuộc…”
 
 #CH|Chương 4|Nghe Theo Hướng Gió|venti_card.png|Nghe Theo Hướng Gió
 
@@ -708,7 +712,9 @@ Diluc đáp: “Đã nói đừng gọi tôi là tiền bối… thôi cũng đ�
 
 Lumine giả bộ như không nghe thấy từ ấy.
 
-Jean nói: “… …”
+Jean nói: “…”
+
+Diluc nói: “…”
 
 “Xem ra có một quá khứ không nên hỏi đến…” Paimon thì thầm.
 
