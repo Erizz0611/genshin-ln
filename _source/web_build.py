@@ -211,14 +211,14 @@ for i, c in enumerate(P):
 <h3>Là ai</h3><p>{esc(c["who"])}</p><h3>Xuất thân</h3><p>{esc(c["origin"])}</p><h3>Vai trò trong cốt truyện</h3><p>{esc(c["role"])}</p></article>''')
 
 side = []
-for ai, a in enumerate(acts):
-    who = [(i, c) for i, c in enumerate(P) if any(appears(c, ch) for ch in a['chapters'])]
+for arc, ais in arcs:   # gộp theo mục lớn (Mở Đầu, Chương I · Liyue...), mỗi nhân vật chỉ ghi một lần
+    who = [(i, c) for i, c in enumerate(P) if any(appears(c, ch) for ai in ais for ch in acts[ai]['chapters'])]
     chips = ''.join(f'<a href="#nv-{i}" data-open="nv-{i}" class="chip">{esc(c["name"])}</a>' for i, c in who) or '<span class="none">—</span>'
-    side.append(f'<div class="sb-ch"><a class="sb-t" href="{a["id"]}/index.html"><span class="sb-act">{esc(a["act"])}</span>{esc(a["title"])}</a><div class="chips">{chips}</div></div>')
+    side.append(f'<div class="sb-ch"><a class="sb-t" href="index.html#{acts[ais[0]]["id"]}"><span class="sb-act">{esc(arc)}</span>{len(ais)} màn · {len(who)} nhân vật</a><div class="chips">{chips}</div></div>')
 
 body = f'''<main class="profiles"><div class="kick c">Phụ lục</div><h1 class="c">Hồ Sơ Nhân Vật</h1><p class="asub c">{esc(UPDATED)} · bấm vào nhân vật để xem hồ sơ</p>
 <div class="plyt">
-<aside class="sidebar"><details open><summary>Nhân vật theo màn</summary>{''.join(side)}</details></aside>
+<aside class="sidebar"><details open><summary>Nhân vật theo chương</summary>{''.join(side)}</details></aside>
 <div><div class="psearch"><input type="search" id="psearch" placeholder="Tìm nhân vật…" autocomplete="off" aria-label="Tìm nhân vật"></div>
 <p class="pempty" id="pempty" hidden>Không tìm thấy nhân vật nào.</p><div class="pgrid">{''.join(cards)}</div>
 <p class="note">Hồ sơ chỉ ghi những gì đã xuất hiện trong các màn đã viết, kèm thông tin hồ sơ chính thức trong game. Sẽ được bổ sung sau mỗi màn mới.</p></div>
