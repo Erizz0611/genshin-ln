@@ -16,7 +16,7 @@
 
 “Tìm được bạn rồi! Bạn chính là nhà lữ hành mà chị đại xem trọng đúng không?” Hải Long hỏi.
 
-“Đã có tình báo rồi sao.” Lumine nói.
+“Đã có tình báo rồi sao,” Lumine nói.
 
 “Công tác chuẩn bị trên thuyền đã gần xong rồi, đã đến giờ điểm danh thành viên rồi,” Hải Long đáp. “Chị đại nhờ tôi đi tìm bạn, nói rằng khi bạn đến thì xuất phát ngay.”
 
@@ -201,6 +201,8 @@ Thoma bước lên, đưa ra một tờ giấy.
 “Đúng vậy, thương hội ngoài việc kinh doanh ra, còn có thể hỗ trợ những người ngoại quốc khác cùng nhau tồn tại ở đây,” Thoma đáp. “Có thể nói đó là một mối quan hệ cộng sinh.”
 
 “Cơ hội để diện kiến Raiden Shogun...” Lumine nói.
+
+“Đúng vậy, có cảm giác người ngoại quốc ở đây sinh sống thôi cũng đã khó rồi...” Paimon nói.
 
 “Đó là mục tiêu trong chuyến hành trình này của hai bạn sao. Ra là vậy, so với thân phận của hai bạn mà nói thì mục tiêu này rất ‘hoành tráng’ đó,” Thoma nói. “Dẫu sao thì Raiden Shogun cũng là một vị thần tôn quý được chúng sinh thờ phụng.”
 
