@@ -248,7 +248,7 @@ ACTS = [
   dict(id='c2-man3', arc='Chương II · Inazuma', src='c2_man3.txt', act='Chương II · Màn III', title='Thiên Thủ Bách Nhãn, Thiên Hạ Nhân Gian', sub='Nhiệm vụ Ma Thần — Inazuma',
        hero='raiden_nc.png', cast=[LUMINE, PAIMON, KOKOMI3, TEPPEI3, GOROU3, OOKUBO, KOUTOKU, SCARA, YAE3, SARA3, SAYU, THOMA3, AYAKA3, YOIMIYA3, TAKAYUKI, SIGNORA3, RAIDEN3, KAZUHA3],
        pdf='', footer='Chương II · Màn III — Thiên Thủ Bách Nhãn, Thiên Hạ Nhân Gian', side=False),
-  dict(id='cd-man1', arc='Chương Đệm', src='cd_man1.txt', act='Chương Đệm · Màn I', title='Phong Khởi Hạc Quy', sub='Nhiệm vụ Ma Thần — Liyue',
+  dict(id='cd-man1', arc='Chương II · Inazuma', src='cd_man1.txt', act='Chương Đệm · Màn I', title='Phong Khởi Hạc Quy', sub='Nhiệm vụ Ma Thần — Liyue',
        hero='shenhe_splash.png', cast=[LUMINE, PAIMON, SHENHE, YUNJIN, NINGGUANG_CD, BEIDOU_CD, CLOUD_CD, XINGQIU, BAIZHU_CD, KEQING_CD, BAIWEN, ZHANG, MINGJUN, BEISHT, LIU],
        pdf='', footer='Chương Đệm · Màn I — Phong Khởi Hạc Quy', side=False),
 ]
