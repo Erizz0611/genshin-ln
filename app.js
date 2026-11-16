@@ -82,7 +82,13 @@
   if (cont && p && p.url) {
     cont.href = p.url; cont.hidden = false;
     var note = document.getElementById('continue-note');
-    if (note && p.title) { note.textContent = 'Đang đọc: ' + p.title; note.hidden = false; }
+    // lấy tên hiện tại từ mục lục (tên màn có thể đã đổi sau khi lưu)
+    var li = p.ch && document.querySelector('li[data-ch="' + p.ch + '"]'), t = p.title;
+    if (li) {
+      var k = li.closest('.act').querySelector('.kick'), act = k ? k.firstChild.textContent.trim() : '';
+      t = act + ' · ' + li.querySelector('.lab').textContent + ': ' + li.querySelector('.ttl').textContent;
+    }
+    if (note && t) { note.textContent = 'Đang đọc: ' + t; note.hidden = false; }
   }
   // ----- hồ sơ nhân vật: thẻ nổi -----
   var modal = document.getElementById('modal');
