@@ -1,4 +1,4 @@
-#CH|Phần 1|Thành Phố Nổi|keqing_splash.png|Thành Phố Nổi
+#CH|Phần 1|Thành Phố Nổi|jadechamber.png|Thành Phố Nổi
 
 >Tại quán "Ba Cốc Say Mèm", sứ giả thần bí Ganyu xuất hiện và tự xưng là người được Ningguang ủy thác mời bạn đến cung điện trên trời Quần Ngọc Các. Vì vậy, bạn và Paimon đã đến Thiên Hoành Sơn để có thể nhìn thấy Quần Ngọc Các.
 
@@ -788,7 +788,7 @@ Mặt đất bắt đầu rung chuyển.
 
 Paimon hỏi: “Đó là gì vậy?”
 
-#CH|Phần 5|Về Trời|xiao_card.png|Về Trời
+#CH|Phần 5|Về Trời|osial.png|Về Trời
 
 >Tiên nhân và Thất tinh đối đầu bên ngoài thành, trước cơn giông bão, bạn đến Hoàng Kim Ốc ngăn chặn Childe đoạt Gnosis, nhưng lại phát sinh sự cố. Gnosis hình như không ở Hoàng Kim Ốc, còn Childe để bắt Nham Thần hiện thân, đã dùng Bách Vô Cấm Kỵ Lục triệu hồi Ma Thần viễn cổ.
 
