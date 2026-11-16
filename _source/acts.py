@@ -206,6 +206,24 @@ HERALD_C2M4 = dict(name='Sứ Đồ Vực Sâu', img='herald_icon.png', role='Gi
 LECTOR = dict(name='Linh Mục Vực Sâu', role='Giáo Đoàn Vực Sâu', desc='Canh giữ thiết bị khuếch đại ở căn phòng trung tâm của di tích, bị Lumine đánh bại.')
 BSK = dict(name='Kỵ Sĩ Hắc Xà', role='Cựu cận vệ hoàng gia Khaenri\'ah', desc='Những kỵ sĩ mang lời nguyền canh giữ di tích và những Hilichurl già yếu. Theo Dainsleif, họ đang hô “mau chạy đi” bằng tiếng Khaenri\'ah cổ.')
 
+# --- Chương Đệm · Màn I.1 (nhiệm vụ thế giới Vực Đá Sâu) ---
+MUNING = dict(name='Muning', role='Chuyên viên Tổng Vụ ở Vực Đá Sâu', img='muning_icon.png', desc='Phụ trách doanh trại ở lối vào Vực Đá Sâu, cấp giấy phép cho những người muốn xuống hầm mỏ. Tính tình nóng nảy nhưng không phải người xấu.')
+ZHIQIONG = dict(name='Zhiqiong', role='Nhà mạo hiểm · người thăm dò của đội thăm dò', img='zhiqiong_icon.png', desc='Nhà mạo hiểm trẻ hâm mộ Lumine, gọi cô là “tiền bối”. Chịu trách nhiệm tìm đường và vẽ bản đồ cho đội thăm dò Vực Đá Sâu.')
+JINWU = dict(name='Jinwu', role='Kỹ thuật viên an ninh của đội thăm dò', img='jinwu_icon.png', desc='Sửa chữa và bảo trì thiết bị, đảm bảo an toàn cho cả đội. Luôn để mắt đến Zhiqiong.')
+KHEDIVE = dict(name='Khedive', role='Học giả đến từ Sumeru', img='khedive_icon.png', desc='Người bỏ tiền thành lập và phụ trách đội thăm dò, nghiên cứu khoáng sản và sinh vật học.')
+CLITOPHO = dict(name='Clitopho', role='Người bán “Thuốc Hảo Hán”', img='clitopho_icon.png', desc='Từng theo Đạo Bảo Đoàn, được Lumine cứu khỏi lồng giam rồi gia nhập đội thăm dò, giúp chế tạo đạn pháo.')
+
+# --- Chương Đệm · Màn II ---
+YELAN = dict(name='Yelan', role='Người tự xưng làm việc ở Tổng Vụ', img='yelan_icon.png', desc='Giám sát Vực Đá Sâu. Bí ẩn, quan sát tinh tường, đang điều tra chân tướng trận chiến với ma thú Khaenri\'ah năm trăm năm trước.')
+YANFEI = dict(name='Yanfei', role='Cố vấn pháp lý nổi tiếng của Liyue', img='yanfei_icon.png', desc='Mang huyết thống tiên thú. Đến Vực Đá Sâu để thực hiện một bản di chúc: tìm lại pháp bảo La Bàn Huyền Ảo.')
+ITTO = dict(name='Arataki Itto', role='Đại ca Bang Arataki', img='itto_icon.png', desc='Người Inazuma đến Liyue cùng Shinobu. Được Yanfei giúp thoát khỏi đại lao Liyue, nên bám theo để “báo ơn”.')
+SHINOBU = dict(name='Kuki Shinobu', role='Thành viên Bang Arataki', img='shinobu_icon.png', desc='Người lo liệu mọi việc trong Bang Arataki. Từng học luật ở Liyue, đến lấy bằng tốt nghiệp.')
+USHI = dict(name='Ushi', role='Thành viên ngoài biên chế của Bang Arataki', desc='Chú bò của Itto, giỏi tìm đường. Chỉ nói “Moo”, nhưng Itto hiểu hết.')
+XIAO_CD2 = dict(name='Xiao', role='Hộ Pháp Dạ Xoa · Hàng Ma Đại Thánh', img='xiao_icon.png', desc='Một mình đến Vực Đá Sâu tìm tung tích của một Dạ Xoa đã mất tích.')
+FUSHE = dict(name='Phù Xá', role='Đằng Xà Thái Nguyên Soái · Dạ Xoa', img='bosacius_icon.png', desc='Người đứng đầu trong năm Dạ Xoa dưới trướng Nham Vương Đế Quân, đã mất tích hàng trăm năm. Xiao đến Vực Đá Sâu để tìm anh.')
+BOYANG = dict(name='Boyang', role='Thuật sĩ · tổ tiên của Yelan', desc='Một trong các tổ tiên của Yelan, người năm xưa đến Vực Đá Sâu và không thể trở về.')
+ZHONGLI_CD2 = dict(name='Zhongli', role='Khách của Vãng Sinh Đường', img='zhongli_icon.png', desc='Lặng lẽ dõi theo từ trên vách núi.')
+
 ACTS = [
   dict(id='man1', arc='Mở Đầu', src='man1.txt', act='Mở Đầu · Màn I', title='Người Phương Xa Đuổi Theo Gió', sub='Nhiệm vụ Ma Thần — Mondstadt',
        hero='traveler_portrait.png', cast=[LUMINE, PAIMON, AETHER, GOD, AMBER, KAEYA, JEAN, LISA, DRAGON, BOY, VOICE],
@@ -264,4 +282,10 @@ ACTS = [
   dict(id='c2-man4', arc='Chương II · Inazuma', src='c2_man4.txt', act='Chương II · Màn IV', title='Khúc An Hồn Nơi Đáy Vực', sub='Nhiệm vụ Ma Thần — Liyue',
        hero='c2m4_act.png', cast=[LUMINE, PAIMON, DAIN_C2M4, HALFDAN, AETHER_C2M4, KATHERYNE_C2M4, YUEHUI, HERALD_C2M4, LECTOR, BSK],
        pdf='', footer='Chương II · Màn IV — Khúc An Hồn Nơi Đáy Vực', side=False),
+  dict(id='cd-man1-1', arc='Chương II · Inazuma', src='cd_man1_1.txt', act='Chương Đệm · Màn I.1', title='Hành Trình Bên Trong Vực Đá Sâu', sub='Nhiệm vụ thế giới bắt buộc để mở Chương Đệm · Màn II — Vực Đá Sâu, Liyue',
+       hero='chasm.png', cast=[LUMINE, PAIMON, ZHIQIONG, MUNING, JINWU, KHEDIVE, CLITOPHO],
+       pdf='', footer='Chương Đệm · Màn I.1 — Hành Trình Bên Trong Vực Đá Sâu', side=True),
+  dict(id='cd-man2', arc='Chương II · Inazuma', src='cd_man2.txt', act='Chương Đệm · Màn II', title='Lộ Trình Nguy Hiểm', sub='Nhiệm vụ Ma Thần — Liyue',
+       hero='yelan_splash.png', cast=[LUMINE, PAIMON, YELAN, YANFEI, ITTO, SHINOBU, USHI, XIAO_CD2, FUSHE, BOYANG, ZHONGLI_CD2],
+       pdf='', footer='Chương Đệm · Màn II — Lộ Trình Nguy Hiểm', side=False),
 ]
