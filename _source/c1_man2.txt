@@ -708,7 +708,7 @@ Lumine thầm nghĩ: (Rốt cuộc Thất Tinh và Childe có âm mưu gì...)
 
 “Xin lỗi, lần này tôi không đi cùng các bạn nữa.” Zhongli nói thêm. “Lấy được Chuông Tẩy Trần rồi thì chúng ta sẽ gặp lại nhau ở Ngọc Kinh Đài.”
 
-#CH|Phần 4|Chiếc Ấm Thần Kỳ|ping_card.png|Chiếc Ấm Thần Kỳ
+#CH|Phần 4|Chiếc Ấm Thần Kỳ|ping.png|Chiếc Ấm Thần Kỳ
 
 >Sau khi chọn được loại sáp thơm Nham Vương Đế Quân ưng ý, Zhongli nhờ bạn đi mượn "Chuông Tẩy Trần" của Bình Lão Lão sống tại Ngọc Kinh Đài. Điều kỳ lạ là Zhongli hình như trốn tránh gặp người bạn này...
 
