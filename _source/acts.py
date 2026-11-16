@@ -134,6 +134,35 @@ MASAKATSU = dict(name='Masakatsu', role='Nghệ nhân làm Vision giả', desc='
 
 
 # Mỗi màn: id (dùng làm tên thư mục web), arc (phần truyện), file nguồn, nhãn, tên, phụ đề, ảnh bìa, nhân vật, tên PDF, chân trang PDF, side=True nếu là nhiệm vụ bắt buộc (Màn X.1)
+# --- Chương II · Màn I.1 (Kamisato Ayaka), Màn I.2 (Yoimiya), Màn II ---
+AYAKA11 = dict(name='Kamisato Ayaka', role='“Shirasagi Himegimi” · Đại tiểu thư Hiệp Hội Yashiro', img='ayaka_icon.png', desc='Nhờ Lumine cùng chuẩn bị quà gặp mặt cho “Tsubaki”, cái tên lặp đi lặp lại trong sổ tay của người mẹ đã mất.')
+OGURA = dict(name='Ogura Mio', role='Chủ Tiệm Vải Ogura', desc='Nhận may bộ kimono theo bản thiết kế của Ayaka, nhưng thiếu vải hoa nghê thường nhập từ Liyue.')
+KURISU11 = dict(name='Kurisu', role='Hội trưởng Thương Hội Vạn Quốc', desc='Bị đám Ronin cướp mất lô vải cao cấp. Được Ayaka giúp lấy lại hàng.')
+RONIN11 = dict(name='Ronin', role='Kẻ cướp hàng', desc='Cướp hàng của Thương Hội Vạn Quốc rồi đòi Kurisu bỏ tiền chuộc lại.')
+KIMINAMI = dict(name='Kiminami Anna', role='Chủ Nhà Hàng Kiminami', desc='Quen biết anh em nhà Kamisato đã lâu, vui mừng khi thấy Ayaka dẫn bạn đến quán.')
+FESTIVAL = dict(name='Sanden, Shimizu, Murakami, Yoshikawa', role='Chủ các sạp hàng ở lễ hội', desc='Nhiệt tình đón Ayaka đến lễ hội: tặng mặt nạ, mời rút quẻ, cho công thức bánh và bán thẻ cầu nguyện.')
+YOIMIYA12 = dict(name='Yoimiya', role='Chủ Tiệm Pháo Hoa Naganohara', img='yoimiya_icon.png', desc='Bận rộn chuẩn bị “Hội Pháo Hoa Naganohara”, đồng thời tìm cách giúp kẻ vượt biên Sakujirou.')
+KIDS12 = dict(name='Matsuzaka, Saika, Iwao', role='Lũ trẻ ở Đảo Narukami', desc='Muốn đánh đuổi “Siêu Mujina Youkai” bằng “vũ khí” chị Yoimiya chuẩn bị.')
+RYUUNOSUKE = dict(name='Naganohara Ryuunosuke', role='Cha của Yoimiya', desc='Chủ cũ của Tiệm Pháo Hoa Naganohara, tai không còn nghe rõ nhưng luôn tươi cười và thích kể chuyện.')
+SAKUJIROU = dict(name='Sakujirou', role='Kẻ vượt biên', desc='Người Inazuma đã bỏ đi, nay lén trở về và trốn trong Tiệm Pháo Hoa Naganohara.')
+KOUICHI = dict(name='Kouichi', role='Bạn của Yoimiya', desc='Lén đóng thuyền để Sakujirou có đường rời Inazuma.')
+MORIHIKO = dict(name='Morihiko', role='Khách quen của tiệm pháo hoa', desc='Chuẩn bị sẵn khoáng thạch làm pháo hoa cho Yoimiya.')
+AMENOMA = dict(name='Amenoma Tougo và Hajime', role='Xưởng Rèn Amenoma', desc='Hai thầy trò thợ rèn. Amenoma Tougo đích thân gia công khoáng thạch cho Yoimiya.')
+IMATANI = dict(name='Imatani Saburou và Imatani Kaori', role='Đôi vợ chồng già, khách cũ của tiệm pháo hoa', desc='Cha mẹ của Imatani Keisuke, sắp kỷ niệm 50 năm bên nhau.')
+SATORU = dict(name='Satoru', role='Người dân Làng Konda', desc='Nhận Củ Cải Mặn do bà Kaori gửi đến.')
+KEISUKE = dict(name='Imatani Keisuke', role='Hiệp Hội Tenryou', desc='Bạn thân thuở nhỏ của Sakujirou, nay là người dẫn quân truy bắt anh.')
+YOSHITAKA = dict(name='Yoshitaka', role='Lính Hiệp Hội Tenryou', desc='Thuộc hạ của Keisuke, chặn đường nhóm Yoimiya.')
+AYAKA2 = dict(name='Kamisato Ayaka', role='“Shirasagi Himegimi” · Đại tiểu thư Hiệp Hội Yashiro', img='ayaka_icon.png', desc='Báo tin Thoma bị Hiệp Hội Tenryou bắt đi làm “Vision thứ 100”.')
+THOMA2 = dict(name='Thoma', role='Người hầu của nhà Kamisato · Hiệp Hội Yashiro', img='thoma_icon.png', desc='Bị bắt trong Nghi Thức Săn Vision. Cứu Lumine khỏi tay Raiden Shogun rồi chỉ cô đến Tatarasuna.')
+RAIDEN = dict(name='Raiden Shogun', role='Vị thần cai trị Inazuma', img='raiden_icon.png', desc='Gọi Lumine là “ngoại lệ”, kẻ thù của sự vĩnh hằng, và đánh gục cô trong Nghi Thức Săn Vision.')
+TEPPEI = dict(name='Teppei', role='Lính quân kháng chiến', desc='Được Lumine cứu ở tiền tuyến, tiến cử cô với Gorou và dẫn cô đi khắp doanh trại.')
+GOROU = dict(name='Gorou', role='Đại tướng quân kháng chiến', img='gorou_icon.png', desc='Thống lĩnh quân kháng chiến ở Tatarasuna. Nhận Lumine vào quân và không chịu giao cô cho Kujou Sara.')
+SARA2 = dict(name='Kujou Sara', role='Đại tướng Quân Shogunate · Hiệp Hội Tenryou', img='sara_icon.png', desc='Dẫn viện binh đến tiền tuyến, đòi Gorou giao nộp Lumine và đề nghị “lâm trận quyết đấu”.')
+KOKOMI = dict(name='Sangonomiya Kokomi', role='Thánh Pháp Sư của Đảo Watatsumi', img='kokomi_icon.png', desc='Người tổ chức quân kháng chiến. Đến Bờ Nazuchi cùng đội thuyền Nam Thập Tự, đẩy lui Quân Shogunate.')
+KAZUHA2 = dict(name='Kaedehara Kazuha', role='Ronin Samurai · đội thuyền Nam Thập Tự', img='kazuha_icon.png', desc='Xuất hiện cùng Kokomi và đội thuyền Nam Thập Tự giữa trận chiến ở Bờ Nazuchi.')
+BEIDOU2 = dict(name='Beidou', role='Thủ lĩnh đội thuyền Nam Thập Tự', img='beidou_icon.png', desc='Đưa “Ngôi Sao Chết Chóc” phục kích Quân Shogunate để hỗ trợ quân kháng chiến.')
+RESIST = dict(name='Kaida Ryouma, Tokuda, Masashi, Shouji, Hisahiko', role='Người của quân kháng chiến', desc='Những người lính, thương binh và tân binh mà Lumine gặp trong doanh trại ở Tatarasuna.')
+
 ACTS = [
   dict(id='man1', arc='Mở Đầu', src='man1.txt', act='Mở Đầu · Màn I', title='Người Phương Xa Đuổi Theo Gió', sub='Nhiệm vụ Ma Thần — Mondstadt',
        hero='traveler_portrait.png', cast=[LUMINE, PAIMON, AETHER, GOD, AMBER, KAEYA, JEAN, LISA, DRAGON, BOY, VOICE],
@@ -174,4 +203,13 @@ ACTS = [
   dict(id='c2-man1', arc='Chương II · Inazuma', src='c2_man1.txt', act='Chương II · Màn I', title='Lôi Thần Uy Nghiêm, Địa Đàng Vĩnh Hằng', sub='Nhiệm vụ Ma Thần — Inazuma',
        hero='ayaka_splash.png', cast=[LUMINE, PAIMON, THOMA, AYAKA, YOIMIYA, SARA, YAE, BEIDOU_C2, CHISATO, SHINSUKE, WERNER, KURISU, TEJIMA, KUROSAWA, DOMON, MASAKATSU],
        pdf='', footer='Chương II · Màn I — Lôi Thần Uy Nghiêm, Địa Đàng Vĩnh Hằng', side=False),
+  dict(id='c2-man1-1', arc='Chương II · Inazuma', src='c2_man1_1.txt', act='Chương II · Màn I.1', title='Câu Chuyện Về Hạc Và Thỏ Trắng', sub='Nhiệm vụ nhân vật bắt buộc để mở Chương II · Màn II — Chương Tuyết Hạc - Màn I (Kamisato Ayaka)',
+       hero='ayaka_splash.png', cast=[LUMINE, PAIMON, AYAKA11, OGURA, KURISU11, RONIN11, KIMINAMI, FESTIVAL],
+       pdf='', footer='Chương II · Màn I.1 — Câu Chuyện Về Hạc Và Thỏ Trắng', side=True),
+  dict(id='c2-man1-2', arc='Chương II · Inazuma', src='c2_man1_2.txt', act='Chương II · Màn I.2', title='Vĩnh hằng như một giấc mơ', sub='Nhiệm vụ nhân vật bắt buộc để mở Chương II · Màn II — Chương Lưu Kim - Màn I (Yoimiya)',
+       hero='yoimiya_splash.png', cast=[LUMINE, PAIMON, YOIMIYA12, KIDS12, RYUUNOSUKE, SAKUJIROU, KOUICHI, MORIHIKO, AMENOMA, IMATANI, SATORU, KEISUKE, YOSHITAKA],
+       pdf='', footer='Chương II · Màn I.2 — Vĩnh hằng như một giấc mơ', side=True),
+  dict(id='c2-man2', arc='Chương II · Inazuma', src='c2_man2.txt', act='Chương II · Màn II', title='Tâm Vô Tạp Niệm, Bất Sinh Bất Diệt', sub='Nhiệm vụ Ma Thần — Inazuma',
+       hero='raiden_splash.png', cast=[LUMINE, PAIMON, AYAKA2, THOMA2, RAIDEN, TEPPEI, GOROU, SARA2, KOKOMI, KAZUHA2, BEIDOU2, RESIST],
+       pdf='', footer='Chương II · Màn II — Tâm Vô Tạp Niệm, Bất Sinh Bất Diệt', side=False),
 ]
