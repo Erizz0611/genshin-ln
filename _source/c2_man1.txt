@@ -670,7 +670,7 @@ Thoma trao thư mời cho Lumine rồi rời đi.
 
 “Hừ... tức thật! Hèn chi hắn chuồn nhanh đến vậy!” Paimon nói. “Đợi khi chúng ta rời khỏi Đảo Ritou sẽ đến ‘Phòng Trà Komore’ tính sổ với hắn. Haiz, dù sao thì giờ chúng ta cứ thử xem sao, đến cửa khẩu Đảo Ritou xem thử.”
 
-#CH|Phần 3|Kế Hoạch Thoát Khỏi Đảo Ritou|thoma_nc.png|Kế Hoạch Thoát Khỏi Đảo Ritou
+#CH|Phần 3|Kế Hoạch Thoát Khỏi Đảo Ritou|thoma_splash.png|Kế Hoạch Thoát Khỏi Đảo Ritou
 
 >Làm sao thoát khỏi Đảo Ritou bằng chính sức mình, đây là thử thách kế tiếp mà Thoma đưa ra cho bạn, bằng không cuộc lữ hành chỉ đành dừng lại ở đây...
 
