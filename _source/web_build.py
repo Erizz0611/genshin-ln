@@ -139,7 +139,7 @@ for arc, ais in arcs:
     for ai in ais:
         a = acts[ai]
         tag = '<span class="tag side">Nhiệm vụ bắt buộc</span>' if a['side'] else '<span class="tag">Ma Thần</span>'
-        toc.append(f'''<details class="act" id="{a["id"]}"><summary><img src="{banner(a["chapters"][0]["img"] if a["side"] else a["hero"])}" alt="" loading="lazy">
+        toc.append(f'''<details class="act" id="{a["id"]}"><summary><img src="{banner(a.get("thumb") or (a["chapters"][0]["img"] if a["side"] else a["hero"]))}" alt="" loading="lazy">
 <div><div class="kick">{esc(a["act"])} {tag}</div><div class="atitle">{esc(a["title"])}</div><div class="asub">{esc(a["sub"])} · {len(a["chapters"])} chương</div></div><span class="chev" aria-hidden="true"><svg viewBox="0 0 24 24" width="18" height="18"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span></summary>
 <div class="act-links"><a href="{a["id"]}/index.html">Giới thiệu & nhân vật</a></div>
 {chapter_list(ai, "")}</details>''')

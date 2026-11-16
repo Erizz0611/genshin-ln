@@ -163,7 +163,7 @@ ACTS = [
        hero='amber_splash.png', cast=[LUMINE, PAIMON, AMBER42, OTTO, RAPTOR, FARRAH],
        pdf='', footer='Chương I · Màn III.2 — Gió, Đôi Cánh Và Dũng Khí', side=True),
   dict(id='c1-man4-gt', arc='Chương I · Liyue', src='c1_man4_gt.txt', act='Chương I · Màn IV · Giới Thiệu', title='Dainsleif', sub='Nhiệm vụ mở đầu bắt buộc của Chương I · Màn IV — Người Giữ Cành',
-       hero='dainsleif_banner.png', cast=[LUMINE, PAIMON, DAIN_GT, KATHERYNE, LAWRENCE, CHARLES],
+       hero='dainsleif_banner.png', thumb='dainsleif_thumb.png', cast=[LUMINE, PAIMON, DAIN_GT, KATHERYNE, LAWRENCE, CHARLES],
        pdf='', footer='Chương I · Màn IV · Giới Thiệu — Dainsleif', side=True),
   dict(id='c1-man4', arc='Chương I · Liyue', src='c1_man4.txt', act='Chương I · Màn IV', title='Chúng Ta Ắt Sẽ Trùng Phùng', sub='Nhiệm vụ Ma Thần — Mondstadt và Liyue',
        hero='ganyu_card.png', cast=[LUMINE, PAIMON, DAIN4, GANYU4, LAN, HERALD, BARBARA4, ROSARIA, JEAN4, RAZOR, BOREAS, AETHER4],
