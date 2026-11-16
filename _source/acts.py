@@ -49,6 +49,17 @@ CLOUD = dict(name='Lưu Vân Tá Phong Chân Quân', role='Tiên nhân ở Âu T
 LIDING = dict(name='Li Ding và Li Dang', role='Hai anh em lên Hổ Lao Sơn', desc='Lên núi tìm bảo vật trong Hổ Phách, một người bị Hổ Phách nhốt lại và được Lumine cứu ra.')
 
 
+# --- Chương 1 Màn 2 (Liyue) ---
+ZHONGLI = dict(name='Zhongli', role='Khách của Vãng Sinh Đường', img='zhongli_icon.png', desc='Người “trong nghề” được Childe giới thiệu. Am hiểu mọi phong tục của Liyue nhưng luôn quên mang tiền, mời Lumine cùng chuẩn bị Điển Lễ Tiễn Tiên cho Nham Vương Đế Quân.')
+CHILDE2 = dict(name='Childe', role='Quan Chấp Hành Fatui', img='childe_icon.png', desc='Giữ lời hứa tìm “người có thể phá vỡ cục diện”, chi tiền cho Điển Lễ Tiễn Tiên, nhưng âm thầm cho người nghe ngóng chuyện Hoàng Kim Ốc.')
+EKATERINA = dict(name='Ekaterina', role='Nhân viên Ngân hàng Bắc Quốc', desc='Người của Fatui ở quầy Ngân hàng Bắc Quốc, chỉ đường cho Lumine đến Lưu Ly Đình và nghe lén giúp Childe.')
+SHITOU = dict(name='Shitou', role='Chủ tiệm ngọc Giải Thúy Hàng', desc='Ông chủ tiệm ngọc keo kiệt, nhưng chỉ lấy nửa giá rương Dạ Phách Thạch khi biết nó dùng để tiễn Nham Vương Gia.')
+YINGER = dict(name="Ying'er", role='Người làm Sáp Thơm ở Xuân Hương Diêu', desc='Cô gái hay trêu chọc, đã cùng Lumine nấu ba loại Sáp Thơm từ Hoa Nghê Thường ở bếp Vạn Dân Đường.')
+PING = dict(name='Bình Lão Lão', role='Người giữ Chuông Tẩy Trần', desc='Bà lão sống trên Ngọc Kinh Đài, cất “tất cả tài sản” trong một chiếc ấm thần kỳ. Bạn cũ của Zhongli.')
+QIQI = dict(name='Qiqi', role='Nhân viên Nhà Thuốc Bubu', img='qiqi_icon.png', desc='Cô bé cương thi chỉ hành động theo “mệnh lệnh” tự đặt cho mình, nhờ nhóm Lumine đi bắt “Dê Dừa” để đổi lấy Hương Bất Tử.')
+BAIZHU = dict(name='Baizhu', role='Chủ Nhà Thuốc Bubu', img='baizhu_icon.png', desc='Ông chủ nhà thuốc cùng con rắn biết nói Changsheng. Bán Hương Bất Tử giá 299 vạn Mora sau khi bắt tay với Childe.')
+GANYU = dict(name='Ganyu', role='Thư ký Nguyệt Hải Đình', img='ganyu_icon.png', desc='Thư ký của toàn thể Thất Tinh, sứ giả đặc biệt của Ningguang. Tìm đến quán Ba Cốc Say Mèm để trao thư mời Lumine đến Quần Ngọc Các.')
+
 SERIES = 'Genshin Impact · Light Novel'
 FOOT = 'Truyện chuyển thể phi thương mại từ cốt truyện Genshin Impact (HoYoverse). Lời thoại theo bản tiếng Việt chính thức của game.'
 
@@ -70,4 +81,7 @@ ACTS = [
   dict(id='c1-man1', arc='Chương 1 · Liyue', src='c1_man1.txt', act='Chương 1 Màn 1', title='Phù Thế Phù Sinh Thiên Nham Gian', sub='Nhiệm vụ Ma Thần — Liyue',
        hero='childe_card.png', cast=[LUMINE, PAIMON, CHILDE, NINGGUANG, REX, MOONCARVER, XIAO, GOLDET, YANXIAO, MING, MOUNTAIN, CLOUD, LIDING],
        pdf='', footer='Chương 1 Màn 1 — Phù Thế Phù Sinh Thiên Nham Gian', side=False),
+  dict(id='c1-man2', arc='Chương 1 · Liyue', src='c1_man2.txt', act='Chương 1 Màn 2', title='Lời Tạm Biệt Thể Xác Vĩnh Hằng', sub='Nhiệm vụ Ma Thần — Liyue',
+       hero='zhongli_card.png', cast=[LUMINE, PAIMON, ZHONGLI, CHILDE2, PING, QIQI, BAIZHU, GANYU, EKATERINA, SHITOU, YINGER],
+       pdf='', footer='Chương 1 Màn 2 — Lời Tạm Biệt Thể Xác Vĩnh Hằng', side=False),
 ]
