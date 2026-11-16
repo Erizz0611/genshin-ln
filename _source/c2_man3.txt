@@ -254,7 +254,7 @@ Lumine và Paimon đến trại huấn luyện chờ Teppei. Ít lâu sau, Teppe
 
 “Thật không ngờ Teppei cũng được phong làm đội trưởng rồi, xem ra anh ấy thật sự đã rất cố gắng,” Paimon nói. “Chúng ta nghỉ ngơi một lát, rồi đến chỗ Di Tích Chiến Tranh Ma Thần xem thử nhé!”
 
-#CH|Phần 2|Người Khao Khát Được Thần Linh Chú Ý|gorou_splash.png|Người Khao Khát Được Thần Linh Chú Ý
+#CH|Phần 2|Người Khao Khát Được Thần Linh Chú Ý|teppei_wide.png|Người Khao Khát Được Thần Linh Chú Ý
 
 >Bạn đã trở thành đội trưởng Đội Cá Kiếm 2 của quân kháng chiến, không ngờ Teppei cũng được đề bạt như vậy...
 
@@ -392,7 +392,7 @@ Lumine và Paimon vội vã chạy đi tìm Teppei. Anh đang ngồi dưới đ�
 
 Lumine quay lưng bỏ đi.
 
-#CH|Phần 3|Delusion|kokomi_card.png|Delusion
+#CH|Phần 3|Delusion|scaramouche_wide.png|Delusion
 
 >Thứ “vũ khí bí mật” là tia hy vọng mong manh của quân kháng chiến hóa ra lại là Delusion, cái chết của chiến hữu Teppei đã khiến cho bạn không thể nào kiềm chế được cơn giận đối với Fatui...
 
