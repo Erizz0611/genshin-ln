@@ -132,6 +132,24 @@ KUROSAWA = dict(name='Kurosawa Kyounosuke', role='Samurai Quân Shogunate', img=
 DOMON = dict(name='Domon', role='Chưởng môn phái Meikyou Shisui', desc='Kiếm đạo gia muốn thành thiên hạ đệ nhất, phát điên sau khi mất Vision. Được sư huynh Anzai và các đệ tử giúp tỉnh lại.')
 MASAKATSU = dict(name='Masakatsu', role='Nghệ nhân làm Vision giả', desc='Người làm Vision giả giúp Hiệp Hội Yashiro, bị Hiệp Hội Tenryou bắt giam ở Sở Trị An.')
 
+# Chương II · Màn III
+KOKOMI3 = dict(name='Sangonomiya Kokomi', role='Người Trị Vì Đảo Watatsumi · Thống soái quân kháng chiến', img='kokomi_icon.png', desc='Phong Lumine làm đội trưởng “Đội Cá Kiếm 2”. Khi phát hiện “vũ khí bí mật” của nhà tài trợ là Delusion của Fatui, cô ra lệnh tịch thu toàn bộ và chỉ cho Lumine nơi có thể là công xưởng.')
+TEPPEI3 = dict(name='Teppei', role='Đội trưởng “Đội Cá Trích 1” · Quân kháng chiến', img='teppei_icon.png', desc='Người bạn đưa Lumine về Đảo Watatsumi. Lập nhiều chiến công nhờ “vũ khí bí mật” của nhà tài trợ, mà không biết đó là Delusion đang hút cạn sinh mạng mình.')
+GOROU3 = dict(name='Gorou', role='Đại tướng quân kháng chiến', img='gorou_icon.png', desc='Phát hiện quân sĩ lão hóa kỳ lạ vì lén dùng “vũ khí bí mật”, mang một chiếc đến cho Kokomi. Dẫn quân kháng chiến xông lên trong trận chiến cuối cùng.')
+OOKUBO = dict(name='Ookubo Daisuke', role='Quân kháng chiến · Đảo Watatsumi', desc='Người bàn chuyện quân lương với Kokomi, kể về nhà tài trợ giấu mặt.')
+KOUTOKU = dict(name='Koutoku và Yoshihisa', role='Đội Cá Kiếm 2', desc='Đội trưởng đại diện và thành viên lão làng của Đội Cá Kiếm 2. Thử thách Lumine bằng đám ronin rồi công nhận cô làm đội trưởng.')
+SCARA = dict(name='Scaramouche', role='Quan Chấp Hành thứ 6 của Fatui', img='scaramouche_icon.png', desc='Người “thay mặt thực hiện kế hoạch” ở công xưởng Delusion trên Đảo Yashiori. Khiêu khích Lumine bằng cái chết của Teppei và dùng oán niệm Ma Thần giăng bẫy cô.')
+YAE3 = dict(name='Yae Miko', role='Guuji Đền Narukami · “Gia quyến” của Lôi Thần', img='yae_icon.png', desc='Cứu Lumine khỏi tay Scaramouche, kể về Ei và “Nhất Tâm Tịnh Thổ”, rồi vạch kế hoạch ly gián Hiệp Hội Tenryou để đưa Lumine trở lại trước mặt Raiden Shogun.')
+SARA3 = dict(name='Kujou Sara', role='Đại tướng Quân Shogunate · Hiệp Hội Tenryou', img='sara_icon.png', desc='Đòi bắt Lumine ở Đền Narukami, nhận lời hẹn ba ngày của Yae Miko. Khi thấy chứng cứ, cô đối chất với gia chủ Kujou Takayuki và quyết định kháng lệnh.')
+SAYU = dict(name='Sayu', role='Ninja của Shuumatsuban', img='sayu_icon.png', desc='Ninja hay buồn ngủ được Yae Miko “tóm” đến giúp. Lẻn vào Hiệp Hội Tenryou lấy công văn và thư từ trao đổi với Fatui.')
+THOMA3 = dict(name='Thoma', role='Người hầu của nhà Kamisato · Hiệp Hội Yashiro', img='thoma_icon.png', desc='Vẫn trốn trong Phòng Trà Komore, nghĩ ra kế dùng pháo hoa của Yoimiya để dụ thân binh Hiệp Hội Tenryou.')
+AYAKA3 = dict(name='Kamisato Ayaka', role='Đại tiểu thư nhà Kamisato', img='ayaka_icon.png', desc='Nhận ra công văn của Hiệp Hội Tenryou trình lên Shogun có vấn đề, cùng Lumine lập kế hoạch lấy chứng cứ.')
+YOIMIYA3 = dict(name='Yoimiya', role='Chủ Tiệm Pháo Hoa Naganohara', img='yoimiya_icon.png', desc='Tặng Lumine một loại pháo hoa “siêu to khổng lồ” để dụ lính gác.')
+TAKAYUKI = dict(name='Kujou Takayuki', role='Gia chủ nhà Kujou · Hiệp Hội Tenryou', img='takayuki_icon.png', desc='Thừa nhận đã qua lại với Fatui và che giấu chuyện tiền tuyến trong công văn trình lên Shogun, vì tin vào sức mạnh của “Lưỡi Đao Vô Tưởng”.')
+SIGNORA3 = dict(name='Signora', role='Quan Chấp Hành thứ 8 của Fatui · Sứ giả Snezhnaya', img='signora_icon.png', desc='Kẻ giật dây chiến loạn ở Inazuma. Bị Lumine thách “Ngự Tiền Quyết Đấu” ở Thiên Thủ Các và thua trận.')
+RAIDEN3 = dict(name='Raiden Shogun', role='Lôi Thần · Ei', img='raiden_icon.png', desc='Chứng kiến cuộc quyết đấu ở Thiên Thủ Các. Trong “Nhất Tâm Tịnh Thổ”, Ei bị nguyện vọng của người dân và Lumine đánh bại, rồi phế bỏ Lệnh Truy Lùng Vision.')
+KAZUHA3 = dict(name='Kaedehara Kazuha', role='Ronin Samurai', img='kazuha_icon.png', desc='Xuất hiện trong trận chiến cuối cùng, đỡ lấy nhát “Lưỡi Đao Vô Tưởng”.')
+
 
 # Mỗi màn: id (dùng làm tên thư mục web), arc (phần truyện), file nguồn, nhãn, tên, phụ đề, ảnh bìa, nhân vật, tên PDF, chân trang PDF, side=True nếu là nhiệm vụ bắt buộc (Màn X.1)
 # --- Chương II · Màn I.1 (Kamisato Ayaka), Màn I.2 (Yoimiya), Màn II ---
@@ -212,4 +230,7 @@ ACTS = [
   dict(id='c2-man2', arc='Chương II · Inazuma', src='c2_man2.txt', act='Chương II · Màn II', title='Tâm Vô Tạp Niệm, Bất Sinh Bất Diệt', sub='Nhiệm vụ Ma Thần — Inazuma',
        hero='raiden_splash.png', cast=[LUMINE, PAIMON, AYAKA2, THOMA2, RAIDEN, TEPPEI, GOROU, SARA2, KOKOMI, KAZUHA2, BEIDOU2, RESIST],
        pdf='', footer='Chương II · Màn II — Tâm Vô Tạp Niệm, Bất Sinh Bất Diệt', side=False),
+  dict(id='c2-man3', arc='Chương II · Inazuma', src='c2_man3.txt', act='Chương II · Màn III', title='Thiên Thủ Bách Nhãn, Thiên Hạ Nhân Gian', sub='Nhiệm vụ Ma Thần — Inazuma',
+       hero='raiden_nc.png', cast=[LUMINE, PAIMON, KOKOMI3, TEPPEI3, GOROU3, OOKUBO, KOUTOKU, SCARA, YAE3, SARA3, SAYU, THOMA3, AYAKA3, YOIMIYA3, TAKAYUKI, SIGNORA3, RAIDEN3, KAZUHA3],
+       pdf='', footer='Chương II · Màn III — Thiên Thủ Bách Nhãn, Thiên Hạ Nhân Gian', side=False),
 ]
