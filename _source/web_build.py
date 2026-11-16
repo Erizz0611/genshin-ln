@@ -208,7 +208,7 @@ def appears(c, ch):
 cards, profs = [], []
 for i, c in enumerate(P):
     pid = 'nv-' + str(i)
-    pic = f'<img src="{img(c["img"], 520, ratio=52 / 74, focus=1.0 if "card" in c["img"] else 0.0)}" alt="{html.escape(c["name"])}" loading="lazy">' if c['img'] else f'<div class="ph">{html.escape(c["name"][0])}</div>'
+    pic = f'<img src="{img(c["img"], 520, ratio=52 / 74, focus=0.62 if "card" in c["img"] else 0.0)}" alt="{html.escape(c["name"])}" loading="lazy">' if c['img'] else f'<div class="ph">{html.escape(c["name"][0])}</div>'
     cards.append(f'<a class="pcard" href="#{pid}" data-open="{pid}" data-q="{html.escape((c["name"] + " " + c["title"] + " " + " ".join(v for _, v in c["info"])))}"><div class="pic">{pic}</div><div class="pn">{esc(c["name"])}</div><div class="pt">{esc(c["title"])}</div></a>')
     rows = ''.join(f'<tr><th>{esc(k)}</th><td>{esc(v)}</td></tr>' for k, v in c['info'])
     profs.append(f'''<article class="prof" id="{pid}" data-name="{html.escape(c["name"])}"><div class="top"><div class="pic">{pic}</div><div class="meta">
