@@ -6,11 +6,11 @@ Childe đã nói cần “chút thời gian”. Lumine và Paimon đợi qua m�
 
 Người tiếp đón họ ở quầy là Ekaterina, nhân viên ngân hàng của Fatui.
 
-“Chào mừng Lumine, bằng hữu của đại nhân Childe. Chúc bạn sau này ở Fatui có thể một bước lên mây.”
+Ekaterina nói: “Chào mừng Lumine, bằng hữu của đại nhân Childe. Chúc bạn sau này ở Fatui có thể một bước lên mây.”
 
 “Tôi không phải là bạn của Childe.” Lumine đáp.
 
-“Ha... Chúng ta đều là người phàm, không phải ‘Nữ Hoàng Băng Giá’. Những suy nghĩ của người phàm giống như nước dưới tầng băng... sẽ không sắc bén và vững vàng mãi mãi.”
+Ekaterina nói: “Ha... Chúng ta đều là người phàm, không phải ‘Nữ Hoàng Băng Giá’. Những suy nghĩ của người phàm giống như nước dưới tầng băng... sẽ không sắc bén và vững vàng mãi mãi.”
 
 Ekaterina khẽ cúi đầu: “Thất lễ rồi, xin phép cho tôi quay lại chủ đề chính. Đại nhân Childe nói, giao ước giữa ngài và các bạn đã hoàn thành.”
 
@@ -24,11 +24,7 @@ Ekaterina khẽ cúi đầu: “Thất lễ rồi, xin phép cho tôi quay lại
 
 “Lưu Ly Đình?” Lumine hỏi lại.
 
-“A, là Lưu Ly Đình! Tôi đã từng nghe nói!” Paimon reo lên.
-
-“‘Món Li’ và ‘món Yue’ là hai phong cách ẩm thực ở cảng Liyue, đã tranh đấu hàng trăm năm, bất phân thắng bại.”
-
-“Đại diện cho ‘Món Li’ chính là quán rượu Lưu Ly Đình. Ông chủ cố tình mở quán ở Dốc Phi Vân, cạnh tranh trực tiếp với đại diện của ‘Món Yue’ là Tân Nguyệt Hiên!”
+“A, là Lưu Ly Đình! Tôi đã từng nghe nói!” Paimon reo lên. “‘Món Li’ và ‘món Yue’ là hai phong cách ẩm thực ở cảng Liyue, đã tranh đấu hàng trăm năm, bất phân thắng bại. Đại diện cho ‘Món Li’ chính là quán rượu Lưu Ly Đình. Ông chủ cố tình mở quán ở Dốc Phi Vân, cạnh tranh trực tiếp với đại diện của ‘Món Yue’ là Tân Nguyệt Hiên!”
 
 “Chỉ những lúc như thế này Paimon mới giống một người hướng dẫn tốt.” Lumine nói.
 
@@ -40,21 +36,15 @@ Ekaterina khẽ cúi đầu: “Thất lễ rồi, xin phép cho tôi quay lại
 
 Hai người rời ngân hàng, đi lên Dốc Phi Vân. Childe đã đứng chờ sẵn trước cửa Lưu Ly Đình.
 
-“Ồ, các bạn đến rồi.” Childe vẫy tay.
-
-“Giao ước đã hoàn thành, tôi đã tìm thấy người có thể giúp các bạn, người có thể giải quyết vấn đề ‘tiên thể của Nham Thần bị Thất Tinh che giấu’.”
+“Ồ, các bạn đến rồi.” Childe vẫy tay. “Giao ước đã hoàn thành, tôi đã tìm thấy người có thể giúp các bạn, người có thể giải quyết vấn đề ‘tiên thể của Nham Thần bị Thất Tinh che giấu’.”
 
 “Vậy, người đó đang ở đâu? Trong Lưu Ly Đình à?” Paimon hỏi.
 
-“Không sai. Hãy đi theo tôi.” Childe đáp.
-
-“Tôi đã chuẩn bị một bữa. Ừm, ở đất nước này có thói quen gọi là ‘bữa tiệc’ gặp mặt.”
+“Không sai. Hãy đi theo tôi.” Childe đáp. “Tôi đã chuẩn bị một bữa. Ừm, ở đất nước này có thói quen gọi là ‘bữa tiệc’ gặp mặt.”
 
 Childe dẫn hai người bước vào quán. Người phục vụ Hongru cúi chào:
 
-“Chào mừng ngài trở lại, cửa tiệm nhỏ của chúng tôi rất vinh hạnh được đón tiếp ngài.”
-
-“Bữa tiệc đã chuẩn bị xong, ngài Zhongli đang đợi hai vị.”
+“Chào mừng ngài trở lại, cửa tiệm nhỏ của chúng tôi rất vinh hạnh được đón tiếp ngài. Bữa tiệc đã chuẩn bị xong, ngài Zhongli đang đợi hai vị.”
 
 ---
 
@@ -66,9 +56,7 @@ Childe đứng ra giới thiệu.
 
 “Người trong nghề?” Lumine hỏi.
 
-Childe giải thích: “Ừm, ở Liyue, ngành nghề giống như Vãng Sinh Đường, luôn phải tiếp xúc làm ăn với ‘người trong nghề’.”
-
-“Còn người Fatui chúng tôi, trước giờ luôn thích giao tiếp với... những người bạn hành tẩu trong bóng tối.”
+Childe giải thích: “Ừm, ở Liyue, ngành nghề giống như Vãng Sinh Đường, luôn phải tiếp xúc làm ăn với ‘người trong nghề’. Còn người Fatui chúng tôi, trước giờ luôn thích giao tiếp với... những người bạn hành tẩu trong bóng tối.”
 
 “Hành tẩu trong, trong bóng tối...” Paimon lắp bắp.
 
@@ -84,13 +72,11 @@ Paimon lẩm bẩm: “Người trong nghề... Bóng tối... Tiễn người �
 
 “Hở.” Paimon ngẩn ra.
 
-“Ha ha, lẽ nào bạn cho rằng ngài Zhongli là sát thủ?” Childe bật cười.
-
-“Đúng là trong những người bạn của Fatui có rất nhiều sát thủ, nhưng Vãng Sinh Đường không làm nghề đó... Tối thiểu thì không làm công khai.”
+“Ha ha, lẽ nào bạn cho rằng ngài Zhongli là sát thủ?” Childe bật cười. “Đúng là trong những người bạn của Fatui có rất nhiều sát thủ, nhưng Vãng Sinh Đường không làm nghề đó... Tối thiểu thì không làm công khai.”
 
 “Công khai...” Lumine lặp lại.
 
-“Rốt cuộc vẫn là ‘người trong nghề’ mà, cái này không thể nói rõ được. Tóm lại, tôi đưa các bạn đến gặp Zhongli, là bởi...”
+Childe nói: “Rốt cuộc vẫn là ‘người trong nghề’ mà, cái này không thể nói rõ được. Tóm lại, tôi đưa các bạn đến gặp Zhongli, là bởi...”
 
 “Vì tôi có cách để các bạn thấy được tiên thể của Nham Vương Đế Quân.” Zhongli tiếp lời.
 
@@ -98,23 +84,19 @@ Paimon lẩm bẩm: “Người trong nghề... Bóng tối... Tiễn người �
 
 Childe xua tay: “Ha, không cần phải ngạc nhiên như vậy, mặc dù dưới sự thao túng của Thiên Quyền Tinh Ningguang, tiên thể của Nham Thần sớm đã bị giấu kín... Nhưng, hãy nghe ý kiến của Zhongli trước đã.”
 
-Zhongli chậm rãi nói: “Mặc dù Nham Vương Đế Quân là Chúng Tiên Tổ Sư, nhưng suy cho cùng vẫn là một tiên nhân. Trong suốt hàng ngàn năm lịch sử của Liyue, các tiên nhân liên tục rời đi, đây cũng là tình thế không thể cứu vãn được.”
-
-“Thời thế đã đổi thay, cô ở Tuyệt Vân Gián chắc cũng đã thấy được sự thay đổi này.”
+Zhongli chậm rãi nói: “Mặc dù Nham Vương Đế Quân là Chúng Tiên Tổ Sư, nhưng suy cho cùng vẫn là một tiên nhân. Trong suốt hàng ngàn năm lịch sử của Liyue, các tiên nhân liên tục rời đi, đây cũng là tình thế không thể cứu vãn được. Thời thế đã đổi thay, cô ở Tuyệt Vân Gián chắc cũng đã thấy được sự thay đổi này.”
 
 “Quả thực, các tiên nhân đang rời xa Liyue.” Lumine đáp.
 
 “Như cô đã thấy.” Zhongli nói. “Thời đại của tiên nhân đang dần biến mất, thời đại của con người đang dần trở thành hiện thực.”
 
-“Trước kia, mỗi khi một vị tiên nhân ra đi đều sẽ có một nghi thức kỷ niệm rất long trọng. Đây cũng là truyền thống của Liyue. Nhưng lần này, ngay cả Thất Tinh cũng không có thời gian để quan tâm đến truyền thống này... Thật không ra thể thống gì.”
+Zhongli nói: “Trước kia, mỗi khi một vị tiên nhân ra đi đều sẽ có một nghi thức kỷ niệm rất long trọng. Đây cũng là truyền thống của Liyue. Nhưng lần này, ngay cả Thất Tinh cũng không có thời gian để quan tâm đến truyền thống này... Thật không ra thể thống gì.”
 
 “Dẫu sao cũng là ‘vụ án mưu sát Thần’...” Lumine nói.
 
 “Đúng vậy, ngay cả hung thủ thực sự cũng chưa bắt được.” Paimon thêm vào.
 
-Zhongli lắc đầu: “Vụ án mưu sát Thần... Vãng Sinh Đường không quan tâm đến chuyện này. Điều Vãng Sinh Đường quan tâm chính là nghi thức thỉnh tiên long trọng như vậy, mà nghi thức tiễn tiên lại không có ai để ý hay sao?”
-
-“Nhà lữ hành, tôi đã nghe Childe nhắc đến cô. Cô có quen biết Phong Thần... Vậy, có thể cùng chúng tôi chuẩn bị nghi lễ đưa tiễn Nham Thần được không?”
+Zhongli lắc đầu: “Vụ án mưu sát Thần... Vãng Sinh Đường không quan tâm đến chuyện này. Điều Vãng Sinh Đường quan tâm chính là nghi thức thỉnh tiên long trọng như vậy, mà nghi thức tiễn tiên lại không có ai để ý hay sao? Nhà lữ hành, tôi đã nghe Childe nhắc đến cô. Cô có quen biết Phong Thần... Vậy, có thể cùng chúng tôi chuẩn bị nghi lễ đưa tiễn Nham Thần được không?”
 
 “Tôi cần suy nghĩ một chút...” Lumine đáp.
 
@@ -128,17 +110,15 @@ Anh ta nói tiếp: “Thiên Quyền Ningguang... Cô ta đang ngăn cản bấ
 
 “Xem ra cũng không còn cách nào khác.” Lumine gật đầu.
 
-“Ừm, nếu cô đồng ý, hãy đi cùng tôi. Chúng ta sẽ nói chi tiết trên đường đi.”
+Zhongli nói: “Ừm, nếu cô đồng ý, hãy đi cùng tôi. Chúng ta sẽ nói chi tiết trên đường đi.”
 
 Nói rồi, Zhongli đứng dậy rời khỏi phòng trước.
 
-“Được rồi, nhiệm vụ giới thiệu của tôi đã hoàn thành. Thế nào, kết quả này cũng không tệ phải không?” Childe hỏi.
-
-“Nếu các bạn phải đi thì cứ đi, không cần lo cho tôi, có thể tôi sẽ ở đây uống thêm vài ly... Tiện thể làm quen với cách dùng ‘đũa’.”
+“Được rồi, nhiệm vụ giới thiệu của tôi đã hoàn thành. Thế nào, kết quả này cũng không tệ phải không?” Childe hỏi. “Nếu các bạn phải đi thì cứ đi, không cần lo cho tôi, có thể tôi sẽ ở đây uống thêm vài ly... Tiện thể làm quen với cách dùng ‘đũa’.”
 
 Lúc Lumine đứng lên, Childe vẫn còn loay hoay với đôi đũa trên tay.
 
-“‘Đũa’... thật khó sử dụng...”
+Childe nói: “‘Đũa’... thật khó sử dụng...”
 
 ---
 
@@ -150,11 +130,7 @@ Zhongli hỏi: “Nhà Lữ Hành, sau khi đi qua ‘vùng đất bị thần r
 
 “Ừm,” Zhongli gật đầu, “‘vùng đất có thần’ có bề dày 3700 năm lịch sử và cũng là quốc gia lâu đời nhất trong 7 vương quốc.”
 
-“Quá trình chuẩn bị ‘Điển Lễ Tiễn Tiên’ cũng sẽ trở thành một phần trong hành trình của cô, giúp cô mở rộng tầm mắt.”
-
-“Những năm qua dưới sự bảo vệ của Thần Linh và sự cai trị của Thất Tinh, Liyue trở thành quốc gia thịnh vượng nhất trong bảy vương quốc. Bởi vậy rất nhiều thủ đoạn của Fatui đều không thể thực hiện được ở Liyue.”
-
-“Ningguang, một trong Thất Tinh luôn luôn đề cao phòng bị đối với Fatui, có lẽ đây chính là lý do Childe muốn mượn quan hệ với Vãng Sinh Đường để hành sự.”
+Zhongli nói: “Quá trình chuẩn bị ‘Điển Lễ Tiễn Tiên’ cũng sẽ trở thành một phần trong hành trình của cô, giúp cô mở rộng tầm mắt. Những năm qua dưới sự bảo vệ của Thần Linh và sự cai trị của Thất Tinh, Liyue trở thành quốc gia thịnh vượng nhất trong bảy vương quốc. Bởi vậy rất nhiều thủ đoạn của Fatui đều không thể thực hiện được ở Liyue. Ningguang, một trong Thất Tinh luôn luôn đề cao phòng bị đối với Fatui, có lẽ đây chính là lý do Childe muốn mượn quan hệ với Vãng Sinh Đường để hành sự.”
 
 “Ủa... Chúng ta làm ‘Điển Lễ Tiễn Tiên’ thì có lợi ích gì đối với Childe chứ?” Paimon thắc mắc.
 
@@ -184,13 +160,11 @@ Zhongli dẫn Lumine và Paimon đến Giải Thúy Hàng, một tiệm ngọc t
 
 Ông chủ đi vào trong, một lúc sau mang ra ba khối Dạ Phách Thạch.
 
-“Ngài thấy sao? Giải Thuý Hàng chúng tôi chính là tiệm ngọc lâu đời. Hãy nhìn vào món hàng thượng phẩm với chất lượng tuyệt vời này, quả thật là ân điển hiếm có của Nham Vương Gia. Ngài cứ việc yên tâm lựa chọn.”
+Shitou nói: “Ngài thấy sao? Giải Thuý Hàng chúng tôi chính là tiệm ngọc lâu đời. Hãy nhìn vào món hàng thượng phẩm với chất lượng tuyệt vời này, quả thật là ân điển hiếm có của Nham Vương Gia. Ngài cứ việc yên tâm lựa chọn.”
 
 Paimon ghé sát lại nhìn.
 
-“Ba viên ‘Dạ Phách Thạch’ này trông thực sự rất đẹp, không giống như loại thường ngày đào được...”
-
-“Nhưng, rốt cuộc nên chọn như thế nào đây, hay là chúng ta cứ tuỳ ý chọn một khối mang về?”
+“Ba viên ‘Dạ Phách Thạch’ này trông thực sự rất đẹp, không giống như loại thường ngày đào được... Nhưng, rốt cuộc nên chọn như thế nào đây, hay là chúng ta cứ tuỳ ý chọn một khối mang về?”
 
 “Các ông chủ kinh doanh đá quý đều không đáng tin cậy.” Lumine nói.
 
@@ -232,13 +206,7 @@ Paimon kéo Zhongli và Lumine ra một góc để bàn bạc.
 
 “Đây có phải là thế giới của người giàu...” Paimon than. “Mặc dù anh ấy hiểu rất rõ về kinh tế vĩ mô, nhưng lại không biết tiết kiệm một chút ‘tiền lẻ’!”
 
-“Không cần dao động. Ngay cả khi bị Mora ràng buộc, tôi vẫn có cách giải quyết vấn đề.” Zhongli bình thản nói.
-
-“Việc giám định chất lượng của Dạ Phách Thạch thực sự rất khó. Một khối quặng thô bất kể tốt xấu, kết cấu, màu sắc, cho đến vân đá bên trong nó đều không có khác biệt quá lớn.”
-
-“Chỉ sau khi những đồ vật được tạo ra bởi Dạ Phách Thạch đã thành hình, mới phát hiện ra một số thứ trong đó căn bản chẳng ra gì.”
-
-“Lúc này đi tìm những gian thương kia tranh luận, họ sẽ lấy những lý do như ‘lò luyện của bạn không tốt’, ‘độ lửa không đúng’ để nói cho qua chuyện...”
+“Không cần dao động. Ngay cả khi bị Mora ràng buộc, tôi vẫn có cách giải quyết vấn đề.” Zhongli bình thản nói. “Việc giám định chất lượng của Dạ Phách Thạch thực sự rất khó. Một khối quặng thô bất kể tốt xấu, kết cấu, màu sắc, cho đến vân đá bên trong nó đều không có khác biệt quá lớn. Chỉ sau khi những đồ vật được tạo ra bởi Dạ Phách Thạch đã thành hình, mới phát hiện ra một số thứ trong đó căn bản chẳng ra gì. Lúc này đi tìm những gian thương kia tranh luận, họ sẽ lấy những lý do như ‘lò luyện của bạn không tốt’, ‘độ lửa không đúng’ để nói cho qua chuyện...”
 
 “Thật nguy hiểm! Hoá ra thứ này dễ bị lừa như vậy...” Paimon rùng mình.
 
@@ -246,11 +214,7 @@ Paimon kéo Zhongli và Lumine ra một góc để bàn bạc.
 
 “Điều đó có nghĩa là gì?” Paimon hỏi.
 
-“Cô chỉ tay lên mặt trăng, người thông minh có thể hiểu cô đang chỉ mặt trăng, nhưng người không thông minh chỉ có thể nhìn thấy ngón tay trước mặt, chứ không thấy được mặt trăng.” Zhongli giải thích.
-
-“Đường vân, vỏ ngoài... Những thứ này đều là ngón tay. Dạ Phách Thạch là loại đá hiếm thấy dùng để chiếu sáng trong đêm. Tầm quan trọng của ‘độ sáng’ tương đương với mặt trăng trên bầu trời.”
-
-“Dạ Phách Thạch có chất lượng tốt sẽ có lực tương tác nguyên tố hoả vượt trội. Nói cách khác, dưới nhiệt độ cao, ánh sáng của khoáng thạch càng xanh càng sáng thì chất lượng của nó càng cao.”
+“Cô chỉ tay lên mặt trăng, người thông minh có thể hiểu cô đang chỉ mặt trăng, nhưng người không thông minh chỉ có thể nhìn thấy ngón tay trước mặt, chứ không thấy được mặt trăng.” Zhongli giải thích. “Đường vân, vỏ ngoài... Những thứ này đều là ngón tay. Dạ Phách Thạch là loại đá hiếm thấy dùng để chiếu sáng trong đêm. Tầm quan trọng của ‘độ sáng’ tương đương với mặt trăng trên bầu trời. Dạ Phách Thạch có chất lượng tốt sẽ có lực tương tác nguyên tố hoả vượt trội. Nói cách khác, dưới nhiệt độ cao, ánh sáng của khoáng thạch càng xanh càng sáng thì chất lượng của nó càng cao.”
 
 “Hoá ra ngài Zhongli là một chuyên gia...” Lumine nói.
 
@@ -302,17 +266,13 @@ Shitou mang đá vào trong cắt mẫu. Lúc trở ra, ông đưa cho họ mấ
 
 “Ồ! Tôi nhớ ra rồi!” Paimon reo lên. “Khi ở Mondstadt, trong Hẻm Núi Dadaupa, tôi đã nhìn thấy một cái nồi cực lớn của ‘Tộc Thích Thịt’ Hilichurl, nó rất lớn và chắc chắn, có thể chịu được phản ứng nguyên tố!”
 
-“Lumine, mang theo hàng mẫu, chúng ta xuất phát thôi?”
+Paimon hỏi: “Lumine, mang theo hàng mẫu, chúng ta xuất phát thôi?”
 
 ---
 
 Ba người rời Liyue, đi ngược lên phía bắc, vượt biên giới sang Mondstadt. Trên đường đi, Zhongli nhìn quanh cảnh vật.
 
-“Đã rất lâu rồi mới bước vào đất nước của gió...” Zhongli nói.
-
-“Vài người bạn ở Mondstadt, mỗi lần đến Liyue đều sẽ mang theo vài bình rượu Bồ Công Anh chính hiệu.”
-
-“Phải nói rằng thứ rượu nổi tiếng của Thành Phố Du Ca thực sự ngon hơn nhiều thứ ‘Rượu Rắn Ngâm Lạnh’ của Sumeru.”
+“Đã rất lâu rồi mới bước vào đất nước của gió...” Zhongli nói. “Vài người bạn ở Mondstadt, mỗi lần đến Liyue đều sẽ mang theo vài bình rượu Bồ Công Anh chính hiệu. Phải nói rằng thứ rượu nổi tiếng của Thành Phố Du Ca thực sự ngon hơn nhiều thứ ‘Rượu Rắn Ngâm Lạnh’ của Sumeru.”
 
 Khi đến Hẻm Núi Dadaupa, cái nồi lớn hiện ra trước mắt. Quanh nồi là một đám Hilichurl.
 
@@ -328,9 +288,7 @@ Lumine xông vào đánh tan đám Hilichurl, rồi tiến lại gần cái nồ
 
 Lumine thả ba lát Dạ Phách Thạch vào trong nồi canh.
 
-“Như vậy được chưa? Paimon sẽ giúp ghi nhớ số hiệu và vị trí của 3 mẫu này.” Paimon nói. “Vậy thì bắt đầu thôi! Dùng sức mạnh Nguyên Tố Hoả liên tục làm nóng nồi, đến khi ra kết quả thì dừng lại.”
-
-“Ngài Zhongli nói rằng khoáng thạch càng sáng càng xanh thì chất lượng càng tốt, phải chú ý quan sát nhé.”
+“Như vậy được chưa? Paimon sẽ giúp ghi nhớ số hiệu và vị trí của 3 mẫu này.” Paimon nói. “Vậy thì bắt đầu thôi! Dùng sức mạnh Nguyên Tố Hoả liên tục làm nóng nồi, đến khi ra kết quả thì dừng lại. Ngài Zhongli nói rằng khoáng thạch càng sáng càng xanh thì chất lượng càng tốt, phải chú ý quan sát nhé.”
 
 Lumine dùng Nguyên Tố Hỏa đốt dưới đáy nồi. Một lát sau, từ trong nồi lóe lên một tia sáng.
 
@@ -376,11 +334,7 @@ Trở lại Cảng Liyue, Shitou đã đợi sẵn ở quầy.
 
 “‘Tiễn Tiên’...?!” Shitou sững người. “Chao ôi, dạo gần đây tôi cũng nghe được rất nhiều tin đồn, nhưng cũng không dám hỏi nhiều. Vậy, vậy có nghĩa là, Nham Vương Gia, ngài thực sự...”
 
-“...Than ôi, không thể tin được. Mặc dù hiện tại Giải Thuý Hàng có chút sa sút. Nhưng đời đời đều nhờ vào sự bảo hộ của Nham Vương Gia.”
-
-“Chuyện kể rằng 200 năm trước Nham Vương Gia cải trang xuống thành Nam bị lạc đường, khi đó ngài đã dùng thìa ngọc của Giải Thuý Hàng để thưởng thức món ăn dân gian...”
-
-“Qua rồi... Đều là chuyện đã qua... Ôi, vì nó được dùng để đưa tiễn Nham Vương Gia, nên rương ‘Dạ Phách Thạch’ này sẽ chỉ tính nửa giá.”
+Shitou nói: “...Than ôi, không thể tin được. Mặc dù hiện tại Giải Thuý Hàng có chút sa sút. Nhưng đời đời đều nhờ vào sự bảo hộ của Nham Vương Gia. Chuyện kể rằng 200 năm trước Nham Vương Gia cải trang xuống thành Nam bị lạc đường, khi đó ngài đã dùng thìa ngọc của Giải Thuý Hàng để thưởng thức món ăn dân gian... Qua rồi... Đều là chuyện đã qua... Ôi, vì nó được dùng để đưa tiễn Nham Vương Gia, nên rương ‘Dạ Phách Thạch’ này sẽ chỉ tính nửa giá.”
 
 “Ủa, là thật sao... Rõ ràng trước đó chủ tiệm còn vô cùng keo kiệt...” Paimon ngạc nhiên.
 
@@ -426,15 +380,13 @@ Lumine đưa tiền cho Shitou.
 
 Lúc họ rời đi, Shitou vẫn đứng lặng sau quầy.
 
-“Chao ôi... Đế Quân... Đế Quân...”
+Shitou nói: “Chao ôi... Đế Quân... Đế Quân...”
 
 ---
 
 Lumine mang rương Dạ Phách Thạch lên Ngọc Kinh Đài, đặt xuống ở nơi Zhongli chỉ. Đó chính là đài tế nơi Điển Lễ Thỉnh Tiên đã diễn ra.
 
-“Dạ Phách Thạch cứ đặt ở đây là được rồi. Tôi đã phái người đi mời thợ kim hoàn đến để chế tạo những dụng cụ cần dùng trong nghi lễ.” Zhongli nói.
-
-“Đúng rồi, trong thời gian ngắn như vậy tôi cũng chưa kịp đi gặp Childe, thù lao của thợ kim hoàn, cũng...”
+“Dạ Phách Thạch cứ đặt ở đây là được rồi. Tôi đã phái người đi mời thợ kim hoàn đến để chế tạo những dụng cụ cần dùng trong nghi lễ.” Zhongli nói. “Đúng rồi, trong thời gian ngắn như vậy tôi cũng chưa kịp đi gặp Childe, thù lao của thợ kim hoàn, cũng...”
 
 “Nếu anh ta quay lại, tôi sẽ tạm ứng trước...” Lumine đáp.
 
@@ -448,9 +400,7 @@ Lumine mang rương Dạ Phách Thạch lên Ngọc Kinh Đài, đặt xuống �
 
 “Nhưng vụ án lớn như vậy vừa xảy ra ở đây...” Paimon nói. “Mà nói như vậy thì chúng ta đang đến hiện trường với tư cách là nghi phạm, hãy cẩn thận đừng để bị Thiên Nham Quân bắt.”
 
-“Nhưng cứ có cảm giác sau khi trở về từ Tuyệt Vân Gián, thì chưa từng gặp lại Thiên Nham Quân phiền phức kia, chuyện này là sao?”
-
-“Còn có... Trước đây tiên thể của Nham Vương Đế Quân... Đã để ở đây...”
+Paimon hỏi: “Nhưng cứ có cảm giác sau khi trở về từ Tuyệt Vân Gián, thì chưa từng gặp lại Thiên Nham Quân phiền phức kia, chuyện này là sao? Còn có... Trước đây tiên thể của Nham Vương Đế Quân... Đã để ở đây...”
 
 “Theo truyền thống có thể gọi là ‘Tiên Tổ Pháp Thoái’.” Zhongli nói.
 
@@ -466,25 +416,17 @@ Lumine mang rương Dạ Phách Thạch lên Ngọc Kinh Đài, đặt xuống �
 
 “Xưởng đúc tiền duy nhất ở Liyue, cũng là xưởng đúc tiền duy nhất ở Teyvat. Toàn bộ Mora được lưu thông trong 7 vương quốc của loài người đều được đúc ra ở đó.” Zhongli giải thích.
 
-“Wow...” Paimon thốt lên, rồi vội nói thêm: “Không, tôi không nghĩ đến những chuyện xấu. Tôi nói là rất phù hợp với thân phận của Morax.”
-
-“Nhưng, tại sao Zhongli lại biết những chuyện này?”
+“Wow...” Paimon thốt lên, rồi vội nói thêm: “Không, tôi không nghĩ đến những chuyện xấu. Tôi nói là rất phù hợp với thân phận của Morax. Nhưng, tại sao Zhongli lại biết những chuyện này?”
 
 “Bởi vì được sự chấp thuận của Thất Tinh nên ‘Điển Lễ Tiễn Tiên’ cũng được coi là một sự kiện bán chính thức, vậy nên tôi có được một số tin tức nội bộ.” Zhongli đáp.
 
 “Thất Tinh cung cấp địa điểm, Childe cũng cấp tiền bạc...” Lumine nói.
 
-“Có lẽ bọn họ đều có những mục đích khác nhau... Có điều, ở thủ đô thương mại này, thi thoảng bị lợi dụng cũng không phải là chuyện không thể chấp nhận được.” Zhongli nói.
-
-“Dưới sự quản lý của Thần Khế Ước, Liyue chỉ có khế ước là không thể làm trái. Còn những việc ngoài khế ước, tôi cũng không quan tâm lắm.”
-
-“Được rồi, chúng ta đi chuẩn bị Sáp Thơm cần dùng cho nghi lễ nào.”
+“Có lẽ bọn họ đều có những mục đích khác nhau... Có điều, ở thủ đô thương mại này, thi thoảng bị lợi dụng cũng không phải là chuyện không thể chấp nhận được.” Zhongli nói. “Dưới sự quản lý của Thần Khế Ước, Liyue chỉ có khế ước là không thể làm trái. Còn những việc ngoài khế ước, tôi cũng không quan tâm lắm. Được rồi, chúng ta đi chuẩn bị Sáp Thơm cần dùng cho nghi lễ nào.”
 
 “Sáp thơm? Phải đi đâu lấy? Có thể mua không?” Paimon hỏi.
 
-“Không, nếu muốn chế tạo loại Sáp Thơm dâng lên thần, yêu cầu chất lượng của Hoa Nghê Thường cũng phải thật đặc biệt.” Zhongli đáp.
-
-“Loài hoa có tên Nghê Thường, cánh hoa của nó chính là vật liệu sợi thượng hạng, chủ yếu được dùng để dệt thành gấm. Hương thơm của nó rất tao nhã, đặc biệt thích hợp cho những dịp trang trọng dâng lên các vị Thần.”
+“Không, nếu muốn chế tạo loại Sáp Thơm dâng lên thần, yêu cầu chất lượng của Hoa Nghê Thường cũng phải thật đặc biệt.” Zhongli đáp. “Loài hoa có tên Nghê Thường, cánh hoa của nó chính là vật liệu sợi thượng hạng, chủ yếu được dùng để dệt thành gấm. Hương thơm của nó rất tao nhã, đặc biệt thích hợp cho những dịp trang trọng dâng lên các vị Thần.”
 
 “Đã đến lúc Zhongli phổ biến những tri thức của xã hội thượng lưu...” Paimon lẩm bẩm.
 
@@ -516,15 +458,9 @@ Bolai bày ba gốc hoa ra.
 
 Zhongli xem xét từng gốc hoa.
 
-“Ừm, dựa vào môi trường sinh trưởng và nguồn gốc khác nhau, Hoa Nghê Thường sẽ có những đặc điểm khác nhau... Mấy gốc này đều không tồi, được bảo quản rất tươi.”
+“Ừm, dựa vào môi trường sinh trưởng và nguồn gốc khác nhau, Hoa Nghê Thường sẽ có những đặc điểm khác nhau... Mấy gốc này đều không tồi, được bảo quản rất tươi. Ví như loại này, cành lá tươi tốt, nhuỵ hoa giống như Kim Ốc Tàng Kiều. Loài này có lá xanh trường tồn, đa số sinh tồn ở nơi có điều kiện thủy văn phức tạp. Hoa Nghê Thường sinh trưởng ở nơi âm u, ẩm ướt thường có cánh hoa lớn, nhuỵ dày đặc, hương thơm nồng nàn và sắc màu rực rỡ. Loại cuối cùng này thì cao ngạo lạnh lùng, cành, lá, hoa được bố trí đẹp mắt. Khi hoa nở có mùi hương rất nhẹ nhàng, lại vương vấn rất lâu. Người xưa đã phát hiện ra chúng khi lên núi thăm viếng tiên nhân.”
 
-“Ví như loại này, cành lá tươi tốt, nhuỵ hoa giống như Kim Ốc Tàng Kiều. Loài này có lá xanh trường tồn, đa số sinh tồn ở nơi có điều kiện thủy văn phức tạp.”
-
-“Hoa Nghê Thường sinh trưởng ở nơi âm u, ẩm ướt thường có cánh hoa lớn, nhuỵ dày đặc, hương thơm nồng nàn và sắc màu rực rỡ.”
-
-“Loại cuối cùng này thì cao ngạo lạnh lùng, cành, lá, hoa được bố trí đẹp mắt. Khi hoa nở có mùi hương rất nhẹ nhàng, lại vương vấn rất lâu. Người xưa đã phát hiện ra chúng khi lên núi thăm viếng tiên nhân.”
-
-“Tuy nhiên, cho đến nay, do sự biến đổi địa lý của Liyue, hầu hết những đoá Hoa Nghê Thường trong tự nhiên đã dần biến mất, hiện tại đa số đều do con người gây trồng.”
+Zhongli nói tiếp: “Tuy nhiên, cho đến nay, do sự biến đổi địa lý của Liyue, hầu hết những đoá Hoa Nghê Thường trong tự nhiên đã dần biến mất, hiện tại đa số đều do con người gây trồng.”
 
 “Ồ, ngài thực sự là một chuyên gia, tôi cũng không biết được nhiều như vậy...” Bolai thán phục.
 
@@ -538,15 +474,9 @@ Zhongli xem xét từng gốc hoa.
 
 “Lại nữa?!” Paimon kêu lên.
 
-“Ha ha, trong đời người khi nghe kịch phải chọn diễn viên nổi tiếng nhất, nuôi chim thì phải chọn giống hoạ mi quý báu nhất.” Zhongli cười. “Có điều, lần mua ba loại Hoa Nghê Thường này, không phải do tín ngưỡng của tôi.”
+“Ha ha, trong đời người khi nghe kịch phải chọn diễn viên nổi tiếng nhất, nuôi chim thì phải chọn giống hoạ mi quý báu nhất.” Zhongli cười. “Có điều, lần mua ba loại Hoa Nghê Thường này, không phải do tín ngưỡng của tôi. Bạn có điều không biết, theo truyền thống, nếu dùng những loại Hoa Nghê Thường khác nhau chia ra làm Sáp Thơm rồi dâng lên ‘Thất Thiên Thần Tượng’, Nham Vương Đế Quân sẽ đưa ra sự lựa chọn của riêng mình. Tuy nhiên sự chú trọng ở thời kỳ cổ đại này cùng với một số truyền thống phức tạp quá mức đã dần được đơn giản hoá. Nhưng đây là Điển Lễ Tiễn Tiên duy nhất trong 3700 năm qua. Chúng ta hãy làm theo truyền thống, dâng những Sáp Thơm này lên đi.”
 
-“Bạn có điều không biết, theo truyền thống, nếu dùng những loại Hoa Nghê Thường khác nhau chia ra làm Sáp Thơm rồi dâng lên ‘Thất Thiên Thần Tượng’, Nham Vương Đế Quân sẽ đưa ra sự lựa chọn của riêng mình.”
-
-“Tuy nhiên sự chú trọng ở thời kỳ cổ đại này cùng với một số truyền thống phức tạp quá mức đã dần được đơn giản hoá.”
-
-“Nhưng đây là Điển Lễ Tiễn Tiên duy nhất trong 3700 năm qua. Chúng ta hãy làm theo truyền thống, dâng những Sáp Thơm này lên đi.”
-
-“Ừm, cho nên... Ừm... Các bạn có mang tiền không?”
+Zhongli nói tiếp: “Ừm, cho nên... Ừm... Các bạn có mang tiền không?”
 
 “Zhongli! Anh lại không mang tiền!” Paimon hét lên.
 
@@ -556,9 +486,7 @@ Zhongli xem xét từng gốc hoa.
 
 “Nói như vậy cũng không sai.” Paimon đáp.
 
-“Ôi, các bạn phải nói sớm... Sau ngày ‘Điển Lễ Thỉnh Tiên’ tôi cũng đã nghe được tin xấu đó!” Bolai nói. “Không nói những điều không may đó nữa. Tóm lại, tôi luôn lo lắng cho Nham Vương Gia, lo sợ tin đồn đó là sự thật.”
-
-“Nếu là vì Nham Vương Gia, số hoa này miễn phí cho các bạn, hãy giúp tôi chuyển một phần tâm ý đến ngài ấy.”
+“Ôi, các bạn phải nói sớm... Sau ngày ‘Điển Lễ Thỉnh Tiên’ tôi cũng đã nghe được tin xấu đó!” Bolai nói. “Không nói những điều không may đó nữa. Tóm lại, tôi luôn lo lắng cho Nham Vương Gia, lo sợ tin đồn đó là sự thật. Nếu là vì Nham Vương Gia, số hoa này miễn phí cho các bạn, hãy giúp tôi chuyển một phần tâm ý đến ngài ấy.”
 
 “Vậy... vậy cũng được sao...” Paimon ngập ngừng.
 
@@ -628,9 +556,7 @@ Qiming bày quầy xem bói ở gần bến tàu.
 
 “Tiểu thư Qiming có biết nấu Sáp Thơm không?” Lumine hỏi.
 
-“Sáp thơm à.... Ngày thường tôi không dùng nên cũng chưa bao giờ nghĩ đến việc tự làm.” Qiming đáp. “Nhưng mà trên người tôi có mùi của son phấn, có lẽ điều này đã khiến các bạn hiểu lầm.”
-
-“Tôi thường hay bày một quầy hàng ở gần bến tàu, nên không muốn mùi của Sáp Thơm khiến những thủy thủ háo sắc bị hấp dẫn đến.”
+“Sáp thơm à.... Ngày thường tôi không dùng nên cũng chưa bao giờ nghĩ đến việc tự làm.” Qiming đáp. “Nhưng mà trên người tôi có mùi của son phấn, có lẽ điều này đã khiến các bạn hiểu lầm. Tôi thường hay bày một quầy hàng ở gần bến tàu, nên không muốn mùi của Sáp Thơm khiến những thủy thủ háo sắc bị hấp dẫn đến.”
 
 “Vậy sao, thật đáng tiếc.” Paimon nói.
 
@@ -694,29 +620,15 @@ Tại Vạn Dân Đường, Ying'er đã nói chuyện trước với người c
 
 Theo lời Ying'er, Lumine ra phía sau Vạn Dân Đường, nơi Thầy Mao trữ nước sạch, lấy nước mang về.
 
-“Ừm, chất lượng nước cũng không tồi.” Ying'er nói. “Bây giờ tôi cần bạn giúp, hãy đến đài ghép chiết xuất tinh dầu từ Hoa Nghê Thường.”
-
-“Phương pháp làm Sáp Thơm rất khác với phương pháp giả kim, để tôi dạy cho bạn. Phải như thế này, nhẹ nhàng... cầm chày và cối...”
-
-“Bàn tay cũng phải chú ý giữ chặt, như vậy mới không bị tuột tay...”
-
-“Sau đó, bạn hãy khuấy đều nhịp nhàng... Cho đến khi có nước chảy ra từ Hoa Nghê Thường...”
+“Ừm, chất lượng nước cũng không tồi.” Ying'er nói. “Bây giờ tôi cần bạn giúp, hãy đến đài ghép chiết xuất tinh dầu từ Hoa Nghê Thường. Phương pháp làm Sáp Thơm rất khác với phương pháp giả kim, để tôi dạy cho bạn. Phải như thế này, nhẹ nhàng... cầm chày và cối... Bàn tay cũng phải chú ý giữ chặt, như vậy mới không bị tuột tay... Sau đó, bạn hãy khuấy đều nhịp nhàng... Cho đến khi có nước chảy ra từ Hoa Nghê Thường...”
 
 “Yên tâm, tôi rất chuyên nghiệp.” Lumine đáp.
 
-“Ừm, đúng là có thiên phú cho việc này, nói thôi đã hiểu.” Ying'er nói. “Đem những thứ này đến Đài Ghép ở gần đây thử xem?”
-
-“Hãy nhớ rằng phải chế tạo cả ba loại. Mặc dù hình dáng trong giai đoạn tinh dầu rất giống nhau, nhưng sau khi chế thành Sáp Thơm, tôi sẽ giúp bạn đặt vào những hộp khác nhau.”
+“Ừm, đúng là có thiên phú cho việc này, nói thôi đã hiểu.” Ying'er nói. “Đem những thứ này đến Đài Ghép ở gần đây thử xem? Hãy nhớ rằng phải chế tạo cả ba loại. Mặc dù hình dáng trong giai đoạn tinh dầu rất giống nhau, nhưng sau khi chế thành Sáp Thơm, tôi sẽ giúp bạn đặt vào những hộp khác nhau.”
 
 Lumine đến Đài Ghép gần đó, nghiền lần lượt ba loại Hoa Nghê Thường để lấy tinh dầu, rồi mang về cho Ying'er.
 
-“Oa, tinh dầu Hoa Nghê Thường thật tuyệt. Tiếp theo là bước quan trọng nhất...” Ying'er nói. “Tôi sẽ đặt nó vào trong nước, đun nhỏ lửa cho tới khi nước bốc hơi hết.”
-
-“Độ lửa rất quan trọng, lửa quá lớn sẽ làm ảnh hưởng đến mùi hương.”
-
-“Bạn hãy chú ý khống chế lửa trong lò, đây là bước cuối cùng rồi.”
-
-“Không thể lãng phí dù chỉ một giọt nước ép của Hoa Nghê Thường nhé.”
+“Oa, tinh dầu Hoa Nghê Thường thật tuyệt. Tiếp theo là bước quan trọng nhất...” Ying'er nói. “Tôi sẽ đặt nó vào trong nước, đun nhỏ lửa cho tới khi nước bốc hơi hết. Độ lửa rất quan trọng, lửa quá lớn sẽ làm ảnh hưởng đến mùi hương. Bạn hãy chú ý khống chế lửa trong lò, đây là bước cuối cùng rồi. Không thể lãng phí dù chỉ một giọt nước ép của Hoa Nghê Thường nhé.”
 
 Lumine canh lửa trong lò cho đến khi nước cạn hết.
 
@@ -728,19 +640,11 @@ Lumine canh lửa trong lò cho đến khi nước cạn hết.
 
 “Paimon cũng muốn nghe!” Paimon giơ tay.
 
-“Loại Sáp Thơm đầu tiên này mang lại cảm giác ngọt ngào mơ mộng... Là mùi hương được các thiếu nữ rất ưa thích.” Ying'er giới thiệu.
-
-“Loại thứ hai có mùi quý phái thanh lịch, là mùi hương các tiểu thư nhà giàu ưa thích nhất.”
-
-“Loại cuối cùng có hương thơm nhẹ nhàng vương vấn, giống như trăng mờ trong sương, là mùi hương các cô gái trưởng thành rất yêu thích.”
-
-“Đã hiểu chưa? Đừng có dùng sai trường hợp.”
+“Loại Sáp Thơm đầu tiên này mang lại cảm giác ngọt ngào mơ mộng... Là mùi hương được các thiếu nữ rất ưa thích.” Ying'er giới thiệu. “Loại thứ hai có mùi quý phái thanh lịch, là mùi hương các tiểu thư nhà giàu ưa thích nhất. Loại cuối cùng có hương thơm nhẹ nhàng vương vấn, giống như trăng mờ trong sương, là mùi hương các cô gái trưởng thành rất yêu thích. Đã hiểu chưa? Đừng có dùng sai trường hợp.”
 
 “Nhớ, nhớ rồi...” Lumine đáp.
 
-“Được, nếu cần tôi giúp đỡ thì hãy đến đây nhé?” Ying'er nói. “Vậy thì, tặng cho bạn một câu cuối cùng.”
-
-“Muốn đạp chân lên ba cái thuyền, cần nghĩ kỹ nên nhấc cái chân nào lên trước...”
+“Được, nếu cần tôi giúp đỡ thì hãy đến đây nhé?” Ying'er nói. “Vậy thì, tặng cho bạn một câu cuối cùng. Muốn đạp chân lên ba cái thuyền, cần nghĩ kỹ nên nhấc cái chân nào lên trước...”
 
 “...” Lumine không biết nói gì.
 
@@ -818,37 +722,15 @@ Lumine và Paimon lên Ngọc Kinh Đài. Bên một khoảnh vườn có nhữn
 
 “Những đoá hoa này... Tại sao lại tàn hết rồi?” Paimon hỏi.
 
-“Vào thời của ta, mọi người nói rằng Bách Hợp Lưu Ly có thể hiểu được lòng người.” Bình Lão Lão đáp.
-
-“Nếu chúng nghe thấy những âm thanh đẹp đẽ như tiếng cười, tiếng hát... Chúng sẽ rất vui vẻ và nở thật nhiều hoa.”
-
-“Ngược lại, nếu nghe thấy quá nhiều những âm thanh không hay... như những tin đồn lộn xộn chúng sẽ khô héo rất nhanh.”
+“Vào thời của ta, mọi người nói rằng Bách Hợp Lưu Ly có thể hiểu được lòng người.” Bình Lão Lão đáp. “Nếu chúng nghe thấy những âm thanh đẹp đẽ như tiếng cười, tiếng hát... Chúng sẽ rất vui vẻ và nở thật nhiều hoa. Ngược lại, nếu nghe thấy quá nhiều những âm thanh không hay... như những tin đồn lộn xộn chúng sẽ khô héo rất nhanh.”
 
 “Vì vậy, những bông hoa này cũng cảm thấy được tình hình hiện tại của cảng Liyue.” Paimon nói.
 
-“Đúng vậy, tin đồn về cái chết của Nham Vương Đế Quân không phải là chuyện nhỏ. Từ phố lớn đến hẻm nhỏ, tin đồn gì cũng có.” Bình Lão Lão nói.
-
-“Có người nói rằng đó là âm mưu của Fatui, có người lại nói ‘thứ ở dưới biển’ không giữ được nữa, còn có người nói tất cả đều do Thất Tinh tự biên tự diễn...”
-
-“Bến cảng này giống như đống củi khô vậy. Chỉ cần một tia lửa là sẽ bùng cháy không thể dập tắt được.”
-
-“Ôi, dừng câu chuyện ở đây thôi, bà lão ta đã lớn tuổi rồi không thích lải nhải... Người trẻ tuổi, các cháu tìm ta có chuyện gì sao?”
+“Đúng vậy, tin đồn về cái chết của Nham Vương Đế Quân không phải là chuyện nhỏ. Từ phố lớn đến hẻm nhỏ, tin đồn gì cũng có.” Bình Lão Lão nói. “Có người nói rằng đó là âm mưu của Fatui, có người lại nói ‘thứ ở dưới biển’ không giữ được nữa, còn có người nói tất cả đều do Thất Tinh tự biên tự diễn... Bến cảng này giống như đống củi khô vậy. Chỉ cần một tia lửa là sẽ bùng cháy không thể dập tắt được. Ôi, dừng câu chuyện ở đây thôi, bà lão ta đã lớn tuổi rồi không thích lải nhải... Người trẻ tuổi, các cháu tìm ta có chuyện gì sao?”
 
 “Muốn mượn ‘Chuông Tẩy Trần’ của bà.” Lumine đáp.
 
-“Ừm, món đồ cũ đó à... Ta nhớ rồi. Đúng là có để ở chỗ ta đây, nhưng bà lão ta không còn nhớ rõ là đã để ở đâu.” Bình Lão Lão nói.
-
-“Đó là món đồ vật đeo bên người của một người bạn của ta, khi ta còn trẻ...”
-
-“Ông ấy thấy ta cứ nhìn chằm chằm vào nó nên đã tháo chiếc chuông và đưa cho ta.”
-
-“Năm đó ông ấy nói với ta rằng, nếu sau này có người đến mượn chiếc chuông này thì ta không được luyến tiếc.”
-
-“Nhiều năm qua đi, chiếc chuông này cũng không rõ đã được mượn bao nhiêu lần.”
-
-“Nhưng, không biết từ bao giờ đã rất lâu không có ai đến mượn chuông rồi...”
-
-“Ôi, bộ xương già này của ta, tìm đồ đạc rất lâu, sợ là các cháu đợi không nổi...”
+“Ừm, món đồ cũ đó à... Ta nhớ rồi. Đúng là có để ở chỗ ta đây, nhưng bà lão ta không còn nhớ rõ là đã để ở đâu.” Bình Lão Lão nói. “Đó là món đồ vật đeo bên người của một người bạn của ta, khi ta còn trẻ... Ông ấy thấy ta cứ nhìn chằm chằm vào nó nên đã tháo chiếc chuông và đưa cho ta. Năm đó ông ấy nói với ta rằng, nếu sau này có người đến mượn chiếc chuông này thì ta không được luyến tiếc. Nhiều năm qua đi, chiếc chuông này cũng không rõ đã được mượn bao nhiêu lần. Nhưng, không biết từ bao giờ đã rất lâu không có ai đến mượn chuông rồi... Ôi, bộ xương già này của ta, tìm đồ đạc rất lâu, sợ là các cháu đợi không nổi...”
 
 “Tụi con tự tìm là được.” Lumine nói.
 
@@ -906,9 +788,7 @@ Hai người đi sâu hơn vào bên trong.
 
 Lumine leo lên những tầng cao hơn.
 
-“Tôi càng lúc càng cảm thấy bà lão chắc chắn là một vị tiên nhân.” Paimon nói. “Có điều, không phải tiên nhân phải ở Tuyệt Vân Gián sao? Sao bà ấy lại sống trong thành phố chứ?”
-
-“Hơn nữa, cảm giác mà bà ấy và Hộ Pháp Dạ Xoa mang lại, đều hoàn toàn không giống nhau...”
+“Tôi càng lúc càng cảm thấy bà lão chắc chắn là một vị tiên nhân.” Paimon nói. “Có điều, không phải tiên nhân phải ở Tuyệt Vân Gián sao? Sao bà ấy lại sống trong thành phố chứ? Hơn nữa, cảm giác mà bà ấy và Hộ Pháp Dạ Xoa mang lại, đều hoàn toàn không giống nhau...”
 
 “Woa... cái ấm này có bao nhiêu tầng vậy.” Paimon nhìn quanh. “Phải chi chúng ta cũng có một chiếc ấm như vậy thì tốt rồi. Chí ít thì sẽ không cần phải ngủ ngoài trời...”
 
@@ -920,11 +800,7 @@ Lumine leo lên những tầng cao hơn.
 
 Lumine tìm và phá nốt những tấm mạng nhện xung quanh. Bậc thang hạ xuống.
 
-“Phù, lần này vào xem như là giúp bà lão dọn dẹp cái ấm này đó.” Paimon thở ra. “Nhưng trong này lớn như vậy, trước kia một mình bà lão làm sao dọn dẹp được nhỉ?”
-
-“Chẳng lẽ là dùng một số phép thuật tiên nhân thần bí nào đó?”
-
-“Ừm... chắc là giống với thủ thuật xoáy gió lợi hại mà tên hát rong đã dùng.”
+“Phù, lần này vào xem như là giúp bà lão dọn dẹp cái ấm này đó.” Paimon thở ra. “Nhưng trong này lớn như vậy, trước kia một mình bà lão làm sao dọn dẹp được nhỉ? Chẳng lẽ là dùng một số phép thuật tiên nhân thần bí nào đó? Ừm... chắc là giống với thủ thuật xoáy gió lợi hại mà tên hát rong đã dùng.”
 
 Cuối cùng, Lumine tìm thấy Chuông Tẩy Trần.
 
@@ -932,7 +808,7 @@ Cuối cùng, Lumine tìm thấy Chuông Tẩy Trần.
 
 Một lối ra hiện lên.
 
-“Như vậy là được rồi, các cháu mau ra đi.”
+Bình Lão Lão nói: “Như vậy là được rồi, các cháu mau ra đi.”
 
 ---
 
@@ -946,27 +822,13 @@ Lumine và Paimon bước ra khỏi chiếc ấm, trở lại Ngọc Kinh Đài.
 
 “Ựm... Có vẻ như hiểu được, lại có vẻ không hiểu hết.” Paimon gãi đầu. “Nhưng mà bà, bà... Cứ thế đưa chuông cho tụi con sao?”
 
-“Bà không thấy kỳ lạ sao? Nham Vương Đế Quân vừa xảy ra chuyện, tụi con đã vội vàng tìm bà lấy chuông...”
+Paimon nói: “Bà không thấy kỳ lạ sao? Nham Vương Đế Quân vừa xảy ra chuyện, tụi con đã vội vàng tìm bà lấy chuông...”
 
-“Đứa trẻ ngốc, cảng Liyue từ xưa đến nay đã không biết có bao nhiêu tiên nhân rời đi, cũng không biết đã trải qua bao nhiêu giông bão.” Bình Lão Lão nói.
-
-“Nhưng bất kể thời nào đều phải làm ‘Điển Lễ Tiễn Tiên’ cho thật vẻ vang theo đúng quy tắc, rồi mới đi an bài việc khác.”
-
-“Cứ hô hào ‘bắt lấy hung thủ’, nhưng lại trì hoãn ‘Điển Lễ Tiễn Tiên’, theo ta thấy đó mới là đầu đuôi lẫn lộn.”
-
-“Bây giờ, các cháu đến mượn chiếc chuông, ta đoán có lẽ người bạn cũ kia cuối cùng đã không thể khoanh tay đứng nhìn được nữa, bước ra chủ trì đại cuộc rồi.”
-
-“Vì vậy, sao ta có thể từ chối cho các cháu mượn chuông chứ?”
+“Đứa trẻ ngốc, cảng Liyue từ xưa đến nay đã không biết có bao nhiêu tiên nhân rời đi, cũng không biết đã trải qua bao nhiêu giông bão.” Bình Lão Lão nói. “Nhưng bất kể thời nào đều phải làm ‘Điển Lễ Tiễn Tiên’ cho thật vẻ vang theo đúng quy tắc, rồi mới đi an bài việc khác. Cứ hô hào ‘bắt lấy hung thủ’, nhưng lại trì hoãn ‘Điển Lễ Tiễn Tiên’, theo ta thấy đó mới là đầu đuôi lẫn lộn. Bây giờ, các cháu đến mượn chiếc chuông, ta đoán có lẽ người bạn cũ kia cuối cùng đã không thể khoanh tay đứng nhìn được nữa, bước ra chủ trì đại cuộc rồi. Vì vậy, sao ta có thể từ chối cho các cháu mượn chuông chứ?”
 
 “Nếu như ‘người bạn cũ’ của bà mượn rồi không trả thì sao?” Lumine hỏi.
 
-“Không trả? Hahaha, nếu bọn họ thật sự làm vậy, thì bà lão ta nói không chừng là phải đi một chuyến rồi.” Bình Lão Lão cười. “Đã lâu không gặp, đúng lúc có thể đi tìm họ uống trà, nói chuyện.”
-
-“Được rồi, đã lấy được đồ rồi thì mau trở về đi, đừng làm lỡ việc.”
-
-“Giúp ta gửi một câu đến người phái các cháu đến đây, nhắn là...”
-
-“Nếu rảnh thì có thể ghé qua uống trà. Bà lão ta không có tài sản gì nhưng trà thì luôn sẵn sàng.”
+“Không trả? Hahaha, nếu bọn họ thật sự làm vậy, thì bà lão ta nói không chừng là phải đi một chuyến rồi.” Bình Lão Lão cười. “Đã lâu không gặp, đúng lúc có thể đi tìm họ uống trà, nói chuyện. Được rồi, đã lấy được đồ rồi thì mau trở về đi, đừng làm lỡ việc. Giúp ta gửi một câu đến người phái các cháu đến đây, nhắn là... Nếu rảnh thì có thể ghé qua uống trà. Bà lão ta không có tài sản gì nhưng trà thì luôn sẵn sàng.”
 
 “Vâng, tụi con nhớ rồi, cảm ơn bà!” Paimon đáp.
 
@@ -1024,11 +886,7 @@ Zhongli dẫn Lumine và Paimon đến khu chợ ở Ngật Hổ Nham, tìm sạ
 
 “Haha... Bởi vì tôi thích chia sẻ những điều thú vị này với các bạn.” Zhongli cười.
 
-“Ừm, đồ chơi cho trẻ em là những thứ rất thú vị. Có điều là... Mặc dù ta rất thích được nhìn lũ trẻ cười, nhưng nói cho cùng vẫn còn có suy nghĩ khác.” A Sơn Bà Bà nói.
-
-“Những đồ chơi tinh xảo luôn làm trẻ em yêu thích. Nhưng phần ‘tinh xảo’ này là sự tích luỹ của hàng ngàn năm, đằng sau đó đều có một ‘ý nghĩa’.”
-
-“Ta đã làm diều ở Liyue được bốn mươi năm, hiểu rõ tất cả những kiểu dáng truyền thống, bảy con diều mà ngài đây đặt có ý nghĩa không tầm thường.”
+“Ừm, đồ chơi cho trẻ em là những thứ rất thú vị. Có điều là... Mặc dù ta rất thích được nhìn lũ trẻ cười, nhưng nói cho cùng vẫn còn có suy nghĩ khác.” A Sơn Bà Bà nói. “Những đồ chơi tinh xảo luôn làm trẻ em yêu thích. Nhưng phần ‘tinh xảo’ này là sự tích luỹ của hàng ngàn năm, đằng sau đó đều có một ‘ý nghĩa’. Ta đã làm diều ở Liyue được bốn mươi năm, hiểu rõ tất cả những kiểu dáng truyền thống, bảy con diều mà ngài đây đặt có ý nghĩa không tầm thường.”
 
 “Đúng vậy. Đây là vật trang trí dùng cho ‘Điển Lễ Tiễn Tiên’, bảy con diều tượng trưng cho bảy vị Thần.” Zhongli đáp.
 
@@ -1042,11 +900,7 @@ Zhongli dẫn Lumine và Paimon đến khu chợ ở Ngật Hổ Nham, tìm sạ
 
 Zhongli cầm từng con diều lên ngắm.
 
-“Hoa văn hình sấm sét của con diều này... Ừm, cảm giác hồi chuyển được thể hiện rất tốt, đúng như sự ‘vĩnh hằng’ mà Lôi Thần mong muốn.”
-
-“Hoa văn lá cỏ, vân gỗ bạc là sự hiến dâng của ‘trí tuệ’... Dung hòa với khung diều một cách khéo léo, khiến người khác không khỏi khen ngợi.”
-
-“‘Chính nghĩa’ phẳng lặng như mặt nước, như ‘cuộc chiến’ nảy lửa, và Băng Thần đã từng... Ừm, chi tiết đều được làm rất tỉ mỉ.”
+“Hoa văn hình sấm sét của con diều này... Ừm, cảm giác hồi chuyển được thể hiện rất tốt, đúng như sự ‘vĩnh hằng’ mà Lôi Thần mong muốn. Hoa văn lá cỏ, vân gỗ bạc là sự hiến dâng của ‘trí tuệ’... Dung hòa với khung diều một cách khéo léo, khiến người khác không khỏi khen ngợi. ‘Chính nghĩa’ phẳng lặng như mặt nước, như ‘cuộc chiến’ nảy lửa, và Băng Thần đã từng... Ừm, chi tiết đều được làm rất tỉ mỉ.”
 
 “Hahaha, thỉnh thoảng được nghe lời khen từ những vị khách thạo nghề cũng là chuyện vui trong đời.” A Sơn Bà Bà cười.
 
@@ -1060,19 +914,13 @@ Zhongli cầm từng con diều lên ngắm.
 
 “Các anh hẹn gặp nhau ở đây hả?” Lumine hỏi.
 
-“Ha ha, chỉ là đi ngang qua.” Childe đáp.
-
-“Ngài Zhongli vẫn vậy. Mỗi khi thanh toán... hay là gọi người thanh toán, chưa bao giờ nhìn giá tiền cũng không nhìn vào ví tiền.”
-
-“Nhưng phải nói rằng, thật ra anh ấy hiểu được giá trị của đồng tiền và nỗi khổ của con người. Có điều dường như anh ấy không thể hiểu rằng ‘nghèo’ cũng là một tình huống có thể xảy đến với anh ấy...”
-
-“Hay nói cách khác, không thể tưởng tượng được bản thân lại không có tiền...”
+“Ha ha, chỉ là đi ngang qua.” Childe đáp. “Ngài Zhongli vẫn vậy. Mỗi khi thanh toán... hay là gọi người thanh toán, chưa bao giờ nhìn giá tiền cũng không nhìn vào ví tiền. Nhưng phải nói rằng, thật ra anh ấy hiểu được giá trị của đồng tiền và nỗi khổ của con người. Có điều dường như anh ấy không thể hiểu rằng ‘nghèo’ cũng là một tình huống có thể xảy đến với anh ấy... Hay nói cách khác, không thể tưởng tượng được bản thân lại không có tiền...”
 
 “Thật bó tay, loại người này sao vẫn chưa chết đói.” Paimon nói.
 
 “...Ngài Childe vẫn thích đùa như mọi khi.” Zhongli đáp. “Được rồi, việc mua diều rất suôn sẻ, chúng ta tiến hành chuẩn bị việc tiếp theo nào.”
 
-“Điển Lễ Tiễn Tiên cần của cải và con người. Chúng ta có thể thuê vài người ở gần bến tàu.”
+Zhongli nói: “Điển Lễ Tiễn Tiên cần của cải và con người. Chúng ta có thể thuê vài người ở gần bến tàu.”
 
 Childe đưa cho Lumine một túi tiền.
 
@@ -1080,9 +928,7 @@ Childe đưa cho Lumine một túi tiền.
 
 Rồi Childe nói nhỏ, như tự nhủ:
 
-“Hừm... Đến muộn một bước dường như đã bỏ lỡ một số tin tức thú vị.”
-
-“...Lần tới, phải tìm cách xuất hiện vào thời điểm thích hợp hơn.”
+“Hừm... Đến muộn một bước dường như đã bỏ lỡ một số tin tức thú vị. ...Lần tới, phải tìm cách xuất hiện vào thời điểm thích hợp hơn.”
 
 ---
 
@@ -1102,13 +948,11 @@ Rồi Childe nói nhỏ, như tự nhủ:
 
 Lumine thử trả giá thấp hơn.
 
-“Đừng mà, giá đó quá rẻ.” Tic lắc đầu.
-
-“Hả? Không không... Tăng thêm chút đi, giá tiền này thực sự không đáng để đi một chuyến.”
+“Đừng mà, giá đó quá rẻ.” Tic lắc đầu. “Hả? Không không... Tăng thêm chút đi, giá tiền này thực sự không đáng để đi một chuyến.”
 
 Mặc cả một hồi, Tic nổi cáu.
 
-“Thôi đi, thôi đi! Có vẻ tôi quá dễ tính rồi! 2 vạn Mora! 1 Mora cũng không bớt! Nếu không được thì đừng thuê tôi nữa!”
+Tic nói: “Thôi đi, thôi đi! Có vẻ tôi quá dễ tính rồi! 2 vạn Mora! 1 Mora cũng không bớt! Nếu không được thì đừng thuê tôi nữa!”
 
 “Đừng, đừng tức giận...” Paimon vội nói. “Haiz, Lumine, hết cách rồi, chúng ta giờ chỉ có thể trả toàn bộ số tiền thôi.”
 
@@ -1120,19 +964,13 @@ Lumine mở túi tiền ra, rồi khựng lại.
 
 “Bạn hãy đi tìm người tên là Childe...” Lumine đề nghị.
 
-“‘Childe’? Không đi, không đi. Hắn sẽ thanh toán giúp các bạn? Vậy cũng không đi. Vốn dĩ chỉ phải đi một chuyến, đây không phải biến thành đi hai chuyến rồi sao.” Tic xua tay.
-
-“Như vậy đi, việc nào ra việc đấy. Tôi sẽ giữ số tiền còn lại của bạn, sau đó...”
-
-“Hãy cho tôi một đoá Thanh Tâm, tôi sẽ coi như đó là tiền lộ phí phát sinh, rồi đi tìm Childe gì kia, thế nào?”
+“‘Childe’? Không đi, không đi. Hắn sẽ thanh toán giúp các bạn? Vậy cũng không đi. Vốn dĩ chỉ phải đi một chuyến, đây không phải biến thành đi hai chuyến rồi sao.” Tic xua tay. “Như vậy đi, việc nào ra việc đấy. Tôi sẽ giữ số tiền còn lại của bạn, sau đó... Hãy cho tôi một đoá Thanh Tâm, tôi sẽ coi như đó là tiền lộ phí phát sinh, rồi đi tìm Childe gì kia, thế nào?”
 
 “Ừm... Không còn lựa chọn nào khác.” Paimon đáp.
 
 Lumine lên núi hái một đoá Thanh Tâm, mang về cho Tic.
 
-“Mang đồ đến chưa?” Tic hỏi, rồi nhận lấy bông hoa. “Hì hì, rất tốt. Thứ đồ này rất hiếm gặp, bản thân tôi cũng không biết đi đâu kiếm nó...”
-
-“Có đoá Thanh Tâm này, buổi tối về nhà, con bé chắc sẽ không ầm ĩ nữa rồi. Ừm... Tôi sẽ giúp bạn đi một chuyến, rồi trở về nhà.”
+“Mang đồ đến chưa?” Tic hỏi, rồi nhận lấy bông hoa. “Hì hì, rất tốt. Thứ đồ này rất hiếm gặp, bản thân tôi cũng không biết đi đâu kiếm nó... Có đoá Thanh Tâm này, buổi tối về nhà, con bé chắc sẽ không ầm ĩ nữa rồi. Ừm... Tôi sẽ giúp bạn đi một chuyến, rồi trở về nhà.”
 
 ---
 
@@ -1150,13 +988,11 @@ Người thứ hai là Tac.
 
 Lần mặc cả này cũng chẳng khá hơn.
 
-“Quá rẻ, cái giá này không công bằng.” Tac nói.
-
-“Cái này... Không được. Trả thêm chút nữa tôi có thể suy nghĩ.”
+“Quá rẻ, cái giá này không công bằng.” Tac nói. “Cái này... Không được. Trả thêm chút nữa tôi có thể suy nghĩ.”
 
 Rồi Tac cũng hết kiên nhẫn.
 
-“Được rồi, hết kiên nhẫn rồi! 2 vạn rưỡi Mora! 1 Mora cũng không bớt! Nếu không được thì tạm biệt!”
+Tac nói: “Được rồi, hết kiên nhẫn rồi! 2 vạn rưỡi Mora! 1 Mora cũng không bớt! Nếu không được thì tạm biệt!”
 
 “Đừng, đừng tức giận...” Paimon nói. “Haiz, Lumine, hết cách rồi, chúng ta giờ chỉ có thể trả toàn bộ số tiền thôi.”
 
@@ -1168,7 +1004,7 @@ Rồi Tac cũng hết kiên nhẫn.
 
 “‘Childe’? Không đi, không đi. Hắn sẽ thanh toán giúp các bạn? Vậy cũng không đi. Vốn dĩ chỉ phải đi một chuyến, đây không phải biến thành đi hai chuyến rồi sao.” Tac nói. “Như vậy đi, việc nào ra việc đấy. Tôi sẽ giữ số tiền còn lại của bạn, sau đó...”
 
-“Hãy cho tôi một Đài Sen tốt nhất, tôi sẽ coi như đó là tiền lộ phí phát sinh, rồi đi tìm Childe gì kia, thế nào?”
+Tac hỏi: “Hãy cho tôi một Đài Sen tốt nhất, tôi sẽ coi như đó là tiền lộ phí phát sinh, rồi đi tìm Childe gì kia, thế nào?”
 
 “Ừm... Không còn lựa chọn nào khác.” Paimon đáp.
 
@@ -1176,7 +1012,7 @@ Lumine đi hái một Đài Sen mang về cho Tac.
 
 “Mang đồ đến chưa?” Tac hỏi, rồi nhận lấy. “Ừm, khá tốt. Dẫu sao tôi cũng tự mình nấu nướng, được dùng những nguyên liệu tươi ngon như thế này, cũng rất hiếm có...”
 
-“Được, chút nữa tôi sẽ đến Ngọc Kinh Đài, và sẽ làm việc đúng giờ.”
+Tac nói: “Được, chút nữa tôi sẽ đến Ngọc Kinh Đài, và sẽ làm việc đúng giờ.”
 
 ---
 
@@ -1194,13 +1030,11 @@ Người thứ ba là Toe.
 
 “Không, vẫn nên bàn tiếp...” Lumine nói.
 
-“Quý khách, không được đâu, ít quá, ít quá.” Toe lắc đầu.
-
-“Tôi nghĩ xem... Không. Phải tăng thêm chút, bằng không thì tôi không làm.”
+“Quý khách, không được đâu, ít quá, ít quá.” Toe lắc đầu. “Tôi nghĩ xem... Không. Phải tăng thêm chút, bằng không thì tôi không làm.”
 
 Và Toe cũng nổi nóng như hai người trước.
 
-“1 vạn rưỡi Mora! 1 Mora cũng không bớt! 1 vạn rưỡi đã rất thấp rồi! Vậy cũng không được? Hả?”
+Toe hỏi: “1 vạn rưỡi Mora! 1 Mora cũng không bớt! 1 vạn rưỡi đã rất thấp rồi! Vậy cũng không được? Hả?”
 
 “Đừng, đừng tức giận...” Paimon nói. “Haiz, Lumine, hết cách rồi, chúng ta giờ chỉ có thể trả toàn bộ số tiền thôi.”
 
@@ -1212,7 +1046,7 @@ Và Toe cũng nổi nóng như hai người trước.
 
 “‘Childe’? Không đi, không đi. Hắn sẽ thanh toán giúp các bạn? Vậy cũng không đi. Vốn dĩ chỉ phải đi một chuyến, đây không phải biến thành đi hai chuyến rồi sao.” Toe nói. “Như vậy đi, việc nào ra việc đấy. Tôi sẽ giữ số tiền còn lại của bạn, sau đó...”
 
-“Hãy cho tôi một khối quặng sắt, tôi sẽ coi như đó là tiền lộ phí phát sinh, rồi đi tìm Childe gì kia, thế nào?”
+Toe hỏi: “Hãy cho tôi một khối quặng sắt, tôi sẽ coi như đó là tiền lộ phí phát sinh, rồi đi tìm Childe gì kia, thế nào?”
 
 “Ừm... Không còn lựa chọn nào khác.” Paimon đáp.
 
@@ -1220,7 +1054,7 @@ Lumine đi đào quặng, mang về một khối Mảnh Sắt cho Toe.
 
 “Mang đồ đến chưa?” Toe hỏi, rồi xem xét khối quặng. “Ồ, là một khối quặng tốt. Tôi phải chuẩn bị làm một món vũ khí tiện dụng cho sự nghiệp mạo hiểm trong tương lai.”
 
-“Được rồi, sau khi hoàn thành công việc, tôi sẽ đến lấy tiền lương.”
+Toe nói: “Được rồi, sau khi hoàn thành công việc, tôi sẽ đến lấy tiền lương.”
 
 ---
 
@@ -1248,7 +1082,7 @@ Thuê đủ người xong, Lumine quay lại gặp Childe.
 
 Zhongli bước tới.
 
-“Có chuyện gì vậy? Bầu không khí vừa rồi thật kỳ lạ.”
+Childe nói: “Có chuyện gì vậy? Bầu không khí vừa rồi thật kỳ lạ.”
 
 “Ừm ừm...” Paimon ấp úng.
 
@@ -1258,7 +1092,7 @@ Zhongli bước tới.
 
 Childe rời đi. Paimon lúc này mới dám thở ra.
 
-“Hu hu... Vừa nãy Paimon thực sự đã cảm nhận được sát khí vô cùng đáng sợ...”
+Paimon nói: “Hu hu... Vừa nãy Paimon thực sự đã cảm nhận được sát khí vô cùng đáng sợ...”
 
 #CH|Phần 6|Guizhong|qiqi_splash.png|Guizhong
 
@@ -1286,9 +1120,7 @@ Lumine đi vòng ra sau quầy. Ở đó có một cô bé nhỏ xíu, đầu đ
 
 “Cái gì cơ.... Hình như là thật đó! Trên đầu còn dán tấm bùa...” Paimon nói.
 
-“Chào mừng quý khách đến với ‘nhà Thuốc Bubu’, tôi là Qiqi.” Cô bé nói chậm rãi.
-
-“Qiqi đã chết một lần rồi. Có điều được tiên nhân cứu chữa, cho nên, bây giờ trở thành cương thi.”
+“Chào mừng quý khách đến với ‘nhà Thuốc Bubu’, tôi là Qiqi.” Cô bé nói chậm rãi. “Qiqi đã chết một lần rồi. Có điều được tiên nhân cứu chữa, cho nên, bây giờ trở thành cương thi.”
 
 “Chuyện kỳ quái như vậy lại nói ra một cách hết sức bình thản...” Lumine nói.
 
@@ -1320,11 +1152,7 @@ Lumine đi vòng ra sau quầy. Ở đó có một cô bé nhỏ xíu, đầu đ
 
 “Tôi không hiểu lắm...” Lumine nói.
 
-“Máy Guizhong... Thứ cô bé nhắc đến tôi có nghe qua.” Zhongli nói.
-
-“‘Máy Guizhong’ là một vũ khí dạng cơ khí, có hình cung được tiên nhân cổ xưa xây dựng trên Thiên Hoành Sơn.”
-
-“Vị trí nằm giữa ‘tường thành cổ Thiên Hoành Sơn’, có thể di chuyển và đánh bại những ma vật lớn, chống lại những nguy hiểm đến từ thế giới bên ngoài.”
+“Máy Guizhong... Thứ cô bé nhắc đến tôi có nghe qua.” Zhongli nói. “‘Máy Guizhong’ là một vũ khí dạng cơ khí, có hình cung được tiên nhân cổ xưa xây dựng trên Thiên Hoành Sơn. Vị trí nằm giữa ‘tường thành cổ Thiên Hoành Sơn’, có thể di chuyển và đánh bại những ma vật lớn, chống lại những nguy hiểm đến từ thế giới bên ngoài.”
 
 “Ngài Zhongli rất hiểu về Liyue đó.” Paimon nói.
 
@@ -1358,11 +1186,7 @@ Lumine lại gần kiểm tra cỗ máy.
 
 “Vậy thì chúng ta phải làm sao nhỉ? Ngài Zhongli mau sử dụng tất cả ‘tri thức của giới thượng lưu’ để tìm cách đi!” Paimon giục.
 
-“Í. Sao nghe có cảm giác như đang nói tôi chả khác gì lũ quan liêu chỉ biết ngồi nghe kịch và nuôi chim vậy?” Zhongli nói. “Để tôi nghĩ chút... Hừm, kỳ thực ‘Máy Guizhong’ dùng trong những trận đấu khốc liệt, cũng có chuẩn bị những phụ kiện thay thế.”
-
-“Nếu không lầm thì ở ngay trong ‘Tường Thành Cổ’, chắc chắn sẽ tìm được phòng dự trữ chiến tranh năm xưa.”
-
-“Lấy được phụ kiện thay thế trong phòng dự trữ chiến tranh rồi, chỉ cần tìm hiểu được nguyên lý sử dụng ‘Máy Guizhong’ thì việc sửa chữa sẽ không khó.”
+“Í. Sao nghe có cảm giác như đang nói tôi chả khác gì lũ quan liêu chỉ biết ngồi nghe kịch và nuôi chim vậy?” Zhongli nói. “Để tôi nghĩ chút... Hừm, kỳ thực ‘Máy Guizhong’ dùng trong những trận đấu khốc liệt, cũng có chuẩn bị những phụ kiện thay thế. Nếu không lầm thì ở ngay trong ‘Tường Thành Cổ’, chắc chắn sẽ tìm được phòng dự trữ chiến tranh năm xưa. Lấy được phụ kiện thay thế trong phòng dự trữ chiến tranh rồi, chỉ cần tìm hiểu được nguyên lý sử dụng ‘Máy Guizhong’ thì việc sửa chữa sẽ không khó.”
 
 “Vậy thì... Ngài Zhongli biết nguyên lý hoạt động của nó rồi chứ?” Paimon hỏi.
 
@@ -1392,15 +1216,7 @@ Họ dùng cỗ máy quan sát khắp vùng xung quanh.
 
 “Không phải cung lớn, mà là ‘máy Guizhong’. Còn nữa, trước khi nói chuyện, hãy xưng danh tính. Đây là phép lịch sự.” Zhongli đáp.
 
-“Không nhận ra sao? Hừm, bọn ta chính là Đạo Bảo Đoàn.” Huang Tàn Nhang nói.
-
-“Tương truyền cả vùng đất này có rất nhiều báu vật, cây cung này tuy chỉ là một thứ vũ khí, nhưng nó lại giống như người canh gác, khó mà tiếp cận được.”
-
-“Trước kia, mấy huynh đệ của ta xém chút nữa là bị nó xuyên thành que thịt viên rồi...”
-
-“Sau đó bọn ta phải mạo hiểm cả tính mạng mới phá hỏng được nó, các người lại sửa nó!?”
-
-“Ta thấy hôm nay phải dạy cho các người một bài học.”
+“Không nhận ra sao? Hừm, bọn ta chính là Đạo Bảo Đoàn.” Huang Tàn Nhang nói. “Tương truyền cả vùng đất này có rất nhiều báu vật, cây cung này tuy chỉ là một thứ vũ khí, nhưng nó lại giống như người canh gác, khó mà tiếp cận được. Trước kia, mấy huynh đệ của ta xém chút nữa là bị nó xuyên thành que thịt viên rồi... Sau đó bọn ta phải mạo hiểm cả tính mạng mới phá hỏng được nó, các người lại sửa nó!? Ta thấy hôm nay phải dạy cho các người một bài học.”
 
 “Hừm. Đúng là đồ phàm phu tục tử, vì lòng tham mà phá hỏng cả di vật mà tiên nhân để lại.” Zhongli lạnh giọng. “Phải dạy cho các ngươi một bài học.”
 
@@ -1414,9 +1230,7 @@ Lumine lao vào đánh bại đám Đạo Bảo Đoàn.
 
 “Ừm... Khế ước... Chúng ta tuy sửa xong ‘máy Guizhong’ rồi, có điều không biết phải đi đâu để tìm Dê Dừa cơ chứ?” Paimon hỏi.
 
-“Theo kết quả tìm kiếm của ‘máy Guizhong’ cho thấy, ở gần đây ngoài những loài động vật bình thường ra, dường như không có thứ gì nổi bật cả.” Zhongli nói.
-
-“Hơn nữa, nếu là quái thú có nửa dòng máu của tiên, thì dựa vào cơ quan do tiên gia để lại sẽ không khó mà tìm thấy...”
+“Theo kết quả tìm kiếm của ‘máy Guizhong’ cho thấy, ở gần đây ngoài những loài động vật bình thường ra, dường như không có thứ gì nổi bật cả.” Zhongli nói. “Hơn nữa, nếu là quái thú có nửa dòng máu của tiên, thì dựa vào cơ quan do tiên gia để lại sẽ không khó mà tìm thấy...”
 
 “Chuyện này...” Paimon nói.
 
@@ -1438,9 +1252,7 @@ Trở lại Nhà Thuốc Bubu, Zhongli báo lại kết quả với Qiqi.
 
 “Qiqi còn có manh mối nào nữa không?” Lumine hỏi.
 
-“Thật ra... Là do sữa của Dê Dừa rất ngon. Ngon hơn nhiều so với sữa dê bình thường, ngon vị rất riêng đó. Vì vậy chúng nhất định phải là quái vật nửa tiên.” Qiqi nói.
-
-“Em xin lỗi. Trí nhớ của em không được tốt. Để em viết lại tên loại sữa này, tìm xem sao...”
+“Thật ra... Là do sữa của Dê Dừa rất ngon. Ngon hơn nhiều so với sữa dê bình thường, ngon vị rất riêng đó. Vì vậy chúng nhất định phải là quái vật nửa tiên.” Qiqi nói. “Em xin lỗi. Trí nhớ của em không được tốt. Để em viết lại tên loại sữa này, tìm xem sao...”
 
 Qiqi lật cuốn sổ của mình.
 
@@ -1512,11 +1324,7 @@ Qiqi lật cuốn sổ của mình.
 
 “Không được cười trên nỗi đau của người khác!” Paimon giận dỗi.
 
-“Haizz, đúng là cười ra nước mắt mà. Được rồi để cảm ơn mọi người đã khiến tôi vui như vậy, tôi sẽ giúp đỡ giải quyết tất cả khó khăn.” Childe nói.
-
-“Vị này... là ông chủ Baizhu phải không? Tôi là Quan Chấp Hành Fatui - Childe. Hy vọng chúng ta về sau có nhiều cơ hội hợp tác với nhau.”
-
-“Nếu như Nhà Thuốc Bubu có cần gì, Fatui có thể thiết lập đội ngũ giao sữa dừa nhanh chóng.”
+“Haizz, đúng là cười ra nước mắt mà. Được rồi để cảm ơn mọi người đã khiến tôi vui như vậy, tôi sẽ giúp đỡ giải quyết tất cả khó khăn.” Childe nói. “Vị này... là ông chủ Baizhu phải không? Tôi là Quan Chấp Hành Fatui - Childe. Hy vọng chúng ta về sau có nhiều cơ hội hợp tác với nhau. Nếu như Nhà Thuốc Bubu có cần gì, Fatui có thể thiết lập đội ngũ giao sữa dừa nhanh chóng.”
 
 “Hửm? Trước giờ đều nghe nói người Fatui thích lôi kéo những ‘kẻ cùng chí hướng’, còn với Nhà Thuốc Bubu thì chỉ dùng sữa dừa là có thể mua chuộc được sao...?” Baizhu nói.
 
@@ -1526,9 +1334,7 @@ Qiqi lật cuốn sổ của mình.
 
 “Ủa, vậy 300 vạn với 299 vạn có gì khác nhau đâu chứ?!” Paimon kêu lên.
 
-“Đúng vậy... 299 vạn... nghe thì cũng không khác biệt lắm, nhưng sự thật là có rẻ hơn 1 vạn.” Zhongli nói.
-
-“Được rồi, mọi việc đều đã được giải quyết, chúng tôi cũng nên quay trở lại Ngọc Kinh Đài. Hẹn gặp lại ngài Childe, ông chủ Baizhu và người bạn nhỏ Qiqi.”
+“Đúng vậy... 299 vạn... nghe thì cũng không khác biệt lắm, nhưng sự thật là có rẻ hơn 1 vạn.” Zhongli nói. “Được rồi, mọi việc đều đã được giải quyết, chúng tôi cũng nên quay trở lại Ngọc Kinh Đài. Hẹn gặp lại ngài Childe, ông chủ Baizhu và người bạn nhỏ Qiqi.”
 
 ---
 
@@ -1540,9 +1346,7 @@ Khi nhóm Lumine đã rời đi, Childe vẫn đứng lại bên ngoài Nhà Thu
 
 “Vâng thưa đại nhân Childe. Bọn họ nhắc đến Hoàng Kim Ốc bị Thất Tinh...” Ekaterina báo cáo.
 
-“Hoá ra là như vậy. He he, Ningguang, Thất Tinh. Thứ các ngươi muốn che giấu trong Hoàng Kim Ốc... Còn gì khác ngoài ‘Tiên Tổ Pháp Thoái’ chứ?” Childe nói.
-
-“Rất xin lỗi Lumine. Nhưng tôi từng cảnh báo cho cô rồi phải không? Ngạn ngữ cổ Liyue có nói: ‘Tai vách mạch rừng’ mà.”
+“Hoá ra là như vậy. He he, Ningguang, Thất Tinh. Thứ các ngươi muốn che giấu trong Hoàng Kim Ốc... Còn gì khác ngoài ‘Tiên Tổ Pháp Thoái’ chứ?” Childe nói. “Rất xin lỗi Lumine. Nhưng tôi từng cảnh báo cho cô rồi phải không? Ngạn ngữ cổ Liyue có nói: ‘Tai vách mạch rừng’ mà.”
 
 ---
 
@@ -1560,11 +1364,7 @@ Về đến Ngọc Kinh Đài, Lumine đặt Hương Bất Tử vào lư hương
 
 “Có lẽ là trải nghiệm được cuộc sống của người giàu có...” Lumine nói.
 
-“Haha, đáp án cuối là cái nào cơ chứ? Những nghi vấn trong suốt cuộc hành trình luôn luôn rất phức tạp.” Zhongli cười.
-
-“Trải nghiệm về hành trình phải để Nhà Lữ Hành tự suy ngẫm rồi. À còn vấn đề nữa, tiền lương cho việc chuẩn bị Điển Lễ Tiễn Tiên là do tôi quyết định.”
-
-“Tôi mời.”
+“Haha, đáp án cuối là cái nào cơ chứ? Những nghi vấn trong suốt cuộc hành trình luôn luôn rất phức tạp.” Zhongli cười. “Trải nghiệm về hành trình phải để Nhà Lữ Hành tự suy ngẫm rồi. À còn vấn đề nữa, tiền lương cho việc chuẩn bị Điển Lễ Tiễn Tiên là do tôi quyết định. Tôi mời.”
 
 “Zhongli... Mời ư?” Lumine hỏi.
 
@@ -1616,9 +1416,7 @@ Và trước Chuông Tẩy Trần:
 
 Khi trời tối, Lumine và Paimon đến quán rượu Ba Cốc Say Mèm gần bến cảng. Zhongli đã ngồi sẵn ở một bàn. Lumine ngồi xuống bên cạnh anh.
 
-“Hửm, các bạn đến rồi ư. Không cần gọi món, tôi đã chuẩn bị xong hết rồi.” Zhongli nói.
-
-“Quán Ba Cốc Say Mèm hoàn toàn khác so với những quán rượu ở Mondstadt. Chủ nhân ở đây đều cho rằng, rượu làm từ hoa quả là món đồ uống không ‘chính thống’.”
+“Hửm, các bạn đến rồi ư. Không cần gọi món, tôi đã chuẩn bị xong hết rồi.” Zhongli nói. “Quán Ba Cốc Say Mèm hoàn toàn khác so với những quán rượu ở Mondstadt. Chủ nhân ở đây đều cho rằng, rượu làm từ hoa quả là món đồ uống không ‘chính thống’.”
 
 “Cho nên lần này, cuối cùng cũng được mời một ly rượu chính thống?!” Lumine hỏi.
 
@@ -1636,23 +1434,11 @@ Khi trời tối, Lumine và Paimon đến quán rượu Ba Cốc Say Mèm gần
 
 Tian Miệng Sắt tiếp tục kể:
 
-“Như các vị đều biết, phía trên cảng biển của chúng ta có Tiên Phủ trên mây, Cung Điện trong màn sương.”
+“Như các vị đều biết, phía trên cảng biển của chúng ta có Tiên Phủ trên mây, Cung Điện trong màn sương. Cái gì là thiên phú hơn người? Các ngài nhìn đi, đây chính là thiên phú hơn người, cũng chính là kiệt tác mà đại nhân Ningguang làm ra. Trời thanh gió mát, từ hiên ngoài cung điện, ngài nhìn xuống thế giới bên dưới. Quả là tuyệt vời! Đây chính là vẻ đẹp rực rỡ của cảng Liyue... Các ngài ngẫm xem, từ trên cao nhìn xuống tuy nó chỉ như những mảnh giấy vụn, nhưng đó chính là các ‘ý tưởng’ để đại nhân Ningguang đưa ra quyết sách, thật quý giá biết bao.”
 
-“Cái gì là thiên phú hơn người? Các ngài nhìn đi, đây chính là thiên phú hơn người, cũng chính là kiệt tác mà đại nhân Ningguang làm ra.”
+Tian Miệng Sắt nói tiếp: “Chỉ cần đánh cắp được một hai mảnh giấy, vậy thì có thể đọc lén thông tin trên đó của Ningguang đại nhân, các ngài đã vượt xa so với đồng nghiệp vài lần rồi...”
 
-“Trời thanh gió mát, từ hiên ngoài cung điện, ngài nhìn xuống thế giới bên dưới.”
-
-“Quả là tuyệt vời! Đây chính là vẻ đẹp rực rỡ của cảng Liyue...”
-
-“Các ngài ngẫm xem, từ trên cao nhìn xuống tuy nó chỉ như những mảnh giấy vụn, nhưng đó chính là các ‘ý tưởng’ để đại nhân Ningguang đưa ra quyết sách, thật quý giá biết bao.”
-
-“Chỉ cần đánh cắp được một hai mảnh giấy, vậy thì có thể đọc lén thông tin trên đó của Ningguang đại nhân, các ngài đã vượt xa so với đồng nghiệp vài lần rồi...”
-
-“Thiên Quyền Ningguang... Thời gian gần đây cứ liên tục nghe thấy cái tên này.” Paimon nói.
-
-“Người Liyue đang bàn về cô ấy, Fatui thù ghét cô ấy, dường như cô ấy là người che giấu Tiên Tổ Pháp Thoái, chúng ta từng thấy cô ấy trong Điển Lễ Thỉnh Tiên...”
-
-“Không biết cô ta là người như thế nào nhỉ?”
+“Thiên Quyền Ningguang... Thời gian gần đây cứ liên tục nghe thấy cái tên này.” Paimon nói. “Người Liyue đang bàn về cô ấy, Fatui thù ghét cô ấy, dường như cô ấy là người che giấu Tiên Tổ Pháp Thoái, chúng ta từng thấy cô ấy trong Điển Lễ Thỉnh Tiên... Không biết cô ta là người như thế nào nhỉ?”
 
 “Cuối cùng cũng tìm được bạn rồi, ‘người trở về từ Tuyệt Vân Gián’.” Một giọng nữ vang lên ngay cạnh bàn.
 
@@ -1660,9 +1446,7 @@ Tian Miệng Sắt tiếp tục kể:
 
 “Paimon chúng ta đi thôi...!” Lumine định đứng dậy.
 
-“Xin đợi một lát. Tôi không phải là Thiên Nham Quân, cũng không phải bổ khoái đến bắt các bạn.” Cô gái nói.
-
-“Nhưng tôi quả thật là sứ giả của Thất Tinh Liyue. Xin tự giới thiệu, tôi tên Ganyu - thư ký tại Nguyệt Hải Đình, tôi hôm nay đến đây để gặp các bạn.”
+“Xin đợi một lát. Tôi không phải là Thiên Nham Quân, cũng không phải bổ khoái đến bắt các bạn.” Cô gái nói. “Nhưng tôi quả thật là sứ giả của Thất Tinh Liyue. Xin tự giới thiệu, tôi tên Ganyu - thư ký tại Nguyệt Hải Đình, tôi hôm nay đến đây để gặp các bạn.”
 
 “Sứ giả?” Lumine hỏi.
 
@@ -1670,37 +1454,23 @@ Tian Miệng Sắt tiếp tục kể:
 
 “Woa, vừa nhắc đến Ningguang thì sứ giả của Ningguang liền đến tìm...” Paimon nói.
 
-“Có gì sơ xuất xin thứ lỗi cho tôi... ‘Người trở về từ Tuyệt Vân Gián’.” Ganyu nói, rồi đưa ra một bức thư. “Đây chính là bức thư do tiểu thư Ningguang lấy danh nghĩa ‘Thiên Quyền’ viết, có thể coi như thư mời chính thức.”
-
-“Mời bạn đến Cung Điện Trên Không.”
+“Có gì sơ xuất xin thứ lỗi cho tôi... ‘Người trở về từ Tuyệt Vân Gián’.” Ganyu nói, rồi đưa ra một bức thư. “Đây chính là bức thư do tiểu thư Ningguang lấy danh nghĩa ‘Thiên Quyền’ viết, có thể coi như thư mời chính thức. Mời bạn đến Cung Điện Trên Không.”
 
 “Bạn nói... Thư mời sao?” Paimon hỏi.
 
-“Đúng vậy. Tiểu thư Ningguang nói như thế này:” Ganyu đáp.
-
-“‘Rất mong cô ấy có thể đến.’”
-
-“‘Tôi rất muốn gặp cô ấy.’”
-
-“‘Ở Quần Ngọc Các, tôi sẽ cùng cô ấy cắt đứt từng mối tơ vò rắc rối.’”
+“Đúng vậy. Tiểu thư Ningguang nói như thế này:” Ganyu đáp. “‘Rất mong cô ấy có thể đến.’ ‘Tôi rất muốn gặp cô ấy.’ ‘Ở Quần Ngọc Các, tôi sẽ cùng cô ấy cắt đứt từng mối tơ vò rắc rối.’”
 
 Nói xong, Ganyu rời đi.
 
 Zhongli nhìn theo, khẽ nói:
 
-“Ningguang.... Ganyu.”
+“Ningguang.... Ganyu. Mối tơ vò rắc rối trong những ngày gần đây, nơi họ đang ở bây giờ là tầng thứ mấy cơ chứ?”
 
-“Mối tơ vò rắc rối trong những ngày gần đây, nơi họ đang ở bây giờ là tầng thứ mấy cơ chứ?”
-
-“Sứ giả tự xưng là Ganyu kia buông ra mấy câu này rồi biến mất...” Paimon nói. “Nhưng mà, chúng ta lại nhận được thư mời từ Thất Tinh của Liyue, đúng là không thể ngờ.”
-
-“Lumine! Gặp người giàu có nhất định phải chú ý lễ nghĩa!”
+“Sứ giả tự xưng là Ganyu kia buông ra mấy câu này rồi biến mất...” Paimon nói. “Nhưng mà, chúng ta lại nhận được thư mời từ Thất Tinh của Liyue, đúng là không thể ngờ. Lumine! Gặp người giàu có nhất định phải chú ý lễ nghĩa!”
 
 “Tôi lúc nào cũng lịch sự mà.” Lumine đáp.
 
-“He he... người may mắn được mời đến Quần Ngọc Các làm khách quả thực rất ít.” Zhongli cười.
-
-“Các bạn đi đi, nhưng đừng quên việc của Điển Lễ Tiễn Tiên. Sau khi các bạn trở về từ Quần Ngọc Các, chúng ta sẽ gặp nhau ở Địch Hoa Châu.”
+“He he... người may mắn được mời đến Quần Ngọc Các làm khách quả thực rất ít.” Zhongli cười. “Các bạn đi đi, nhưng đừng quên việc của Điển Lễ Tiễn Tiên. Sau khi các bạn trở về từ Quần Ngọc Các, chúng ta sẽ gặp nhau ở Địch Hoa Châu.”
 
 “Ừm, chúng tôi sẽ ghi nhớ. Hẹn gặp ở Địch Hoa Châu, không gặp không về!” Paimon đáp.
 

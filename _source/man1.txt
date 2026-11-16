@@ -8,7 +8,7 @@
 
 Ánh lửa trại tí tách giữa màn đêm. Bên cạnh đống lửa, một cô gái tóc vàng ngồi lặng lẽ, trong khi sinh vật nhỏ nhắn lơ lửng đối diện nghiêng đầu lắng nghe câu chuyện của cô.
 
-“Vậy là, các bạn đến từ… thế giới bên ngoài?”
+Paimon hỏi: “Vậy là, các bạn đến từ… thế giới bên ngoài?”
 
 Cô gái gật đầu. Cô tên là Lumine, và câu chuyện cô đang kể là câu chuyện của chính mình — cùng người anh trai song sinh, Aether.
 
@@ -20,21 +20,21 @@ Ký ức kéo Lumine trở về ngày hôm ấy.
 
 Hai anh em bước lên một công trình lơ lửng giữa bầu trời, sẵn sàng rời khỏi thế giới này như họ vẫn luôn làm khi đi qua biết bao thế giới khác. Nhưng rồi một bóng hình xuất hiện, chặn ngay trước mặt họ.
 
-“Kẻ ngoại địa, cuộc hành trình của các bạn đến đây là kết thúc.”
+Paimon nói: “Kẻ ngoại địa, cuộc hành trình của các bạn đến đây là kết thúc.”
 
-“Người nào đó?!”
+Lumine nói: “Người nào đó?!”
 
-“Người duy trì ‘thiên lý’. Sự kiêu ngạo của loài người kết thúc ở đây.”
+Paimon nói: “Người duy trì ‘thiên lý’. Sự kiêu ngạo của loài người kết thúc ở đây.”
 
 Hai anh em rút kiếm lao lên. Thế nhưng sức mạnh của vị thần kia vượt xa những gì họ có thể chống đỡ, và họ thua trận.
 
 Một bầy khối lập phương đỏ đen tràn tới, bao phủ lấy Aether. Vị thần thu chúng lại, nén thành một khối lập phương duy nhất nằm gọn trong lòng bàn tay mình.
 
-“Aether!”
+Lumine nói: “Aether!”
 
 Lumine vươn tay về phía anh trai, nhưng những khối lập phương cũng ập đến nuốt lấy cô.
 
-“Đợi chút… xin đừng đi! Anh trai của tôi—”
+“Đợi chút… xin đừng đi! Anh trai của tôi—” Lumine kêu lên.
 
 Một phong ấn rơi xuống, tước đi sức mạnh của cô. Và khi Lumine tỉnh lại lần nữa, cô chỉ còn một mình giữa Teyvat.
 
@@ -42,19 +42,11 @@ Một phong ấn rơi xuống, tước đi sức mạnh của cô. Và khi Lumin
 
 Lửa trại vẫn cháy. Lumine nhìn vào ngọn lửa, giọng đều đều như đang thuật lại chuyện của người khác.
 
-“Đợi đã… đừng đi! Hãy trả anh trai lại cho tôi…” cô khẽ nói, rồi lắc đầu. “Cứ như vậy, vị thần lạ mặt đem anh trai của tôi đi mất…”
-
-“Tôi cũng bị phong ấn, mất đi sức mạnh ban đầu.”
-
-“Từng du hành nhiều thế giới, chúng tôi lại gặp kiếp nạn này…”
-
-“Là câu chuyện từ bao nhiêu năm trước? Tôi cũng không rõ…”
+“Đợi đã… đừng đi! Hãy trả anh trai lại cho tôi…” cô khẽ nói, rồi lắc đầu. “Cứ như vậy, vị thần lạ mặt đem anh trai của tôi đi mất… Tôi cũng bị phong ấn, mất đi sức mạnh ban đầu. Từng du hành nhiều thế giới, chúng tôi lại gặp kiếp nạn này… Là câu chuyện từ bao nhiêu năm trước? Tôi cũng không rõ…”
 
 Cô siết nhẹ tay.
 
-“Tôi sẽ điều tra rõ ràng.”
-
-“Khi tỉnh lại tôi lang bạt một mình, cho đến khi gặp được bạn vào hai tháng trước…”
+Lumine nói: “Tôi sẽ điều tra rõ ràng. Khi tỉnh lại tôi lang bạt một mình, cho đến khi gặp được bạn vào hai tháng trước…”
 
 Paimon gật gù thật mạnh.
 
@@ -62,7 +54,7 @@ Paimon gật gù thật mạnh.
 
 Hai tháng trước, chính Lumine là người đã vớt sinh vật nhỏ bé này lên từ mặt nước. Kể từ hôm đó, Paimon trở thành bạn đồng hành của cô.
 
-“Vì vậy, tôi sẽ cố gắng làm một người dẫn đường tốt.”
+Paimon nói: “Vì vậy, tôi sẽ cố gắng làm một người dẫn đường tốt.”
 
 Paimon bay vút lên, vẫy tay về phía con đường phía trước.
 
@@ -72,15 +64,15 @@ Paimon bay vút lên, vẫy tay về phía con đường phía trước.
 
 >Thần mang đi người thân duy nhất của bạn, và bạn cũng bị Thần phong ấn, chìm vào giấc ngủ. Khi tỉnh dậy, bạn lang thang một mình, sau đó gặp được người bạn đồng hành tuyệt vời Paimon, cả hai cùng bắt đầu cuộc hành trình khám phá đại lục Teyvat...
 
-“Ê, mau tỉnh lại…”
+Paimon nói: “Ê, mau tỉnh lại…”
 
 Giọng nói lanh lảnh vang lên ngay bên tai. Lumine khẽ cựa mình.
 
-“Đã hẹn cùng nhau xem mặt trời mọc, sao lại ngủ mất rồi?”
+Paimon hỏi: “Đã hẹn cùng nhau xem mặt trời mọc, sao lại ngủ mất rồi?”
 
-“Ừm…”
+Lumine đáp: “Ừm…”
 
-“Mặt trời đã lên lưng núi rồi. Muốn mau tìm thấy anh trai thì phải phấn chấn lên mới được.”
+Paimon nói: “Mặt trời đã lên lưng núi rồi. Muốn mau tìm thấy anh trai thì phải phấn chấn lên mới được.”
 
 Paimon chống tay lên hông, lơ lửng ngay trước mặt cô.
 
@@ -90,7 +82,7 @@ Paimon chống tay lên hông, lơ lửng ngay trước mặt cô.
 
 Lumine đứng dậy, đi đến chỗ Paimon đang chờ. Hành trình đi tìm người anh trai thất lạc — và tìm vị thần linh đã từng nhìn thấy — lại bắt đầu.
 
-“Vậy thì, cứ đi theo tuyến đường chúng ta đã định trước.”
+Paimon nói: “Vậy thì, cứ đi theo tuyến đường chúng ta đã định trước.”
 
 Paimon bay lên trước dẫn đường. Lumine theo sau, lúc đi bộ, lúc chạy nhanh, lúc nhảy qua những mỏm đá chắn lối. Giữa đường, một con Slime Thủy nảy ra từ bãi cỏ. Lumine rút kiếm, vài nhát chém là đủ khiến nó tan thành một vũng nước.
 
@@ -98,7 +90,7 @@ Paimon bay lên trước dẫn đường. Lumine theo sau, lúc đi bộ, lúc c
 
 Rồi con đường đột ngột bị chặn lại bởi một vách đá dựng đứng.
 
-“Không có đường đi… vậy thì leo lên đi.”
+Paimon nói: “Không có đường đi… vậy thì leo lên đi.”
 
 Paimon quay lại dặn thêm, giọng ra vẻ người từng trải:
 
@@ -106,11 +98,11 @@ Paimon quay lại dặn thêm, giọng ra vẻ người từng trải:
 
 Lumine đến chân vách, bám vào những mỏm đá, từng bước một leo lên. Khi cô đặt chân lên đỉnh, Paimon đã lơ lửng chờ sẵn, ánh mắt lấp lánh hướng về phía xa.
 
-“Mục tiêu là… ‘Thất Thiên Thần Tượng’!”
+Paimon nói: “Mục tiêu là… ‘Thất Thiên Thần Tượng’!”
 
 Rồi Paimon quay sang nhìn cô, nghiêng đầu.
 
-“Trong bảy vị thần linh của thế giới này, không biết bạn cần tìm vị nào?”
+Paimon hỏi: “Trong bảy vị thần linh của thế giới này, không biết bạn cần tìm vị nào?”
 
 #CH|Chương 2|Nhìn Bằng Mắt Chim|venti_nc.png|Nhìn Bằng Mắt Chim
 
@@ -118,7 +110,7 @@ Rồi Paimon quay sang nhìn cô, nghiêng đầu.
 
 Lumine men theo con đường xuyên qua Vực Sao Rơi, cho tới khi nó dẫn ra một mỏm đá cao. Phía dưới, cả một vùng đất rộng lớn trải ra trước mắt: mặt hồ phẳng lặng phản chiếu bầu trời, những cánh rừng xanh mướt, và xa hơn nữa là đường nét của một thành phố.
 
-“Oa!”
+Paimon nói: “Oa!”
 
 Paimon reo lên, bay vòng vòng như không thể đứng yên được.
 
@@ -128,25 +120,11 @@ Giữa hồ có một hòn đảo nhỏ. Trên đảo, một bức tượng kh�
 
 Lumine đi đến chỗ Paimon. Paimon chỉ về phía bức tượng.
 
-“Đây chính là ‘Thất Thiên Thần Tượng’.”
-
-“Tượng của thần linh trải khắp trên đại lục, tượng trưng cho bảy vị thần bảo vệ thế giới.”
-
-“Trong bảy vị thần Nguyên Tố, vị này nắm giữ ‘Phong’.”
-
-“Tuy rằng không biết bạn muốn tìm có phải là Phong Thần không, nhưng…”
-
-“Tôi dẫn bạn đến lãnh địa của Phong Thần trước, cũng là có lý do đó.”
+Paimon nói: “Đây chính là ‘Thất Thiên Thần Tượng’. Tượng của thần linh trải khắp trên đại lục, tượng trưng cho bảy vị thần bảo vệ thế giới. Trong bảy vị thần Nguyên Tố, vị này nắm giữ ‘Phong’. Tuy rằng không biết bạn muốn tìm có phải là Phong Thần không, nhưng… Tôi dẫn bạn đến lãnh địa của Phong Thần trước, cũng là có lý do đó.”
 
 Paimon bay lên trước, Lumine bước theo xuống sườn dốc.
 
-“Mọi người đều biết, ngôn ngữ và thơ ca thường bay theo gió…”
-
-“Trong đó nhất định sẽ có tin tức về anh trai của bạn! Tôi nghĩ như vậy ý.”
-
-“Tất nhiên, có được Phong Thần trả lời hay không, thì chỉ có thử mới biết…”
-
-“Vậy thì, hãy nhanh lên nào!”
+“Mọi người đều biết, ngôn ngữ và thơ ca thường bay theo gió… Trong đó nhất định sẽ có tin tức về anh trai của bạn! Tôi nghĩ như vậy ý. Tất nhiên, có được Phong Thần trả lời hay không, thì chỉ có thử mới biết… Vậy thì, hãy nhanh lên nào!”
 
 Chỉ cần Lumine rẽ sang hướng khác một chút, Paimon đã quay lại gọi ngay:
 
@@ -156,7 +134,7 @@ Chỉ cần Lumine rẽ sang hướng khác một chút, Paimon đã quay lại 
 
 Hai người đến bên bờ hồ — Hồ Sao Rơi. Mặt nước trong vắt ngăn cách họ với hòn đảo có bức tượng.
 
-“Có thể bơi thẳng qua đó.”
+Paimon nói: “Có thể bơi thẳng qua đó.”
 
 Lumine lội xuống nước, bơi về phía hòn đảo, nơi bức tượng của Phong Thần đang lặng lẽ đứng chờ.
 
@@ -182,29 +160,17 @@ Khoảnh khắc ấy, một luồng gió dịu dàng cuộn lên quanh cô — L
 
 Cơn gió lắng xuống. Paimon lập tức sà tới.
 
-“Này, có phải đã cảm nhận được ‘Nguyên Tố’ của thế giới này phải không?”
-
-“Xem ra, bạn chỉ cần chạm vào Thần Tượng, là có thể nhận được sức mạnh Nguyên Tố Phong.”
-
-“Những người ở thế giới này muốn có được sức mạnh, sẽ không dễ dàng như bạn vậy đâu…”
+Paimon hỏi: “Này, có phải đã cảm nhận được ‘Nguyên Tố’ của thế giới này phải không? Xem ra, bạn chỉ cần chạm vào Thần Tượng, là có thể nhận được sức mạnh Nguyên Tố Phong. Những người ở thế giới này muốn có được sức mạnh, sẽ không dễ dàng như bạn vậy đâu…”
 
 Lumine nhìn xuống lòng bàn tay mình.
 
 “Nguồn gốc sức mạnh… quả nhiên là…”
 
-“Ừ, vì bạn vốn dĩ không phải người của thế giới này mà.”
+Paimon nói: “Ừ, vì bạn vốn dĩ không phải người của thế giới này mà.”
 
 Paimon quay người, chỉ về một hướng.
 
-“Từ đây đi về hướng tây, là có thể đến thành phố tự do Mondstadt rồi.”
-
-“Mondstadt là thành phố của gió, thờ phụng Phong Thần trong bảy vị thần.”
-
-“Bạn có thể nhận được sức mạnh từ Thần Tượng, có khi nào sẽ tìm được manh mối ở đó…?”
-
-“Hơn nữa, Mondstadt có rất nhiều nhà thơ lang thang, không biết chừng có manh mối về anh trai của bạn.”
-
-“Được, vậy thì xuất phát thôi!”
+“Từ đây đi về hướng tây, là có thể đến thành phố tự do Mondstadt rồi. Mondstadt là thành phố của gió, thờ phụng Phong Thần trong bảy vị thần. Bạn có thể nhận được sức mạnh từ Thần Tượng, có khi nào sẽ tìm được manh mối ở đó…? Hơn nữa, Mondstadt có rất nhiều nhà thơ lang thang, không biết chừng có manh mối về anh trai của bạn. Được, vậy thì xuất phát thôi!”
 
 Paimon mỉm cười.
 
@@ -214,19 +180,19 @@ Paimon mỉm cười.
 
 Chưa kịp rời đảo, vài con Slime đã nhảy ra chắn đường — dịp tốt để thử sức mạnh vừa có.
 
-“Có thể dùng năng lực mới rồi!”
+Paimon nói: “Có thể dùng năng lực mới rồi!”
 
 Lumine vung tay. Gió tụ lại nơi lòng bàn tay cô, xoáy thành một luồng lốc nhỏ cuốn lấy lũ Slime và hất văng chúng đi. Đợt Slime đầu tiên tan biến, đợt thứ hai lại kéo đến.
 
-“Nạp năng lượng có thể phát huy sức mạnh lớn hơn, nhấn giữ Kỹ Năng Nguyên Tố để thử nào.”
+Paimon nói: “Nạp năng lượng có thể phát huy sức mạnh lớn hơn, nhấn giữ Kỹ Năng Nguyên Tố để thử nào.”
 
 Lần này Lumine giữ luồng gió lâu hơn trong tay, để cơn lốc lớn dần, hút lũ Slime lại gần rồi mới phóng ra. Đợt Slime thứ hai cũng tan biến. Sau hai trận, năng lượng Nguyên Tố trong cô đã tích đầy.
 
-“Năng lượng đã đầy, có thể dùng kỹ năng Nộ rồi!”
+Paimon nói: “Năng lượng đã đầy, có thể dùng kỹ năng Nộ rồi!”
 
 Lumine tung ra đòn mạnh nhất: một vòi rồng thật sự, cuộn theo mặt đất quét qua đợt Slime cuối cùng. Khi cơn lốc tan, không còn con nào trụ lại.
 
-“Đây chính là sức mạnh Nguyên Tố Phong bạn vừa nhận được từ ‘Thất Thiên Thần Tượng’.”
+Paimon nói: “Đây chính là sức mạnh Nguyên Tố Phong bạn vừa nhận được từ ‘Thất Thiên Thần Tượng’.”
 
 Paimon chắp tay, mắt sáng rực.
 
@@ -242,67 +208,57 @@ Hai người nhìn nhau, rồi đuổi theo nó vào rừng. Càng đi sâu, án
 
 Bỗng Paimon khựng lại.
 
-“Í? Xem kìa!”
+Paimon nói: “Í? Xem kìa!”
 
 Giữa khoảng rừng trống phía trước, con rồng khổng lồ màu xanh lam đang cúi mình. Và đứng trước mặt nó là một người — một thiếu niên trong bộ trang phục màu xanh lục.
 
-“…Đừng sợ.”
+Người thiếu niên nói: “…Đừng sợ.”
 
 Giọng người đó nhẹ nhàng như đang dỗ dành.
 
-“…Yên tâm, tôi quay lại rồi.”
+Người thiếu niên nói: “…Yên tâm, tôi quay lại rồi.”
 
 Paimon thì thầm, không giấu nổi kinh ngạc:
 
-“Hắn đang… nói chuyện với rồng?”
-
-“Ồ?”
+“Hắn đang… nói chuyện với rồng? Ồ?”
 
 Một tiếng động khẽ vang lên. Người thiếu niên lập tức quay phắt lại.
 
-“…Ai?!”
+Người thiếu niên hỏi: “…Ai?!”
 
 Cả người thiếu niên lẫn con rồng đều giật mình. Con rồng sải đôi cánh khổng lồ, và một cơn cuồng phong bùng nổ giữa khu rừng, cuốn tung lá cây và cát bụi. Paimon bị gió hất đi, chỉ kịp túm chặt lấy tóc của Lumine. Khi gió tan, cả con rồng lẫn người thiếu niên đều đã biến mất.
 
 ---
 
-“Nguy hiểm quá, chút nữa là bị thổi bay rồi!”
+Paimon nói: “Nguy hiểm quá, chút nữa là bị thổi bay rồi!”
 
 Paimon thở hổn hển, hai tay vẫn còn bám chặt mái tóc của Lumine.
 
 “Cũng may nắm được tóc của bạn, cảm ơn nhé.”
 
-“May mà không bị con rồng đó nhìn thấy.”
+Lumine nói: “May mà không bị con rồng đó nhìn thấy.”
 
-“Hồi nãy xảy ra chuyện gì? Còn tưởng là bị ăn mất rồi chứ.”
-
-“Nhất định là có liên quan đến cái tên quái dị nói chuyện với rồng đó…”
+Paimon nói: “Hồi nãy xảy ra chuyện gì? Còn tưởng là bị ăn mất rồi chứ. Nhất định là có liên quan đến cái tên quái dị nói chuyện với rồng đó…”
 
 Lumine nhìn về khoảng trống nơi con rồng vừa đứng.
 
 “Thế giới này, quả thật có rồng…”
 
-“Ừ, tôi hiểu sự lo lắng của bạn…”
+Paimon nói: “Ừ, tôi hiểu sự lo lắng của bạn…”
 
 Paimon chợt dừng lại, chỉ tay về phía trước.
 
-“Í? Đó là cái gì?”
-
-“Ở trên tảng đá đó, lấp lánh ánh sáng đỏ…?”
-
-“Chúng ta đến gần chút xem.”
+“Í? Đó là cái gì? Ở trên tảng đá đó, lấp lánh ánh sáng đỏ…? Chúng ta đến gần chút xem.”
 
 ---
 
 Trên một tảng đá lớn gần đó, một viên tinh thể đỏ thẫm đang tỏa ra thứ ánh sáng lạ lùng.
 
-“Cẩn thận! Tôi có cảm giác nó… rất tệ.”
+Paimon nói: “Cẩn thận! Tôi có cảm giác nó… rất tệ.”
 
 Lumine vẫn đưa tay ra nhặt lấy. Viên tinh thể đỏ nằm gọn trong lòng bàn tay cô.
 
-“Chưa từng nhìn thấy cục đá nào như vậy… không biết được nó là gì.”
-
-“Chỉ biết nó rất nguy hiểm. Cứ giữ lại trước đi.”
+Paimon nói: “Chưa từng nhìn thấy cục đá nào như vậy… không biết được nó là gì. Chỉ biết nó rất nguy hiểm. Cứ giữ lại trước đi.”
 
 Paimon cất viên đá đi, rồi giục giã:
 
@@ -312,65 +268,59 @@ Paimon cất viên đá đi, rồi giục giã:
 
 >Trên đường đến Thành Mondstadt, hai bạn vô tình quấy rầy cuộc gặp gỡ của rồng khổng lồ với người bí ẩn. Khi hai bạn đi tiếp với sự nghi ngờ, thì một cô gái xuất hiện cản đường.
 
-Lumine và Paimon tiếp tục đi theo con đường xuyên rừng hướng về Mondstadt. Bất chợt, một giọng nói vang lên.
+Lumine và Paimon tiếp tục đi theo con đường xuyên rừng hướng về Mondstadt. Bất chợt, một giọng nói vang lên:
 
 “Này… Này! Đợi một chút!”
 
 Một cô gái mặc đồ đỏ từ trên cao nhảy xuống, đáp ngay trên đường, chắn trước mặt hai người. Cô đứng thẳng người, ra dáng nghiêm trang.
 
-“Mong Phong Thần bảo vệ bạn, người lạ mặt!”
-
-“Tôi là Kỵ Sĩ Trinh Thám Đội Kỵ Sĩ Tây Phong, Amber.”
-
-“Bạn không phải người dân Mondstadt phải không? Vậy thì, vui lòng báo cáo thân phận của mình!”
+Cô gái nói: “Mong Phong Thần bảo vệ bạn, người lạ mặt! Tôi là Kỵ Sĩ Trinh Thám Đội Kỵ Sĩ Tây Phong, Amber. Bạn không phải người dân Mondstadt phải không? Vậy thì, vui lòng báo cáo thân phận của mình!”
 
 Paimon vội xua tay.
 
 “Bình tĩnh chút, chúng tôi không phải người khả nghi…”
 
-“Những người khả nghi đều nói như vậy.”
+Amber nói: “Những người khả nghi đều nói như vậy.”
 
 Lumine bước lên một bước.
 
 “Xin chào, tôi là Lumine.”
 
-“…Nghe không giống người ở đây.”
+Amber nói: “…Nghe không giống người ở đây.”
 
 Amber liếc sang Paimon.
 
 “Còn đây là… vật may mắn, lại là thế nào?”
 
-“Là bạn.”
+Lumine đáp: “Là bạn.”
 
 “Ừ, tuy chỉ là bạn đồng hành mới quen hai tháng…” Paimon ưỡn ngực. “Nhưng đã là người bạn tốt nhất rồi!”
 
-“Tóm lại, là Nhà Lữ Hành phải không?”
+Amber hỏi: “Tóm lại, là Nhà Lữ Hành phải không?”
 
 Amber gật đầu, giọng dịu xuống đôi chút.
 
-“Gần đây có con rồng lớn xuất hiện xung quanh Mondstadt, tốt nhất các bạn nên vào thành.”
+“Gần đây có con rồng lớn xuất hiện xung quanh Mondstadt, tốt nhất các bạn nên vào thành. Ở đây cách Mondstadt không xa, hãy để Kỵ Sĩ tôi hộ tống các bạn.”
 
-“Ở đây cách Mondstadt không xa, hãy để Kỵ Sĩ tôi hộ tống các bạn.”
+Paimon hỏi: “Í? Cô ra ngoài thành không có nhiệm vụ nào khác à?”
 
-“Í? Cô ra ngoài thành không có nhiệm vụ nào khác à?”
-
-“Tất nhiên là có, nhưng yên tâm, trên đường làm nhiệm vụ cũng sẽ đảm bảo sự an toàn của các bạn.”
+Amber đáp: “Tất nhiên là có, nhưng yên tâm, trên đường làm nhiệm vụ cũng sẽ đảm bảo sự an toàn của các bạn.”
 
 Rồi cô nói thêm, chẳng chút ngại ngần:
 
 “Hơn nữa… Tôi cũng không thể mặc kệ người khả nghi!”
 
-“Xem ra cô không tin tưởng chúng tôi cho lắm.”
+Lumine nói: “Xem ra cô không tin tưởng chúng tôi cho lắm.”
 
-“À… thất lễ rồi, đây không phải cách nói chuyện mà một Kỵ Sĩ ưu tú nên có.”
+Amber nói: “À… thất lễ rồi, đây không phải cách nói chuyện mà một Kỵ Sĩ ưu tú nên có.”
 
 Amber hắng giọng, cúi đầu.
 
 “Tôi xin lỗi các bạn, um… người lữ khách lạ mặt và đáng kính.”
 
-“Cách nói thật miễn cưỡng!”
+Paimon nói: “Cách nói thật miễn cưỡng!”
 
-“Bạn có gì bất mãn với cách sử dụng từ ngữ trong ‘Sổ tay hướng dẫn Đội Kỵ Sĩ’ của chúng tôi sao?!”
+Amber nói: “Bạn có gì bất mãn với cách sử dụng từ ngữ trong ‘Sổ tay hướng dẫn Đội Kỵ Sĩ’ của chúng tôi sao?!”
 
 ---
 
@@ -382,11 +332,9 @@ Sau đó, Amber dẫn hai người đi tới một địa điểm cô đã đị
 
 Paimon nhanh nhảu trả lời thay:
 
-“Lumine trong chuyến hành trình vô cùng, vô cùng xa xôi, đã thất lạc với anh trai.”
+“Lumine trong chuyến hành trình vô cùng, vô cùng xa xôi, đã thất lạc với anh trai. Tôi là bạn đồng hành của cô ấy, đang cùng cô ấy tìm kiếm anh trai.”
 
-“Tôi là bạn đồng hành của cô ấy, đang cùng cô ấy tìm kiếm anh trai.”
-
-“Ồ, tìm lại người nhà… à.”
+Amber nói: “Ồ, tìm lại người nhà… à.”
 
 Amber im lặng một thoáng.
 
@@ -394,11 +342,11 @@ Amber im lặng một thoáng.
 
 Rồi cô vỗ tay.
 
-“Đúng rồi! Đợi tôi giải quyết xong nhiệm vụ, có thể giúp các bạn dán cáo thị trong thành…”
+Amber nói: “Đúng rồi! Đợi tôi giải quyết xong nhiệm vụ, có thể giúp các bạn dán cáo thị trong thành…”
 
-“Nói chứ, là nhiệm vụ gì vậy?”
+Paimon hỏi: “Nói chứ, là nhiệm vụ gì vậy?”
 
-“Rất đơn giản, đợi chút các bạn xem sẽ hiểu.”
+Amber đáp: “Rất đơn giản, đợi chút các bạn xem sẽ hiểu.”
 
 #CH|Chương 6|Đồng Hành Cùng Gió|amber_card.png|Đồng Hành Cùng Gió
 
@@ -406,17 +354,13 @@ Rồi cô vỗ tay.
 
 Chẳng bao lâu sau, một bóng dáng lom khom, đeo mặt nạ thô kệch thấp thoáng giữa bụi cây.
 
-“Í, là Hilichurl?!”
+Paimon nói: “Í, là Hilichurl?!”
 
-“Gần đây, các quái vật hoang dã này thường đến gần thành phố.”
+Amber nói: “Gần đây, các quái vật hoang dã này thường đến gần thành phố.”
 
 Tên Hilichurl quay đầu bỏ chạy. Ba người bám theo nó, cho tới khi nó dẫn họ tới một khu trại dựng bằng gỗ và lều cỏ, nơi lũ đồng bọn của nó đang tụ tập.
 
-“Quả nhiên, tên Hilichurl lúc nãy là đến từ đây.”
-
-“Đừng để nó chạy thoát!”
-
-“Nhiệm vụ lần này của tôi là đến xử lý doanh trại của chúng.”
+Amber nói: “Quả nhiên, tên Hilichurl lúc nãy là đến từ đây. Đừng để nó chạy thoát! Nhiệm vụ lần này của tôi là đến xử lý doanh trại của chúng.”
 
 Amber giương cung, Lumine rút kiếm lao vào doanh trại. Gió và tên cùng quét qua, lũ Hilichurl lần lượt gục ngã.
 
@@ -426,31 +370,23 @@ Amber giương cung, Lumine rút kiếm lao vào doanh trại. Gió và tên cù
 
 Khi tên Hilichurl cuối cùng ngã xuống, Amber hạ cung, phủi tay.
 
-“Hừ, chuyện nhỏ như con thỏ.”
+Amber nói: “Hừ, chuyện nhỏ như con thỏ. Nhưng mà không ngờ, hóa ra bạn cũng không phải người không có chút khả năng chiến đấu nào… Cám ơn sự trợ giúp lúc nãy của bạn, cảm thấy trận chiến này thế nào?”
 
-“Nhưng mà không ngờ, hóa ra bạn cũng không phải người không có chút khả năng chiến đấu nào…”
-
-“Cám ơn sự trợ giúp lúc nãy của bạn, cảm thấy trận chiến này thế nào?”
-
-“Nhẹ nhàng.”
+Lumine đáp: “Nhẹ nhàng.”
 
 Paimon nhìn quanh doanh trại đổ nát, gãi đầu.
 
-“Nhưng mà, Hilichurl tại sao lại xuất hiện ở đây?”
+“Nhưng mà, Hilichurl tại sao lại xuất hiện ở đây? Loại sinh vật này, thường sẽ không lập doanh trại ở gần thành phố như vậy chứ?”
 
-“Loại sinh vật này, thường sẽ không lập doanh trại ở gần thành phố như vậy chứ?”
-
-“Đúng vậy. Chúng nó vốn dĩ chỉ đi lang thang ngoài thành mới đúng.”
+Amber đáp: “Đúng vậy. Chúng nó vốn dĩ chỉ đi lang thang ngoài thành mới đúng.”
 
 Giọng Amber trầm xuống.
 
-“Nhưng gần đây Phong Ma Long thường xuất hiện, hoa màu bị hủy hoại, việc buôn bán cũng bị ảnh hưởng.”
+Amber nói: “Nhưng gần đây Phong Ma Long thường xuất hiện, hoa màu bị hủy hoại, việc buôn bán cũng bị ảnh hưởng. Khi xuất hiện bão lại thường có người bị thương… cho nên Đội Kỵ Sĩ phải chia ra phòng vệ.”
 
-“Khi xuất hiện bão lại thường có người bị thương… cho nên Đội Kỵ Sĩ phải chia ra phòng vệ.”
+Paimon hỏi: “Cho nên phạm vi hoạt động của những sinh vật phiền phức này cũng càng lúc càng gần?”
 
-“Cho nên phạm vi hoạt động của những sinh vật phiền phức này cũng càng lúc càng gần?”
-
-“Đúng vậy. Nhưng hôm nay thanh lý được một doanh trại, cũng có thu hoạch rồi.”
+Amber đáp: “Đúng vậy. Nhưng hôm nay thanh lý được một doanh trại, cũng có thu hoạch rồi.”
 
 Amber quay người, tươi tỉnh trở lại.
 
@@ -496,7 +432,7 @@ Amber dẫn hai người đi qua những con phố lát đá, ngang qua quảng 
 
 Cô liếc về phía một quán rượu gần tường thành, nơi vẫn có người ra vào tấp nập.
 
-“Trừ quán rượu phía góc đường không bị ảnh hưởng gì… ừm, chi bằng nói việc kinh doanh của họ trở nên tốt hơn nữa?”
+Amber hỏi: “Trừ quán rượu phía góc đường không bị ảnh hưởng gì… ừm, chi bằng nói việc kinh doanh của họ trở nên tốt hơn nữa?”
 
 ---
 
@@ -518,7 +454,7 @@ Theo hướng dẫn của Amber, Lumine bước tới mép cao, nhún người l
 
 Lumine vừa đáp xuống thì bầu trời bỗng tối sầm lại. Những đám mây đen cuộn xoáy trên đầu thành Mondstadt.
 
-“Bầu trời… sao vậy…”
+Amber nói: “Bầu trời… sao vậy…”
 
 Một tiếng gầm vang lên. Con rồng khổng lồ màu xanh — chính là con rồng họ từng thấy trong rừng — quay lại Mondstadt. Nó bay vòng quanh thành phố, vung cánh gọi lên những cơn lốc xoáy ngay giữa lòng thành.
 
@@ -528,15 +464,13 @@ Một trong những cơn lốc cuốn lấy Lumine, nhấc bổng cô lên khôn
 
 Trận chiến trên không bắt đầu. Lumine lượn theo những luồng gió, liên tục phóng đòn tấn công về phía con rồng. Lạ thay, cô cứ thế lơ lửng giữa không trung mà không hề rơi xuống. Paimon kinh ngạc nhận ra điều bất thường.
 
-“Í? Phong Chi Dực… có thể dừng trên không trung lâu như vậy sao?”
+Paimon hỏi: “Í? Phong Chi Dực… có thể dừng trên không trung lâu như vậy sao?”
 
-Một giọng nói vang lên — không phải của Paimon, cũng không phải của bất kỳ ai cô từng biết.
+Một giọng nói vang lên — không phải của Paimon, cũng không phải của bất kỳ ai cô từng biết:
 
-“Là tôi để gió ngàn năm giúp đỡ bạn, vì vậy bạn sẽ không rơi…”
+“Là tôi để gió ngàn năm giúp đỡ bạn, vì vậy bạn sẽ không rơi… Bây giờ hãy tưởng tượng rằng bạn có thể chế ngự luồng gió này. Để nó thổi bay những đám mây…”
 
-“Bây giờ hãy tưởng tượng rằng bạn có thể chế ngự luồng gió này. Để nó thổi bay những đám mây…”
-
-“Giọng nói này… ai đó?!”
+Paimon nói: “Giọng nói này… ai đó?!”
 
 Không có lời đáp. Chỉ có cơn gió nâng đỡ Lumine giữa trời bão. Cô tập trung, mượn sức gió đáp trả từng đợt tấn công của con rồng, bắn hết đòn này đến đòn khác vào nó.
 
@@ -546,57 +480,41 @@ Cuối cùng, con rồng bị thương gầm lên một tiếng, bay vút lên c
 
 Lumine đáp xuống thành phố. Amber chạy vội tới.
 
-“Bạn không sao chứ?”
+Amber hỏi: “Bạn không sao chứ?”
 
 Một người đàn ông lạ mặt bước tới, vỗ tay tán thưởng. Anh ta có làn da rám nắng, khoác áo choàng lông, một bên mắt được che bởi miếng bịt mắt.
 
-“Không ngờ có sức mạnh chiến đấu với rồng…”
-
-“Cô là khách… hay là bão tố mới của chúng tôi?”
+Người đàn ông nói: “Không ngờ có sức mạnh chiến đấu với rồng… Cô là khách… hay là bão tố mới của chúng tôi?”
 
 ---
 
-“Phong Ma Long… Không ngờ tấn công thẳng vào trong thành rồi!”
+Amber nói: “Phong Ma Long… Không ngờ tấn công thẳng vào trong thành rồi!”
 
 Amber vẫn chưa hết bàng hoàng.
 
 “Kaeya, Lumine, mọi người đến thật đúng lúc, chúng ta mau chóng…”
 
-“Đợi chút, Amber. Ở đây còn có người chưa kịp làm quen này?”
+Kaeya hỏi: “Đợi chút, Amber. Ở đây còn có người chưa kịp làm quen này?”
 
-“A… Được rồi. Đây là Kaeya, là Đội Trưởng Kỵ Binh của chúng tôi.”
-
-“Hai vị này là lữ khách đến từ nơi xa, Lumine và Paimon.”
+Amber đáp: “A… Được rồi. Đây là Kaeya, là Đội Trưởng Kỵ Binh của chúng tôi. Hai vị này là lữ khách đến từ nơi xa, Lumine và Paimon.”
 
 *(Chỉ biết là “nơi xa” thôi sao…)* Kaeya thầm nghĩ.
 
-“Sự tình là như vậy…”
+Amber nói: “Sự tình là như vậy…”
 
 Nghe Amber kể lại, Kaeya gật đầu.
 
-“Hóa ra là vậy, chào mừng đến với Mondstadt. Thật đáng tiếc, gặp ngay lúc tồi tệ này…”
+Kaeya nói: “Hóa ra là vậy, chào mừng đến với Mondstadt. Thật đáng tiếc, gặp ngay lúc tồi tệ này… Tôi rất hiểu tâm trạng đau khổ khi cốt nhục phân ly, Nhà Lữ Hành. Ngoài ra, mặc dù không biết cô tìm Phong Thần làm gì… Nhưng mỗi người đều có bí mật của mình, phải không? Ha ha, tôi sẽ không gặng hỏi đâu. Nhìn chung, trước tiên tôi cần thay mặt Đội Kỵ Sĩ cảm ơn cô.”
 
-“Tôi rất hiểu tâm trạng đau khổ khi cốt nhục phân ly, Nhà Lữ Hành.”
+Lumine hỏi: “Đừng khách sáo, vậy quà cảm ơn đâu?”
 
-“Ngoài ra, mặc dù không biết cô tìm Phong Thần làm gì…”
+Kaeya đáp: “Ừm… Đặc sản Thịt Nướng Mật Ong của Mondstadt được không?”
 
-“Nhưng mỗi người đều có bí mật của mình, phải không?”
-
-“Ha ha, tôi sẽ không gặng hỏi đâu.”
-
-“Nhìn chung, trước tiên tôi cần thay mặt Đội Kỵ Sĩ cảm ơn cô.”
-
-“Đừng khách sáo, vậy quà cảm ơn đâu?”
-
-“Ừm… Đặc sản Thịt Nướng Mật Ong của Mondstadt được không?”
-
-“Câu này lúc nãy tôi đã nghe rồi.”
+Lumine đáp: “Câu này lúc nãy tôi đã nghe rồi.”
 
 Kaeya bật cười, rồi nói tiếp:
 
-“Cuộc chiến trên không lúc nãy của cô với Ma Long đều đã được người dân chứng kiến.”
-
-“Đội Trưởng Đại Diện cũng rất có hứng thú với hai vị, hy vọng hai vị có thể đến tổng bộ Đội Kỵ Sĩ nói chuyện.”
+“Cuộc chiến trên không lúc nãy của cô với Ma Long đều đã được người dân chứng kiến. Đội Trưởng Đại Diện cũng rất có hứng thú với hai vị, hy vọng hai vị có thể đến tổng bộ Đội Kỵ Sĩ nói chuyện.”
 
 #CH|Chương 9|Đội Kỵ Sĩ Tây Phong|jean_splash.png|Đội Kỵ Sĩ Tây Phong
 
@@ -604,75 +522,57 @@ Kaeya bật cười, rồi nói tiếp:
 
 Lumine và Paimon băng qua những con phố còn ngổn ngang sau cơn bão, đi lên nơi cao của thành phố, nơi tòa nhà tổng bộ Đội Kỵ Sĩ Tây Phong tọa lạc.
 
-“Tiến vào trong chính là Đội Kỵ Sĩ rồi, mau vào thôi.”
+Paimon nói: “Tiến vào trong chính là Đội Kỵ Sĩ rồi, mau vào thôi.”
 
 ---
 
 Bên trong một căn phòng của tổng bộ, hai người phụ nữ đang chờ sẵn và trao đổi với nhau.
 
-“Jean, cô quá nôn nóng rồi. Chẳng phải nói là sẽ gặp họ ở đây sao?”
+Một người hỏi: “Jean, cô quá nôn nóng rồi. Chẳng phải nói là sẽ gặp họ ở đây sao?”
 
-“Phong Ma Long dường như cũng xuất hiện ở ngoài thành, sau khi gặp cô ấy tôi muốn nhanh chóng.”
+Jean đáp: “Phong Ma Long dường như cũng xuất hiện ở ngoài thành, sau khi gặp cô ấy tôi muốn nhanh chóng.”
 
-“Đừng nóng vội, chút nữa tôi cũng sẽ giúp.”
+Người phụ nữ kia nói: “Đừng nóng vội, chút nữa tôi cũng sẽ giúp.”
 
 Cánh cửa mở ra. Kaeya dẫn Lumine và Paimon bước vào.
 
-“Đội trưởng đại nhân, tôi mang người đến rồi!”
+Kaeya nói: “Đội trưởng đại nhân, tôi mang người đến rồi!”
 
 ---
 
-“…Sự việc diễn ra như vậy.”
+Kaeya nói: “…Sự việc diễn ra như vậy.”
 
 Kaeya kết thúc phần tường thuật. Người phụ nữ tóc vàng buộc cao, trong bộ trang phục kỵ sĩ chỉnh tề, bước lên.
 
-“Mondstadt chào mừng bạn, Nhà Lữ Hành đến từ những cơn gió.”
-
-“Tôi là Đội Trưởng Đại Diện, Jean. Vị này là Lisa, người quản lý thư viện Đội Kỵ Sĩ.”
+Jean nói: “Mondstadt chào mừng bạn, Nhà Lữ Hành đến từ những cơn gió. Tôi là Đội Trưởng Đại Diện, Jean. Vị này là Lisa, người quản lý thư viện Đội Kỵ Sĩ.”
 
 Người phụ nữ đội mũ rộng vành bên cạnh khẽ mỉm cười.
 
-“A, là vì nhân lực không đủ, nên đây là những bạn trẻ tốt bụng đến giúp đỡ phải không?”
-
-“Thật dễ thương.”
-
-“Chỉ là, không đúng lúc lắm…”
-
-“Từ khi Phong Ma Long thức tỉnh, thường hoạt động xung quanh thành, gây ra hỗn loạn.”
-
-“Hiện nay dòng chảy Nguyên Tố, địa mạch tuần hoàn của Mondstadt, đều trở nên lộn xộn giống như cuộn len bị mèo cào.”
-
-“Tình hình tồi tệ nhất đối với ma pháp sư là… làn da và tâm trạng đều trở nên thật tệ…”
+Lisa hỏi: “A, là vì nhân lực không đủ, nên đây là những bạn trẻ tốt bụng đến giúp đỡ phải không? Thật dễ thương. Chỉ là, không đúng lúc lắm… Từ khi Phong Ma Long thức tỉnh, thường hoạt động xung quanh thành, gây ra hỗn loạn. Hiện nay dòng chảy Nguyên Tố, địa mạch tuần hoàn của Mondstadt, đều trở nên lộn xộn giống như cuộn len bị mèo cào. Tình hình tồi tệ nhất đối với ma pháp sư là… làn da và tâm trạng đều trở nên thật tệ…”
 
 Jean tiếp lời:
 
-“Nếu không bị những thứ này làm phiền, Đội Kỵ Sĩ sẽ có cách tốt hơn là dán cáo thị tìm người để giúp các bạn rồi.”
+“Nếu không bị những thứ này làm phiền, Đội Kỵ Sĩ sẽ có cách tốt hơn là dán cáo thị tìm người để giúp các bạn rồi. Tạm thời mời các bạn ở lại Mondstadt, Đội Kỵ Sĩ Tây Phong sẽ cố gắng giải quyết vấn đề.”
 
-“Tạm thời mời các bạn ở lại Mondstadt, Đội Kỵ Sĩ Tây Phong sẽ cố gắng giải quyết vấn đề.”
+Lumine nói: “Cũng chỉ có Đội Kỵ Sĩ lo được.”
 
-“Cũng chỉ có Đội Kỵ Sĩ lo được.”
-
-“Paimon cũng sẽ giúp!”
+Paimon nói: “Paimon cũng sẽ giúp!”
 
 “Vậy thì, cùng xác định kế hoạch tác chiến trước.” Kaeya nói.
 
 ---
 
-“Phong Ma Long tấn công Mondstadt, nhưng lại giúp chúng ta nhìn thấy được cơ hội để kết thúc nguồn gốc tai họa.”
+Jean nói: “Phong Ma Long tấn công Mondstadt, nhưng lại giúp chúng ta nhìn thấy được cơ hội để kết thúc nguồn gốc tai họa. Dưới sự do thám bằng ma pháp của Lisa, cơn bão phủ kín Mondstadt đã để lộ nguồn gốc.”
 
-“Dưới sự do thám bằng ma pháp của Lisa, cơn bão phủ kín Mondstadt đã để lộ nguồn gốc.”
+Kaeya nói: “Ồ? Vậy thì câu trả lời là…”
 
-“Ồ? Vậy thì câu trả lời là…”
-
-“Đền Tứ Phong Thủ Hộ bị bỏ hoang.”
+Lisa nói: “Đền Tứ Phong Thủ Hộ bị bỏ hoang.”
 
 Lisa giải thích:
 
 “Phong Ma Long có thể gây ra cơn bão ở mức độ này, chính là nhờ đã lợi dụng sức mạnh còn sót lại ở đó.”
 
-“Mà mục tiêu của chúng ta, là 3 trong 4 khu đền bị bỏ hoang này.”
-
-“Lý do chỉ chọn 3 ngôi đền… chắc mọi người cũng đều hiểu.”
+Jean nói: “Mà mục tiêu của chúng ta, là 3 trong 4 khu đền bị bỏ hoang này. Lý do chỉ chọn 3 ngôi đền… chắc mọi người cũng đều hiểu.”
 
 “Tôi không hiểu.” Paimon thật thà.
 
@@ -680,11 +580,7 @@ Lisa giải thích:
 
 Jean đứng thẳng người, giọng dứt khoát.
 
-“Các vị Kỵ Sĩ Tây Phong, việc không thể chậm trễ.”
-
-“Bão đang tiến vào, phòng thủ bị động cũng không có ý nghĩa.”
-
-“Trước khi hiểm họa rồng lan rộng, chúng ta phải đi trước một bước, hướng đến di tích của đền bỏ hoang nào.”
+“Các vị Kỵ Sĩ Tây Phong, việc không thể chậm trễ. Bão đang tiến vào, phòng thủ bị động cũng không có ý nghĩa. Trước khi hiểm họa rồng lan rộng, chúng ta phải đi trước một bước, hướng đến di tích của đền bỏ hoang nào.”
 
 Cuộc họp kết thúc. Kaeya, Lisa và Amber mỗi người sẽ phụ trách một ngôi đền, và Lumine cùng Paimon sẽ lần lượt đi cùng họ.
 
