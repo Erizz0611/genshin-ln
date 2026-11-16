@@ -1,4 +1,4 @@
-#CH|Phần 1|Người Giữ Cành - Dainsleif|dainsleif_npc.png|Người Giữ Cành - Dainsleif
+#CH|Phần 1|Người Giữ Cành - Dainsleif|dainsleif_banner.png|Người Giữ Cành - Dainsleif
 
 >Katheryne của Hiệp Hội Nhà Mạo Hiểm tại Mondstadt hình như có chuyện muốn nói với bạn...
 

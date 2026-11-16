@@ -129,7 +129,7 @@ ACTS = [
        hero='keqing_card.png', cast=[LUMINE, PAIMON, KEQING_C3, NINGGUANG_C3, GANYU_C3, ZHONGLI_C3, CHILDE_C3, SIGNORA_C3, XIAO_C3, ADEPTI_C3, PING_C3, OSIAL, MENGDAN],
        pdf='', footer='Chương 1 Màn 3 — Ngôi Sao Đang Đến', side=False),
   dict(id='c1-man4-gt', arc='Chương 1 · Liyue', src='c1_man4_gt.txt', act='Chương 1 Màn 4 - Giới Thiệu', title='Dainsleif', sub='Nhiệm vụ mở đầu bắt buộc của Chương 1 Màn 4 — Người Giữ Cành',
-       hero='dainsleif_npc.png', cast=[LUMINE, PAIMON, DAIN_GT, KATHERYNE, LAWRENCE, CHARLES],
+       hero='dainsleif_banner.png', cast=[LUMINE, PAIMON, DAIN_GT, KATHERYNE, LAWRENCE, CHARLES],
        pdf='', footer='Chương 1 Màn 4 - Giới Thiệu — Dainsleif', side=True),
   dict(id='c1-man4', arc='Chương 1 · Liyue', src='c1_man4.txt', act='Chương 1 Màn 4', title='Chúng Ta Ắt Sẽ Trùng Phùng', sub='Nhiệm vụ Ma Thần — Mondstadt và Liyue',
        hero='ganyu_card.png', cast=[LUMINE, PAIMON, DAIN4, GANYU4, LAN, HERALD, BARBARA4, ROSARIA, JEAN4, RAZOR, BOREAS, AETHER4],

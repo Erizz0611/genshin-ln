@@ -120,7 +120,7 @@ Lumine nghĩ thầm: (Hình như hắn... Biết tôi.)
 
 Hai người rời khỏi di tích, trở lại mặt đất.
 
-#CH|Phần 2|Sứ Đồ Của Kẻ Bất Tín|herald.png|Sứ Đồ Của Kẻ Bất Tín
+#CH|Phần 2|Sứ Đồ Của Kẻ Bất Tín|herald_banner.png|Sứ Đồ Của Kẻ Bất Tín
 
 >Sau khi thoát khỏi di tích kỳ dị đó, bạn vô tình gặp Dainsleif. Các bạn tiếp tục truy tìm dấu vết "Sứ Đồ Vực Sâu" trong khu di tích cùng với anh ấy...
 
