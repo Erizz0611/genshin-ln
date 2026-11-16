@@ -129,17 +129,18 @@ for ai, a in enumerate(acts):
 toc = []
 nav = []
 for arc, ais in arcs:
-    nav.append(f'<div class="an-arc">{esc(arc)}</div>')
+    nav.append(f'<div class="an-g"><button type="button" class="an-arc" aria-expanded="false">{esc(arc)}<span class="chev" aria-hidden="true"><svg viewBox="0 0 24 24" width="14" height="14"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span></button><div class="an-items">')
     for ai in ais:
         a = acts[ai]
         nav.append(f'<a href="#{a["id"]}" data-nav="{a["id"]}"><span class="an-n">{esc(a["act"].split("· ")[-1])}</span><span class="an-t">{esc(a["title"])}</span></a>')
+    nav.append('</div></div>')
 for arc, ais in arcs:
     toc.append(f'<h3 class="arc">{esc(arc)}</h3>')
     for ai in ais:
         a = acts[ai]
         tag = '<span class="tag side">Nhiệm vụ bắt buộc</span>' if a['side'] else '<span class="tag">Ma Thần</span>'
-        toc.append(f'''<details class="act" id="{a["id"]}" open><summary><img src="{banner(a["chapters"][0]["img"] if a["side"] else a["hero"])}" alt="" loading="lazy">
-<div><div class="kick">{esc(a["act"])} {tag}</div><div class="atitle">{esc(a["title"])}</div><div class="asub">{esc(a["sub"])} · {len(a["chapters"])} chương</div></div></summary>
+        toc.append(f'''<details class="act" id="{a["id"]}"><summary><img src="{banner(a["chapters"][0]["img"] if a["side"] else a["hero"])}" alt="" loading="lazy">
+<div><div class="kick">{esc(a["act"])} {tag}</div><div class="atitle">{esc(a["title"])}</div><div class="asub">{esc(a["sub"])} · {len(a["chapters"])} chương</div></div><span class="chev" aria-hidden="true"><svg viewBox="0 0 24 24" width="18" height="18"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span></summary>
 <div class="act-links"><a href="{a["id"]}/index.html">Giới thiệu & nhân vật</a></div>
 {chapter_list(ai, "")}</details>''')
 first = ch_url(*order[0])

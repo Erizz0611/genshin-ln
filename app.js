@@ -140,4 +140,12 @@
     navs.forEach(function (a) { var el = document.getElementById(a.dataset.nav); if (el) io.observe(el); });
     navs.forEach(function (a) { a.addEventListener('click', function () { setTimeout(function () { navs.forEach(function (b) { b.classList.toggle('on', b === a); }); }, 700); }); });
   }
+  // ----- mục lục: các màn mặc định đóng; bấm thanh màn hoặc link #id thì mở màn đó -----
+  function openAct(h) { var d = h && document.getElementById(h); if (d && d.tagName === 'DETAILS') d.open = true; }
+  document.querySelectorAll('.an-arc').forEach(function (b) {
+    b.addEventListener('click', function () { var g = b.parentNode, o = g.classList.toggle('open'); b.setAttribute('aria-expanded', o); });
+  });
+  navs.forEach(function (a) { a.addEventListener('click', function () { openAct(a.dataset.nav); }); });
+  openAct(location.hash.slice(1));
+  window.addEventListener('hashchange', function () { openAct(location.hash.slice(1)); });
 })();
