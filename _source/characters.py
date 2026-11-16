@@ -197,7 +197,7 @@ dict(name='Zhongli', title='Khách của Vãng Sinh Đường', img='zhongli_car
   who='Vị thần cai trị Inazuma, được người dân gọi là “Shogun”. Người ban hành lệnh Truy Lùng Vision và theo đuổi sự “vĩnh hằng”.',
   origin='Theo lời Ayaka, Shogun rất ít khi lộ diện, uy nghiêm và lạnh nhạt, giống một “người thi hành” hơn là một “người thống trị”.',
   role='Đích thân đến “Nghi Thức Săn Vision” để thu Vision thứ 100 của Thoma. Khi Lumine xông vào, cô gọi Lumine là “ngoại lệ”, kẻ thù của sự vĩnh hằng, kéo Lumine vào trận chiến và đánh gục cô. Sau khi Thoma cứu Lumine chạy thoát, cô ra lệnh đưa Lumine vào lệnh truy lùng Vision.'),
- dict(name='Teppei', title='Thành viên quân kháng chiến', img='',
+ dict(name='Teppei', title='Thành viên quân kháng chiến', img='teppei_npc.png',
   info=[('Vai trò','Lính quân kháng chiến'),('Thuộc về','Quân kháng chiến Sangonomiya'),('Xuất hiện','Chương II Màn II')],
   who='Người lính quân kháng chiến, trước đây thuộc quân hậu cần, vừa được điều lên tiền tuyến và mong lập công.',
   origin='Không có Vision, gia nhập quân kháng chiến vì có ý chí chiến đấu, ngưỡng mộ đại nhân Sangonomiya và đại nhân Gorou.',

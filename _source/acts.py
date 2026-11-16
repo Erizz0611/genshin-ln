@@ -155,7 +155,7 @@ YOSHITAKA = dict(name='Yoshitaka', role='Lính Hiệp Hội Tenryou', desc='Thu�
 AYAKA2 = dict(name='Kamisato Ayaka', role='“Shirasagi Himegimi” · Đại tiểu thư Hiệp Hội Yashiro', img='ayaka_icon.png', desc='Báo tin Thoma bị Hiệp Hội Tenryou bắt đi làm “Vision thứ 100”.')
 THOMA2 = dict(name='Thoma', role='Người hầu của nhà Kamisato · Hiệp Hội Yashiro', img='thoma_icon.png', desc='Bị bắt trong Nghi Thức Săn Vision. Cứu Lumine khỏi tay Raiden Shogun rồi chỉ cô đến Tatarasuna.')
 RAIDEN = dict(name='Raiden Shogun', role='Vị thần cai trị Inazuma', img='raiden_icon.png', desc='Gọi Lumine là “ngoại lệ”, kẻ thù của sự vĩnh hằng, và đánh gục cô trong Nghi Thức Săn Vision.')
-TEPPEI = dict(name='Teppei', role='Lính quân kháng chiến', desc='Được Lumine cứu ở tiền tuyến, tiến cử cô với Gorou và dẫn cô đi khắp doanh trại.')
+TEPPEI = dict(name='Teppei', role='Lính quân kháng chiến', img='teppei_icon.png', desc='Được Lumine cứu ở tiền tuyến, tiến cử cô với Gorou và dẫn cô đi khắp doanh trại.')
 GOROU = dict(name='Gorou', role='Đại tướng quân kháng chiến', img='gorou_icon.png', desc='Thống lĩnh quân kháng chiến ở Tatarasuna. Nhận Lumine vào quân và không chịu giao cô cho Kujou Sara.')
 SARA2 = dict(name='Kujou Sara', role='Đại tướng Quân Shogunate · Hiệp Hội Tenryou', img='sara_icon.png', desc='Dẫn viện binh đến tiền tuyến, đòi Gorou giao nộp Lumine và đề nghị “lâm trận quyết đấu”.')
 KOKOMI = dict(name='Sangonomiya Kokomi', role='Thánh Pháp Sư của Đảo Watatsumi', img='kokomi_icon.png', desc='Người tổ chức quân kháng chiến. Đến Bờ Nazuchi cùng đội thuyền Nam Thập Tự, đẩy lui Quân Shogunate.')
