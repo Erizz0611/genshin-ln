@@ -24,7 +24,7 @@ SIGNORA = dict(name='Signora', role='Quan Chấp Hành thứ 8 của Fatui', des
 MAGE2 = dict(name='Pháp Sư Vực Sâu', role='Giáo Đoàn Vực Sâu', desc='Kẻ dùng lời nguyền ăn mòn tâm trí Dvalin, phá hỏng cuộc gặp ở Vực Hái Sao và nhắc đến một kẻ mà hắn gọi là “Điện hạ”.')
 DVALIN2 = dict(name='Dvalin', role='Phong Ma Long · Rồng Đông Phong', img='dvalin_icon.png', desc='Nước mắt của nó kết tinh thành những viên đá đỏ. Theo Venti, nó bị máu độc của ác long và lời nguyền Vực Sâu hành hạ, chứ không tự sinh ra thù hận.')
 
-# --- Màn 3 ---
+# --- Màn III ---
 VENTI3 = dict(name='Venti', role='Nhà thơ lang thang · Phong Thần Barbatos', img='venti_icon.png', desc='Nhà thơ lang thang, cũng chính là Phong Thần Barbatos. Tự nhận mình là “người yếu nhất trong bảy vị thần”, dẫn sức mạnh Nguyên Tố Phong cho Lumine trong trận chiến cứu Dvalin.')
 DILUC3 = dict(name='Diluc', role='Chủ Tửu Trang Dawn', img='diluc_icon.png', desc='Dùng mạng lưới tình báo tìm ra dấu vết Pháp Sư Vực Sâu gần Tửu Trang, rồi cùng nhóm Lumine tiến vào Phế Tích Phong Long.')
 JEAN3 = dict(name='Jean', role='Đội Trưởng Đại Diện · Đội Kỵ Sĩ Tây Phong', img='jean_icon.png', desc='Sẵn sàng làm “kỵ sĩ xung phong lên trước”, cùng Lumine vào Phế Tích Phong Long và đứng ra giải thích hiểu lầm về Dvalin cho người dân.')
@@ -35,7 +35,7 @@ KAEYA3 = dict(name='Kaeya', role='Đội Trưởng Kỵ Binh · Đội Kỵ Sĩ 
 BARBARA = dict(name='Barbara', role='Mục sư tế lễ · Giáo hội Tây Phong', img='barbara_icon.png', desc='Chuyên viên phụ trách thu hồi Đàn Thiên Không của giáo hội. Đã chữa trị cho Lumine và Venti khi hai người bất tỉnh bên ngoài Giáo Đường.')
 SIGNORA3 = dict(name='Signora', role='Quan Chấp Hành thứ 8 của Fatui', img='signora_icon.png', desc='Phục kích Venti bên ngoài Đại Giáo Đường và cướp đi Gnosis của Phong Thần.')
 
-# --- Chương 1 Màn 1 (Liyue) ---
+# --- Chương I · Màn I (Liyue) ---
 CHILDE = dict(name='Childe', role='Quan Chấp Hành Fatui', img='childe_icon.png', desc='Chàng trai trẻ đã kéo Lumine thoát khỏi vòng vây Thiên Nham Quân. Tự nhận là Quan Chấp Hành Fatui, đưa cho cô tín vật để đi tìm tiên nhân ở Tuyệt Vân Gián.')
 NINGGUANG = dict(name='Ningguang', role='“Thiên Quyền” của Thất Tinh Liyue', img='ningguang_icon.png', desc='Người chủ trì Điển Lễ Thỉnh Tiên. Khi tiên thể của Đế Quân rơi xuống, cô ra lệnh bao vây toàn bộ Ngọc Kinh Đài.')
 REX = dict(name='Nham Vương Đế Quân', role='Nham Thần Morax', desc='Vị thần lâu đời nhất trong bảy vị thần, thần của khế ước. Tiên thể của ngài rơi xuống đài tế giữa Điển Lễ Thỉnh Tiên, không còn hơi thở.')
@@ -48,7 +48,7 @@ MOUNTAIN = dict(name='Lí Thủy Điệp Sơn Chân Quân', role='Tiên nhân �
 CLOUD = dict(name='Lưu Vân Tá Phong Chân Quân', role='Tiên nhân ở Âu Tàng Sơn', desc='Vị tiên nhân giỏi “cơ quan thuật”, suýt đi “trấn áp” Cảng Liyue khi nghe tin Đế Quân bị ám sát.')
 LIDING = dict(name='Li Ding và Li Dang', role='Hai anh em lên Hổ Lao Sơn', desc='Lên núi tìm bảo vật trong Hổ Phách, một người bị Hổ Phách nhốt lại và được Lumine cứu ra.')
 
-# --- Chương 1 Màn 4 (Giới Thiệu + Màn 4) ---
+# --- Chương I · Màn IV (Giới Thiệu + Màn IV) ---
 KATHERYNE = dict(name='Katheryne', role='Hiệp Hội Nhà Mạo Hiểm Mondstadt', desc='Người tiếp tân của hiệp hội, kể cho Lumine về vị khách lạ mặt tóc vàng đeo bịt mắt vừa đến Mondstadt.')
 DAIN_GT = dict(name='Dainsleif', role='Nhà mạo hiểm tự do', img='dainsleif_icon.png', desc='Người lạ mặt tóc vàng đeo bịt mắt. Nhận lời đồng hành với giá 500 Mora và ba câu hỏi, chỉ nhận ủy thác liên quan đến Giáo Đoàn Vực Sâu.')
 CHARLES = dict(name='Charles', role='Người pha chế quán Quà Tặng Của Thiên Sứ', desc='Cho Lumine biết vị khách lạ “rất sành về rượu” và hẹn tối nay sẽ đến lấy rượu.')
@@ -65,7 +65,7 @@ JEAN4 = dict(name='Jean', role='Đội Trưởng Đại Diện · Đội Kỵ S�
 BARBARA4 = dict(name='Barbara', role='Mục sư tế lễ · Giáo hội Tây Phong', img='barbara_icon.png', desc='Kể chuyện “Thất Thiên Thần Tượng mất tích” và “oán hận của bạo quân”.')
 
 
-# --- Chương 1 Màn 2 (Liyue) ---
+# --- Chương I · Màn II (Liyue) ---
 ZHONGLI = dict(name='Zhongli', role='Khách của Vãng Sinh Đường', img='zhongli_icon.png', desc='Người “trong nghề” được Childe giới thiệu. Am hiểu mọi phong tục của Liyue nhưng luôn quên mang tiền, mời Lumine cùng chuẩn bị Điển Lễ Tiễn Tiên cho Nham Vương Đế Quân.')
 CHILDE2 = dict(name='Childe', role='Quan Chấp Hành Fatui', img='childe_icon.png', desc='Giữ lời hứa tìm “người có thể phá vỡ cục diện”, chi tiền cho Điển Lễ Tiễn Tiên, nhưng âm thầm cho người nghe ngóng chuyện Hoàng Kim Ốc.')
 EKATERINA = dict(name='Ekaterina', role='Nhân viên Ngân hàng Bắc Quốc', desc='Người của Fatui ở quầy Ngân hàng Bắc Quốc, chỉ đường cho Lumine đến Lưu Ly Đình và nghe lén giúp Childe.')
@@ -75,7 +75,7 @@ PING = dict(name='Bình Lão Lão', role='Người giữ Chuông Tẩy Trần', 
 QIQI = dict(name='Qiqi', role='Nhân viên Nhà Thuốc Bubu', img='qiqi_icon.png', desc='Cô bé cương thi chỉ hành động theo “mệnh lệnh” tự đặt cho mình, nhờ nhóm Lumine đi bắt “Dê Dừa” để đổi lấy Hương Bất Tử.')
 BAIZHU = dict(name='Baizhu', role='Chủ Nhà Thuốc Bubu', img='baizhu_icon.png', desc='Ông chủ nhà thuốc cùng con rắn biết nói Changsheng. Bán Hương Bất Tử giá 299 vạn Mora sau khi bắt tay với Childe.')
 GANYU = dict(name='Ganyu', role='Thư ký Nguyệt Hải Đình', img='ganyu_icon.png', desc='Thư ký của toàn thể Thất Tinh, sứ giả đặc biệt của Ningguang. Tìm đến quán Ba Cốc Say Mèm để trao thư mời Lumine đến Quần Ngọc Các.')
-# --- Chương 1 Màn 3 (Liyue) ---
+# --- Chương I · Màn III (Liyue) ---
 KEQING_C3 = dict(name='Keqing', role='“Ngọc Hành Tinh” của Thất Tinh Liyue', img='keqing_icon.png', desc='Gặp Lumine bên máy Guizhong ở Thiên Hoành Sơn. Thẳng thắn, “bất kính với thần tiên”, tin rằng thời đại của tiên nhân đã qua.')
 NINGGUANG_C3 = dict(name='Ningguang', role='“Thiên Quyền” của Thất Tinh Liyue', img='ningguang_icon.png', desc='Mời Lumine lên Quần Ngọc Các, chỉ cho cô dấu vết nghiên cứu Bách Vô Cấm Kỵ Lục của Fatui. Từ bỏ Quần Ngọc Các để trấn áp Ma Thần.')
 GANYU_C3 = dict(name='Ganyu', role='Thư ký Nguyệt Hải Đình', img='ganyu_icon.png', desc='Sứ giả của Thiên Quyền Tinh, con lai giữa loài người và Kỳ Lân. Tặng Bách Hợp Lưu Ly cho Điển Lễ Tiễn Tiên.')
@@ -87,14 +87,14 @@ ADEPTI_C3 = dict(name='Ba vị Chân Quân', role='Tiên nhân Tuyệt Vân Giá
 PING_C3 = dict(name='Bình Lão Lão', role='Tiên nhân', desc='Lên tiếng bênh vực Ningguang và khuyên các tiên nhân hãy nhìn vào con người Liyue.')
 OSIAL = dict(name='Osial', role='Ma Thần Lốc Xoáy', desc='Ma Thần thất bại dưới tay Morax trong chiến tranh ma thần, bị trấn áp dưới Cô Vân Các, bị Childe đánh thức.')
 MENGDAN = dict(name='Meng Dan', role='Người cung cấp hàng cho Minh Tinh Trai', desc='Bị Đạo Bảo Đoàn nhốt trong di tích, được Lumine cứu và tặng hộp đựng quà.')
-# --- Màn 4.1 (Razor) ---
+# --- Màn IV.1 (Razor) ---
 RAZOR41 = dict(name='Razor', role='Thiếu niên được bầy sói nuôi lớn', img='razor_icon.png', desc='Sống cùng “Lupical” — bầy sói ở Lang Lãnh. Bị dân làng nghi là kẻ đứng sau vụ sói tập kích Thanh Tuyền Trấn.')
 AMBER41 = dict(name='Amber', role='Kỵ Sĩ Trinh Thám · Đội Kỵ Sĩ Tây Phong', img='amber_icon.png', desc='Điều tra vụ đàn sói tập kích đội xe và Thanh Tuyền Trấn. Razor không nhớ tên cô, chỉ gọi là “cô gái màu đỏ”.')
 BOREAS41 = dict(name='Vua Sói Bắc Phong', role='Lãnh chúa của Lang Lãnh · Boreas', img='boreas_icon.png', desc='“Ngài ấy” mà Razor nhắc đến. Người đặt ra cái tên “Lupical”.')
 VILLAGERS41 = dict(name='Hopkins Thần Kỳ và Jotun', role='Dân Thanh Tuyền Trấn', desc='Muốn tự tay trả thù đàn sói sau vụ tập kích, gọi Razor là “người được sói nuôi lớn”.')
 DRAFF = dict(name='Draff và Siegfria', role='Thợ săn ở Thanh Tuyền Trấn · Người đánh xe', desc='Draff lo cho những người trẻ dễ tức giận; Siegfria kể lại vụ đàn sói tập kích thị trấn.')
 
-# --- Màn 4.2 (Amber) ---
+# --- Màn IV.2 (Amber) ---
 AMBER42 = dict(name='Amber', role='Kỵ Sĩ Trinh Thám · Quán Quân Bay Lượn', img='amber_icon.png', desc='Làm giám khảo kỳ thi bằng bay lượn của Lumine. Cầm nhầm quyển truyện ngụ ngôn về con chim nhỏ học bay thay cho sách hướng dẫn.')
 OTTO = dict(name='Otto', role='Kỵ sĩ Đội Kỵ Sĩ Tây Phong', desc='Chặn Lumine lại để kiểm tra bằng bay lượn, kể về tên trộm “Quái Điểu” vừa đem văn vật của giáo đường trốn mất.')
 RAPTOR = dict(name='Quái Điểu', role='Tội phạm của Thành Mondstadt', desc='Thường dùng Phong Chi Dực để gây án. Đội Kỵ Sĩ chưa đuổi kịp hắn lần nào.')
@@ -107,37 +107,37 @@ FOOT = 'Truyện chuyển thể phi thương mại từ cốt truyện Genshin I
 
 # Mỗi màn: id (dùng làm tên thư mục web), arc (phần truyện), file nguồn, nhãn, tên, phụ đề, ảnh bìa, nhân vật, tên PDF, chân trang PDF, side=True nếu là nhiệm vụ bắt buộc (Màn X.1)
 ACTS = [
-  dict(id='man1', arc='Mở Đầu', src='man1.txt', act='Mở Đầu · Màn 1', title='Người Phương Xa Đuổi Theo Gió', sub='Nhiệm vụ Ma Thần — Mondstadt',
+  dict(id='man1', arc='Mở Đầu', src='man1.txt', act='Mở Đầu · Màn I', title='Người Phương Xa Đuổi Theo Gió', sub='Nhiệm vụ Ma Thần — Mondstadt',
        hero='traveler_portrait.png', cast=[LUMINE, PAIMON, AETHER, GOD, AMBER, KAEYA, JEAN, LISA, DRAGON, BOY, VOICE],
-       pdf='GenshinLN_MoDau_Man1_NguoiPhuongXaDuoiTheoGio.pdf', footer='Mở Đầu · Màn 1 — Người Phương Xa Đuổi Theo Gió', side=False),
-  dict(id='man1-1', arc='Mở Đầu', src='man1_1.txt', act='Mở Đầu · Màn 1.1', title='Ba Ngôi Đền Của Tứ Phong', sub='Nhiệm vụ bắt buộc để hoàn thành Màn 1 — Amber, Kaeya, Lisa',
+       pdf='GenshinLN_MoDau_Man1_NguoiPhuongXaDuoiTheoGio.pdf', footer='Mở Đầu · Màn I — Người Phương Xa Đuổi Theo Gió', side=False),
+  dict(id='man1-1', arc='Mở Đầu', src='man1_1.txt', act='Mở Đầu · Màn I.1', title='Ba Ngôi Đền Của Tứ Phong', sub='Nhiệm vụ bắt buộc để hoàn thành Màn I — Amber, Kaeya, Lisa',
        hero='lisa_splash.png', cast=[LUMINE, PAIMON, AMBER, KAEYA, LISA, JEAN, REDHAIR, MAGE, DVALIN],
-       pdf='GenshinLN_MoDau_Man1.1_BaNgoiDenTuPhong.pdf', footer='Mở Đầu · Màn 1.1 — Ba Ngôi Đền Của Tứ Phong', side=True),
-  dict(id='man2', arc='Mở Đầu', src='man2.txt', act='Mở Đầu · Màn 2', title='Vì Một Ngày Mai Không Rơi Lệ', sub='Nhiệm vụ Ma Thần — Mondstadt',
+       pdf='GenshinLN_MoDau_Man1.1_BaNgoiDenTuPhong.pdf', footer='Mở Đầu · Màn I.1 — Ba Ngôi Đền Của Tứ Phong', side=True),
+  dict(id='man2', arc='Mở Đầu', src='man2.txt', act='Mở Đầu · Màn II', title='Vì Một Ngày Mai Không Rơi Lệ', sub='Nhiệm vụ Ma Thần — Mondstadt',
        hero='venti_splash.png', cast=[LUMINE, PAIMON, VENTI, JEAN, DILUC, LISA, DVALIN2, MAGE2, ANASTASIA, GOTELINDE, SIGNORA],
-       pdf='', footer='Mở Đầu · Màn 2 — Vì Một Ngày Mai Không Rơi Lệ', side=False),
-  dict(id='man3', arc='Mở Đầu', src='man3.txt', act='Mở Đầu · Màn 3', title='Bài Ca Về Rồng Và Tự Do', sub='Nhiệm vụ Ma Thần — Mondstadt',
+       pdf='', footer='Mở Đầu · Màn II — Vì Một Ngày Mai Không Rơi Lệ', side=False),
+  dict(id='man3', arc='Mở Đầu', src='man3.txt', act='Mở Đầu · Màn III', title='Bài Ca Về Rồng Và Tự Do', sub='Nhiệm vụ Ma Thần — Mondstadt',
        hero='dvalin_wide.png', cast=[LUMINE, PAIMON, VENTI3, JEAN3, DILUC3, DVALIN3, MAGE3, AMBER3, KAEYA3, BARBARA, SIGNORA3],
-       pdf='', footer='Mở Đầu · Màn 3 — Bài Ca Về Rồng Và Tự Do', side=False),
-  dict(id='c1-man1', arc='Chương 1 · Liyue', src='c1_man1.txt', act='Chương 1 Màn 1', title='Phù Thế Phù Sinh Thiên Nham Gian', sub='Nhiệm vụ Ma Thần — Liyue',
+       pdf='', footer='Mở Đầu · Màn III — Bài Ca Về Rồng Và Tự Do', side=False),
+  dict(id='c1-man1', arc='Chương I · Liyue', src='c1_man1.txt', act='Chương I · Màn I', title='Phù Thế Phù Sinh Thiên Nham Gian', sub='Nhiệm vụ Ma Thần — Liyue',
        hero='childe_card.png', cast=[LUMINE, PAIMON, CHILDE, NINGGUANG, REX, MOONCARVER, XIAO, GOLDET, YANXIAO, MING, MOUNTAIN, CLOUD, LIDING],
-       pdf='', footer='Chương 1 Màn 1 — Phù Thế Phù Sinh Thiên Nham Gian', side=False),
-  dict(id='c1-man2', arc='Chương 1 · Liyue', src='c1_man2.txt', act='Chương 1 Màn 2', title='Lời Tạm Biệt Thể Xác Vĩnh Hằng', sub='Nhiệm vụ Ma Thần — Liyue',
+       pdf='', footer='Chương I · Màn I — Phù Thế Phù Sinh Thiên Nham Gian', side=False),
+  dict(id='c1-man2', arc='Chương I · Liyue', src='c1_man2.txt', act='Chương I · Màn II', title='Lời Tạm Biệt Thể Xác Vĩnh Hằng', sub='Nhiệm vụ Ma Thần — Liyue',
        hero='zhongli_card.png', cast=[LUMINE, PAIMON, ZHONGLI, CHILDE2, PING, QIQI, BAIZHU, GANYU, EKATERINA, SHITOU, YINGER],
-       pdf='', footer='Chương 1 Màn 2 — Lời Tạm Biệt Thể Xác Vĩnh Hằng', side=False),
-  dict(id='c1-man3', arc='Chương 1 · Liyue', src='c1_man3.txt', act='Chương 1 Màn 3', title='Ngôi Sao Đang Đến', sub='Nhiệm vụ Ma Thần — Liyue',
+       pdf='', footer='Chương I · Màn II — Lời Tạm Biệt Thể Xác Vĩnh Hằng', side=False),
+  dict(id='c1-man3', arc='Chương I · Liyue', src='c1_man3.txt', act='Chương I · Màn III', title='Ngôi Sao Đang Đến', sub='Nhiệm vụ Ma Thần — Liyue',
        hero='keqing_card.png', cast=[LUMINE, PAIMON, KEQING_C3, NINGGUANG_C3, GANYU_C3, ZHONGLI_C3, CHILDE_C3, SIGNORA_C3, XIAO_C3, ADEPTI_C3, PING_C3, OSIAL, MENGDAN],
-       pdf='', footer='Chương 1 Màn 3 — Ngôi Sao Đang Đến', side=False),
-  dict(id='c1-man4-gt', arc='Chương 1 · Liyue', src='c1_man4_gt.txt', act='Chương 1 Màn 4 - Giới Thiệu', title='Dainsleif', sub='Nhiệm vụ mở đầu bắt buộc của Chương 1 Màn 4 — Người Giữ Cành',
+       pdf='', footer='Chương I · Màn III — Ngôi Sao Đang Đến', side=False),
+  dict(id='c1-man4-gt', arc='Chương I · Liyue', src='c1_man4_gt.txt', act='Chương I · Màn IV · Giới Thiệu', title='Dainsleif', sub='Nhiệm vụ mở đầu bắt buộc của Chương I · Màn IV — Người Giữ Cành',
        hero='dainsleif_banner.png', cast=[LUMINE, PAIMON, DAIN_GT, KATHERYNE, LAWRENCE, CHARLES],
-       pdf='', footer='Chương 1 Màn 4 - Giới Thiệu — Dainsleif', side=True),
-  dict(id='c1-man4', arc='Chương 1 · Liyue', src='c1_man4.txt', act='Chương 1 Màn 4', title='Chúng Ta Ắt Sẽ Trùng Phùng', sub='Nhiệm vụ Ma Thần — Mondstadt và Liyue',
+       pdf='', footer='Chương I · Màn IV · Giới Thiệu — Dainsleif', side=True),
+  dict(id='c1-man4', arc='Chương I · Liyue', src='c1_man4.txt', act='Chương I · Màn IV', title='Chúng Ta Ắt Sẽ Trùng Phùng', sub='Nhiệm vụ Ma Thần — Mondstadt và Liyue',
        hero='ganyu_card.png', cast=[LUMINE, PAIMON, DAIN4, GANYU4, LAN, HERALD, BARBARA4, ROSARIA, JEAN4, RAZOR, BOREAS, AETHER4],
-       pdf='', footer='Chương 1 Màn 4 — Chúng Ta Ắt Sẽ Trùng Phùng', side=False),
-  dict(id='c1-man4-1', arc='Chương 1 · Liyue', src='c1_man4_1.txt', act='Chương 1 Màn 4.1', title='Ý Nghĩa Của Lupical', sub='Nhiệm vụ nhân vật bắt buộc để mở Chương 1 Màn 4 — Chương Tiểu Lang - Màn 1 (Razor)',
+       pdf='', footer='Chương I · Màn IV — Chúng Ta Ắt Sẽ Trùng Phùng', side=False),
+  dict(id='c1-man4-1', arc='Chương I · Liyue', src='c1_man4_1.txt', act='Chương I · Màn IV.1', title='Ý Nghĩa Của Lupical', sub='Nhiệm vụ nhân vật bắt buộc để mở Chương I · Màn IV — Chương Tiểu Lang - Màn I (Razor)',
        hero='razor_card.png', cast=[LUMINE, PAIMON, RAZOR41, AMBER41, BOREAS41, VILLAGERS41, DRAFF],
-       pdf='', footer='Chương 1 Màn 4.1 — Ý Nghĩa Của Lupical', side=True),
-  dict(id='c1-man4-2', arc='Chương 1 · Liyue', src='c1_man4_2.txt', act='Chương 1 Màn 4.2', title='Gió, Đôi Cánh Và Dũng Khí', sub='Nhiệm vụ nhân vật bắt buộc để mở Chương 1 Màn 4 — Chương Tiểu Thố - Màn 1 (Amber)',
+       pdf='', footer='Chương I · Màn IV.1 — Ý Nghĩa Của Lupical', side=True),
+  dict(id='c1-man4-2', arc='Chương I · Liyue', src='c1_man4_2.txt', act='Chương I · Màn IV.2', title='Gió, Đôi Cánh Và Dũng Khí', sub='Nhiệm vụ nhân vật bắt buộc để mở Chương I · Màn IV — Chương Tiểu Thố - Màn I (Amber)',
        hero='amber_splash.png', cast=[LUMINE, PAIMON, AMBER42, OTTO, RAPTOR, FARRAH],
-       pdf='', footer='Chương 1 Màn 4.2 — Gió, Đôi Cánh Và Dũng Khí', side=True),
+       pdf='', footer='Chương I · Màn IV.2 — Gió, Đôi Cánh Và Dũng Khí', side=True),
 ]

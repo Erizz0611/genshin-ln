@@ -494,4 +494,4 @@ Hai người quay về Mondstadt. Tại tổng bộ Đội Kỵ Sĩ, Jean đón 
 
 “Ừm, lần nữa cảm ơn sự giúp đỡ của bạn, Lumine.”
 
->(Hết Màn 1.1 — Hết Mở Đầu Màn 1: Người Phương Xa Đuổi Theo Gió)
+>(Hết Màn I.1 — Hết Mở Đầu Màn I: Người Phương Xa Đuổi Theo Gió)

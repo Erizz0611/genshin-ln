@@ -132,7 +132,7 @@ for arc, ais in arcs:
     nav.append(f'<div class="an-g"><button type="button" class="an-arc" aria-expanded="false">{esc(arc)}<span class="chev" aria-hidden="true"><svg viewBox="0 0 24 24" width="14" height="14"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span></button><div class="an-items">')
     for ai in ais:
         a = acts[ai]
-        nav.append(f'<a href="#{a["id"]}" data-nav="{a["id"]}"><span class="an-n">{esc(a["act"].split("· ")[-1])}</span><span class="an-t">{esc(a["title"])}</span></a>')
+        nav.append(f'<a href="#{a["id"]}" data-nav="{a["id"]}"><span class="an-n">{esc(a["act"].split(" · ", 1)[-1])}</span><span class="an-t">{esc(a["title"])}</span></a>')
     nav.append('</div></div>')
 for arc, ais in arcs:
     toc.append(f'<h3 class="arc">{esc(arc)}</h3>')
@@ -172,7 +172,9 @@ for ai, a in enumerate(acts):
         k = order.index((ai, ci))
         prev = ch_url(*order[k - 1], r) if k > 0 else None
         nxt = ch_url(*order[k + 1], r) if k + 1 < len(order) else None
-        opts = ''.join(f'<option value="{ch_url(x, y, r)}"{" selected" if (x, y) == (ai, ci) else ""}>{esc(acts[x]["act"].split("· ")[-1])} · {esc(acts[x]["chapters"][y]["label"])}: {esc(acts[x]["chapters"][y]["title"])}</option>' for x, y in order)
+        opts = ''
+        for arc, ais in arcs:
+            opts += f'<optgroup label="{esc(arc)}">' + ''.join(f'<option value="{ch_url(x, y, r)}"{" selected" if (x, y) == (ai, ci) else ""}>{esc(acts[x]["act"].split(" · ", 1)[-1])} · {esc(acts[x]["chapters"][y]["label"])}: {esc(acts[x]["chapters"][y]["title"])}</option>' for x in ais for y in range(len(acts[x]["chapters"]))) + '</optgroup>'
         nav = (f'<nav class="chnav">' + (f'<a class="btn" href="{prev}" rel="prev">‹ Trước</a>' if prev else '<span class="btn off">‹ Trước</span>')
                + f'<select aria-label="Chọn chương" data-jump>{opts}</select>'
                + (f'<a class="btn" href="{nxt}" rel="next">Sau ›</a>' if nxt else '<span class="btn off">Sau ›</span>') + '</nav>')
