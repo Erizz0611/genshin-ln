@@ -101,6 +101,18 @@ RAPTOR = dict(name='Quái Điểu', role='Tội phạm của Thành Mondstadt', 
 FARRAH = dict(name='Farrah', role='Thương nhân trái cây', desc='Đội xe bị Hilichurl tập kích sau khi một “quái nhân” từ trên trời rơi trúng doanh trại của chúng.')
 
 
+# --- Chương II · Mở Đầu (Inazuma) ---
+ATSUKO = dict(name='Atsuko', role='Người Inazuma sống ở cảng Liyue', desc='Người đã trốn khỏi Inazuma bằng chiếc bè nhỏ và được người Liyue cứu. Kể cho Lumine nghe về lệnh đóng cửa và chỉ cô đến tìm đội thuyền Nam Thập Tự.')
+BEIDOU = dict(name='Beidou', role='Thủ lĩnh đội thuyền Nam Thập Tự', img='beidou_icon.png', desc='Chị đại hào sảng của chiếc thuyền “Ngôi Sao Chết Chóc”. Mời Lumine dự “Hội Đấu Võ Nam Thập Tự” và hứa tấm vé đến Inazuma cho người thắng.')
+KAZUHA = dict(name='Kaedehara Kazuha', role='Ronin Samurai đến từ Inazuma', img='kazuha_icon.png', desc='Samurai phiêu bạt, nghe được “hơi thở” của gió và lá. Cung cấp chiếc Vision vô chủ làm giải thưởng và nhận ra Lumine dùng được nguyên tố mà không có Vision.')
+ZHUHAN = dict(name='Zhuhan', role='Thuyền viên phụ trách báo danh', desc='Người ghi danh các tuyển thủ của Hội Đấu Võ và dẫn Lumine vào đấu trường qua từng vòng.')
+CHUYUN = dict(name='Chú Yun', role='Tuyển thủ Hội Đấu Võ', desc='Á quân “Giải Đấu Võ Tự Do Ngật Hổ Nham”, kể về lần tay không bắt hai tên Đạo Bảo Đoàn.')
+LINHSON = dict(name='Chai Yi và Liang', role='Truyền nhân “Phái Linh Sơn”', desc='Hai người trẻ luyện “Hóa Kình” và mong có Vision để làm sư phụ hài lòng.')
+JINYOU = dict(name='Jinyou', role='Tuyển thủ tự nhận là “người hoàn hảo”', desc='Đối thủ đầu tiên của Lumine ở vòng dự tuyển.')
+RONGSHI = dict(name='Rongshi', role='Đối thủ vòng bán kết', desc='Võ sĩ không muốn Vision, chỉ muốn tỷ võ để trưởng thành.')
+FEI = dict(name='Fei', role='Đạo Bảo Đoàn, đối thủ chung kết', desc='Kẻ đã trộm chiếc Vision vô chủ nên không xuất hiện ở trận chung kết.')
+
+
 SERIES = 'Genshin Impact · Light Novel'
 FOOT = 'Truyện chuyển thể phi thương mại từ cốt truyện Genshin Impact (HoYoverse). Lời thoại theo bản tiếng Việt chính thức của game.'
 
@@ -140,4 +152,7 @@ ACTS = [
   dict(id='c1-man4-2', arc='Chương I · Liyue', src='c1_man4_2.txt', act='Chương I · Màn IV.2', title='Gió, Đôi Cánh Và Dũng Khí', sub='Nhiệm vụ nhân vật bắt buộc để mở Chương I · Màn IV — Chương Tiểu Thố - Màn I (Amber)',
        hero='amber_splash.png', cast=[LUMINE, PAIMON, AMBER42, OTTO, RAPTOR, FARRAH],
        pdf='', footer='Chương I · Màn IV.2 — Gió, Đôi Cánh Và Dũng Khí', side=True),
+  dict(id='c2-modau', arc='Chương II · Inazuma', src='c2_modau.txt', act='Chương II · Mở Đầu', title='Gió Thu Vén Áo Hỏi Lá Đỏ', sub='Nhiệm vụ Ma Thần — Liyue',
+       hero='kazuha_card.png', cast=[LUMINE, PAIMON, BEIDOU, KAZUHA, ATSUKO, ZHUHAN, CHUYUN, LINHSON, JINYOU, RONGSHI, FEI],
+       pdf='', footer='Chương II · Mở Đầu — Gió Thu Vén Áo Hỏi Lá Đỏ', side=False),
 ]
