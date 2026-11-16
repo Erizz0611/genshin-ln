@@ -116,6 +116,22 @@ FEI = dict(name='Fei', role='Đạo Bảo Đoàn, đối thủ chung kết', des
 SERIES = 'Genshin Impact · Light Novel'
 FOOT = 'Truyện chuyển thể phi thương mại từ cốt truyện Genshin Impact (HoYoverse). Lời thoại theo bản tiếng Việt chính thức của game.'
 
+# --- Chương II · Màn I (Inazuma) ---
+BEIDOU_C2 = dict(name='Beidou', role='Thủ lĩnh đội thuyền Nam Thập Tự', img='beidou_icon.png', desc='Giữ lời hứa, đưa Lumine vượt qua giông bão đến Đảo Ritou trên thuyền “Ngôi Sao Chết Chóc”, rồi giao cô cho Thoma.')
+THOMA = dict(name='Thoma', role='Người hầu của nhà Kamisato · Hiệp Hội Yashiro', img='thoma_icon.png', desc='Người đón Lumine ở Đảo Ritou, được Beidou giới thiệu là “thổ địa” và đối tác làm ăn. Bày ra những “khảo nghiệm” để xem cô có đủ sức “thay đổi thời cuộc” hay không.')
+AYAKA = dict(name='Kamisato Ayaka', role='“Shirasagi Himegimi” · Đại tiểu thư Hiệp Hội Yashiro', img='ayaka_icon.png', desc='Người chống lại lệnh Truy Lùng Vision. Hứa tiến cử Lumine với Raiden Shogun nếu cô giúp ba người mất Vision.')
+YOIMIYA = dict(name='Yoimiya', role='Chủ Tiệm Pháo Hoa Naganohara', img='yoimiya_icon.png', desc='“Nữ Hoàng Lễ Hội Hè” của Hanamizaka. Dùng Vision giả che mắt samurai và cùng Lumine lẻn vào Sở Trị An cứu sư phụ Masakatsu.')
+SARA = dict(name='Kujou Sara', role='Đại tướng Quân Shogunate · Hiệp Hội Tenryou', img='sara_icon.png', desc='Con nuôi nhà Kujou, người thi hành lệnh Truy Lùng Vision. Trách phạt thuộc hạ dụng tư hình và tha cho nhóm Lumine đưa Masakatsu đi “chỉ lần này”.')
+YAE = dict(name='Yae Miko', role='Đại pháp sư Đền Narukami', img='yae_icon.png', desc='“Yae đại nhân” có quan hệ thân thiết với Shogun. Chỉ ra căn bệnh của Domon và nói với Lumine rằng cô đến đúng thời cơ.')
+CHISATO = dict(name='Hiiragi Chisato', role='Đại tiểu thư nhà Hiiragi · Hiệp Hội Kanjou', desc='Nhờ Lumine đưa thư cho người thương Kujou Kamaji, đổi lại giúp cô trốn khỏi Đảo Ritou bằng đoàn hàng đi Đảo Watatsumi.')
+SHINSUKE = dict(name='Hiiragi Shinsuke', role='Gia chủ nhà Hiiragi · Hiệp Hội Kanjou', desc='Tiếp đón Lumine niềm nở nhưng giao những việc vô lý để giữ chân cô lại Đảo Ritou.')
+WERNER = dict(name='Werner', role='Thương nhân người Mondstadt kẹt ở Đảo Ritou', desc='Kẻ bán “Tủy Pha Lê” giá cao cho Keijirou. Nhớ quê, cuối cùng khai ra mưu đồ và dẫn Lumine đi tìm bằng chứng.')
+KURISU = dict(name='Kurisu', role='Hội trưởng Thương Hội Vạn Quốc', desc='Thương nhân người Fontaine, bạn thân của Thoma, đang khốn đốn vì thuế “Tủy Pha Lê”.')
+TEJIMA = dict(name='Tejima', role='Người canh giữ Làng Konda', desc='Bảo vệ làng suốt 30 năm để chờ một người. Mất Vision và quên đi lý do mình ở lại.')
+KUROSAWA = dict(name='Kurosawa Kyounosuke', role='Samurai Quân Shogunate', desc='Tự bỏ tiền mua “lương thực cứu tế” cho dân, sau khi mất Vision thì quên hết và bị dân làng trách móc.')
+DOMON = dict(name='Domon', role='Chưởng môn phái Meikyou Shisui', desc='Kiếm đạo gia muốn thành thiên hạ đệ nhất, phát điên sau khi mất Vision. Được sư huynh Anzai và các đệ tử giúp tỉnh lại.')
+MASAKATSU = dict(name='Masakatsu', role='Nghệ nhân làm Vision giả', desc='Người làm Vision giả giúp Hiệp Hội Yashiro, bị Hiệp Hội Tenryou bắt giam ở Sở Trị An.')
+
 
 # Mỗi màn: id (dùng làm tên thư mục web), arc (phần truyện), file nguồn, nhãn, tên, phụ đề, ảnh bìa, nhân vật, tên PDF, chân trang PDF, side=True nếu là nhiệm vụ bắt buộc (Màn X.1)
 ACTS = [
@@ -155,4 +171,7 @@ ACTS = [
   dict(id='c2-modau', arc='Chương II · Inazuma', src='c2_modau.txt', act='Chương II · Mở Đầu', title='Gió Thu Vén Áo Hỏi Lá Đỏ', sub='Nhiệm vụ Ma Thần — Liyue',
        hero='kazuha_card.png', cast=[LUMINE, PAIMON, BEIDOU, KAZUHA, ATSUKO, ZHUHAN, CHUYUN, LINHSON, JINYOU, RONGSHI, FEI],
        pdf='', footer='Chương II · Mở Đầu — Gió Thu Vén Áo Hỏi Lá Đỏ', side=False),
+  dict(id='c2-man1', arc='Chương II · Inazuma', src='c2_man1.txt', act='Chương II · Màn I', title='Lôi Thần Uy Nghiêm, Địa Đàng Vĩnh Hằng', sub='Nhiệm vụ Ma Thần — Inazuma',
+       hero='ayaka_splash.png', cast=[LUMINE, PAIMON, THOMA, AYAKA, YOIMIYA, SARA, YAE, BEIDOU_C2, CHISATO, SHINSUKE, WERNER, KURISU, TEJIMA, KUROSAWA, DOMON, MASAKATSU],
+       pdf='', footer='Chương II · Màn I — Lôi Thần Uy Nghiêm, Địa Đàng Vĩnh Hằng', side=False),
 ]
