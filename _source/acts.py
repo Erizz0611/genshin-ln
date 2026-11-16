@@ -48,6 +48,22 @@ MOUNTAIN = dict(name='Lí Thủy Điệp Sơn Chân Quân', role='Tiên nhân �
 CLOUD = dict(name='Lưu Vân Tá Phong Chân Quân', role='Tiên nhân ở Âu Tàng Sơn', desc='Vị tiên nhân giỏi “cơ quan thuật”, suýt đi “trấn áp” Cảng Liyue khi nghe tin Đế Quân bị ám sát.')
 LIDING = dict(name='Li Ding và Li Dang', role='Hai anh em lên Hổ Lao Sơn', desc='Lên núi tìm bảo vật trong Hổ Phách, một người bị Hổ Phách nhốt lại và được Lumine cứu ra.')
 
+# --- Chương 1 Màn 4 (Giới Thiệu + Màn 4) ---
+KATHERYNE = dict(name='Katheryne', role='Hiệp Hội Nhà Mạo Hiểm Mondstadt', desc='Người tiếp tân của hiệp hội, kể cho Lumine về vị khách lạ mặt tóc vàng đeo bịt mắt vừa đến Mondstadt.')
+DAIN_GT = dict(name='Dainsleif', role='Nhà mạo hiểm tự do', desc='Người lạ mặt tóc vàng đeo bịt mắt. Nhận lời đồng hành với giá 500 Mora và ba câu hỏi, chỉ nhận ủy thác liên quan đến Giáo Đoàn Vực Sâu.')
+CHARLES = dict(name='Charles', role='Người pha chế quán Quà Tặng Của Thiên Sứ', desc='Cho Lumine biết vị khách lạ “rất sành về rượu” và hẹn tối nay sẽ đến lấy rượu.')
+LAWRENCE = dict(name='Lawrence và Wagner', role='Kỵ sĩ gác cổng · Thợ rèn', desc='Hai người dân Mondstadt chỉ đường cho Lumine lần theo dấu vết người lạ mặt.')
+DAIN4 = dict(name='Dainsleif', role='“Kiếm Sĩ Hoàng Hôn” của Khaenri\'ah', desc='Cùng Lumine truy tìm Sứ Đồ Vực Sâu và phá kế hoạch “lay chuyển thần tọa”. Theo lời Aether, anh là hộ vệ cung đình Khaenri\'ah đời cuối, mang lời nguyền bất tử.')
+GANYU4 = dict(name='Ganyu', role='Thư ký của Thất Tinh Liyue', img='ganyu_icon.png', desc='Treo ủy thác ở hiệp hội vì lo lắng Đạo Bảo Đoàn động vào di tích của Giáo Đoàn Vực Sâu.')
+LAN = dict(name='Lan', role='Hiệp Hội Nhà Mạo Hiểm Liyue', desc='Cùng Ganyu kể cho Lumine về “Nam Trưởng Tỷ”, “Bắc Quái Điểu” và “Trùm Đạo Bảo”.')
+HERALD = dict(name='Sứ Đồ Vực Sâu', role='Giáo Đoàn Vực Sâu', desc='Thống lĩnh của Pháp Sư Vực Sâu, kẻ đứng sau kế hoạch “Máy dệt vận mệnh”. Gọi Aether là “Hoàng tử điện hạ”.')
+ROSARIA = dict(name='Rosaria', role='Nữ tu Giáo Hội Tây Phong', img='rosaria_icon.png', desc='Báo tin Giáo Đoàn Vực Sâu tập họp ở Lang Lãnh.')
+RAZOR = dict(name='Razor', role='Thiếu niên của bầy sói', img='razor_icon.png', desc='Bảo vệ linh hồn Vua Sói Bắc Phong trước nghi thức của Sứ Đồ Vực Sâu.')
+BOREAS = dict(name='Vua Sói Bắc Phong', role='Linh hồn Ma Thần Andrius · Boreas', desc='Chủ nhân Lang Lãnh. Kể về cỗ máy từng xông vào bãi tập luyện của mình — manh mối về “máy cày đầu tiên của thế giới”.')
+AETHER4 = dict(name='Aether', role='Anh trai song sinh của Lumine · “Hoàng tử điện hạ”', img='aether_icon.png', desc='Xuất hiện bên cạnh Sứ Đồ Vực Sâu, gọi Dainsleif là kẻ thù và hẹn với Lumine: “Chúng ta ắt sẽ trùng phùng.”')
+JEAN4 = dict(name='Jean', role='Đội Trưởng Đại Diện · Đội Kỵ Sĩ Tây Phong', img='jean_icon.png', desc='Dẫn quân đối phó Giáo Đoàn Vực Sâu ở Lang Lãnh, nhờ Lumine đi xem Vua Sói có gặp nguy hiểm không.')
+BARBARA4 = dict(name='Barbara', role='Mục sư tế lễ · Giáo hội Tây Phong', img='barbara_icon.png', desc='Kể chuyện “Thất Thiên Thần Tượng mất tích” và “oán hận của bạo quân”.')
+
 
 # --- Chương 1 Màn 2 (Liyue) ---
 ZHONGLI = dict(name='Zhongli', role='Khách của Vãng Sinh Đường', img='zhongli_icon.png', desc='Người “trong nghề” được Childe giới thiệu. Am hiểu mọi phong tục của Liyue nhưng luôn quên mang tiền, mời Lumine cùng chuẩn bị Điển Lễ Tiễn Tiên cho Nham Vương Đế Quân.')
@@ -84,4 +100,10 @@ ACTS = [
   dict(id='c1-man2', arc='Chương 1 · Liyue', src='c1_man2.txt', act='Chương 1 Màn 2', title='Lời Tạm Biệt Thể Xác Vĩnh Hằng', sub='Nhiệm vụ Ma Thần — Liyue',
        hero='zhongli_card.png', cast=[LUMINE, PAIMON, ZHONGLI, CHILDE2, PING, QIQI, BAIZHU, GANYU, EKATERINA, SHITOU, YINGER],
        pdf='', footer='Chương 1 Màn 2 — Lời Tạm Biệt Thể Xác Vĩnh Hằng', side=False),
+  dict(id='c1-man4-gt', arc='Chương 1 · Liyue', src='c1_man4_gt.txt', act='Chương 1 Màn 4 - Giới Thiệu', title='Dainsleif', sub='Nhiệm vụ mở đầu bắt buộc của Chương 1 Màn 4 — Người Giữ Cành',
+       hero='lumine_wide.png', cast=[LUMINE, PAIMON, DAIN_GT, KATHERYNE, LAWRENCE, CHARLES],
+       pdf='', footer='Chương 1 Màn 4 - Giới Thiệu — Dainsleif', side=True),
+  dict(id='c1-man4', arc='Chương 1 · Liyue', src='c1_man4.txt', act='Chương 1 Màn 4', title='Chúng Ta Ắt Sẽ Trùng Phùng', sub='Nhiệm vụ Ma Thần — Mondstadt và Liyue',
+       hero='ganyu_card.png', cast=[LUMINE, PAIMON, DAIN4, GANYU4, LAN, HERALD, BARBARA4, ROSARIA, JEAN4, RAZOR, BOREAS, AETHER4],
+       pdf='', footer='Chương 1 Màn 4 — Chúng Ta Ắt Sẽ Trùng Phùng', side=False),
 ]

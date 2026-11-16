@@ -1,0 +1,811 @@
+#CH|Phần 1|Hiến Tế Không Tự Nguyện|ganyu_splash.png|Hiến Tế Không Tự Nguyện
+
+>Từ chỗ Ganyu và Lan biết được thông tin, Đạo Bảo Đoàn ở vùng Mondstadt Liyue gần đây đang liên kết lại, có ý đồ chiếm lấy di tích có liên quan tới "Giáo Đoàn Vực Sâu". Vì lo lắng Đạo Bảo Đoàn có thể gây ra hỗn loạn, bạn đã nhận ủy thác điều tra việc này...
+
+Lumine và Paimon trở lại Cảng Liyue. Khi đến gần bảng thông báo của Hiệp Hội Nhà Mạo Hiểm, họ nghe thấy Lan — người phụ trách hiệp hội ở Liyue — đang nói chuyện với một cô gái có cặp sừng nhỏ trên đầu.
+
+“Đúng đó, đúng đó. Tôi biết bọn chúng chuyện gì cũng dám làm,” Lan nói. “Ngay cả những cổ vật mang tính lịch sử như Thất Thần, Ma Thần, Ác Long... Bọn chúng cũng dám ra tay. Nhưng lần này, ai đã cho chúng can đảm để động vào đồ của Giáo Đoàn Vực Sâu chứ...”
+
+Lan quay ra, nhận ra hai người. “A, Nhà Lữ Hành, là các bạn à.”
+
+Paimon nhìn cô gái đứng cạnh Lan, ngạc nhiên: “Ơ? Sao Ganyu lại ở chỗ Lan? Muốn phát ủy thác gì sao?”
+
+Ganyu — thư ký của Thất Tinh Liyue ở Nguyệt Hải Đình — khẽ cúi chào. “Xin chào, Lumine. Lúc nãy chúng tôi đang nói chuyện về Đạo Bảo Đoàn.”
+
+Lan tiếp lời: “Ừm, lúc nãy chúng tôi nói đến chuyện kẻ dám động đến mọi thứ như Đạo Bảo Đoàn, vốn dĩ cũng đã biết tốt nhất không nên động đến ‘Vực Sâu’, bởi vì chúng quá tà ác.”
+
+“Tuy nhiên, gần đây tôi nhận được tình báo từ Tổng Vụ,” Ganyu nói, “hai nhóm Đạo Bảo Đoàn nam bắc từ Mondstadt đến Liyue đang chuẩn bị hợp lực để làm một cú lớn.”
+
+“Đạo Bảo Đoàn... hai nhóm Nam Bắc?” Paimon hỏi.
+
+“Ừm, giang hồ gọi là ‘Nam Trưởng Tỷ’, ‘Bắc Quái Điểu’,” Lan đáp.
+
+Paimon reo lên: “Á, ‘Quái Điểu’! Tôi có ấn tượng, hắn và Amber từng đấu với nhau ở Mondstadt... Nhưng ‘Nam Trưởng Tỷ’ là ai?”
+
+“Trưởng Tỷ có nghĩa là người chị lớn nhất sao?” Lumine hỏi.
+
+“Đúng vậy, theo tôi được biết thì bọn người đó gọi thủ lĩnh của Đạo Bảo Đoàn Liyue là ‘Chị Đại’,” Lan giải thích. “Cũng có người nói tay nghề của cô ta được thần đạo bảo ban tặng, nên gọi là ‘Thần Chi Trưởng Tỷ’... Nhưng có lẽ đó chỉ là lời đồn.”
+
+Ganyu nói tiếp: “Nói tóm lại, Đạo Bảo Đoàn đã tìm thấy một di tích chưa ai khai quật, di tích đó đang được Giáo Đoàn Vực Sâu canh giữ nghiêm ngặt. Mặc dù đây là một dấu hiệu rất nguy hiểm, nhưng với tư duy của Đạo Bảo Đoàn, chúng chỉ cảm thấy có báu vật... Bọn chúng lập kế hoạch, cử một nhóm đánh lạc hướng lực lượng của Giáo Đoàn Vực Sâu, sau đó cho một tinh anh ưu tú nhất đi sâu vào di tích, lấy kho báu và trốn thoát.”
+
+“Vì vậy, nghe nói ‘Chị Đại’ và ‘Quái Điểu’ đã mời một ‘Trùm Đạo Bảo’ từ Fontaine về...” Lan nói.
+
+“‘Trùm Đạo Bảo’? Danh hiệu nghe có vẻ rất ngầu,” Paimon nhận xét.
+
+“Đúng vậy, đó là một nhân vật trong truyền thuyết,” Lan đáp. “Địa vị của Trùm Đạo Bảo trong Đạo Bảo Đoàn cũng giống như ‘nhà mạo hiểm vĩ đại’ trong mắt những nhà mạo hiểm như chúng ta.”
+
+“Ví dụ như nhà mạo hiểm nổi tiếng Alice?” Lumine hỏi.
+
+“Các bạn cũng biết tác giả của quyển Hướng Dẫn Du Ngoạn Teyvat đúng không? Chính xác, địa vị của Trùm Đạo Bảo cũng cao quý như cô ấy vậy,” Lan gật đầu. “Vì vậy, ngay cả hai gã khổng lồ của Đạo Bảo Đoàn ở hai miền Nam Bắc cũng phải làm mọi cách mời ông ta đến để lên toàn bộ kế hoạch đánh cắp kho báu.”
+
+Ganyu nói, giọng lo lắng: “Gần đây Liyue gặp phải thay đổi lớn, tổng vụ và Thiên Nham Quân đều quá bận rộn, không có thời gian để đối phó với tin đồn Đạo Bảo Đoàn hành động. Nhưng với linh tính của tôi, những thứ liên quan đến Vực Sâu đều ẩn chứa sự uy hiếp nào đó... Cho nên tôi muốn đến Hiệp Hội Nhà Mạo Hiểm treo ủy thác.”
+
+“Vậy thì đúng lúc quá...” Lumine nói.
+
+Paimon hớn hở: “Ừm, vậy chúng tôi nhận ủy thác này nhé!”
+
+“Ôi, rất cảm ơn...” Ganyu nói.
+
+Lan vỗ tay: “Tuyệt vời, đúng là thành viên đáng tin cậy. Chúc bạn thuận buồm xuôi gió, chi tiết của ủy thác cứ để hiệp hội xử lý.”
+
+---
+
+Theo chỉ dẫn của ủy thác, Lumine tìm đến lối vào khu di tích mà Đạo Bảo Đoàn đã phát hiện. Bên trong là những hành lang đá u tối, hoang vắng. Cô lần theo dấu vết Đạo Bảo Đoàn để lại, đi mỗi lúc một sâu hơn vào lòng di tích.
+
+Đến tận cùng, hai người bước vào một căn phòng rộng. Giữa phòng có một bóng người đang quỳ, bất động.
+
+“Đây... Hình như là người!” Paimon thốt lên. “Lẽ nào là... Trùm Đạo Bảo? Tư thế này... Hắn đang cầu nguyện với thứ gì đó sao?”
+
+Paimon ngước theo hướng người kia đang quỳ, rồi chết lặng. “?!”
+
+“Đó... đó là...” Paimon run run.
+
+Phía trên căn phòng, một bức tượng khổng lồ bị treo lộn ngược.
+
+“Là... Thất Thiên Thần Tượng?” Lumine nói.
+
+“Tại, tại sao Thất Thiên Thần Tượng... Lại bị treo ngược như vậy...” Paimon lắp bắp. “Hơn nữa, trong tay tượng thần... Tôi nhớ... phải có cầm một viên đá quý chứ? Bây giờ... Thứ trong tay tượng thần... Là cái gì...?”
+
+Paimon co người lại. “Căng thẳng quá... cảm giác cực kỳ bất an... Tên Trùm Đạo Bảo kia cũng không động đậy, lẽ, lẽ nào đã...”
+
+Cô bé lấy hết can đảm gọi lớn: “Này, ngươi không sao chứ?”
+
+Lumine tiến lại quan sát ‘Trùm Đạo Bảo’: không chút phản ứng, cũng không nghe thấy tiếng thở.
+
+“Hắn... hắn chết rồi,” Paimon nói khẽ. “Lumine, tôi... cảm thấy rất không ổn.”
+
+“Một cảnh tượng rất tàn ác...” Lumine nói.
+
+“Chúng ta mau rời khỏi đây rồi kể cho Ganyu và Lan nghe tình hình...” Paimon nói.
+
+Đúng lúc đó, căn phòng rung chuyển. Paimon hét lên: “Á! Lại xảy ra chuyện gì vậy?!”
+
+---
+
+Lumine vội vã tìm đường thoát khỏi di tích. Khi đã đến gần lối ra, một giọng nói vang lên chặn đường.
+
+“Không được tò mò về bí mật của ‘Vực Sâu’,” giọng nói đó cất lên. “Kẻ nào đến đây dòm ngó, thì phải gánh chịu sự trừng phạt thích đáng.”
+
+Một bóng người hiện ra trước mặt hai người. “Sự trừng phạt, do ‘Sứ Đồ’ đặt ra,” hắn nói.
+
+“Sứ Đồ... Vực Sâu?” Paimon kêu lên.
+
+“Dain đã từng nhắc đến...” Lumine nói.
+
+Sứ Đồ Vực Sâu khựng lại. “Dain... Dainsleif? Thì ra là vậy, ban đầu ta chỉ nghĩ các người là con chuột đi nhầm, không ngờ lại liên quan đến tên rắc rối đó... Hắn sai các người đến nộp mạng? Từ lâu hắn đã không còn khả năng chống lại Vực Sâu, chắc chắn sẽ không vì con sóng tầm thường mà tạo nên biến số mới...”
+
+Hắn giơ kiếm lên: “Không gì ngăn cản được... Vực Sâu!”
+
+“Cẩn thận! Tuyệt đối không được lơ là!” Paimon hét.
+
+Sứ Đồ Vực Sâu tung ra những đòn tấn công mang sức mạnh Thủy kỳ dị. Paimon kinh hãi: “Đây là sức mạnh gì vậy... Tôi chưa thấy bao giờ...”
+
+Lumine dồn hết sức chiến đấu, cuối cùng cũng đánh lui được kẻ địch.
+
+Sứ Đồ Vực Sâu lùi lại, nhìn chằm chằm vào cô. “Sức mạnh này... có cảm giác quen thuộc... Hừ...!”
+
+“Ta hiểu rồi, thì ra ngươi chính là... Người kia!” hắn nói. “Vậy ta không nên ở lại đây lâu...”
+
+Rồi hắn biến mất.
+
+Paimon thở hổn hển: “Phù... đúng là cuộc chiến khó khăn. Bạn vẫn ổn chứ, Lumine? Kẻ địch quá mạnh, thì ra bên trong Giáo Đoàn Vực Sâu còn có ma vật lợi hại như vậy.”
+
+Lumine nghĩ thầm: (Hình như hắn... Biết tôi.)
+
+“Hả? Sao vậy, bạn đang nghĩ gì vậy?” Paimon hỏi.
+
+“Không có gì, chúng ta mau rời khỏi đây đi,” Lumine đáp.
+
+“À, đúng rồi, chúng ta đã đến gần lối ra rồi, mau ra ngoài thôi,” Paimon nói. “Nơi đáng sợ như vậy, ở thêm một giây thôi cũng có thể có nguy hiểm mới!”
+
+Hai người rời khỏi di tích, trở lại mặt đất.
+
+#CH|Phần 2|Sứ Đồ Của Kẻ Bất Tín|lumine_crop.png|Sứ Đồ Của Kẻ Bất Tín
+
+>Sau khi thoát khỏi di tích kỳ dị đó, bạn vô tình gặp Dainsleif. Các bạn tiếp tục truy tìm dấu vết "Sứ Đồ Vực Sâu" trong khu di tích cùng với anh ấy...
+
+Ngay bên ngoài di tích, một người đàn ông tóc vàng đeo bịt mắt đang đứng đợi.
+
+“Gặp lại... Sớm hơn tôi nghĩ một chút,” Dainsleif nói.
+
+“A, là Dain!” Paimon reo lên.
+
+Dainsleif nhìn Lumine. “Trông biểu cảm của bạn có vẻ như vừa trải qua chuyện gì đó rất kỳ lạ. Lẽ nào bạn đã đối mặt với Sứ Đồ Vực Sâu ở di tích này?”
+
+“Ơ, sao Dain lại biết?!” Paimon hỏi.
+
+“Tôi vẫn đang tiếp tục truy bắt Sứ Đồ Vực Sâu, không ngờ lại gặp hai bạn ở đây,” Dainsleif đáp.
+
+“Thật ra tôi không chỉ gặp Sứ Đồ...” Lumine nói, rồi kể cho anh nghe về bức tượng thần trong di tích.
+
+Dainsleif nghe xong, trầm ngâm: “Tượng Thần treo ngược... sức mạnh Vực Sâu trong tay? Không, tôi đang chiến đấu với Vực Sâu, cũng chưa từng gặp thứ gì như vậy. Nhưng... Tôi có suy đoán. Kể chuyện các bạn đã trải qua trước đi. Các bạn đã thoát khỏi tận cùng Di Tích chứa đầy năng lượng Vực Sâu, sau đó thì sao?”
+
+Paimon kể: “Rồi khi chúng tôi đến gần lối ra, thì Sứ Đồ Vực Sâu đột nhiên xuất hiện chặn đường. Chúng tôi đấu với nó một trận, nói không chừng nó vẫn chưa đi xa?”
+
+“Ừm, cơ hội hiếm có, hãy cùng tôi đuổi theo,” Dainsleif nói.
+
+“Được!” Lumine đáp.
+
+Paimon nắm tay lại: “Đi thôi! Cơ hội hiếm có, còn có Dain hỗ trợ, nói không chừng có thể giải đáp được nhiều bí ẩn hơn!”
+
+---
+
+Ba người lần theo dấu vết Giáo Đoàn Vực Sâu quanh khu di tích. Từ xa, họ thấy mấy Pháp Sư Vực Sâu đang lúi húi bên những xác Thủ Vệ Di Tích đổ nát.
+
+“Bọn Pháp Sư Vực Sâu... Đang chuẩn bị mai phục chúng ta sao?” Paimon thì thầm.
+
+“Không, bọn chúng chỉ đang lục tìm thứ gì đó trong đống xác của Thủ Vệ Di Tích thôi,” Dainsleif đáp.
+
+Paimon liếc Lumine: “Vậy sao... Hình như Nhà Lữ Hành cũng thường làm như vậy nhỉ... Cái gì mà ‘Cấu Trúc Hỗn Độn’, ‘Bộ Não Hỗn Độn’.”
+
+“Đúng vậy, đó đều là những nguyên liệu rất quan trọng!” Lumine nói.
+
+“Không phải những thứ tầm thường đó đâu,” Dainsleif nói. “Tôi đi điều tra xung quanh là vì thỉnh thoảng lại có Pháp Sư Vực Sâu từ trong di tích đi ra bên ngoài thăm dò. Dường như bọn chúng muốn tìm một thứ quý giá trong xác của Thủ Vệ Di Tích, mang về di tích. Nhưng trông dáng vẻ thất vọng của bọn chúng, ít nhất cho đến bây giờ chúng vẫn chưa tìm được...”
+
+“Vậy sao lúc nãy không bắt chúng lại hỏi cho rõ?” Paimon hỏi.
+
+“Hình như Lão gia Diluc từng làm như vậy...” Lumine nói thêm.
+
+“Tất nhiên là tôi sẽ không nhân từ với bọn này...” Dainsleif đáp. “Chỉ cảm thấy chuyện này có ý nghĩa rất lớn đối với Giáo Đoàn Vực Sâu. Sự thật của nó không phải chỉ hỏi là biết được. Nói cách khác, bọn Pháp Sư Vực Sâu này vốn dĩ phải đối mặt với nỗi sợ hãi lớn hơn cả bị tra hỏi...”
+
+“Sợ hãi...” Lumine lặp lại.
+
+Paimon ôm lấy hai vai: “Ơ... Ơ... Cảm giác dựng tóc gáy như thế này là sao!”
+
+“Được rồi, đừng mất thời gian ở đây quá lâu, chúng ta tiếp tục theo dõi thôi,” Dainsleif nói.
+
+---
+
+Họ tiếp tục lần theo dấu vết, đi qua những khu vực có cả Pháp Sư Vực Sâu lẫn Thủ Vệ Di Tích.
+
+“Phù... Ngoài Giáo Đoàn Vực Sâu, Thủ Vệ Di Tích cũng hoạt động rất sôi nổi ở khu vực này...” Paimon nói. “Tôi thấy nơi Pháp Sư Vực Sâu ẩn nấp, cũng thường hay có Thủ Vệ Di Tích qua lại, đây lẽ nào là trùng hợp?”
+
+“Trên đời này không có gì là trùng hợp, tất cả đều là mầm mống được gieo từ quá khứ,” Dainsleif đáp. “Giống như sự xuất hiện của bạn trong quán rượu đó... Thời gian chỉ chờ nó đâm chồi.”
+
+“Nhưng tôi chỉ tình cờ nghe nói bạn...” Lumine nói.
+
+“Không sao, chút cảm xúc không cần thiết thôi,” Dainsleif nói. “Mối liên hệ giữa Giáo Đoàn Vực Sâu và Thủ Vệ Di Tích đương nhiên không phải trùng hợp. Phải nói đó là những nhánh cây mọc từ cùng một bộ rễ.”
+
+“Bộ rễ? Nhánh cây? Ý của bạn là...” Paimon hỏi.
+
+“Bọn chúng đều có nguồn gốc từ một quốc gia cổ đại đã bị hủy diệt cách đây năm trăm năm - ‘Khaenri'ah’,” Dainsleif nói.
+
+“Hả? Khaenri'ah?!” Paimon kêu lên. “Thì ra là vậy... Giáo Đoàn Vực Sâu và Thủ Vệ Di Tích là tàn dư của Khaenri'ah sau khi bị hủy diệt sao?! Nói đến Khaenri'ah, đó thực sự là một cái tên rất cũ... Ừm đúng vậy. Là người hướng dẫn, để tôi giải thích cho Nhà Lữ Hành một chút. Khaenri'ah này là...”
+
+“Tôi biết cái tên Khaenri'ah này,” Lumine cắt lời.
+
+“Hả...?” Paimon sững lại.
+
+“Bởi vì tôi có ký ức với Khaenri'ah,” Lumine nói.
+
+“Bạn có ký ức? Nhưng đó là đất nước đã bị hủy diệt cách đây năm trăm năm...” Paimon nói.
+
+Dainsleif im lặng một lúc. “...”
+
+“Cũng đúng, ai cũng có bí mật, bạn không hỏi đến chuyện thời gian của tôi, tôi cũng sẽ không hỏi bạn...” anh nói. “Nhưng nếu bạn đồng ý nói với tôi, tôi sẽ lắng nghe. Vậy... Khaenri'ah mà bạn đã thấy trông như thế nào?”
+
+Lumine nghĩ thầm: (Đã đến lúc không thể tiếp tục che giấu nữa...)
+
+Cô kể cho hai người nghe những gì mình nhớ.
+
+Nghe xong, Paimon nói: “Thì ra mọi chuyện xảy ra theo trình tự như vậy... Tôi còn tưởng bạn đã gặp được vị thần lạ kia ngay từ đầu...”
+
+Dainsleif tóm lại: “Ừm... Sau khi giáng xuống thế giới này, lần thức tỉnh đầu tiên của bạn, là do anh trai đánh thức từ Sao Băng.”
+
+“Xem ra anh trai của bạn đã tỉnh trước bạn, chỉ là không biết sớm hơn bạn bao lâu?” Paimon nói.
+
+“Sau đó, anh trai nói với bạn chuyện Khaenri'ah diệt vong, dẫn đến chuyện trời đất thay đổi, muốn cùng bạn rời khỏi thế giới có tên Teyvat này,” Dainsleif nói tiếp.
+
+“‘Khaenri'ah diệt vong’? Anh ấy đã nói như vậy sao?” Paimon hỏi.
+
+“Đúng vậy,” Lumine đáp.
+
+“Các bạn đã trải qua thảm họa đó, đó là... năm trăm năm trước,” Dainsleif nói. “Có vẻ như lần thức tỉnh đầu tiên của bạn trên thế giới này cũng là vào thời gian đó.”
+
+Paimon nói: “Ừm... Nói như vậy, anh trai của bạn, vì tỉnh dậy trước bạn nên đã hiểu rõ thế giới này nhiều hơn bạn.”
+
+“Rồi sau đó, hai bạn đã gặp một vị thần lạ chặn đường, và không thể trốn thoát...” Dainsleif nói.
+
+“Ừm, chuyện này tôi nghe quen nhất,” Paimon gật đầu.
+
+“...Tôi hiểu rồi,” Dainsleif nói. “Lúc đó bạn vừa thức tỉnh, lại vội vàng muốn rời khỏi thế giới này mà không hề biết gì về cái tên Khaenri'ah. Nhưng sau khi đã biết một chút về Teyvat, chỉ đoán rằng cuộc chiến năm đó là ‘cuộc chiến hủy diệt Khaenri'ah’, đúng không?”
+
+Paimon nhớ lại: “À, có thể nói, trong mấy tháng qua chúng ta cùng nhau đi du lịch, dường như bạn đã xem rất nhiều sách cổ. Trước khi đến Mondstadt, chỉ xem qua một số tư liệu mơ hồ, sau đó ở Mondstadt, Liyue thu thập một ít sách cổ, bạn luôn nói ‘chẳng có ích gì’... Hóa ra bạn muốn biết thêm nhiều chuyện về Khaenri'ah là để tìm kiếm anh trai sao?”
+
+“Đó là manh mối chỉ sau ‘Thất Thần’,” Lumine đáp.
+
+“Ừm, cũng phải,” Paimon nói. “Muốn tìm Thất Thần, có thể đi khắp bảy nước. Nhưng Khaenri'ah, đã bị hủy diệt cách đây năm trăm năm thì không còn tìm được nữa.”
+
+“Những chuyện về Khaenri'ah, có lẽ tôi biết nhiều hơn bạn,” Dainsleif nói. “Khaenri'ah là một nước không có thần linh. Các vị thần không chết hay bỏ đi, mà vốn dĩ không hề tồn tại trong lịch sử của Khaenri'ah. Đây là một quốc gia hùng mạnh được xây dựng hoàn toàn bởi loài người, và loài người tự hào về sự thịnh vượng và nền văn minh huy hoàng chưa từng có của mình.”
+
+“Đất nước... Không tồn tại... Thần linh...” Paimon lẩm bẩm.
+
+“Và những gì xảy ra sau đó cũng giống như ký ức bạn có được, mọi thứ đã bị các vị thần phá hủy,” Dainsleif nói.
+
+“Ý của bạn là...” Paimon hỏi.
+
+“Năm trăm năm trước, các vị thần đã cùng đến và tiêu diệt Khaenri'ah,” Dainsleif đáp. “Xem cái gọi là ‘niềm tự hào của loài người’ như cỏ dại và xóa bỏ khỏi khu vườn của các vị thần...”
+
+“Sao lại như vậy... Lịch sử không hề nhắc đến điều này...” Paimon nói.
+
+“Thật quá đáng...” Lumine nói.
+
+“Ừm, tiếp tục ở đây bàn luận chuyện cũ sẽ làm mất đi ý chí của con người,” Dainsleif nói.
+
+Lumine nghĩ thầm: (Nhưng lần sau khi gặp Venti và Zhongli...)
+
+“Cứ đi tiếp trước đã,” Dainsleif nói. “Còn về những chuyện bạn muốn biết, trên đường đi tôi sẽ tiếp tục kể cho bạn nghe.”
+
+---
+
+Đi thêm một đoạn, Paimon chỉ tay: “Nhìn bên kia, lại là Thủ Vệ Di Tích và Pháp Sư Vực Sâu. Lúc nãy Dain nói, những cỗ máy cổ kia cũng có nguồn gốc từ Khaenri'ah... Lẽ nào, Khaenri'ah có rất nhiều di tích cần được bảo vệ?”
+
+“Không,” Dainsleif đáp. “Thủ Vệ Di Tích là cái tên được người hiện đại đặt theo ‘ấn tượng’ của thời hiện đại. Năm trăm năm trước không ai gọi chúng như vậy. Những cỗ máy bây giờ được gọi là Thủ Vệ Di Tích vào thời Khaenri'ah được gọi là ‘Máy Cày’.”
+
+“Máy Cày? Cái tên thật lạ,” Paimon nói.
+
+“Thì ra là dụng cụ làm ruộng sao?!” Lumine hỏi.
+
+“Không như các bạn nghĩ đâu,” Dainsleif nói. “‘Máy Cày’ thật ra chỉ là một cách gọi. Người Khaenri'ah khi đó thường có thói quen đặt tên cho vũ khí. ‘Đất không cày xới bằng nông cụ mà dùng máu và sắt để tranh cướp.’ - Dựa trên ý tưởng này, Máy Cày đã ra đời.”
+
+Paimon nhăn mặt: “Dùng máu và sắt để tranh cướp đất? Người Khaenri'ah hiểu về ‘đất canh tác’ như vậy... Tôi thấy không có gì tốt đẹp.”
+
+Dainsleif im lặng một lúc. “...”
+
+“Sau khi Khaenri'ah sụp đổ, những chiếc Máy Cày mất đi chủ nhân đó lần lượt mất kiểm soát,” anh nói. “Không ngừng lang thang trong một thời gian dài, dần dần bị phân tán ở mọi ngóc ngách của lục địa Teyvat. Có thể là do có sự đồng cảm với các nền văn minh cổ đại bị tiêu diệt khác, chúng thường cư trú trong các di tích khác nhau và không hoạt động.”
+
+“Nghe có vẻ... Rất đáng thương...” Paimon nói.
+
+“Năm trăm năm lang thang không mục đích...” Lumine nói.
+
+“Được rồi, nếu bạn đi sâu hơn, những chi tiết đó sẽ không có ý nghĩa gì đối với bạn,” Dainsleif nói. “Nhưng dù quá khứ thế nào thì ít nhất bây giờ chúng cũng chỉ còn là ‘mối đe dọa’ mà thôi. Giải quyết hết bọn chúng đi.”
+
+Lumine và Dainsleif xông lên, tiêu diệt toàn bộ Thủ Vệ Di Tích và Pháp Sư Vực Sâu trong khu vực.
+
+---
+
+Sau trận chiến, Paimon nhặt được một lá bùa trên người một Pháp Sư Vực Sâu.
+
+“Haiz, lá bùa lấy được trên người Pháp Sư Vực Sâu... Lẽ nào là ‘thư’ sao?” Paimon hỏi.
+
+“Ừm, chắc chắn có liên quan đến Sứ Đồ Vực Sâu. Không ngờ lại ở trên người Pháp Sư Vực Sâu...” Dainsleif cầm lấy lá bùa. “Có lẽ, thật sự có thông tin liên quan đến hành động của bọn chúng.”
+
+“Nhưng chữ trên này không thể đọc được, là chữ Khaenri'ah sao?” Paimon hỏi.
+
+Dainsleif đọc thành tiếng: “‘...Dùng tín ngưỡng của kẻ địch làm củi lửa, dâng hiến vinh quang cho hoàng tử điện hạ tôn quý...’”
+
+“Hả, đây là... Nội dung trong thư?” Paimon hỏi.
+
+“‘Máy dệt số phận’, kế hoạch ban đầu,” Dainsleif đọc tiếp. “Bọn chúng... Vực Sâu, dường như đang thực hiện một kế hoạch. Từ khóa của kế hoạch là... ‘Máy dệt vận mệnh’. Có vẻ như vẫn đang trong giai đoạn khởi động, hoặc vẫn đang trong quá trình thử nghiệm ban đầu...”
+
+“Máy dệt vận mệnh? Là cái gì? Theo nghĩa đen, nó giống như... ‘cỗ máy dệt nên vận mệnh’?” Paimon hỏi.
+
+“Pháp Sư Vực Sâu là từ di tích đó...” Lumine nói.
+
+“Haiz, nói như vậy, từ bầu không khí cho thấy, di tích kỳ lạ đó rất có thể có liên quan với kế hoạch này,” Paimon nói. “Cho nên Dain, rốt cuộc trong thư nói gì?”
+
+“Tôi đang đọc...” Dainsleif đáp. “Ừm... Kế hoạch gió thoảng mây bay, hơi khó hiểu.”
+
+“Thế nào?” Paimon hỏi.
+
+“Nói một cách dễ hiểu, kế hoạch sơ bộ có liên quan đến ‘Ma Thần Lốc Xoáy’ Osial,” Dainsleif nói.
+
+“Ma Thần Lốc Xoáy! Là Ma Thần dưới biển sao!” Paimon kêu lên.
+
+“Lần trước, không tiêu diệt được nó...” Lumine nói.
+
+“Nhưng bọn chúng muốn làm gì Osial? Ừm...” Paimon băn khoăn.
+
+“Lẽ nào giống Dvalin?” Lumine hỏi.
+
+“Ừm, tôi từng tìm hiểu câu chuyện của các bạn, cũng biết rất rõ sự tham gia của Giáo Đoàn Vực Sâu trong Tai Họa Rồng,” Dainsleif nói. “Mặc dù không cố ý, nhưng thật sự các bạn đã từng ngăn cản kế hoạch tương tự của Giáo Đoàn Vực Sâu một lần.”
+
+“Lúc trước là ‘bầy tôi của thần’, bây giờ là ‘cựu Ma Thần’ sao... Mục tiêu ngày càng lớn nhỉ,” Paimon nói. “Lần này, Vực Sâu cũng hành động giống như với Dvalin, muốn dùng những lời nói hoang đường và bùa chú hủy hoại Osial sao?”
+
+“Không... Xem nội dung bức ‘thư’, kế hoạch lần này tiến bộ hơn,” Dainsleif đáp. “Không chỉ cải tạo ý chí. Bọn chúng còn chuẩn bị dùng kỹ thuật chế tạo Máy Cày để cải tạo hoàn toàn cơ thể của Osial.”
+
+“Chuyện... Chuyện như vậy cũng làm được sao?” Paimon hoảng hốt. “Lẽ nào Giáo Đoàn Vực Sâu muốn chế tạo... ‘Cỗ máy giết người tối thượng, ma thần cơ khí hắc ám’?!”
+
+“Đại khái là vậy,” Lumine nói.
+
+“Ngày nay, rất ít người trên thế giới này thực sự hiểu được nền văn minh của Khaenri'ah, đương nhiên cũng khó mà đánh giá,” Dainsleif nói. “Chỉ có Giáo Đoàn Vực Sâu vẫn luôn tìm kiếm nền văn minh Khaenri'ah đã thất lạc, mặc dù bọn chúng không còn là loài người, nhưng chấp niệm vẫn còn.”
+
+“Trong thư nói, bọn chúng phải dùng bức ‘Tượng Thần Ô Uế’ kia làm cơ sở, tạo ra một ma thần cơ khí cùng với tay chân của Osial,” anh nói tiếp. “Là ‘Lõi Mới’ dùng để thay thế viên ngọc trong tay Thần Tượng, là... ‘mắt của chiếc máy cày đầu tiên trên thế giới’.”
+
+“Mắt của chiếc máy cày đầu tiên trên thế giới?... Ồ! Tôi hiểu rồi, đây là thứ bọn Pháp Sư Vực Sâu kia vẫn luôn tìm kiếm đúng không?” Paimon nói.
+
+“Có lẽ là vậy,” Dainsleif đáp.
+
+“Bọn chúng vẫn chưa tìm thấy, chúng ta vẫn còn thời gian,” Lumine nói.
+
+“Càng nói càng phức tạp. Nhưng nó thật sự có liên quan đến... Thất Thiên Thần Tượng kỳ lạ kia đúng không?” Paimon hỏi.
+
+“Đúng vậy,” Dainsleif nói. “Theo như trong thư nói, đặt ‘mắt’ vào trong tay ‘Tượng Thần Ô Uế’... Vậy là có thể sinh ra một Ma Thần Ô Uế mới, ban sức mạnh ‘lay chuyển thần tọa trên Đảo Thiên Không’.”
+
+Lumine nghĩ thầm: (Đảo Thiên Không...)
+
+“Woa... Thứ mà kế hoạch này muốn chống lại đúng là to lớn đến không ngờ,” Paimon nói. “Kể ra bây giờ cũng không ai biết chiếc máy cày đầu tiên trên thế giới đang ở đâu, vậy chi bằng... bắt đầu điều tra từ thông tin về tượng Thần?”
+
+“Thần tượng đó giống như Tượng Phong Thần...” Lumine nói.
+
+“Ừm, nhà thơ đi khắp nơi hát rong kia thật khó tìm,” Paimon nói, “hay là đến Đại Giáo Đường Tây Phong tìm hiểu tình hình xem sao, nói không chừng sẽ có gì đó.”
+
+“Giáo Đường... hừ,” Dainsleif nói.
+
+“Hả? Dain, sao vậy?” Paimon hỏi.
+
+“Không có gì, qua bên đó trước rồi nói,” Dainsleif đáp.
+
+#CH|Phần 3|Thí Luyện Không Vinh Quang|razor_splash.png|Thí Luyện Không Vinh Quang
+
+>Để điều tra kế hoạch được nhắc đến trong "thư" của "Giáo Đoàn Vực Sâu", các bạn quyết định đến Đại Giáo Đường Tây Phong ở Thành Mondstadt, thỉnh giáo người của giáo hội...
+
+Ba người trở về Thành Mondstadt và đi lên Đại Giáo Đường Tây Phong. Trước bậc thềm, Dainsleif dừng lại, ngước nhìn tượng thần và tòa giáo đường.
+
+“Một thần tượng khổng lồ, một Giáo Đường tráng lệ. Người Mondstadt vì xây dựng nó mà tiêu tốn rất nhiều tài nguyên và công sức,” Dainsleif nói. “Nhưng Phong Thần nhận món quà này cảm nhận được bao nhiêu, và đáp trả bao nhiêu?”
+
+“Niềm tin không đòi hỏi được đền đáp mà nhỉ?” Paimon đáp.
+
+“Hừm, chỉ cần thần linh yên lòng, tôi cũng không nói nhiều làm gì,” Dainsleif nói.
+
+Paimon vội đặt ngón tay lên môi: “Suỵt! Sắp vào giáo đường rồi, không được nói linh tinh về Phong Thần. Mà Phong Thần thật sự... À ừm, không có gì.”
+
+“Hừm, tôi vốn không có ý định vào giáo đường, việc nói chuyện với tu nữ giao cho các bạn đấy,” Dainsleif nói.
+
+“Ơ?” Paimon ngạc nhiên.
+
+“Trước giờ vốn cùng nhau hành động mà,” Lumine nói.
+
+“Bạn là Kỵ Sĩ Danh Dự của Thành Mondstadt, rất được tin tưởng, có lẽ họ sẽ rất yên tâm để bạn tham gia vào việc này,” Dainsleif đáp. “Và sự xuất hiện của tôi sẽ chỉ làm tăng cảnh giác mà thôi.”
+
+“Vì là người lạ?” Lumine hỏi.
+
+“Ừm, cũng như tên nhóc kia nói, bất cứ lúc nào... Tôi cũng có thể nói ra những lời giáo hội không muốn nghe,” Dainsleif nói. “Kẻ từ chối tín ngưỡng bước chân vào vùng đất thành kính, từ trước đến nay vốn không có kết quả tốt. Tôi chưa từng nhận được ơn huệ của Thần, bây giờ và tương lai cũng không cần.”
+
+“Được rồi, chuyện này nói cũng đủ rồi,” anh nói tiếp. “Trong khi chúng ta trò chuyện, Giáo Đoàn Vực Sâu không hề dừng bước.”
+
+“Ơ, Lumine, vậy hai người chúng ta đi hỏi xem sao,” Paimon nói.
+
+“Tôi vẫn phải nhắc nhở các bạn một câu, các bạn cũng đừng nhắc đến Tượng Thần Ô Uế trước mặt người của giáo hội,” Dainsleif dặn. “Giáo Hội Tây Phong sẽ không làm lơ chuyện của Thần Tượng, nhưng nếu họ nhúng tay vào, sợ là sẽ bứt dây động rừng. Và... Bất kể là ai, động đến những việc liên quan đến Vực Sâu, thông thường cũng sẽ không có kết quả tốt.”
+
+“Các bạn đi tìm người của giáo hội hỏi thăm đi, tôi ở đây chờ các bạn,” anh nói thêm.
+
+---
+
+Bên trong giáo đường, mục sư tế lễ Barbara nhận ra hai người ngay.
+
+“Kỵ Sĩ Danh Dự! Chào bạn, dạo này thế nào? Hôm nay có chuyện gì sao?” Barbara hỏi, rồi vội nói thêm: “À... Nhưng mà nói trước, muốn mượn Đàn Thiên Không là không được đâu!”
+
+Paimon nghĩ thầm: (Xem ra cô ấy chưa phát hiện chuyện huyễn thuật...)
+
+“Chúng tôi đến hỏi thăm chút chuyện,” Paimon nói. “Barbara có từng nghe nói đến chiếc máy cày đầu tiên trên thế giới không?”
+
+“Hả? Đó là cái gì? Máy cày... Dùng để làm gì vậy?” Barbara ngơ ngác.
+
+“Ừm, đúng là không biết mà,” Paimon nói. “Vậy hỏi chuyện khác, giáo hội có từng làm mất Thất Thiên Thần Tượng không?”
+
+“Ơ?” Barbara ngạc nhiên. “Các bạn đến hỏi chuyện cũ sao? Thật bất ngờ, vì đây là chuyện rất lâu rồi, bây giờ không còn ai nhắc đến nữa. Cách đây rất lâu, đúng là có một đêm Thất Thiên Thần Tượng đột nhiên biến mất, không để lại dấu vết gì. Lúc đó, gần như tất cả người trong giáo hội đều tham gia tìm kiếm, nhưng cuối cùng vẫn không tìm được. Trong ghi chép của giáo hội, chuyện kỳ lạ đó được gọi là ‘Thất Thiên Thần Tượng mất tích’.”
+
+“Ừm... quả nhiên,” Paimon buột miệng.
+
+“Quả nhiên?” Barbara hỏi lại.
+
+“À, không có gì. Còn có manh mối gì khác không? Ừm, ý tôi là... Còn chuyện lạ gì khác không?” Paimon lảng đi.
+
+Paimon nghĩ thầm: (Xin lỗi Barbara, tạm thời không thể nói cho bạn biết chuyện chúng tôi từng thấy Thần Tượng... Đây cũng là kết quả đã bàn bạc, vì sự an toàn của bạn...)
+
+Barbara nghĩ một lúc: “Chuyện lạ khác? Không rõ lắm, tôi nhớ những chuyện lạ giáo hội ghi chép lại... ‘Oán hận của bạo quân’? Không đúng, không liên quan lắm về thời gian...”
+
+“‘Oán hận của bạo quân’?” Paimon hỏi.
+
+“Ồ, chuyện kỳ lạ này cho thấy, tại Mondstadt thời cổ, nơi mà bây giờ được gọi là Phế Tích Phong Long đã có một khoảng thời gian trở nên rất nguy hiểm,” Barbara kể. “Trong một khoảng thời gian từ nhiều năm trước, chỉ cần có người đến gần nơi đó, sẽ có một quả cầu lửa từ trên trời rơi xuống.”
+
+“Quả cầu lửa từ trên trời rơi xuống?! Thật đáng sợ,” Paimon kêu lên.
+
+“Khi đó, mọi người cho rằng đó là bùa chú của Ma Thần Rồng Cuộn, cho nên gọi nó là oán hận của bạo quân,” Barbara nói. “Hiện tượng kỳ lạ này kéo dài một năm, nhưng cuối cùng vẫn không giải quyết được, và sau đó từ từ dừng lại.”
+
+“Vậy thì lạ quá,” Lumine nói.
+
+“Ừm, về sau giáo hội cho rằng, cách nói oán hận của bạo quân không ổn. Theo lý thì Ma Thần Rồng Cuộn sẽ không phun ra quả cầu lửa...” Barbara nói. “E rằng có một số nguyên nhân khác đã gây ra thảm họa. Tóm lại, chuyện này có thể không liên quan gì đến ‘thần tượng mất tích’. Nhưng những chuyện kỳ lạ khác thì tôi cũng không nghĩ ra được gì.”
+
+“Không sao, vẫn rất cảm ơn bạn!” Paimon nói.
+
+Một giọng nói lạnh lùng vang lên sau lưng họ: “‘Cám ơn’? Dường như tôi lại nghe thấy từ ngữ phiền phức...”
+
+Một nữ tu cao gầy, khoác bộ đồ tu sĩ màu đen bước tới.
+
+“A, là bạn sao, Rosaria,” Barbara nói.
+
+“Nếu muốn tìm Đội Kỵ Sĩ, thì hiện tại họ không có thời gian, ‘đám ma vật đó’ lại đến rồi,” Rosaria nói.
+
+“‘Đám ma vật đó’?” Barbara hỏi.
+
+“Chính là đám quái vật từng thừa cơ lúc xảy ra bạo loạn Phong Ma Long, định tấn công vào Mondstadt,” Rosaria đáp.
+
+“Đó không phải là Giáo Đoàn Vực Sâu sao? Chúng lại có hành động rồi à?” Paimon hỏi.
+
+“Ừ, chúng đang tập họp tại Lang Lãnh, đàn sói đang hỗn loạn,” Rosaria nói. “Giáo Đoàn Vực Sâu, có lẽ... đang nhắm vào ‘Hồn Vua Sói Bắc Phong’? Còn lý do vì sao thì tôi tạm thời vẫn chưa xác định được. Đội trưởng Jean đã đến Lang Lãnh, tôi cũng phải bắt đầu âm thầm hành động rồi.”
+
+“Vậy, vậy tôi cũng muốn đi!” Barbara nói.
+
+“Đội trưởng Jean nói, cần bạn ở lại giáo hội, hoàn thành chức trách của mình,” Rosaria đáp.
+
+“Nhưng, nhưng bạn cũng là một bề tôi của Thần mà...” Barbara phản đối.
+
+“Đừng lo lắng, tôi cũng sẽ đi theo giúp đỡ,” Lumine nói.
+
+“Đúng, chúng tôi cũng sẽ đi giúp đội trưởng Jean!” Paimon phụ họa.
+
+“Ừm... Được thôi, nếu đã có ‘Kỵ Sĩ Danh Dự’...” Barbara đành đồng ý. “Nhưng nhất định phải hành sự thật cẩn thận nhé. Cầu mong Phong Thần phù hộ mọi người bình an vô sự...”
+
+---
+
+Lumine trở ra ngoài, kể lại mọi chuyện cho Dainsleif.
+
+“Hóa ra là vậy, Giáo Đoàn Vực Sâu đã bắt đầu triển khai hành động mới rồi sao?” Dainsleif nói. “Rất có thể có liên quan với ‘Tượng Thần Ô Uế’, chúng ta cũng đi xem thử xem.”
+
+“Nhưng mà, Giáo Đoàn Vực Sâu đến Lang Lãnh để làm gì?” Paimon hỏi. “Chẳng lẽ lại muốn tái diễn sự kiện Dvalin? Trời... Tai ương xin đừng lặp lại nữa chứ.”
+
+“Không, chắc sẽ không đâu,” Dainsleif đáp. “Khác với Osial đang bị trấn áp, ma thần ‘Andrius’ đã chết từ lâu rồi. Ngày nay thứ đang bảo vệ Lang Lãnh, chỉ là hồn phách của hắn mà thôi. Sứ Đồ Vực Sâu xem các hồn phách đó là mục tiêu, có lẽ muốn moi được thông tin hữu ích từ người thân của Phong Thần...”
+
+---
+
+Ba người vội vã đến Lang Lãnh. Khắp khu rừng đã lố nhố ma vật.
+
+“A! Quả nhiên có ma vật của Giáo Đoàn Vực Sâu!” Paimon kêu lên.
+
+“Đừng khinh địch, chúng ta xông lên,” Dainsleif nói.
+
+Lumine và Dainsleif lao vào, đánh tan bọn ma vật của Giáo Đoàn Vực Sâu chặn đường.
+
+“Haizz... Khu vực này quả thực không ít kẻ địch!” Paimon thở dốc.
+
+“Càng đến gần mục tiêu thì địch càng nhiều. Hừm, đúng là phù hợp với tác phong giáo đoàn,” Dainsleif nói.
+
+“Chúng ta phải nhanh chóng tìm thấy ‘Vua Sói’,” Lumine nói.
+
+“Ừm! Đi thôi!” Paimon hô.
+
+“Tôi... không đi đâu,” Dainsleif nói.
+
+“Ủa? Tại sao vậy? Chẳng lẽ bạn sợ các loài sinh vật lông lá?” Paimon hỏi.
+
+“Chắc không phải nguyên nhân này,” Lumine nói.
+
+“Không liên quan với ‘sói’,” Dainsleif đáp. “Là bởi vì hắn từng là ma thần ngày trước, nhưng nay lại góp sức cho Thất Thần. Tôi không thể nào chấp nhận hành vi này, càng không muốn có liên quan gì với hắn. Hơn nữa, lấy lòng người khác là bản lĩnh của bạn, tôi không làm được.”
+
+“Bạn đúng là rất ghét Thất Thần,” Lumine nói.
+
+“Thần linh vốn dĩ không xứng đáng để kỳ vọng,” Dainsleif đáp. “Xem như đây là kiến nghị của cá nhân tôi, hãy nhớ, lúc nào cũng phải cảnh giác với thần linh. Đừng quá tin họ, nhưng, cũng đừng đến mức... ‘lật đổ’ hoặc ‘truy sát’. Cho dù, đối với ‘kẻ địch’ năm đó của bạn, thì cũng như vậy.”
+
+Paimon gãi đầu: “Không tin tưởng, cũng không truy sát... một cách suy nghĩ thật kỳ quặc. Dainsleif rốt cuộc là thù hận Thất Thần, hay là đang bảo vệ họ chứ?”
+
+“Tại sao lại có quan điểm mâu thuẫn như vậy?” Lumine hỏi.
+
+Dainsleif im lặng. “...”
+
+“Rút kinh nghiệm đau thương,” anh nói. “Tôi... sẽ nói với các bạn một sự thật cuối cùng.”
+
+“Ừm? Sự thật gì?” Paimon hỏi.
+
+“‘Khaenri'ah là vương quốc bị Thần hủy diệt, và đây chính là... nguyên nhân Giáo Đoàn Vực Sâu muốn hủy diệt vương quốc của Thất Thần’,” Dainsleif nói. “Chúng ta nói đến đây thôi, làm việc chính trước đã. Tôi sẽ đi giải quyết đám Giáo Đoàn Vực Sâu còn lại, các bạn cũng đi nhanh về nhanh nhé. Sau khi mọi việc giải quyết xong, chúng ta gặp nhau tại cổng Lang Lãnh.”
+
+Nói rồi anh quay người đi mất.
+
+“A... Anh ta đi rồi...” Paimon nhìn theo. “Đúng là người kỳ lạ.”
+
+“Tôi có thể hiểu được anh ta một chút,” Lumine nói.
+
+“Ừm, nói như vậy, bạn cũng phải đề phòng vị ‘thần linh lạ mặt’ đó,” Paimon nói. “Lúc đó ở Liyue, trong điển lễ thỉnh tiên, lựa chọn của bạn rất giống với Dainsleif...”
+
+“Vì tôi thiếu lòng tin. Không có cách nào khác, chỉ đành tránh né,” Lumine đáp.
+
+“Haizz... Thật là không dễ dàng mà...” Paimon thở dài.
+
+Một giọng nói quen thuộc vang lên: “Kỵ Sĩ Danh Dự, Paimon! Sao các bạn lại ở đây?”
+
+Đội Trưởng Đại Diện Jean bước ra từ phía rừng.
+
+“Ồ, đội trưởng Jean! Quá tốt rồi, tìm được bạn rồi!” Paimon reo lên. “Chúng tôi nghe Rosaria nói bạn đến đây chiến đấu, nên đến để chi viện.”
+
+“Vậy thì vô cùng cảm tạ,” Jean nói. “Lần bạo động này rất kỳ lạ, Giáo Đoàn Vực Sâu đã bao vây khắp nơi xung quanh Lang Lãnh, tôi đang chuẩn bị điều động binh lực đối kháng. Tôi đến Lang Lãnh để dò thám... không ngờ lại gặp được các bạn.”
+
+“Nghe Rosaria nói, mục đích của chúng có thể là ‘Boreas’,” Jean nói tiếp. “Nhưng Giáo Đoàn Vực Sâu... và ‘Boreas’... có quan hệ gì chứ?”
+
+“Chắc chỉ đơn giản là gây chuyện thôi, có lẽ không cần có lý do gì,” Paimon nói. “Bạn xem, Giáo Đoàn Vực Sâu cũng đã từng gây chuyện với Dvalin, rồi cũng đã tìm đến người thân khác của Phong Thần, cũng đâu có gì lạ.”
+
+“Cũng... cũng có lý...” Jean nói. “Tóm lại, những mối hiểm họa gần đây, bất luận là đã rõ ràng hay đang manh nha, thì hãy giao hết cho tôi xử lý. Kỵ Sĩ Danh Dự, nhờ bạn mau đi xác nhận xem ‘Vua Sói’ có gặp nguy hiểm gì không. Hồn phách Ma Thần... ít khi gặp người. Nhưng tôi nghe nói bạn và nó đã từng có duyên gặp mặt, có lẽ để bạn ra mặt là thích hợp nhất.”
+
+“Tôi sẽ thử xem,” Lumine nói.
+
+“Ừm, hãy thật cẩn thận. Nhiệm vụ phía trước đành nhờ bạn rồi, ‘Kỵ Sĩ Danh Dự Tây Phong’,” Jean nói.
+
+---
+
+Lumine đi sâu vào Lang Lãnh, tìm đến nơi Vua Sói Bắc Phong ngự. Từ xa, Paimon đã thấy bóng người.
+
+“Nhìn, nhìn bên kia! Là Razor! Còn có... ‘Sứ Đồ Vực Sâu’!” Paimon kêu lên.
+
+Razor — cậu bé được bầy sói nuôi lớn — đứng chắn trước linh hồn Vua Sói Bắc Phong. Đối diện cậu là Sứ Đồ Vực Sâu đang tiến hành một nghi thức kỳ dị.
+
+“Ở đây, không chào đón, ngươi,” Razor gằn giọng.
+
+Sứ Đồ Vực Sâu cười lớn: “Hahaha... Chỉ còn lại linh hồn mà vẫn có thói quen bảo vệ con cháu mình sao. Muốn trở thành hộ vệ sao? Nhưng sức mạnh của hắn, rõ ràng không thể so sánh với nanh vuốt của Ma Thần xưa kia.”
+
+Hắn quay sang linh hồn con sói khổng lồ: “Nhưng chỉ cần phục tùng bọn ta, thì ngươi sẽ lại có được quyền trượng thần linh, giống như xưa vậy.”
+
+Linh hồn Vua Sói gầm lên đầy đau đớn. Boreas nói: “Hỗn... xược...”
+
+“Đây là nghi thức gì? Nhìn có vẻ rất đau khổ!” Paimon kêu lên. “Ừm... là sự ‘ăn mòn’ giống như lúc khống chế tâm trí Dvalin sao?!”
+
+“Sói, không khuất phục. Nhưng, không thể, tiếp tục nữa,” Razor nói.
+
+“Để tôi ngăn hắn lại,” Lumine nói, bước lên.
+
+Sứ Đồ Vực Sâu nhìn cô: “Bất luận bao nhiêu lần, nỗ lực của các ngươi chỉ là công cốc mà thôi...”
+
+Lumine và Razor cùng lao vào trận chiến, đánh bại toàn bộ ma vật mà Sứ Đồ Vực Sâu triệu tới.
+
+---
+
+Nghi thức bị phá vỡ. Sứ Đồ Vực Sâu lùi lại.
+
+“Hừm... Nghi thức đã bị gián đoạn, các ngươi đúng là may mắn,” hắn nói. “Thật không ngờ, chỉ là linh hồn mà cũng có ý chí kiên cường như vậy... Nhưng một biến số bé nhỏ như vậy, sẽ không đủ sức ảnh hưởng toàn cục.”
+
+Rồi hắn biến mất.
+
+“Lại biến mất rồi...” Paimon nói.
+
+“Chí ít đã ngăn cản được hành động của chúng,” Lumine nói.
+
+“Cám ơn các bạn, đã đến... đúng lúc,” Razor nói.
+
+Linh hồn Vua Sói Bắc Phong cất tiếng: “‘Lupical’ của nhân loại... để các người nhìn thấy ta trong bộ dạng này, thật xấu hổ. Nhưng Sứ Đồ Vực Sâu, đã quá xem thường ta rồi.”
+
+Razor giải thích: “Vua Sói, không từ chối, thử thách. Nhưng, người ngoài, không tuân thủ, quy tắc thử thách. Ta cũng, không chú ý đến, cạm bẫy được đặt sẵn...”
+
+“Cũng tức là, Giáo Đoàn Vực Sâu đã chuẩn bị sẵn cạm bẫy, sau đó dùng danh nghĩa thử thách, thức tỉnh ‘Vua Sói’?” Paimon hỏi.
+
+“Đây không phải lỗi của bạn, Razor,” Lumine nói.
+
+“Cảm ơn bạn, Lumine. Sau này, móng vuốt của ta, cần phải, sắc bén hơn,” Razor nói. “Các bạn, đánh hơi được sự nguy hiểm, nên đến đây sao?”
+
+“Không, chúng tôi nghe nói mới biết, chứ mũi của chúng tôi không hữu dụng lắm,” Paimon đáp. “Ngoài việc đến giúp đỡ, chúng tôi còn có một việc muốn thỉnh giáo. Xin hỏi... Vị Ma Thần đại nhân đây, bạn có biết ‘máy cày đầu tiên của thế giới’ không?”
+
+Boreas đáp: “Tôi không quan tâm các đồ vật của loài người chế tạo, không biết ‘máy cày’ là gì. Nhưng nếu nói ấn tượng về máy móc, thì đã từng có một món. Nó đã xông vào trong bãi tập luyện của tôi, tôi xem nó như một dũng sĩ tham gia tập luyện. Nhưng nó không có trí óc, chỉ có thể chiến đấu. Từ đầu đến chân, nó đúng là cỗ máy được chế tạo để giết chóc. Cuối cùng, tôi đã phá hủy được nó. Trước khi gục ngã, nó đã rời khỏi bãi thí luyện.”
+
+“Ồ... Nghe bạn mô tả như vậy, có vẻ cũng không loại trừ khả năng nó chính là ‘máy cày đầu tiên của thế giới’?” Paimon nói.
+
+“Nó biết xoay không?” Lumine hỏi.
+
+“Đúng vậy, nó biết xoay, nhảy cũng rất cao, còn có thể bắn ra cầu lửa,” Boreas đáp. “Sức mạnh tuy không bằng ma thần, nhưng mạnh hơn nhiều người có ‘Vision’.”
+
+“Cầu lửa...? Ừm, gần đây hình như có nghe nhắc đến từ này ở đâu đó,” Paimon nói. “Tóm lại, thông tin này có thể chứng minh, ‘máy cày đầu tiên của thế giới’ quả thực đã từng đến Mondstadt không? Nghe có vẻ như, sức mạnh ‘chiếc máy đệ nhất thế giới’ mạnh hơn rất nhiều so với các Thủ Vệ Di Tích sau này. Nhưng trong câu chuyện này, nó hình như đã bị phá hỏng trong ‘thử thách của sói’...”
+
+Paimon cúi đầu cảm ơn: “Đã giúp chúng tôi rất nhiều, xin cám ơn các bạn! Chúng tôi phải tiếp tục điều tra một việc rất quan trọng. Tuy rằng Sứ Đồ Vực Sâu đã rời đi, nhưng cuộc tấn công của giáo đoàn vẫn chưa kết thúc, các bạn phải cẩn thận!”
+
+“Ừm, chúng tôi cũng ngửi thấy rồi, thứ nguy hiểm hơn,” Razor nói. “Các bạn, cũng phải, bảo vệ bản thân.”
+
+Rời khỏi chỗ Vua Sói, Paimon giục: “Đã có tình báo vô cùng quan trọng, chúng ta mau đi nói với Dainsleif!”
+
+#CH|Phần 4|Linh Hồn Ngăn Cách|aether_solo.png|Linh Hồn Ngăn Cách
+
+>Căn cứ theo manh mối có được từ Barbara và "Vua Sói Bắc Phong", các bạn tiếp tục tìm kiếm "máy cày đầu tiên của thế giới"...
+
+Dainsleif đã đợi ở cổng Lang Lãnh như đã hẹn.
+
+“Này, Dainsleif ở đây,” Paimon gọi. “Bạn có gặp đội trưởng Jean không?”
+
+“Tôi có thấy cô ấy, nhưng đã cố tình tránh mặt,” Dainsleif đáp. “Cô ấy là ‘Kỵ Sĩ Nanh Sư Tử’, lại là Đội Trưởng Đại Diện, ắt hẳn sẽ đề phòng tôi. Nếu tôi không cẩn thận, rồi sẽ có ngày trở thành đối tượng điều tra của cô ấy.”
+
+“Quay lại vấn đề chính, tôi chỉ giải quyết được một số ma vật, không tìm được tình báo gì,” anh nói tiếp. “Bên các bạn thì sao, có thu hoạch không?”
+
+Lumine kể lại những gì Vua Sói Bắc Phong đã nói.
+
+“Hóa ra là vậy...” Dainsleif nói. “Vậy thì, đại khái đã có đủ thông tin về động thái của ‘máy cày đầu tiên của thế giới’ rồi.”
+
+“Ừm? Thật sao? Chỉ dựa vào lời nói của ‘Vua Sói’?” Paimon hỏi.
+
+“Không phải chỉ dựa vào thông tin này, mà là tổng hợp các suy đoán,” Dainsleif đáp. “Ví dụ, trước đây các bạn đã nói với tôi, về ‘chuyện cũ’ mà giáo hội truyền bá đó...”
+
+“‘Oán hận của bạo quân’!” Lumine thốt lên.
+
+“Đúng vậy. Chính là chuyện mà tu nữ bạn nói đã nhắc đến, chuyện kỳ lạ đã từng bị hiểu nhầm là oán hận của bạo quân,” Dainsleif nói.
+
+“Nếu như cầu lửa trên trời rơi xuống đúng là đạn...” Lumine nói.
+
+Paimon vỗ tay: “A, tôi hiểu rồi! Cho nên ‘oán hận của bạo quân’, thực ra chính là cỗ máy chạy ra từ Lang Lãnh, tự động bắn đạn! Từ sau khi nó bị hư hỏng trong ‘thử thách của sói’, đã di chuyển đến phế tích ‘Mondstadt cũ’, và ở lại đó... Chỉ cần có người đến gần, là sẽ đùng đùng đùng... bắn liên tục. Mãi cho đến một ngày nó thực sự hư hỏng, nên cầu lửa cũng không còn rơi nữa. Những người Mondstadt lúc đó hầu như rất ít người từng tiếp xúc với ‘Thủ Vệ Di Tích’, cho nên chỉ có thể lý giải là ‘oán hận của bạo quân’!”
+
+“Xem ra, chúng ta nên đến nơi được gọi là Phế Tích Phong Long, bắt đầu điều tra cuốn chiếu thôi,” Dainsleif nói.
+
+“Không,” Lumine nói.
+
+“Sao? Ý của bạn là...” Dainsleif hỏi.
+
+“Tôi đã... có sẵn ‘ký ức’,” Lumine đáp.
+
+“Ồ... Ý bạn là...” Paimon ngẫm nghĩ, rồi reo lên: “À! Tôi cũng hiểu rồi! Đúng vậy đúng vậy, ‘thủ vệ ngồi trên tháp cao’ đó, đúng là khiến cho người ta có ấn tượng sâu sắc!”
+
+---
+
+Ba người đến Phế Tích Phong Long, tìm đến chỗ một Thủ Vệ Di Tích đã ngừng hoạt động từ lâu, ngồi bất động trên đỉnh một ngọn tháp cao.
+
+“Chính là cái này sao? Được, dùng góc nhìn nguyên tố xem thử xem!” Paimon nói.
+
+Lumine dùng góc nhìn nguyên tố quan sát cỗ máy.
+
+“Này này... Thế nào, có phát hiện gì không?” Paimon hỏi. Thấy Lumine lắc đầu, cô bé thất vọng: “Sao? Bạn nói không có gì xảy ra? Tôi còn trông đợi như vậy mà... Sao thế được, có phải đã nhầm lẫn gì rồi không?”
+
+“Là phương pháp có vấn đề,” Dainsleif nói. “Dùng góc nhìn nguyên tố với ‘máy cày’ là không thể, bởi vì nguồn năng lượng khởi động nó vốn không phải là ‘nguyên tố’. Hãy giao cho tôi, tôi thử xem sao.”
+
+Dainsleif tiến lại gần cỗ máy. Một lúc sau, anh nói: “...Được rồi.”
+
+Trong tay anh là một vật phát sáng lấy ra từ cỗ máy.
+
+“Wa, đây chính là...!” Paimon thốt lên.
+
+“Thứ mấu chốt mà Sứ Đồ Vực Sâu vẫn luôn tìm kiếm, ‘con mắt của máy cày đầu tiên của thế giới’,” Dainsleif nói. “Tất cả các thủ vệ di tích còn lại, đều là hàng nhái của chiếc máy này. Là một chiếc ‘máy nguyên bản’, sức mạnh chiến đấu của nó sẽ không bị khống chế.”
+
+“‘Máy nguyên bản’... một từ khó hiểu, là thuật ngữ của người Khaenri'ah sao?” Paimon hỏi.
+
+Dainsleif không trả lời mà nói tiếp: “Giống như Giáo Đoàn Vực Sâu đã nghĩ, nếu như có thể đặt ‘mắt’ lên tay ‘Tượng Thần Ô Uế’... Dùng đây làm nền tảng, tích hợp với cơ thể ‘Ma Thần’ Osial, chế tạo ra Ma Thần Cơ Khí... Vậy là có thể sinh ra một Ma Thần Ô Uế mới, ban sức mạnh ‘lay chuyển thần tọa trên Đảo Thiên Không’.”
+
+“Hành vi cực đoan và nguy hiểm...” Lumine nói.
+
+“Đúng vậy,” Dainsleif đáp.
+
+“Vậy vậy vậy, ‘mắt’ này phải xử lý như thế nào?” Paimon hỏi.
+
+“Tìm một nơi bí mật để cất giấu,” Lumine đề nghị.
+
+“Không. Để tôi cất giữ nó,” Dainsleif nói.
+
+“Hừm?! Bạn? Dainsleif... Bạn sẽ không dùng nó làm những chuyện kỳ lạ chứ!” Paimon nghi ngờ.
+
+“Bạn cứ thoải mái nghi ngờ lập trường của tôi đi, nhưng tôi bắt buộc phải đảm bảo không để người khác lợi dụng sức mạnh của nó,” Dainsleif đáp. “Vùng đất bí ẩn bị khai quật, và giáo hội... trong mắt ta không đáng tin cậy.”
+
+“Chà... ừm...” Paimon ấp úng.
+
+“Không chỉ như vậy, để tránh hậu hoạn, chúng ta phải ‘xử lý’ ‘Tượng Thần Ô Uế’,” Dainsleif nói.
+
+“Xử lý như thế nào?” Lumine hỏi.
+
+“Không thể để giáo hội nhúng tay vào, chúng ta phải tự xử lý. Ý của ta ‘xử lý’... có nghĩa là tiêu hủy,” Dainsleif đáp.
+
+“Tiêu.. tiêu hủy? Đó là Thất Thiên Thần Tượng đó!” Paimon hoảng hốt. “Không chỉ là văn vật có ý nghĩa, mà nó thực sự là... của thần linh... May mà trước đây đã giấu Barbara, nếu không cô ấy sẽ phát điên mất!”
+
+“Hơ... vật của Thất Thần, chẳng lẽ còn muốn tôi thay họ yêu quý và bảo vệ?” Dainsleif nói. “Đi thôi, quay lại di tích đó. Chúng ta đi phá hủy tượng Thần đó, hơn nữa, nếu may mắn thì còn gặp được ‘Sứ Đồ Vực Sâu’. Có tôi ở đây, nó sẽ không thể biến mất trước mặt bạn một lần nào nữa.”
+
+---
+
+Họ quay lại lối vào khu di tích nơi mọi chuyện bắt đầu.
+
+“Thật không ngờ, đi vòng vo khắp nơi, cuối cùng lại quay về đây rồi,” Paimon nói. “Khó khăn lắm mới thoát khỏi nguy hiểm, giờ lại tự chui đầu vào rồi! Ây, nhà mạo hiểm anh dũng như chúng ta, cả đại lục Teyvat chẳng có được mấy người đâu.”
+
+Ba người tiến vào di tích, đi xuống tận căn phòng nơi Tượng Thần Ô Uế bị treo ngược.
+
+“Xem ra, chúng ta đã đến rồi,” Dainsleif nói. Anh nhìn quanh căn phòng. “Căn phòng... quái dị, khô héo, khiến người ta cảm thấy khó chịu. Tôi đã hiểu được cái tà khí mà các bạn nói rồi.”
+
+“Hu hu hu... vẫn là cảnh khủng khiếp này...” Paimon rên rỉ.
+
+“Cẩn thận, đừng để bị sức mạnh của ‘Tượng Thần Ô Uế’ áp đảo... ‘Sứ Đồ Vực Sâu’ ở ngay đây,” Dainsleif cảnh báo.
+
+Sứ Đồ Vực Sâu hiện ra. “Hehehe... khứu giác nhạy bén lắm... Ngươi vẫn đáng ghét như vậy, kẻ địch của giáo đoàn, Dainsleif!”
+
+Hắn hít một hơi như đánh hơi: “Ta có thể cảm nhận được, trên người ngươi có mùi máu tanh rất đáng sợ. Là từ ác mộng đen tối, hay là...? Chà chà... Thật nguy hiểm. Ngươi cũng có mùi ‘thối rữa’ đó, làm ta thấy rất quen thuộc... Ngươi cũng giống như bọn ta, đều là thứ nguy hiểm. Nhưng, những thứ nguy hiểm ngoài ‘giáo đoàn’ ra, thì đều nên bị nhốt trong lồng mới đúng...”
+
+“Chậc,” Dainsleif tặc lưỡi. “Lưỡi của ngươi, e rằng cũng ‘thối rữa’ quá lâu rồi... Nên cắt đi rồi!”
+
+Lumine và Dainsleif cùng lao vào Sứ Đồ Vực Sâu. Sau một trận chiến khốc liệt, hai người đã đánh gục được hắn.
+
+---
+
+Sứ Đồ Vực Sâu quỵ xuống. Dainsleif tiến tới định kết liễu hắn — nhưng đường kiếm của anh bị một người khác đỡ lại.
+
+Một thiếu niên tóc vàng đứng chắn trước Sứ Đồ Vực Sâu.
+
+Sứ Đồ Vực Sâu ngẩng lên nhìn người đó: “Hoàng tử điện hạ.”
+
+“Người, người đó, chẳng lẽ là...?!” Paimon lắp bắp.
+
+“Anh!” Lumine thốt lên.
+
+Aether — người anh song sinh mà Lumine đã tìm kiếm suốt hành trình — quay lại nhìn cô. “Em...”
+
+“Cuối cùng đã tìm thấy rồi!” Lumine nói.
+
+“Đợi... đợi đã, Lumine, anh ấy lúc nãy đã đỡ giúp cho Sứ Đồ Vực Sâu...” Paimon nói, giọng run run. “Anh trai của bạn, và ‘Vực sâu’ hình như...”
+
+Aether nhìn em gái: “Em, tại sao đi cùng với Dain?”
+
+“...Cái gì?” Lumine sững sờ.
+
+Lumine nghĩ thầm: (Chúng ta chia ly lâu như vậy...)
+
+“Ơ?” Paimon ngơ ngác. “Lumine, anh trai của bạn... biết Dainsleif ư?”
+
+Dainsleif im lặng. “...”
+
+Rồi anh lên tiếng: “Aether. Chúng ta lại gặp mặt rồi.”
+
+“Việc... việc này rốt cuộc là sao?! Dain cũng biết tên anh ấy!” Paimon kêu lên.
+
+Aether nói với Lumine: “Em không nên đi cùng với người này. Người này... là ‘kẻ thù’ của anh.”
+
+“Aether...” Dainsleif nói.
+
+“Đợi một lát!” Lumine kêu lên.
+
+Aether im lặng một thoáng. “...”
+
+“Nhưng đây là những lời bắt buộc phải nói,” Aether nói. “Đừng theo Dain ngăn cản anh. Đừng ngăn cản ‘Vực Sâu’.”
+
+Aether nhìn sang Dainsleif: “Người đó... Dainsleif. Hắn là ‘Kiếm Sĩ Hoàng Hôn’ của đội hộ vệ cung đình Khaenri'ah đời cuối. Năm trăm năm trước, hắn không thể ngăn chặn được sự diệt vong của Khaenri'ah. Lúc đó hắn đã trúng phải lời nguyền bất tử, lưu lạc khắp nơi... Chỉ có thể giương mắt nhìn thấy dân chúng mà hắn muốn bảo vệ, trở thành quái vật Vực Sâu.”
+
+Paimon chết lặng: “Bạn nói... Dainsleif là người Khaenri'ah?! Là người Khaenri'ah đã trải qua nạn diệt vong vào 500 năm trước?! Còn nói rằng ‘dân chúng hóa thành quái vật’... nghĩa là Giáo Đoàn Vực Sâu hiện tại, không chỉ là ‘có liên quan với Khaenri'ah’, mà vốn dĩ là ‘dân chúng’ Khaenri'ah?! À... Còn nói ‘Dainsleif là kẻ thù của anh’, tôi không thể hiểu được chuyện gì đang xảy ra...”
+
+“Hãy theo em trước đã! Chúng ta về nhà thôi!” Lumine nói với anh trai.
+
+“Nhà...” Aether khẽ lặp lại. “Đương nhiên, nơi nào có em thì nơi đó là nhà. Nhưng anh vẫn chưa thể cùng em đến thế giới mới, tìm ngôi nhà mới... chí ít là hiện tại chưa thể. Trước khi ‘Vực Sâu’ nhấn chìm thần tọa, anh và ‘Thiên Lý’ vẫn còn một trận chiến chưa hoàn thành...”
+
+“Thiên... lý?” Lumine hỏi.
+
+“Hãy nghe anh,” Aether nói. “Anh đã từng có một chuyến du hành. Cho nên, em cũng phải đến được điểm đích, thì mới lưu giữ được những tinh hoa của thế giới này trong mắt của mình.”
+
+“Chúng ta ắt sẽ trùng phùng,” Aether nói.
+
+“Đừng lo, Lumine. Anh có đủ thời gian để chờ em,” Aether nói. “Chúng ta luôn... có đủ thời gian.”
+
+Rồi bóng hình anh biến mất cùng Sứ Đồ Vực Sâu. Khi mọi thứ lắng xuống, trong căn phòng chỉ còn lại Lumine và Paimon — Dainsleif cũng không còn ở đó nữa.
+
+---
+
+“Họ đi rồi...” Paimon nói khẽ.
+
+Cô bé bay lại gần Lumine. “Này... Lumine, đừng quá đau lòng như vậy... Chúng ta sẽ tìm thấy họ mà! Hãy nghĩ theo hướng tích cực nào! Lần này chí ít đã tìm thấy manh mối rất hữu ích!”
+
+“Tôi... không đau lòng,” Lumine nói.
+
+“Ừm? Thật sao?...” Paimon nhìn cô dò xét, rồi nói tiếp: “Tóm lại, theo tình hình trước mắt mà nói, điểm mấu chốt để tìm người thân, ngoài Thất Thần ra, thì bây giờ lại thêm ‘Dainsleif’ đúng chứ?”
+
+“Chúng ta đến Inazuma cũng phải chú ý hơn,” Lumine nói.
+
+“Không sai,” Paimon gật đầu. “Đúng rồi, những gì họ nói lúc nãy thật khó hiểu, bạn có hiểu được không?”
+
+“Đại khái đã hiểu rồi,” Lumine đáp.
+
+“Ừm... Vậy chúng ta hãy sắp xếp lại xem nào,” Paimon nói, đếm trên đầu ngón tay. “Đầu tiên là Sứ Đồ Vực Sâu đó, hắn gọi anh trai của bạn là hoàng tử điện hạ. Xem ra anh trai của bạn đang thống lĩnh Giáo Đoàn Vực Sâu, mà địa vị còn cao hơn Sứ Đồ Vực Sâu... Tuy rằng không biết có phải người thống trị cao nhất hay không.”
+
+“Còn nữa, anh trai của bạn nói mục tiêu của anh ấy là ‘nhấn chìm thần tọa, chiến đấu với Thiên Lý’,” Paimon nói tiếp. “Như vậy là có ý gì? Nghe như... có phải muốn hủy diệt bảy quốc gia của bảy vị Thần không?”
+
+“Rồi còn, quái vật Giáo Đoàn Vực Sâu, chính là dân chúng của vương quốc Khaenri'ah đã diệt vong... đã biến thành quái vật. Đây đúng là một câu chuyện đáng sợ,” Paimon nói. “Dainsleif cũng là người Khaenri'ah, 500 năm trước cũng đã trải qua mọi việc. Nhưng anh ấy không biến thành quái vật, mà hiện tại sau 500 năm, đang đối đầu với Giáo Đoàn Vực Sâu... Cũng có nghĩa là, anh trai của bạn nói rằng, ‘Dain đang đối địch với anh ấy’ phải không?”
+
+“Nhưng, nếu như quái vật của Giáo Đoàn Vực Sâu, là dân chúng mà Dainsleif bảo vệ vào năm xưa, vậy tại sao Dainsleif lại phải đối địch với Giáo Đoàn Vực Sâu?” Paimon băn khoăn. “Ngoài ra, tại sao... người thân mà tôi đã cùng bạn tìm kiếm bấy lâu, nay lại đang ở cùng với quái vật của Giáo Đoàn Vực Sâu?”
+
+“Thông tin vẫn chưa nhiều lắm,” Lumine nói.
+
+“Ừm, đúng vậy,” Paimon đáp. Rồi cô bé vươn người, giọng phấn chấn hẳn lên: “Vậy... Lumine, hãy phấn chấn lên nào! Chuyến du hành của chúng ta sẽ không kết thúc, đã đến lúc phải tiếp tục rồi! Rời khỏi nơi đáng ghét này, hãy lên mặt đất có ánh mặt trời chiếu rọi đi nào.”
+
+“Nếu anh trai của bạn muốn bạn ‘đến đích’... Được, vậy bạn hãy đến đích cho anh trai của bạn xem!” Paimon nói. “‘Nhà Lữ Hành’, chúng ta đi thôi!”
+
+>(Hết Chương 1 Màn 4 — Chúng Ta Ắt Sẽ Trùng Phùng)
