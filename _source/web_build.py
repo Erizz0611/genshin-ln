@@ -196,6 +196,11 @@ for ai, a in enumerate(acts):
 # Hồ sơ nhân vật: lưới thẻ + thẻ nổi (modal) + thanh bên "nhân vật theo chương"
 # Nhân vật được coi là xuất hiện trong chương nếu tên (hoặc tên gọi khác) có trong văn bản chương.
 ALIASES = {'Phong Ma Long': ['Phong Ma Long', 'Ma Long', 'Dvalin', 'con rồng', 'Con rồng']}
+CAST_ALIASES = {'Phong Ma Long': ['Phong Ma Long', 'Dvalin']}
+def in_cast(c, a):
+    # chỉ tính nhân vật thật sự xuất hiện (có trong danh sách "Nhân vật xuất hiện" của màn), không tính người chỉ được nhắc tên
+    names = [x['name'] for x in a['cast']]
+    return any(n == m or n in m.split(' ') or (n in m and ' ' in n) for n in CAST_ALIASES.get(c['name'], [c['name']]) for m in names)
 def appears(c, ch):
     text = ' '.join(t for _, t in ch['body']) + ' ' + (ch['log'] or '')
     return any(n in text for n in ALIASES.get(c['name'], [c['name']]))
@@ -212,7 +217,7 @@ for i, c in enumerate(P):
 
 side = []
 for arc, ais in arcs:   # gộp theo mục lớn (Mở Đầu, Chương I · Liyue...), mỗi nhân vật chỉ ghi một lần
-    who = [(i, c) for i, c in enumerate(P) if any(appears(c, ch) for ai in ais for ch in acts[ai]['chapters'])]
+    who = [(i, c) for i, c in enumerate(P) if any(in_cast(c, acts[ai]) for ai in ais)]
     chips = ''.join(f'<a href="#nv-{i}" data-open="nv-{i}" class="chip">{esc(c["name"])}</a>' for i, c in who) or '<span class="none">—</span>'
     side.append(f'<div class="sb-ch"><a class="sb-t" href="index.html#{acts[ais[0]]["id"]}"><span class="sb-act">{esc(arc)}</span>{len(ais)} màn · {len(who)} nhân vật</a><div class="chips">{chips}</div></div>')
 
