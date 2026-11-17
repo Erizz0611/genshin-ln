@@ -254,6 +254,27 @@ BADIS = dict(name='Badis và Idder', role='Eremite', desc='Hai Eremite định b
 AMAL = dict(name='Amal và Lambad', role='Chủ quầy · Chủ quán rượu', desc='Amal bán “Bàn Tiệc Haft-Mewa” trong lễ hội, Lambad là chủ Quán Rượu Lambad.')
 OTHERS_C32 = dict(name='Người dân Thành Sumeru', role='Những người khác', desc='Bọn trẻ trong lễ hội, vệ binh và thương nhân ở cổng thành, một người lạ xuất hiện ở cuối màn.')
 
+# --- Chương III · Màn II · Kết và Màn III (Sumeru) ---
+NAHIDA_K = dict(name='Nahida', role='Tiểu Vương Kusanali · Thảo Thần', img='nahida_icon.png', desc='Nói chuyện với Lumine qua thân thể của Katheryne, kể về vị trí của mình ở Thánh Địa Surasthana và nhờ hai người cùng điều tra các hiền giả.')
+KATHERYNE_K = dict(name='Katheryne', role='Hiệp Hội Nhà Mạo Hiểm · Thành Sumeru', img='katheryne_icon.png', desc='Nhân viên của hiệp hội, thân thể mà Nahida mượn ý thức để nói chuyện với Lumine. Chỉ nói chuyện thật của mình ở cuối phần.')
+DUNYARZAD_K = dict(name='Dunyarzad', role='Tiểu thư nhà Homayani', img='dunyarzad_icon.png', desc='Vừa thoát khỏi vòng “samsara” và tỉnh lại sau giấc mơ về Vũ Điệu Sabzeruz.')
+NILOU_K = dict(name='Nilou', role='Vũ công · Đại Khu Bazaar', img='nilou_icon.png', desc='Chỉ xuất hiện trong đoạn phim mở đầu, bước ra sân khấu dâng lên Vũ Điệu Sabzeruz.')
+NAHIDA3 = dict(name='Nahida', role='Tiểu Vương Kusanali · Thảo Thần', img='nahida_icon.png', desc='Vẫn nói chuyện qua thân thể Katheryne, cùng Lumine và Paimon điều tra các hiền giả, nhờ Setaria giúp và cuối cùng rút lui vào ý thức khi bị Dottore phát hiện.')
+KATHERYNE3 = dict(name='Katheryne', role='Hiệp Hội Nhà Mạo Hiểm · Thành Sumeru', img='katheryne_icon.png', desc='Nhân viên hiệp hội, thân thể mà Nahida mượn ý thức trong màn này.')
+SETARIA3 = dict(name='Setaria', role='Học giả Giáo Viện · Trợ lý của Azar', img='setaria_icon.png', desc='Học giả xuất thân từ sa mạc, được Nahida chọn để giúp, bị Lumine, Paimon và Nahida thuyết phục trong cuộc điều tra các hiền giả.')
+QUENSETARIA = dict(name='Nabiya, Akim, Qishan và Rima', role='Người quen của Setaria · Lữ Đoàn 30', desc='Thầy bói Nabiya, thợ gốm Akim, nữ học viên Qishan và lính đánh thuê Rima của Lữ Đoàn 30; bốn người bị Dottore dùng Trạm Cuối Akasha cải tiến để “truy cập” ý thức.')
+DOTTORE = dict(name='Dottore', role='Quan Chấp Hành Fatui thứ hai', img='dottore_icon.png', desc='Từng là người bị Giáo Viện trục xuất, tự xưng là “Dottore”. Cải tiến Trạm Cuối Akasha để đưa thông tin vào tiềm thức dân chúng, và phát hiện ý thức mạnh mẽ của Nahida.')
+TIGHNARI3 = dict(name='Tighnari', role='Đội Trưởng Kiểm Lâm · Làng Gandharva', img='tighnari_icon.png', desc='Cùng Lumine và Paimon tìm manh mối về Haypasia ở Pardis Dhyai.')
+COLLEI3 = dict(name='Collei', role='Kiểm lâm tập sự · Làng Gandharva', img='collei_icon.png', desc='Học trò của Tighnari, đi cùng thầy trong cuộc tìm kiếm.')
+HAYPASIA3 = dict(name='Haypasia', role='Học giả Học Phái Rtawahist · Giáo Viện', img='haypasia_icon.png', desc='Học giả đã kết nối với “ý thức thần linh” và cho Lumine thấy một cảnh qua ý thức đó.')
+ALHAITHAM3 = dict(name='Alhaitham', role='Quan Thư Ký · Giáo Viện', img='alhaitham_icon.png', desc='Cùng Lumine đối mặt Cyno ở sa mạc, giấu “Hũ Tri Thức Thần” trên người.')
+CYNO = dict(name='Cyno', role='Tổng Quản Mahamatra · tự trục xuất', img='cyno_icon.png', desc='Cấp trên của các Matra trong Giáo Viện, nay đã “tự trục xuất” và đơn độc đến sa mạc, đòi Alhaitham giao ra “Hũ Tri Thức Thần”.')
+DEHYA3 = dict(name='Dehya', role='Eremite · “Sư Tử Lửa”', img='dehya_icon.png', desc='Xuất hiện ở sa mạc trong lúc Lumine và nhóm bị cuốn vào bão cát.')
+CANDACE = dict(name='Candace', role='Hộ vệ Làng Aaru', img='candace_icon.png', desc='Hộ vệ của Làng Aaru, dẫn mọi người đến nhà trưởng làng để tránh bão cát và nhận lời giúp đỡ.')
+ISAK = dict(name='Isak', role='Cậu bé tìm ông nội', img='isak_icon.png', desc='Cậu bé xin được đi cùng Lumine để tìm ông nội đã mất tích, nhất quyết ông không phải người xấu.')
+ANPU = dict(name='Chú Anpu', role='Trưởng làng Aaru', desc='Trưởng Làng Aaru, kể về bão cát ngày càng nghiêm trọng quanh làng.')
+OTHERS_C33 = dict(name='Người dân và lính đánh thuê', role='Những người khác', desc='Lính đánh thuê mai phục, thành viên Eremite theo dõi, người dân Thành Sumeru và giọng nói trong ý thức của Haypasia.')
+
 ACTS = [
   dict(id='man1', arc='Mở Đầu', src='man1.txt', act='Mở Đầu · Màn I', title='Người Phương Xa Đuổi Theo Gió', sub='Nhiệm vụ Ma Thần — Mondstadt',
        hero='traveler_portrait.png', cast=[LUMINE, PAIMON, AETHER, GOD, AMBER, KAEYA, JEAN, LISA, DRAGON, BOY, VOICE],
@@ -324,4 +345,10 @@ ACTS = [
   dict(id='c3-man2', arc='Chương III · Sumeru', src='c3_man2.txt', act='Chương III · Màn II', title='Bình Minh Của Ngàn Đóa Hồng', sub='Nhiệm vụ Ma Thần — Sumeru',
        hero='c3m2_q2.png', cast=[LUMINE, PAIMON, DUNYARZAD2, DEHYA2, NILOU2, NAHIDA, KIMIYA, VIHAR, AZAR, SETARIA, BADIS, AMAL, OTHERS_C32],
        pdf='', footer='Chương III · Màn II — Bình Minh Của Ngàn Đóa Hồng', side=False),
+  dict(id='c3-man2-ket', arc='Chương III · Sumeru', src='c3_man2_ket.txt', act='Chương III · Màn II · Kết', title='Bình Minh Của Ngàn Đóa Hồng - Kết', sub='Phần cuối của Chương III · Màn II — nhiệm vụ “Bình Minh” (Chương 3 Màn 2 - Kết)',
+       hero='c3m2k_q1.png', cast=[LUMINE, PAIMON, NAHIDA_K, KATHERYNE_K, DUNYARZAD_K, NILOU_K],
+       pdf='', footer='Chương III · Màn II · Kết — Bình Minh Của Ngàn Đóa Hồng - Kết', side=False),
+  dict(id='c3-man3', arc='Chương III · Sumeru', src='c3_man3.txt', act='Chương III · Màn III', title='Ảo Mộng, Trống Rỗng Và Dối Gian', sub='Nhiệm vụ Ma Thần — Sumeru',
+       hero='cyno_splash.png', cast=[LUMINE, PAIMON, NAHIDA3, KATHERYNE3, SETARIA3, QUENSETARIA, DOTTORE, TIGHNARI3, COLLEI3, HAYPASIA3, ALHAITHAM3, CYNO, DEHYA3, CANDACE, ISAK, ANPU, OTHERS_C33],
+       pdf='', footer='Chương III · Màn III — Ảo Mộng, Trống Rỗng Và Dối Gian', side=False),
 ]
