@@ -224,6 +224,23 @@ FUSHE = dict(name='Phù Xá', role='Đằng Xà Thái Nguyên Soái · Dạ Xoa'
 BOYANG = dict(name='Boyang', role='Thuật sĩ · tổ tiên của Yelan', desc='Một trong các tổ tiên của Yelan, người năm xưa đến Vực Đá Sâu và không thể trở về.')
 ZHONGLI_CD2 = dict(name='Zhongli', role='Khách của Vãng Sinh Đường', img='zhongli_icon.png', desc='Lặng lẽ dõi theo từ trên vách núi.')
 
+# --- Chương III · Màn I (Sumeru) ---
+TIGHNARI = dict(name='Tighnari', role='Đội Trưởng Kiểm Lâm · Làng Gandharva', img='tighnari_icon.png', desc='Người thầy của Collei, am hiểu thực vật và bào chế thuốc. Đã nhiều lần từ chối lời mời nhậm chức của Giáo Viện, cùng Lumine đi giải quyết Tử Vực và tìm cách cứu Haypasia.')
+COLLEI = dict(name='Collei', role='Kiểm lâm tập sự · Làng Gandharva', img='collei_icon.png', desc='Học trò của Tighnari, bạn thư từ của Amber ở Mondstadt. Đã đưa Lumine ngất xỉu về làng; từ nhỏ mắc bệnh Eleazar nên phải hạn chế chạm vào đồ vật.')
+KIEMLAM = dict(name='Amir và Nasrin', role='Nhân viên kiểm lâm · Làng Gandharva', desc='Hai nhân viên kiểm lâm của làng, thường nói chuyện với Tighnari về việc tuần tra, nấm độc và Tử Vực.')
+HAYPASIA = dict(name='Haypasia', role='Học giả Học Phái Rtawahist · Giáo Viện', img='haypasia_icon.png', desc='Học giả ẩn cư trong hang núi, dùng Linh Phân Hương để thiền định và kết nối với Cây Thế Giới. Lumine ngất đi vì làn khói hương của cô.')
+HERALD_C3 = dict(name='Sứ Đồ Vực Sâu', role='Giáo Đoàn Vực Sâu', img='herald_icon.png', desc='Xuất hiện trong giấc mơ của Lumine ở hang núi, nói rằng “Hoàng tử đại nhân” đã bỏ rơi cô và hành trình tìm anh vốn đã không còn ý nghĩa.')
+GIAOVIEN = dict(name='Ghulam và Khajeh', role='Người của Giáo Viện', desc='Hai người của Giáo Viện đến Làng Gandharva để mời Tighnari về Thành Sumeru, bị Tighnari từ chối.')
+PANAH = dict(name='Panah, Rohawi và Asfand', role='Giáo Viện · Lữ Đoàn 30', desc='Panah trao Trạm Cuối Akasha cho khách mới đến Thành Sumeru, Rohawi là nhà nghiên cứu quen biết Tighnari, Asfand là cố vấn của Lữ Đoàn 30, nhóm Eremite phụ trách an ninh thành.')
+DUNYARZAD = dict(name='Dunyarzad', role='Tiểu thư nhà Homayani', img='dunyarzad_icon.png', desc='Tín đồ trung thành của Tiểu Vương Kusanali, đang chuẩn bị Lễ Hội Sabzeruz. Cho Lumine biết Tiểu Vương Kusanali thật sự được người dân yêu mến.')
+DEHYA = dict(name='Dehya', role='Eremite · Vệ sĩ của Dunyarzad', img='dehya_icon.png', desc='Vệ sĩ của Dunyarzad, mạnh mẽ và thẳng tính, luôn theo sát tiểu thư để bảo vệ cô.')
+NILOU = dict(name='Nilou', role='Vũ công · Đại Khu Bazaar', img='nilou_icon.png', desc='Vũ công đang cùng mọi người trang trí Đại Khu Bazaar và chuẩn bị điệu múa cho Lễ Hội Sabzeruz, mời Lumine đừng bỏ lỡ lễ hội.')
+ALHAITHAM = dict(name='Alhaitham', role='Học giả · Giáo Viện', img='alhaitham_icon.png', desc='Học giả của Giáo Viện, muốn nghiên cứu “Hũ Tri Thức Thần”. Cùng Lumine truy tìm nó ở Cảng Ormos, rồi giao đấu với nhóm Ayn Al-Ahmar.')
+DORI = dict(name='Dori', role='Thương nhân bách hóa · Cảng Ormos', img='dori_icon.png', desc='Thương nhân mê Mora ở Cảng Ormos, bán đủ thứ hàng và tình báo. Giúp Lumine tìm ra manh mối về Hũ Tri Thức Thần.')
+AYN = dict(name='Tariq và Tumart', role='Nhóm Eremite Ayn Al-Ahmar', desc='Thành viên của Ayn Al-Ahmar, những người tôn thờ Vua Deshret và giữ trong tay “Hũ Tri Thức Thần”.')
+GIAOVIEN2 = dict(name='Học sinh Giáo Viện và người dân Sumeru', role='Những người khác', desc='Các học sinh và người dân Thành Sumeru, Cảng Ormos gặp trên đường đi: Lambad, Muruwa, Hamasa, Sharaf, Aftab, Kumari, Shrimati, Farhad, Rama, Pooria, Jayant, Elham, Sidhu, Bandi, Kudari, Eymen, Latish, Raunak.')
+KATHERYNE_C3 = dict(name='Katheryne', role='Hiệp Hội Nhà Mạo Hiểm · Thành Sumeru', desc='Nhân viên hiệp hội tại Thành Sumeru, cho Lumine biết thêm tình hình và chỉ đường.')
+
 ACTS = [
   dict(id='man1', arc='Mở Đầu', src='man1.txt', act='Mở Đầu · Màn I', title='Người Phương Xa Đuổi Theo Gió', sub='Nhiệm vụ Ma Thần — Mondstadt',
        hero='traveler_portrait.png', cast=[LUMINE, PAIMON, AETHER, GOD, AMBER, KAEYA, JEAN, LISA, DRAGON, BOY, VOICE],
@@ -288,4 +305,7 @@ ACTS = [
   dict(id='cd-man2', arc='Chương II · Inazuma', src='cd_man2.txt', act='Chương Đệm · Màn II', title='Lộ Trình Nguy Hiểm', sub='Nhiệm vụ Ma Thần — Liyue',
        hero='yelan_splash.png', cast=[LUMINE, PAIMON, YELAN, YANFEI, ITTO, SHINOBU, USHI, XIAO_CD2, FUSHE, BOYANG, ZHONGLI_CD2],
        pdf='', footer='Chương Đệm · Màn II — Lộ Trình Nguy Hiểm', side=False),
+  dict(id='c3-man1', arc='Chương III · Sumeru', src='c3_man1.txt', act='Chương III · Màn I', title='Xuyên Qua Màn Sương Và Rừng Rậm', sub='Nhiệm vụ Ma Thần — Sumeru',
+       hero='c3m1_act.png', cast=[LUMINE, PAIMON, TIGHNARI, COLLEI, KIEMLAM, HAYPASIA, HERALD_C3, GIAOVIEN, PANAH, KATHERYNE_C3, DUNYARZAD, DEHYA, NILOU, ALHAITHAM, DORI, AYN, GIAOVIEN2],
+       pdf='', footer='Chương III · Màn I — Xuyên Qua Màn Sương Và Rừng Rậm', side=False),
 ]
