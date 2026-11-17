@@ -241,6 +241,19 @@ AYN = dict(name='Tariq và Tumart', role='Nhóm Eremite Ayn Al-Ahmar', desc='Th�
 GIAOVIEN2 = dict(name='Học sinh Giáo Viện và người dân Sumeru', role='Những người khác', desc='Các học sinh và người dân Thành Sumeru, Cảng Ormos gặp trên đường đi: Lambad, Muruwa, Hamasa, Sharaf, Aftab, Kumari, Shrimati, Farhad, Rama, Pooria, Jayant, Elham, Sidhu, Bandi, Kudari, Eymen, Latish, Raunak.')
 KATHERYNE_C3 = dict(name='Katheryne', role='Hiệp Hội Nhà Mạo Hiểm · Thành Sumeru', desc='Nhân viên hiệp hội tại Thành Sumeru, cho Lumine biết thêm tình hình và chỉ đường.')
 
+# --- Chương III · Màn II (Sumeru) ---
+DUNYARZAD2 = dict(name='Dunyarzad', role='Tiểu thư nhà Homayani · người tổ chức Lễ Hội Sabzeruz', img='dunyarzad_icon.png', desc='Tiết lộ mình mắc bệnh Eleazar giai đoạn cuối, vẫn dốc sức tổ chức Lễ Hội Sabzeruz để mừng sinh nhật Tiểu Vương Kusanali, và là người cùng Lumine bị cuốn vào vòng “samsara”.')
+DEHYA2 = dict(name='Dehya', role='Eremite · Vệ sĩ của Dunyarzad', img='dehya_icon.png', desc='Bảo vệ Dunyarzad và buổi lễ, cùng Lumine đối đầu Eremite định bắt cóc cô, rồi bị cuốn vào việc chứng minh “cọc gỗ” trong vòng lặp ngày lễ.')
+NILOU2 = dict(name='Nilou', role='Vũ công · Đại Khu Bazaar', img='nilou_icon.png', desc='Chuẩn bị biểu diễn Vũ Điệu Sabzeruz, bị Giáo Viện cấm; cuối cùng điệu múa vẫn diễn ra với hai chậu Padisarah.')
+NAHIDA = dict(name='Nahida', role='Cô gái bí ẩn', img='nahida_icon.png', desc='Cô gái nhỏ nhắn chỉ vài người nhìn thấy, tự xưng là “mặt trăng” và nhắc Lumine rằng họ đang bị nhốt trong một “samsara”. Cuối màn, Lumine nhận ra cô là Tiểu Vương Kusanali.')
+KIMIYA = dict(name='Kimiya', role='Người bán “Bói Giả Kim”', img='kimiya_icon.png', desc='Bày quầy “Bói Giả Kim” trong lễ hội, dùng nguyên liệu của khách để luyện kim rồi đoán ý nghĩa từ kết quả.')
+VIHAR = dict(name='Vihar', role='Người đóng “Kỵ Sĩ Hoa Farris”', img='vihar_icon.png', desc='Phát Kẹo Yalda cho trẻ em trong lễ hội, tự xưng “Kỵ Sĩ Hoa Farris” và rất quý Dunyarzad.')
+AZAR = dict(name='Azar', role='Đại Hiền Giả · Giáo Viện', img='azar_icon.png', desc='Ra lệnh dỡ bỏ Vũ Điệu Sabzeruz và cấm lễ hội, cho rằng tự ý tổ chức lễ hội của thần là vi phạm lệnh cấm.')
+SETARIA = dict(name='Setaria', role='Người của Giáo Viện', desc='Đi cùng Azar, đọc lệnh cấm tổ chức Lễ Hội Sabzeruz.')
+BADIS = dict(name='Badis và Idder', role='Eremite', desc='Hai Eremite định bắt cóc Dunyarzad trong lễ hội.')
+AMAL = dict(name='Amal và Lambad', role='Chủ quầy · Chủ quán rượu', desc='Amal bán “Bàn Tiệc Haft-Mewa” trong lễ hội, Lambad là chủ Quán Rượu Lambad.')
+OTHERS_C32 = dict(name='Người dân Thành Sumeru', role='Những người khác', desc='Bọn trẻ trong lễ hội, vệ binh và thương nhân ở cổng thành, một người lạ xuất hiện ở cuối màn.')
+
 ACTS = [
   dict(id='man1', arc='Mở Đầu', src='man1.txt', act='Mở Đầu · Màn I', title='Người Phương Xa Đuổi Theo Gió', sub='Nhiệm vụ Ma Thần — Mondstadt',
        hero='traveler_portrait.png', cast=[LUMINE, PAIMON, AETHER, GOD, AMBER, KAEYA, JEAN, LISA, DRAGON, BOY, VOICE],
@@ -308,4 +321,7 @@ ACTS = [
   dict(id='c3-man1', arc='Chương III · Sumeru', src='c3_man1.txt', act='Chương III · Màn I', title='Xuyên Qua Màn Sương Và Rừng Rậm', sub='Nhiệm vụ Ma Thần — Sumeru',
        hero='c3m1_act.png', cast=[LUMINE, PAIMON, TIGHNARI, COLLEI, KIEMLAM, HAYPASIA, HERALD_C3, GIAOVIEN, PANAH, KATHERYNE_C3, DUNYARZAD, DEHYA, NILOU, ALHAITHAM, DORI, AYN, GIAOVIEN2],
        pdf='', footer='Chương III · Màn I — Xuyên Qua Màn Sương Và Rừng Rậm', side=False),
+  dict(id='c3-man2', arc='Chương III · Sumeru', src='c3_man2.txt', act='Chương III · Màn II', title='Bình Minh Của Ngàn Đóa Hồng', sub='Nhiệm vụ Ma Thần — Sumeru',
+       hero='c3m2_q2.png', cast=[LUMINE, PAIMON, DUNYARZAD2, DEHYA2, NILOU2, NAHIDA, KIMIYA, VIHAR, AZAR, SETARIA, BADIS, AMAL, OTHERS_C32],
+       pdf='', footer='Chương III · Màn II — Bình Minh Của Ngàn Đóa Hồng', side=False),
 ]
