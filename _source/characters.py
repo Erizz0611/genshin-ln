@@ -318,7 +318,7 @@ dict(name='Zhongli', title='Khách của Vãng Sinh Đường', img='zhongli_car
   origin='Dori sống bằng nghề buôn bán ở cảng, hay nhắc khách quen mang theo “chứng nhận tình bạn” là thứ Mora sáng lấp lánh.',
   role='Giúp Lumine và Paimon chọn Hũ Tri Thức, rồi cung cấp tình báo về Hũ Tri Thức Thần để họ mang về cho Alhaitham.'),
  dict(name='Nahida', title='Cô gái bí ẩn', img='nahida_card.png',
-  info=[('Vai trò','Cô gái bí ẩn'),('Vision','Thảo'),('Xuất hiện','Chương III Màn II')],
+  info=[('Vai trò','Cô gái bí ẩn'),('Xuất hiện','Chương III Màn II')],
   who='Cô gái nhỏ nhắn chỉ vài người nhìn thấy được. Tự xưng là “Nahida” và là “mặt trăng”, chỉ cho Lumine và Paimon thấy họ đang bị nhốt trong một vòng “samsara” của Lễ Hội Sabzeruz.',
   origin='Truyện chưa kể gì thêm về nguồn gốc của cô; cuối Chương III Màn II, Lumine nhận ra cô chính là Tiểu Vương Kusanali.',
   role='Đưa Lumine và Paimon vào không gian bí ẩn, hướng dẫn họ suy luận từ các manh mối trong những ngày lễ lặp lại, từ “vòng lặp thời gian” đến kết luận đúng rằng họ đang ở trong một giấc mơ. Trước khi lễ hội kết thúc, cô được Lumine gọi là Tiểu Vương Kusanali.'),
