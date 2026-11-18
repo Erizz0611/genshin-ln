@@ -1,0 +1,1909 @@
+#CH|Phần 1|Chọn Lựa|nc_char_kachina.png|Chọn Lựa
+
+Làm quen được với nhiều người bạn mới ở Cư Dân Suối Nước và trải qua trận tập kích bất ngờ của Vực Sâu, Lumine và Paimon quyết định lưu lại khu làng ven biển nghỉ ngơi một thời gian để lấy lại sức trước chặng đường kế tiếp.
+
+>Đợi đến hai ngày sau
+
+>Đi dạo tại Cư Dân Suối Nước
+
+Hai ngày trôi qua êm ả giữa hơi ấm từ những dòng suối nước nóng. Sáng ngày thứ ba, Lumine và Paimon thong thả dạo bước dọc theo lối sàn gỗ nhìn ra vịnh biển xanh biếc của Cư Dân Suối Nước.
+
+“Ngâm suối nước nóng hai ngày, cuối cùng cũng hồi phục rồi. Haiz, nếu không có Vực Sâu đột nhiên làm phiền thì tốt rồi, thật đáng ghét,” Paimon nói. “Nhưng những ngày sau đó cũng xem như không tệ. Cuối cùng cũng có cảm giác như đang nghỉ dưỡng rồi. Đám Koholasaur cũng rất nghe lời, thường hay đến tìm tôi chơi, bụng cũng rất đàn hồi nữa! À, cũng may có những món ăn vặt mà Atea đã nướng đấy. Đúng là ngon thật đó! Sáng nay cô ấy còn nhét cho tôi một ít, để tôi mang theo ăn trên đường nữa.”
+
+“Atea giờ đang làm gì vậy?” Lumine hỏi.
+
+“Giống như khi gặp chúng ta thôi. Có đứa trẻ ném đá vào suối nước nóng, bị cô ấy bắt lại rồi. Tôi thấy cô ấy đang giáo huấn mấy đứa nhóc gây rối đó,” Paimon nói.
+
+“Thế nào rồi, hôm qua ngủ ngon chứ?” Mualani hỏi.
+
+“Rất ngon. Ở đây rất thoải mái đó, hihi,” Paimon nói.
+
+“Lát nữa chúng ta sẽ đi câu cá ngoài biển, câu được cái gì thì ăn cái đó. Cá tươi khi được nướng lên rất thơm, ngon lắm đó,” Mualani nói.
+
+“Này, Mualani!” Tonina nói.
+
+“A, tôi ở đây. Tìm tôi có việc gì không?” Mualani hỏi.
+
+“Đội ngũ tham gia Trận Chiến Người Gác Đêm vừa nãy đã trở về rồi,” Tonina nói.
+
+“Còn Kachina thì sao? Em ấy cũng đã trở về rồi đúng không?” Mualani hỏi.
+
+“Kachina... Em ấy đã không may hy sinh trong lúc giao chiến rồi,” Tonina nói. “Nhưng đừng lo, đội của em ấy đã giành chiến thắng rồi. Tiếp theo đây mọi người sẽ tổ chức Nghi Thức Hoàn Hồn ở Đấu Trường Lửa Thánh đó.”
+
+“Vậy thì tốt, thắng là tốt rồi. Dù sao thì đây cũng là lần đầu tiên đối mặt với kẻ địch xảo quyệt mà, khó tránh sẽ có lúc sơ suất,” Mualani nói.
+
+“Đúng vậy. Lần này xem như em ấy đã nở mày nở mặt rồi,” Tonina nói.
+
+“Cảm ơn cô đã đưa tin đến đây. Lát nữa chúng tôi sẽ đến đó ngay,” Mualani nói. “Phù, nghe giọng điệu của cô ấy có chút sốt ruột, tôi còn tưởng đã xảy ra chuyện gì rồi chứ.”
+
+“Cô nói Vực Sâu ‘xảo quyệt’, lẽ nào chúng không chỉ muốn phá hủy mọi thứ sao?” Paimon hỏi. “Nếu chúng thực sự xảo quyệt, vậy thì đã không bất ngờ tấn công Cư Dân Suối Nước, mà để dành quân số đi tập kích đội của Kachina sẽ tốt hơn chứ nhỉ? À, tôi không có ý muốn để họ gặp phải nguy hiểm đâu!”
+
+“Haha, tôi hiểu. Vực Sâu đúng là một cái gì đó không thể tưởng tượng được,” Mualani nói. “Nhìn bề ngoài thì nó chỉ muốn phá hủy tất cả. Vì nó không phải sự sống, nên cũng không quan tâm đến logic và kế hoạch. Nhưng trong lịch sử kháng chiến dài đằng đẵng của Natlan, chúng tôi đã phát hiện ra rằng sự việc không hề đơn giản như vậy. Năm trăm năm trước, Vực Sâu xâm chiếm toàn bộ Teyvat, chuyện này chắc hai vị cũng biết nhỉ?”
+
+“Thời kỳ Khaenri'ah sao?” Lumine hỏi.
+
+“Ừm, khi đó không chỉ có Khaenri'ah gặp nạn, mà tất cả các quốc gia khác cũng đều rất thê thảm,” Mualani nói. “Natlan là nơi thiệt hại nghiêm trọng nhất. Dưới sự đồng tâm hiệp lực của Hỏa Thần và những anh hùng trong các bộ tộc năm đó, cuối cùng chúng tôi cũng đã đẩy lùi Vực Sâu. Nhưng ảnh hưởng mà Vực Sâu để lại, chúng tôi đã mất mấy trăm năm mới dần giải quyết được... Nước của Cư Dân Suối Nước bị ô nhiễm, bùn lầy tai ương tràn ra từ lòng đất nơi Con Của Tiếng Vang. Hội Hoa Vũ thổi ra những làn gió đen không bao giờ ngừng nghỉ... Những thảm họa này dường như được ‘thiết kế’ riêng cho mỗi bộ tộc.”
+
+“Nó hiểu rõ gốc rễ của mỗi bộ tộc sao?” Lumine hỏi.
+
+“Đúng vậy. Chúng tôi vốn cho rằng sự ham muốn phá hoại của Vực Sâu là một dạng kích động nguyên thủy, nhưng cách nó thực hiện thì lại rất thông minh,” Mualani nói. “Sau đó chúng tôi cho rằng, do Vực Sâu đã xâm nhập vào Vương Quốc Dạ Thần, nên có thể đọc được ký ức của vùng đất này bất kỳ lúc nào.”
+
+“Vì vậy chúng mới trở nên vừa nguy hiểm vừa xảo quyệt, như thể biết rõ về mọi người vậy...” Paimon nói.
+
+“Đúng vậy. Đây cũng là lý do bấy lâu nay chúng tôi không thể loại bỏ nó hoàn toàn,” Mualani nói. “Nhưng may mắn là sau nhiều năm như vậy, vấn đề mà Vực Sâu để lại cho bộ tộc đều được các đời Hỏa Thần giải quyết. Hiện nay mỗi bộ tộc đều đang phồn thịnh, mọi thứ đang phát triển theo chiều hướng tốt đẹp. Vụ tập kích mấy ngày trước cũng bị chúng ta hợp sức đánh lui rồi không phải sao?”
+
+“Việc muốn dọn sạch Vực Sâu phải tốn bao nhiêu công sức thì mình đã từng chứng kiến ở các quốc gia khác rồi. Đối với người Natlan luôn sống trong sự uy hiếp của Vực Sâu, không biết trận chiến này sẽ còn phải kéo dài bao lâu nữa...” Lumine thầm nghĩ.
+
+“Vẫn sẽ đau buồn vì sự hy sinh không thể tránh khỏi nhỉ...” Paimon nói.
+
+“Chiến đấu là để không phải chiến đấu nữa, hy sinh là để không phải hy sinh nữa,” Mualani nói. “Trận chiến dài đằng đẵng này đối với chúng tôi, nói là trách nhiệm hay sứ mệnh cũng được, nói là gánh nặng cũng được. Mỗi người đều có cách hiểu khác nhau. Nhưng tôi vẫn cảm thấy là Vực Sâu sẽ bị tiêu diệt hoàn toàn vào một ngày nào đó trong tương lai. Sự nỗ lực của tất cả mọi người sẽ hội tụ thành một vở sử thi hào hùng. Đợi đến khi người Natlan hát lại tên tôi trong bài ca dao, tôi cảm thấy đó là một chuyện rất lãng mạn. Những người khác, cũng đang dốc hết sức vì ‘khát vọng’ trong lòng mình.”
+
+“Mọi người nhất định sẽ làm được,” Lumine nói.
+
+“Ừm, vì bản thân, cũng là vì tương lai,” Mualani nói. “Đi thôi, chúng ta đến Đấu Trường Lửa Thánh nào. Chuyện câu cá thì đợi khi nào trở về rồi tính vậy, lúc đó rủ cả Kachina cùng đi. Biển cả sẽ luôn đợi chúng ta mà!”
+
+Tạm gác lại dự định câu cá ngoài khơi cho đến lúc đón được Kachina trở về, cả nhóm rời Cư Dân Suối Nước hướng về Đấu Trường Lửa Thánh.
+
+---
+
+>Đến Đấu Trường Lửa Thánh
+
+Đấu Trường Lửa Thánh hôm nay đông nghẹt người. Dân chúng từ khắp các bộ tộc đã tề tựu kín các bậc khán đài, nô nức chờ đợi khoảnh khắc Lửa Thánh bùng lên đón những vị anh hùng thắng trận trở về.
+
+“Woa, ở đây đang rất náo nhiệt nhỉ,” Paimon nói.
+
+“Đúng vậy. Mọi người đều đang chuẩn bị đón chào những vị anh hùng trở về mà. Hihi, đây là thời khắc vinh quang nhất đấy,” Mualani nói. “Chắc một lát nữa Kachina sẽ không biết phải làm gì nhỉ. Có lẽ đây là lần đầu tiên trong đời em ấy được nhiều người chú ý đến vậy đó.”
+
+“Tôi cũng nghĩ vậy, em ấy có chút sợ hãi,” Paimon nói.
+
+“Xem ra tôi cũng đến kịp lúc rồi,” Kinich nói.
+
+“Ồ, Kinich cũng đến rồi sao!” Paimon nói.
+
+“Ừm. Tôi vừa xử lý xong một ủy thác, tốn nhiều thời gian hơn tôi tưởng. Tôi nghe nói Cư Dân Suối Nước vừa xảy ra chuyện, mọi người không bị thương chứ?” Kinich hỏi.
+
+“Không có vấn đề gì lớn, đã xử lý ổn thỏa rồi. Người bạn mới này của chúng ta rất có năng lực đấy, chẳng trách sao Kachina lại nói cô ấy rất lợi hại,” Mualani nói.
+
+“Vẫn chưa phải hoàn hảo đâu. Nếu tôi nhạy bén hơn một chút nữa thì tốt rồi,” Lumine nói.
+
+“Mọi người xem, có phải sắp bắt đầu rồi không?” Paimon hỏi.
+
+“Đúng vậy. Trước tiên sẽ có người niệm một đoạn văn truy điệu, sau đó chúng ta sẽ cùng hát Thơ Hoàn Hồn,” Mualani nói. “Đi theo tôi, tìm một nơi có tầm nhìn tốt. Lát nữa mọi người cứ hát theo tôi là được. Đến nơi cao hơn một chút nào, để Kachina có thể nhìn thấy chúng ta ngay.”
+
+Cả nhóm tìm được một khoảng bậc thang cao thoáng tầm nhìn và đứng hòa vào biển người phía dưới. Khi bầu không khí trong đấu trường lắng xuống, Ntotila bước ra trước đài lửa, trang nghiêm niệm bài văn truy điệu.
+
+“Các dũng sĩ Natlan, hãy lắng nghe tiếng gọi của sinh mệnh,” Ntotila nói. “Chúng ta đã kế thừa ký ức và truyền thuyết. Chúng ta đã trưởng thành cùng mặt trời và gió. Chúng ta đã đúc nên vận mệnh và tương lai. Đây đều là lửa của Natlan, là máu của Natlan.”
+
+Ngay sau lời hiệu triệu của Ntotila, cả biển người trên khán đài đồng thanh cất tiếng hát vang giai điệu Thơ Hoàn Hồn, hòa thành làn sóng âm vang dội khắp Đấu Trường Lửa Thánh.
+
+“Câu chuyện vẫn sẽ tiếp tục. Vinh quang đã được kế thừa. Dũng khí sẽ thắp sáng bầu trời và mặt đất. Natlan sẽ đón chào chiến thắng. Chúng tôi sẽ ở đây chờ đợi, sẽ ở đây ca tụng. Trở về đi, người anh em. Trở về đi, hỡi anh hùng. Lại lần nữa, lại lần nữa bùng cháy lên nào!” đám đông đồng thanh hát vang.
+
+Ánh lửa thiêng bùng lên rực rỡ giữa tiếng ca rộn rã, rồi dần dịu xuống. Thế nhưng khi ngọn lửa thu lại, chỉ có một mình Hỏa Thần Mavuika bước ra — không hề có bóng dáng Kachina bên cạnh. Mualani sững sờ nín lặng khi thấy vẻ mặt trầm trọng của vị thần.
+
+“Tôi không tìm thấy Kachina và Tên Cổ của cô bé ở Vương Quốc Dạ Thần,” Mavuika nói.
+
+“Cái gì...?” Mualani hỏi.
+
+“Hả? Không thấy... Vậy là sao?” Paimon hỏi.
+
+“Theo lý mà nói thì sau khi hát Thơ Hoàn Hồn, Hỏa Thần đại nhân sẽ dẫn người được hồi sinh bước ra khỏi ngọn lửa. Nhưng bây giờ...” Kinich nói.
+
+“Có chuyện gì vậy?” Lakamha hỏi.
+
+“Trước giờ chưa từng gặp trường hợp này đấy,” Mazatan nói.
+
+“Cũng đơn giản mà, chẳng phải vì họ thật ra không hề giành được thắng lợi sao?” Tepexpan hỏi. “Mọi người nghĩ xem, Thơ Hoàn Hồn có thể khiến tất cả những người chiến thắng hồi sinh. Đây là cảnh tượng mà chúng ta đã chứng kiến vô số lần.”
+
+“Nếu Hỏa Thần đại nhân không tìm được Kachina ở Vương Quốc Dạ Thần, vậy chẳng phải đã chứng minh là trận thắng này có vấn đề sao?” Tamuin hỏi.
+
+“Lại là các người à! Các người chỉ vì thua Kachina mà không phục thôi!” Paimon nói.
+
+“Thật là khó coi đấy, hai tên này...” Kinich nói.
+
+“Đừng suy đoán lung tung. Chúng tôi thực sự đã hoàn thành nhiệm vụ chống lại Vực Sâu rồi,” Chasca nói.
+
+“Dù có hoàn thành thì cũng có rất nhiều cách mà. Ví dụ như nhóc con đó sợ hãi quá nên đã không có cống hiến gì chẳng hạn?” Tepexpan hỏi. “Tóm lại, dù cô nhóc đó có ở trong đội ngũ chiến thắng thì cũng sẽ không được Wayob công nhận đâu.”
+
+“Sao các người lại có thể dùng những lời lẽ như vậy để xúc phạm anh hùng của Natlan thế?” Mualani hỏi. “Cô bé đã hy sinh mạng sống để chống lại Vực Sâu, đến bây giờ vẫn chưa thể trở về, vậy mà còn phải chịu đựng những suy đoán ác độc của các người sao?!”
+
+“Bình tĩnh đi, Mualani. Tranh cãi với loại người này không có ý nghĩa gì đâu,” Kinich nói.
+
+“Nhưng tôi cũng không thể để mặc họ buông những lời lẽ xỉa xói như vậy được!” Mualani nói.
+
+“Bảo tôi đang bôi nhọ anh hùng thì trước hết phải là anh hùng đã chứ,” Tamuin nói.
+
+“Ngươi...!” Mualani nói.
+
+“Thì cứ để mọi người ở đây suy nghĩ đi! Xem rốt cuộc là nhóc con đó đang xảy ra chuyện gì...” Tepexpan nói. “Hay chính Hỏa Thần đại nhân của chúng ta, quy tắc của Natlan chúng ta có vấn đề?!”
+
+“Cũng đúng thật. Nếu không thể được Thơ Hoàn Hồn hồi sinh, thì chỉ có khả năng là không giành được thắng lợi thôi,” Lakamha nói.
+
+“Hoặc Wayob có cách hiểu khác về chiến thắng chăng?” Mazatan hỏi.
+
+“Hơn nữa cô bé đó, quả thật trông có vẻ khá yếu đuối...” Ecate nói.
+
+Giữa tiếng xì xào bất bình lan nhanh trên khán đài, Mavuika vẫn đứng lặng trầm tư trước Lửa Thánh.
+
+“Hỏa Thần dường như đang trầm tư, tại sao nhỉ? Cô ấy là người có khả năng ngăn cản cuộc tranh cãi này nhất,” Lumine thầm nghĩ.
+
+“Tôi không tin là Kachina đã trốn tránh trận chiến này, em ấy không phải là người như vậy,” Paimon nói.
+
+“Em ấy sẽ không trốn tránh. Em ấy đã khao khát Trận Chiến Người Gác Đêm này từ rất lâu rồi,” Mualani nói. “Dù gặp khó khăn gì, dù trong lòng em ấy có sợ hãi hay không muốn, thì em ấy cũng sẽ đứng dậy trước bất kỳ ai... Vì vậy, trước khi mọi chuyện được làm rõ, không ai được phép nhân cơ hội này buông lời ác ý để trút giận trong lòng.”
+
+“Hah, được thôi. Dù sao thì rất nhanh thôi chúng ta cũng sẽ biết được Trận Chiến Người Gác Đêm đã xảy ra chuyện gì, và biết được rốt cuộc có ai đã phản bội lại vinh quang không...” Tepexpan nói.
+
+“Được rồi, trật tự nào,” Mavuika nói. “Thắng lợi của tất cả mọi người là chuyện không có gì bàn cãi, bao gồm cả Kachina. Chúng ta nên dành sự tôn trọng và chúc phúc cho cô bé. Nhưng lần này cô bé không thể thuận lợi hồi sinh cũng là sự thật. Tình hình cụ thể vẫn đang điều tra, trước tiên tôi xin được bày tỏ sự áy náy về chuyện này. Trước khi điều tra rõ ràng, để không có thêm người bị hại thì Nghi Lễ Hành Hương sẽ tạm dừng một thời gian.”
+
+“Hả?” Tepexpan hỏi.
+
+“Không ai có thể dự đoán mọi thứ hay loại bỏ mọi sai sót, cả tôi cũng vậy,” Mavuika nói. “Nghi ngờ là cách để tìm ra sự thật, chứ không phải là vũ khí để công kích người khác.”
+
+“Tôi... Tôi không có ý đó. Hỏa Thần đại nhân, tôi chỉ...” Tepexpan nói.
+
+“Vậy thì cứ hỏi thẳng tôi nhé, dù có chất vấn câu trả lời của tôi cũng không sao. Còn có điều gì khác muốn làm rõ không?” Mavuika hỏi.
+
+“Không... Đương nhiên là không rồi...” Tamuin nói.
+
+“Rõ ràng là tôi không có nói gì cả, đúng chứ? Thực ra với anh thì chân tướng căn bản là không quan trọng,” Mavuika nói.
+
+“Cái tên này, đừng nói là vinh quang, ngay cả việc đối diện với Hỏa Thần để đặt câu hỏi mà cũng không có can đảm,” Paimon nói.
+
+“Tôi có thể hỏi một câu không, Hỏa Thần đại nhân?” Mualani hỏi. “Rốt cuộc thì Kachina, bạn của tôi đã đi đâu? Điều này rất quan trọng đối với tôi! Chỉ một câu ‘tình hình vẫn đang điều tra’ thì... Xin thứ lỗi, tôi không thể chấp nhận!”
+
+“Tôi đã công khai toàn bộ tình hình hiện tại. Nếu muốn nhanh chóng tìm ra chân tướng để cứu viện thì cách tốt nhất chính là tham gia vào cuộc điều tra lần này,” Mavuika nói. “Thế nào, cô đồng ý chứ?”
+
+“Đương nhiên rồi!” Mualani nói.
+
+“Được, vậy thì đến ‘Phòng Quản Lý’ của tôi nhé,” Mavuika nói.
+
+“Chúng tôi cũng đi cùng,” Chasca nói.
+
+“À, cơ hội hiếm có, nếu lịch trình thuận tiện thì tôi cũng muốn làm phiền Nhà Lữ Hành một chút. Cùng đến Phòng Quản Lý để nói chuyện nhé,” Mavuika nói.
+
+Chasca quay sang nhìn Iansan, và Iansan khẽ gật đầu đồng tình.
+
+“Nếu công tác điều tra có tiến triển thì tôi sẽ truyền đạt lại cho thủ lĩnh của các bộ tộc. Mọi người cứ yên tâm,” Mavuika nói. “Nếu không còn nghi vấn gì khác thì hôm nay đến đây thôi. Một lần nữa, tôi xin gửi lời xin lỗi vì ‘Nghi Thức Nổi Lửa’ không trọn vẹn này.”
+
+“Hmm? Cô ấy vừa mới nói là... muốn chúng ta đi cùng sao?” Paimon hỏi.
+
+“Nếu cô ấy đã nói vậy rồi thì đi thôi. Tôi cũng đi xem thử,” Kinich nói.
+
+---
+
+>Đến Phòng Quản Lý tìm Mavuika
+
+Theo chân Mavuika bước vào căn phòng nghị sự yên tĩnh phía trong Đấu Trường, Mualani, Chasca, Kinich, Iansan cùng Lumine và Paimon lập tức vây quanh nghe cô trình bày tình hình.
+
+“Sự việc cấp bách, nên tôi sẽ nói thẳng vào vấn đề chính. Kachina đích thực là anh hùng của Natlan chúng ta, và tôi rất xin lỗi vì đã xảy ra chuyện như vậy,” Mavuika nói. “Vương Quốc Dạ Thần xảy ra sự hỗn loạn không rõ nguyên nhân, Kachina đã mất tích trong đó. Tôi không thể định vị được cô bé. Trước khi tìm ra nguyên nhân và giải quyết, Thơ Hoàn Hồn sẽ không thể phát huy tác dụng vốn có của nó nữa.”
+
+“Cũng có nghĩa là, Kachina sẽ không thể trở về sao?” Paimon hỏi.
+
+“Ừm. Chúng ta sẽ tạm thời không thể gặp cô bé trong một thời gian, cho đến khi vấn đề của Vương Quốc Dạ Thần được giải quyết,” Mavuika nói.
+
+“Vậy một thời gian là bao lâu?” Mualani hỏi.
+
+“Tôi không biết, điều này rất khó nói,” Mavuika nói.
+
+“Kachina luôn có ước mơ tham gia Trận Chiến Người Gác Đêm, muốn dâng hiến sức lực của mình để bảo vệ Natlan,” Mualani nói. “Chắc chắn em ấy chưa từng sợ hy sinh, vì em ấy biết Hỏa Thần đại nhân sẽ khiến sinh mệnh của em ấy bùng cháy trở lại. Khi tôi và em ấy ngồi nghỉ ngơi khi luyện tập mệt, em ấy luôn ngâm nga giai điệu của Thơ Hoàn Hồn... Sau khi vượt qua gian nan vất vả, cuối cùng em ấy sẽ trở lại nơi này mà ôm lấy chúng ta, chia sẻ sự phấn khích và niềm vui của mình... Nhưng bây giờ, những người ủng hộ em ấy sẽ có cảm xúc như thế nào khi đối mặt với kết quả này đây? Yên tâm chờ em ấy trở về? Hay là rơi nước mắt tiếc thương? Chúng ta rốt cuộc là bạn, hay chính là hung thủ đẩy em ấy vào tình cảnh này đây?”
+
+“Hơi quá lời rồi đó, Mualani,” Kinich nói.
+
+“Không sao, tôi hiểu nỗi lòng của cô, Mualani. Và tôi cũng rất quan tâm đến sự sống chết của Kachina,” Mavuika nói. “Nếu được thì tôi cũng hy vọng có thể sớm ngày đưa Kachina trở về, để tất cả những người quan tâm đến vận mệnh của em ấy đều yên tâm. Nhưng hãy cho tôi thời gian nói vài câu, để tôi giải thích toàn diện hơn về khó khăn trước mắt. Kết hợp với chuyện Cư Dân Suối Nước bị tập kích gần đây, tôi phát hiện Vực Sâu đã tìm ra cách thức mới để phá hoại quy tắc của Natlan.”
+
+“Phá hoại...?” Mualani hỏi.
+
+“Mọi người đều biết, Lửa Thánh là nền tảng để Natlan chống lại Vực Sâu,” Mavuika nói. “Nếu tiếp tục tổ chức Nghi Lễ Hành Hương để tiến hành Trận Chiến Người Gác Đêm, thì rất có thể sẽ xuất hiện những nạn nhân mới. Nhưng nếu dừng lại tại đây, thì sức mạnh của Lửa Thánh sẽ ngày một yếu đi. Vực Sâu sẽ xuất hiện ở khắp nơi, việc tương tự như lần gặp nạn của Cư Dân Suối Nước sẽ ngày càng nhiều hơn.”
+
+“Nếu so sánh thì vế thứ hai sẽ nguy hiểm hơn nhỉ,” Kinich nói. “...Xin lỗi, tôi thực sự không muốn nói những lời vô tình như vậy, nhưng với tư cách là Kinich của ‘Malipo (Hồi Hỏa)’, việc đo lường cái giá phải trả là trách nhiệm của tôi. Hiểu rõ sự tàn khốc của sự thật mới có thể khiến chúng ta bình tĩnh hơn, chứ không phải bị kích động.”
+
+“Nhưng khác với Kinich, là người đích thân trải qua như Mualani, rất khó để cô đánh giá hai sự việc này cái nào bớt đau đớn hơn đúng không?” Mavuika hỏi.
+
+“Tôi không rõ, cũng không muốn phân biệt rõ. Nếu so sánh đau khổ kiểu này thì rất thiếu tôn trọng đối với người bị hại...” Mualani nói.
+
+“Vậy thì dù tôi có tạm dừng Nghi Lễ Hành Hương hay không thì nỗi đau gây ra cho cô vẫn sẽ như vậy, đúng chứ?” Mavuika hỏi.
+
+“Ừm... Chuyện của Kachina khiến tôi rất đau lòng, nhưng tôi cũng không thể vì em ấy mà lựa chọn hy sinh người khác...” Mualani nói.
+
+“Đây chính là điểm mấu chốt. Sự cân bằng và lựa chọn đơn thuần sẽ không giải quyết được vấn đề hiện nay,” Mavuika nói. “Mặc dù tùy theo lựa chọn của tôi mà sẽ xuất hiện những nạn nhân khác nhau, nhưng đến cuối cùng cũng chỉ dấy lên sự nghi ngờ của người Natlan về Nghi Lễ Hành Hương thôi. Mà khi xuất hiện những nghi ngờ như vậy, mọi người sẽ không thể đoàn kết chống lại Vực Sâu nữa. Như vậy là Vực Sâu đã đạt được mục đích của chúng. Mục đích sau cùng của chúng không chỉ phá hỏng quy tắc liên quan đến Thơ Hoàn Hồn, mà còn phá vỡ lòng tin của mọi người về quy tắc... Vì vậy, cách làm hiện tại của tôi đầu tiên là tránh để xuất hiện những nạn nhân mới như Kachina, đồng thời cũng sẽ tăng cường binh lực phòng vệ của mỗi bộ tộc. Dưới tiền đề này, chúng ta sẽ tìm cách thức khác để cường hóa Lửa Thánh, ngăn chặn Vực Sâu. Đương nhiên, chuyện này sẽ không dễ, nên tôi cần chút thời gian. Tôi giải thích như vậy, có thể xoa dịu cơn giận trong lòng cô không?”
+
+“Không ngờ Hỏa Thần lại giải thích tỉ mỉ như vậy... Tôi còn tưởng là sẽ cãi nhau luôn chứ,” Paimon nói.
+
+“Lúc nãy tôi có hơi kích động, thành thật xin lỗi. Cô nói đúng, chúng ta nên nghĩ cách để giải quyết vấn đề,” Mualani nói.
+
+“Nếu nghĩ tới việc sức mạnh của Lửa Thánh khó mà duy trì, vậy thì chúng ta có thể chỉ tạm dừng Trận Chiến Người Gác Đêm thôi không?” Chasca hỏi.
+
+“Tôi cũng từng nghĩ như vậy, nhưng lâu nay cả hai đều là thứ không thể tách rời,” Mavuika nói. “Không có Trận Chiến Người Gác Đêm thì thứ hạng của Nghi Lễ Hành Hương sẽ mất đi thứ vinh quang tượng trưng của mình, người tham gia cũng sẽ vì thế mà giảm đi. Cũng từ đó, Lửa Tranh Đấu sản xuất ra cũng sẽ giảm, chúng ta sẽ bị rơi vào vòng xoáy khó khăn.”
+
+“Tôi có thể hiểu là, Kachina bây giờ đã trở thành con tin của Vực Sâu rồi đúng không?” Mualani hỏi.
+
+“Nếu ở lại trong Vương Quốc Dạ Thần một thời gian dài thì sẽ như thế nào?” Lumine hỏi.
+
+“Ở quốc gia khác thì các vị đã từng nghe đến khái niệm Địa Mạch rồi nhỉ? Vương Quốc Dạ Thần cũng là một sự tồn tại giống như vậy,” Mavuika nói. “Thông thường mà nói, tạm thời ở lại trong Vương Quốc Dạ Thần cũng sẽ không có ảnh hưởng gì, nhưng nếu cộng với tác động của Vực Sâu thì đó lại là một câu chuyện khác. Sự tồn tại của cá thể sẽ bị nuốt chửng nhanh hơn, sau cùng hòa làm một với biển cả linh hồn. Giống như sau khi đổ một ly nước xuống dòng sông vậy. Dù có múc ra lại một ly nước khác thì cũng không phải là ly nước trước đó nữa. Tôi sẽ không né tránh tình trạng hiện tại, cho nên đây chính là nguy cơ mà Kachina đang phải đối mặt.”
+
+“Nếu như Hỏa Thần đại nhân vừa nói muốn tìm cách giải quyết êm đẹp cho cả hai phương diện, thì tôi vô cùng tán đồng...” Mualani nói. “Cô có thể tập trung toàn bộ sức lực vào việc xử lý Lửa Thánh, còn Kachina thì để tôi đi tìm.”
+
+“Sự uy hiếp của Vực Sâu đến Kachina cũng sẽ tương tự với cô. Rất có khả năng cô sẽ không thể quay lại được nữa. Cho dù là vậy thì cô vẫn quyết định đi sao?” Mavuika hỏi.
+
+“Tôi chỉ biết là Kachina đang đợi người đến cứu em ấy,” Mualani nói.
+
+“Tôi cũng có trách nhiệm khi không thể bảo vệ được em ấy trong Trận Chiến Người Gác Đêm, cho nên tôi cũng muốn đi,” Chasca nói.
+
+“Còn, còn chúng ta thì sao?” Paimon hỏi.
+
+“Em ấy không nên có kết cục như vậy. Em ấy còn phải đi theo chúng ta để học tập,” Lumine nói.
+
+“Hiểu rồi, tôi sẽ hỗ trợ mọi người hành động bằng mọi khả năng,” Mavuika nói. “Chủ Nhân Gió Đêm đang nắm giữ một loại kỹ thuật, có thể lấy Tên Cổ ra từ trong Địa Mạch. Nếu có thể tìm được Tên Cổ của Kachina, thì tôi sẽ có thể sử dụng mối liên hệ giữa cả hai để định vị vị trí của cô bé trong Vương Quốc Dạ Thần. Tiếp đó sẽ là bước khó khăn nhất... Cần các vị đích thân đến Vương Quốc Dạ Thần để đưa em ấy trở về.”
+
+“Đó không phải là vương quốc của linh hồn sao? Chúng tôi cũng có thể đến đó à?” Paimon hỏi.
+
+“Thông thường thì nơi đó chỉ cho phép ý thức của chúng ta tiến vào, nhưng cũng có cách để đưa con người thực sự vào trong,” Mavuika nói. “Nhưng như vậy thì sẽ gặp phải sự đào thải của Vương Quốc Dạ Thần, đồng thời còn phải đối mặt với sức mạnh của Vực Sâu ăn mòn nữa...”
+
+“Không thành vấn đề,” Mualani nói.
+
+“Tôi cũng vậy. Tôi đã quen với việc tiếp xúc với sức mạnh của Vực Sâu từ lâu rồi,” Chasca nói.
+
+“Chuyện nhỏ thôi,” Lumine nói.
+
+“Hả... À ừm, chỉ có tôi là bị dọa cho sợ thôi sao? Được, được rồi, chỉ cần Lumine đi thì tôi cũng sẽ đi,” Paimon nói.
+
+“Citlali của Chủ Nhân Gió Đêm từng chế tạo ra một loại đạo cụ có thể giao tiếp với Wayob, gọi là Đá Thức Tỉnh Linh Hồn,” Mavuika nói. “Vốn dĩ đây là đạo cụ nghi thức mà thủ lĩnh bộ tộc sử dụng, nhưng nguyên lý của nó rất thích hợp để tìm ra Tên Cổ.”
+
+“Vài ngày trước chính tôi đã mang nó đến chỗ Dòng Dõi Vườn Treo, không ngờ bây giờ nó lại có ích,” Kinich nói.
+
+“Cảm ơn mọi người đã giúp đỡ nhiều như vậy,” Mualani nói.
+
+“Chỉ là chút sức mọn thôi, không cần cảm ơn đâu. Mấu chốt để hoàn thành màn giải cứu lần này không phải là sự giúp đỡ của tôi, mà chính là tình bạn và lòng dũng cảm của mọi người,” Mavuika nói. “Đây cũng xem như là đã giúp tôi một việc lớn rồi. Do bây giờ tôi cũng đang rất bận rộn. Không ngờ lần đầu tiên chúng ta nói chuyện lại là trong tình huống nặng nề như vậy. Tôi đã nghe về câu chuyện của cô rồi. Từ khi cô bước chân vào Natlan thì tôi đã muốn gặp cô một lần, đồng thời dành tặng cho khách quý như cô sự đãi ngộ cao nhất.”
+
+“Hả? Tại sao?” Paimon hỏi.
+
+“‘Tại sao’ à? Chẳng lẽ cô ở những quốc gia khác không được như vậy sao?” Mavuika hỏi.
+
+“Chuyện này nói ra thì hơi phức tạp. Xem ra chúng tôi đã gây dựng được tên tuổi rồi nhỉ,” Lumine nói.
+
+“Ban đầu thì khó nói lắm, nhưng sau đó thì... Hmm, nhưng hiện giờ thì đúng là danh tiếng đã vững chắc rồi!” Paimon nói.
+
+“Haha, vậy thì đúng rồi. Dù sao hai vị cũng là người vượt lên vận mệnh mà,” Mavuika nói.
+
+“Cái này mà cô cũng biết sao,” Lumine nói.
+
+“Có cơ hội rồi nói tiếp nhé. Có lẽ tôi biết nhiều hơn các vị nghĩ đấy,” Mavuika nói. “Nếu không phải đang trong thời khắc quan trọng thì tối nay rất thích hợp để đi uống vài ly rồi đi xem buổi biểu diễn của ban nhạc đấy.”
+
+“Đúng rồi, Hỏa Thần đại nhân, Atea bảo tôi giao thứ này cho cô. Trong cuộc tập kích của Vực Sâu trước đó thì dì ấy đã bị thương,” Mualani nói. “Dì ấy nói ‘trong đó chắc chắn chứa đựng ý niệm và ý chí của tôi’, nói rằng cô sẽ hiểu được ý nghĩa của câu nói này...”
+
+“Không ngờ ngày này lại tới nhanh như vậy. Tôi có thể cảm nhận rõ ràng, ngọn lửa tượng trưng cho sinh mệnh của cô ấy đang chảy trong tấm bùa hộ mệnh,” Mavuika nói. “Nếu có thể, tôi vẫn mong cô ấy sẽ đích thân giao nó cho tôi ở suối nước nóng của Cư Dân Suối Nước, như vậy mới giống những người ‘bạn tắm suối’ hơn. Yên tâm, tôi sẽ cất giữ cẩn thận, đây là thứ có ý nghĩa rất sâu sắc. Khi chuyện này kết thúc, tôi sẽ đi gặp cô ấy.”
+
+Thống nhất xong phương án tìm lại Tên Cổ, Mualani, Chasca, Lumine và Paimon cùng nhau rời khỏi Phòng Quản Lý để lập tức lên đường tới bộ tộc Dòng Dõi Vườn Treo. Bên trong phòng lúc này chỉ còn lại Mavuika cùng Kinich và Iansan.
+
+>Nói chuyện với Mavuika
+
+“Cô nói không muốn gây nguy hiểm cho việc sản xuất Lửa Tranh Đấu... Nhưng đó không phải là lý do để dừng Nghi Lễ Hành Hương lại đúng không...” Kinich nói.
+
+“Đúng vậy. Cho dù là hiện tại thì thứ này vẫn chưa đủ,” Mavuika nói. “Vực Sâu từ từ ăn mòn đã gây ra sự thiếu hụt sức mạnh nguyên tố Hỏa rất lớn, tình trạng đã xấu đến mức cực hạn rồi. Nếu Nghi Lễ Hành Hương đã không thể làm được gì cho tình cảnh hiện tại, chi bằng dừng nó lại mà tập trung sức lực để bảo vệ các bộ tộc thì hơn. Kachina bị lạc trong Vương Quốc Dạ Thần cũng chỉ là một biểu hiện của thảm họa Vực Sâu mà thôi.”
+
+“Haiz, điều này đúng là không nên để mọi người biết được,” Iansan nói.
+
+“Đúng vậy. Nếu để người bình thường biết rằng sự hủy diệt của Natlan đang ở ngay trước mắt, vậy thì họ chắc chắn sẽ hoang mang cực độ,” Mavuika nói. “Nhưng nếu tôi không nói gì thì mâu thuẫn lúc đó sẽ càng nghiêm trọng hơn, khiến cho vị anh hùng của chúng ta phải chịu sự hoài nghi không nên có.”
+
+“Lại là hai sự lựa chọn quen thuộc. Cách thứ hai rõ ràng là giải pháp tốt hơn, nhưng cô không nghĩ như vậy,” Kinich nói.
+
+“Chỉ là, tôi chưa bao giờ cho rằng việc hy sinh ít người hơn sẽ là cách làm đúng đắn hơn,” Mavuika nói. “Đi thôi. Dù sao thì vẫn có phương án khẩn cấp mà, Lửa Thánh vẫn có thể chống đỡ được một khoảng thời gian nữa.”
+
+“Lẽ nào là...” Iansan nói.
+
+“Ừm, đi theo tôi,” Mavuika nói.
+
+Kinich và Iansan đi theo Mavuika bước ra ngoài sảnh lớn Đấu Trường Lửa Thánh, tiến lại gần ngọn lửa thiêng đang cháy bập bùng.
+
+“Lửa Thánh là thứ mà Vực Sâu e sợ, cũng là nền tảng để duy trì sự ổn định của Natlan, tuyệt đối không thể bị dập tắt,” Mavuika nói. “Trước khi các anh hùng của chúng ta sẵn sàng, tôi sẽ dùng sức mạnh của mình để khiến nó tiếp tục bùng cháy.”
+
+“Nhưng như vậy thì cũng chỉ có thể kéo dài thêm một khoảng thời gian. Tôi thấy chúng ta vẫn nên tập trung vào những người kế thừa Tên Cổ còn lại,” Kinich nói.
+
+“Không thể vì tâm trạng nóng vội mà làm đảo lộn mọi thứ...” Mavuika nói. “Người được Wayob lựa chọn đã bước vào cuộc mạo hiểm định mệnh. Kết cục thế nào sẽ do họ đích thân viết nên, chứ không phải chúng ta. Việc duy nhất chúng ta có thể làm là cổ vũ họ.”
+
+“Nhưng nếu đã vậy, sự hy sinh do Hỏa Thần đại nhân đích thân làm... thì cũng...” Iansan nói.
+
+“Haha, ngoài tôi ra thì còn ai có thể duy trì được Lửa Thánh đây?” Mavuika hỏi. “Tôi có sức mạnh to lớn, nhưng sẽ không cao quý hơn dân chúng. Đây vốn là bổn phận của tôi. Hmm...?”
+
+---
+
+Chưa kịp hoàn tất lời thề trước ngọn Lửa Thánh, tiếng bước chân dồn dập đã vang lên từ lối vào đấu trường. Chiến binh canh gác Yagbeu hớt hải chạy tới báo tin dữ.
+
+“Hỏa Thần đại nhân, Fatui đến rồi!” Yagbeu hô lớn.
+
+Hai binh sĩ tiên phong của Fatui lập tức xông vào đấu trường. Phía sau họ, một chiến binh cao lớn khoác áo choàng đen sẫm, gương mặt ẩn sau chiếc mặt nạ lạnh lẽo — Capitano, kẻ mang danh hiệu ‘The Captain’, đứng đầu trong mười một Quan Chấp Hành Fatui — chậm rãi bước tới đối diện Hỏa Thần, ánh mắt sắc bén lướt qua ngọn Lửa Thánh rồi dừng lại nơi Mavuika.
+
+“Không hổ danh là thần của Natlan,” Capitano nói. “Quả là danh bất hư truyền. Ta đã biết được bí mật của Địa Mạch, vận mệnh đã chỉ về phía hủy diệt. Lời hứa năm trăm năm trước đến nay vẫn chưa ai thực hiện. Vậy thì Gnosis ở trong tay ngươi... Có tác dụng gì chứ?”
+
+“Ta không biết ngươi đang nói gì,” Mavuika nói. “Nhưng nghe có vẻ như ngươi không chỉ đến đây vì Nữ Hoàng của băng giá.”
+
+“Vào thời khắc nguy cấp, phải có người thực hiện trách nhiệm giải cứu,” Capitano nói. “Nếu kế hoạch của ngươi đã không có tiến triển gì... Vậy thì hãy để ta tạo dựng nên ‘quy tắc’ mới cho Natlan. Nhưng trước thời khắc tái sinh đó... Thì vận mệnh đã định sẵn là hủy diệt.”
+
+“Xem ra ngươi không định dài dòng,” Mavuika nói. “Cũng tốt, những người như chúng ta... Thì việc nói chuyện bằng vũ khí vẫn sẽ nhanh hơn.”
+
+Dứt lời, mái tóc của Mavuika bùng cháy rực rỡ như ngọn đuốc sống. Cô đón đầu lưỡi kiếm băng giá của Capitano trong một cuộc quyết đấu long trời lở đất khiến cả Đấu Trường Lửa Thánh rung chuyển dữ dội. Giữa từng đợt va chạm chấn động không gian, Mavuika dồn toàn bộ thần lực vào đòn đánh quyết định, xé toạc phòng tuyến và giáng một vết thương bỏng rát ngay trước ngực Capitano. Thế nhưng ngay khi hai bên chuẩn bị lao vào hiệp tiếp theo, một làn khói đen dày đặc mang sức mạnh của Chủ Nhân Gió Đêm bất ngờ bùng lên bao phủ lấy Capitano và đưa hắn biến mất khỏi đấu trường.
+
+“Chủ Nhân Gió Đêm...?” Mavuika ra lệnh. “Truyền lệnh xuống! Tìm cho ra Capitano và trợ thủ của hắn.”
+
+---
+
+>Nói chuyện với Mavuika
+
+“Cô không sao chứ, Hỏa Thần đại nhân?” Iansan hỏi.
+
+“Một đối thủ rất có thực lực. Không hổ danh là Quan Chấp Hành số một của Fatui,” Mavuika nói.
+
+“Trên thế giới này lại có người đánh ngang sức với Hỏa Thần đại nhân sao...” Kinich nói. “Hắn ta đến vì Nữ Hoàng Snezhnaya sao? Nếu vậy thì tại sao lại nhắc đến ‘năm trăm năm trước’ chứ?”
+
+“Đúng vậy, rốt cuộc hắn ta biết được bao nhiêu về Natlan đây...?” Iansan hỏi.
+
+“Hành động của Quan Chấp Hành Fatui đều có mục đích riêng, chỉ là có chung quan điểm về chuyện Gnosis thôi,” Mavuika nói. “Gã Capitano này, tôi nghĩ cũng có lý do riêng.”
+
+“Dù thế nào đi nữa thì đối phương cũng đã hành động, kế hoạch của chúng ta buộc phải tạm dừng. Nếu không Fatui lại kéo đến thì sẽ không ai có thể ứng phó được,” Kinich nói.
+
+“Chúng ta không còn thời gian nữa,” Mavuika nói. “Vết thương để lại cho gã đó sau khi chiến đấu sẽ hạn chế hắn một thời gian, cũng sẽ ảnh hưởng đến sức mạnh của hắn. Hơn nữa có để ý không? Sức mạnh giúp giải vây cho hắn ta đến từ Chủ Nhân Gió Đêm.”
+
+“Cũng có nghĩa là, chỗ chúng ta có kẻ phản bội,” Kinich nói.
+
+“Cũng chưa chắc. Điều này có thể chứng minh đây là một bước ngoặt rất có giá trị,” Mavuika nói. “Trong đòn cuối cùng ban nãy, tôi cảm nhận được trong cơ thể hắn có sự tồn tại đặc biệt nào đó. Tôi sẽ đi điều tra ngay. Kinich, đi một chuyến đến Chủ Nhân Gió Đêm, điều tra xem ai đã giúp hắn nhé. Có thể Citlali sẽ biết đấy.”
+
+“Được, tôi đi ngay đây. Vậy thì Hỏa Thần đại nhân vẫn phải...” Kinich nói.
+
+“Ừm, yên tâm đi,” Mavuika nói.
+
+Kinich xoay người rời khỏi Đấu Trường để lập tức tới Chủ Nhân Gió Đêm điều tra theo lệnh.
+
+“Vùng đất này chưa bao giờ chỉ có mỗi thần linh,” Mavuika nói. “Chúng ta cần tin tưởng vào chính con đường duy nhất có thể dẫn đến tương lai của Natlan mà chúng ta cùng nhìn thấy.”
+
+Mavuika chậm rãi bước tới trước Lửa Thánh và truyền toàn bộ thần lực của bản thân vào ngọn lửa — ánh lửa rực cháy trên mái tóc cô dần tắt lịm, trả lại dáng vẻ bình thường.
+
+“Vẫn ổn chứ? Hỏa Thần đại nhân?” Iansan hỏi.
+
+“Không cần lo lắng, chỉ hơi hối hận thôi. Đáng lẽ nên chụp ảnh khi tóc vẫn còn đang cháy mới phải. Haha, bây giờ thì không còn cơ hội nữa rồi,” Mavuika nói. “Hy vọng chuyến đi của họ sẽ thuận lợi.”
+
+---
+
+>Nói chuyện với mọi người
+
+Cùng lúc ấy, bên ngoài thành phố, Lumine, Paimon, Mualani và Chasca đang leo dọc theo con đường dốc hướng về Ngọn Núi Coatepec thì bỗng nghe một tiếng nổ vang dội vọng lại từ phía sau. Cả nhóm lập tức dừng bước ngoái nhìn về phía Đấu Trường Lửa Thánh.
+
+“Đấu Trường Lửa Thánh sao vậy!? Nó vừa phát nổ sao?!” Paimon nói.
+
+“Cảm giác này, chắc là Hỏa Thần đại nhân đã ra tay rồi. Ngoài ra thì còn có một kẻ mạnh khác...” Chasca nói.
+
+“Vậy bây giờ phải làm sao đây, chúng ta có nên quay về xem thử không?” Paimon hỏi.
+
+“Việc giải cứu Kachina cũng rất cấp bách...” Lumine nói.
+
+“Tin tưởng vào Hỏa Thần đại nhân đi. Cuộc đối đầu trực diện thế này thì tôi không nghĩ là cô ấy sẽ thất bại đâu,” Chasca nói.
+
+“Được! Thế thì nhanh chóng xử lý xong việc bên này rồi quay về vậy,” Mualani nói.
+
+“Đành phải vậy thôi. Chúng ta tiếp tục leo lên đi! Đừng xảy ra chuyện ngoài ý muốn nữa nhé, làm ơn...” Paimon nói.
+
+#CH|Phần 2|Hành Trình Tìm Lại Tên Cổ|nc_natlan_return.png|Hành Trình Tìm Lại Tên Cổ
+
+Để cứu Kachina bị mắc kẹt trong Vương Quốc Dạ Thần, trước mắt cả nhóm phải tìm được Tên Cổ của em ấy. Theo lời Kinich, chiếc Đá Thức Tỉnh Linh Hồn dùng cho nghi thức đang nằm tại nơi ở của thủ lĩnh bộ tộc Dòng Dõi Vườn Treo.
+
+>Đến ‘Dòng Dõi Vườn Treo’
+
+>Nói chuyện với thủ lĩnh Wayna
+
+Vượt qua những nhịp cầu gỗ cheo leo nối liền các vách núi của Dòng Dõi Vườn Treo, nhóm Lumine tìm đến nơi làm việc của thủ lĩnh Wayna.
+
+“Chasca?” Wayna hỏi.
+
+“Lâu rồi không gặp, Wayna,” Chasca nói. “Mấy lời chào hỏi thì tạm bỏ qua nhé. Chúng tôi đến đây để lấy Đá Thức Tỉnh Linh Hồn.”
+
+“Đừng vội. Tôi phải hỏi rõ trước, mọi người định dùng nó để làm gì?” Wayna hỏi.
+
+“Kachina, một người bạn của tôi, đang bị mắc kẹt trong Vương Quốc Dạ Thần. Trước tiên chúng tôi muốn dùng Đá Thức Tỉnh Linh Hồn để tìm ra Tên Cổ của em ấy, sau đó đích thân đến giải cứu,” Mualani nói.
+
+“Giải cứu? Mọi người định đến Vương Quốc Dạ Thần sao?” Wayna hỏi.
+
+“Đúng vậy,” Mualani nói.
+
+“Vương Quốc Dạ Thần, nơi đó... Hừm, cũng phải có người nói vài câu khó nghe, mong các vị thứ lỗi. Theo tôi thấy thì đây không phải là một quyết định sáng suốt mà ‘chiến binh chín chắn’ nên đưa ra,” Wayna nói. “Chiến trường biến hóa khó lường, luôn có những kết quả nằm ngoài dự tính. Một khi xảy ra bi kịch, thì nên nghĩ cách để tránh khỏi những thương vong tiếp theo...”
+
+“Cảm ơn ý tốt này, nhưng tôi không thể chấp nhận cái giá của sự ‘chín chắn’ là bỏ mặc đồng đội đang kiên trì gắng gượng. Vậy nên tôi sẵn sàng mạo hiểm vì Kachina,” Mualani nói.
+
+“Đúng như tôi nghĩ... Haiz,” Wayna nói.
+
+“Sao vậy, Wayna? Đây không giống với tác phong bình thường của anh lắm,” Chasca nói. “‘Cuộc đời thiếu đi mạo hiểm là cuộc đời không trọn vẹn’, đây không phải là tôn chỉ của anh sao?”
+
+“Haha... Không có gì đâu. Vương Quốc Dạ Thần quá nguy hiểm, tôi chỉ muốn xem thử quyết tâm của mọi người đến đâu thôi,” Wayna nói. “Nếu mọi người đã kiên trì như vậy thì tôi cũng sẽ không ngăn cản. Đá Thức Tỉnh Linh Hồn đây, hãy giữ cho cẩn thận, hỏng là không tìm được cái thứ hai đâu.”
+
+“Cảm ơn,” Chasca nói.
+
+“Cảm giác như... mọi người biết nhau từ lâu rồi nhỉ? Chasca, không phải cô đến từ Hội Hoa Vũ sao?” Paimon hỏi.
+
+“Chasca là ‘sứ giả hòa bình’ nổi tiếng khắp nơi đấy. Bất kỳ bộ tộc nào xảy ra mâu thuẫn đều tìm cô ấy để hòa giải, qua lại dần thành quen thôi,” Wayna nói. “Cô ấy có cô em gái tên là Chuychu, cũng từng đến bộ tộc của chúng tôi chơi, còn giúp đỡ chúng tôi rất nhiều nữa.”
+
+“Thì ra cô còn có em gái à!” Paimon nói.
+
+“Ừm... Có cơ hội sẽ giới thiệu cho các vị,” Chasca nói. “Quay lại chuyện chính nhé. Wayna, Đá Thức Tỉnh Linh Hồn này dùng thế nào vậy?”
+
+“Tôi tin mọi người đã từng nghe nói, Vương Quốc Dạ Thần khác hẳn với thế giới thực tế. Nó giống như một dòng chảy của ‘khái niệm’ hơn, mà Tên Cổ các vị muốn tìm cũng giống như con cá nhỏ bơi lội trong đó,” Wayna nói. “Theo logic này thì Đá Thức Tỉnh Linh Hồn giống như thuyền đánh cá, có thể trôi dạt theo dòng chảy. Nếu chỉ có thuyền thì chưa đủ, mọi người còn thiếu một ‘ngư dân’ lão luyện nữa.”
+
+“Con thuyền do tôi đích thân chèo lái không ổn sao?” Mualani hỏi.
+
+“Có thể. Vì dù sao cô cũng vừa có thực lực vừa có năng khiếu... Chỉ là thiếu chút kinh nghiệm thôi. Nếu muốn đảm bảo an toàn, tôi có thể giới thiệu cho các vị một người,” Wayna nói.
+
+“Là ai vậy?” Chasca hỏi.
+
+“Chiến binh nổi tiếng của Dòng Dõi Vườn Treo, trinh sát huyền thoại từng trải qua vô số trận chiến, Vichama,” Wayna nói. “Người này không những sở hữu khả năng quan sát nhạy bén, mà trực giác cũng rất chính xác. Tên Cổ của anh ta mang hàm ý ‘Tìm Kiếm’... Về việc dò tìm Tên Cổ, chắc là không ai phù hợp hơn anh ta rồi.”
+
+“Vichama? Cái tên này hình như hơi quen...” Paimon nói.
+
+“Là ‘bạn tắm suối’ của dì Atea thì phải. Tôi từng được nghe câu chuyện về anh ấy,” Mualani nói. “Chúng tôi phải đi đâu để tìm người đó?”
+
+“Sau khi Mallko qua đời, anh ta thường đứng trên vách núi ngắm nhìn phong cảnh xa xăm. Cứ theo hướng đó mà tìm, có lẽ sẽ gặp được đấy,” Wayna nói.
+
+“Được rồi. Cảm ơn anh đã giúp đỡ, chúng tôi đi tìm thử xem sao,” Mualani nói.
+
+“Haiz... Tạm biệt, chúc mọi người thuận lợi,” Wayna nói.
+
+---
+
+>Tìm Vichama
+
+Rời khu dân cư của bộ tộc và men theo lối mòn lên đỉnh vách đá, cả nhóm bắt gặp một chiến binh đang đứng lặng lẽ phóng tầm mắt ra khoảng không xa xăm.
+
+“Người đang ngắm cảnh bên vách đá... A, tìm thấy rồi!” Paimon nói. “Xin chào, cho hỏi anh là Vichama đúng không?”
+
+“Là tôi đây. Có chuyện gì?” Vichama hỏi.
+
+>Kể cho Vichama nghe chuyện về Kachina và Đá Thức Tỉnh Linh Hồn...
+
+“Sao? Ý là... Bạn của các vị tuy bị kẹt trong Vương Quốc Dạ Thần, nhưng vẫn còn một chút hy vọng sống sao? Sao có thể như vậy chứ?” Vichama hỏi. “Không... Nghĩ kỹ lại, nói không chừng đúng là có sự ‘tình cờ’ này đấy, dù sao đó cũng là Vương Quốc Dạ Thần mà. Nếu vậy thì...”
+
+“Này, anh không sao chứ? Sắc mặt của anh trông không được tốt lắm...” Paimon nói.
+
+“Không sao. Tôi đồng ý giúp, nhưng cho phép tôi có một yêu cầu nho nhỏ,” Vichama nói. “Tôi sẽ ưu tiên giúp các vị tìm ra Tên Cổ của Kachina. Nhưng sau đó, tôi muốn mượn Đá Thức Tỉnh Linh Hồn... để đi tìm Tên Cổ của bạn tôi.”
+
+“Bạn? À... Ban nãy Wayna hình như có nhắc đến cái tên ‘Mallko’. Đó chính là bạn của anh sao?” Paimon hỏi.
+
+“Đúng vậy. Tôi không muốn nói thêm về chuyện của anh ấy, xin lỗi,” Vichama nói.
+
+“Không sao, chúng tôi có thể đáp ứng yêu cầu của anh,” Chasca nói.
+
+“Ừm. Dù sao đi nữa thì anh cũng giúp chúng tôi tìm được Tên Cổ của Kachina mà, nên chúng tôi đương nhiên cũng sẽ báo đáp ân tình này rồi,” Mualani nói.
+
+“Vậy thì tốt. Có thể cho tôi xem thử Đá Thức Tỉnh Linh Hồn không?” Vichama hỏi.
+
+Vichama nhận lấy Đá Thức Tỉnh Linh Hồn và chăm chú quan sát một hồi lâu trước khi ngẩng đầu lên.
+
+“...Thì ra là vậy, tôi hiểu đại khái rồi. Nguyên lý hoạt động của nó khá giống với Cổng Vực Sâu, đều sẽ kết nối Vương Quốc Dạ Thần với thế giới mà chúng ta đang sống,” Vichama nói. “Một khi mở thì Vực Sâu cũng sẽ tràn ra như cá ngửi thấy mùi tanh, cho nên không thể dùng trong bộ tộc được.”
+
+“Chuyên nghiệp quá!” Paimon nói.
+
+“Cũng không thể nói là chuyên nghiệp được. Tôi chỉ có thể nhìn ra cách dùng đại khái thôi, còn về nguyên lý thì không biết gì cả. Người phát minh ra nó tên là Citlali sao? Đúng là một thiên tài đấy,” Vichama nói. “Tôi sẽ ra ngoại ô bố trí và điều chỉnh Đá Thức Tỉnh Linh Hồn trước. Trong thời gian này, có hai món đồ phiền các vị chuẩn bị.”
+
+“Cần chuẩn bị gì vậy? Chúng tôi sẽ đi mua ngay,” Mualani nói.
+
+“Đầu tiên là ‘dây móc’, cứ tìm thương nhân trong bộ tộc là có thể mua được. Cứ chuẩn bị nhiều thêm chút, tôi cần dùng chúng để dệt thành ‘lưới’,” Vichama nói.
+
+“Lưới? Là để ‘bắt’ Tên Cổ sao? Nhưng một chiếc lưới bằng vật chất thì sao có thể bắt được thứ hư ảo như Tên Cổ chứ?” Mualani hỏi.
+
+“Chiếc lưới tồn tại trong hiện thực, cũng có thể tìm thấy ‘khái niệm’ tương ứng ở Vương Quốc Dạ Thần. Nói một cách đơn giản thì tôi biết dùng ‘khái niệm của lưới’ để bắt ‘khái niệm của Tên Cổ’,” Vichama nói.
+
+“Thì ra là vậy. Vậy cái thứ hai là gì?” Mualani hỏi.
+
+“Một mảnh... Không, hai mảnh Đá Obsidian. Sau khi mang Tên Cổ về với hiện thực thì cần có Đá Obsidian để lưu trữ,” Vichama nói. “Thường thì Đá Obsidian phải đến chỗ Con Của Tiếng Vang để mua. Nhưng tôi nghe nói gần đây trong bộ tộc có thương nhân từ Con Của Tiếng Vang đến, có thể đến đó xem thử.”
+
+“Chúng tôi nhớ rồi!” Paimon nói.
+
+“Vậy tôi sẽ tách ra hành động. Thấy chỗ đất trống bên đó không? Lát nữa chúng ta sẽ gặp nhau ở đó,” Vichama nói. “Đúng rồi, có cần cử người đi theo tôi không? Để đảm bảo tôi không chiếm dụng thiết bị làm của riêng.”
+
+“...Chasca thấy sao?” Mualani hỏi.
+
+“Không cần thiết. Tuy chúng ta chưa từng quen biết, nhưng Wayna đã giới thiệu anh thì chứng tỏ anh cũng đáng tin cậy,” Chasca nói.
+
+“Cảm ơn. Mặc dù hai chữ đáng tin cũng không thể khiến tôi vui vẻ nữa...” Vichama nói. “Việc bố trí và điều chỉnh Đá Thức Tỉnh Linh Hồn cần thời gian, xin các vị đừng nóng vội. Lát nữa gặp lại nhé.”
+
+“Quả là một người kỳ lạ. Cảm thấy như anh ấy rất mệt mỏi, nhưng lại rất phấn khích khi nhắc đến Đá Thức Tỉnh Linh Hồn,” Paimon nói.
+
+“Tôi cũng thấy khó hiểu. Trước mắt thì cứ làm theo lời anh ta, chuẩn bị dây móc và Đá Obsidian thôi,” Mualani nói. “Kachina... Đợi chị, chị nhất định sẽ đi tìm em.”
+
+---
+
+>Chuẩn bị cho công cuộc tìm kiếm Tên Cổ (0/2)
+
+Quay trở lại khu sạp hàng của Dòng Dõi Vườn Treo, Mualani bước thẳng tới quầy bán dụng cụ leo núi của Amauta.
+
+“Xin chào. Cho hỏi chỗ này có bán dây móc không?” Mualani hỏi.
+
+“Dây móc? Loại dùng để leo núi à?” Amauta hỏi.
+
+“Đúng vậy. Chúng tôi muốn mua hết, cần bao nhiêu Mora vậy?” Mualani hỏi.
+
+“Mua hết sao? Xem nào... Lấy mọi người 30.000 Mora nhé, thế nào?” Amauta hỏi.
+
+“Được,” Mualani nói.
+
+“Ấy, nhanh gọn vậy sao?” Amauta hỏi.
+
+“Còn muốn tôi trả giá sao? Phiền cô nhanh chút nhé, cảm ơn nhiều,” Mualani nói.
+
+“Được rồi, vậy tôi sẽ khuyến mãi thêm một số thông tin. Thường xuyên đến mua loại dây móc này đều là những người thích leo núi cả. Nếu các vị muốn học thì có thể đi gặp Roca để tìm hiểu,” Amauta nói. “Được rồi, dây móc đều ở đây cả rồi. Cầm lấy nhé.”
+
+“Tiếp theo là Đá Obsidian. Thương nhân lữ hành mà Vichama nói đang ở bên đó, chúng ta qua đó hỏi thử xem,” Chasca nói.
+
+>Chuẩn bị cho công cuộc tìm kiếm Tên Cổ (1/2)
+
+Rời quầy của Amauta, cả nhóm sang gian hàng của Pajaten — vị thương nhân lữ hành đến từ Con Của Tiếng Vang — để tìm mua Đá Obsidian.
+
+“Ông chủ, ở đây có bán Đá Obsidian không?” Mualani hỏi.
+
+“Đá Obsidian? Chậc, bên đó còn một mảnh đây,” Pajaten nói.
+
+“Tốt quá! Còn nữa không? Chúng tôi cần hai mảnh,” Mualani nói.
+
+“Vậy thì phiền phức rồi đấy. Tôi phải đi lục tung đống rương đó, có lẽ sẽ tìm được trong đống hàng tạp hóa mang theo,” Pajaten nói.
+
+“Mong chú giúp đỡ ạ. Chúng tôi sẽ đợi ở đây,” Mualani nói. “Haiz...”
+
+“Thả lỏng đi. Cho đến hiện tại thì kế hoạch vẫn đang rất thuận lợi đó,” Chasca nói.
+
+“Hmm... Vừa nãy Vichama có nhắc đến bạn của mình, tôi cảm thấy tâm trạng của chúng tôi rất giống nhau. Hy vọng chủ tiệm sẽ tìm được thêm một mảnh Đá Obsidian...” Mualani nói. “Trên người Kachina luôn mang theo rất nhiều loại đá lấp lánh. Nếu lần này tôi là người bị kẹt trong Vương Quốc Dạ Thần thì em ấy chắc chắn sẽ nhanh chóng lấy ra rất nhiều Đá Obsidian.”
+
+“Ồ! Đúng là có đem theo thêm một mảnh thật... Cô gái, xem thử xem có ổn không nhé?” Pajaten hỏi.
+
+“Cảm ơn chú rất nhiều! Hết bao nhiêu Mora vậy ạ?” Mualani hỏi.
+
+“Các vị không đến thì chắc tôi cũng chẳng biết bán thứ này cho ai. Hai mảnh tính giá 3000 Mora là được rồi,” Pajaten nói. “Đây, cầm lấy. Vừa nãy tôi nghe các vị nhắc đến Vichama, cậu ta bảo mọi người đến đây phải không? Vichama vẫn khỏe chứ? Mallko cũng ra đi được năm năm rồi, chắc cậu ta cũng phấn chấn hơn chút rồi nhỉ?”
+
+“Ồ, chú biết chuyện của anh ta sao?” Paimon hỏi.
+
+“Cũng không hẳn là biết, có một lần uống rượu vô tình nghe được thôi. Nghe nói cậu ta có một người bạn tên là Mallko, hai người lớn lên cùng nhau, cùng gây dựng danh tiếng,” Pajaten nói. “Mallko đánh đấm rất giỏi, một tay có thể quật ngã mấy tên to xác, còn Vichama thì giỏi trinh sát và phân tích. Hai người họ phối hợp ăn ý, nhiều lần đánh bại Vực Sâu xâm nhập. Năm năm trước, họ lại một lần nữa chiến thắng trong Nghi Lễ Hành Hương, được xếp vào cùng một đội. Nhưng đêm trước khi xuất chinh, Vực Sâu bất ngờ phát động cuộc tấn công nhỏ vào Dòng Dõi Vườn Treo, Vichama vì cứu người mà bị thương ở chân.”
+
+“Sau đó thì sao?” Paimon hỏi.
+
+“Các thành viên khác trong tiểu đội đã tìm thấy cậu ấy. Sau khi thương lượng thì đã quyết định để cậu ấy ở lại nghỉ ngơi,” Pajaten nói. “Vichama cũng cho rằng cái chân như vậy nếu ra tiền tuyến thì sẽ trở thành gánh nặng. Thế là mọi người cùng đưa ra thỉnh cầu với Hỏa Thần đại nhân, cuối cùng được cho phép. Kết quả là số lượng ma vật Vực Sâu lần đó vượt xa tưởng tượng, tiểu đội của Mallko phán đoán sai, nên đã bị vô số ma vật nhấn chìm. Sau đó thì Vichama đã rơi vào trầm cảm. Cậu ấy cảm thấy tất cả đều là lỗi của mình.”
+
+“Nghe có vẻ như không phải lỗi của anh ấy,” Lumine nói.
+
+“Có lẽ vậy. Nhưng lý do con người cảm thấy tiếc nuối, chưa chắc là vì ‘làm sai’, mà có thể là vì ‘chưa làm được’,” Pajaten nói. “Tôi cũng từng khuyên cậu ấy, rằng chuyện đã qua rồi, nên nhìn về phía trước. Nhưng cậu ấy vẫn không thể thoát khỏi bóng tối trong lòng. Vực Sâu đã để lại cho chúng ta quá nhiều đau khổ, có những vết thương không bao giờ có thể chữa lành. Tôi cũng hy vọng cậu ấy có thể bù đắp nỗi tiếc nuối trong quá khứ, nhưng mà... Haiz. Nói đến đây thôi. Nếu có cơ hội thì hãy thay tôi khuyên nhủ cậu ấy vài câu nhé, cảm ơn.”
+
+---
+
+>Hội hợp với Vichama
+
+Mang theo đủ dây móc và hai mảnh Đá Obsidian, Lumine và mọi người ra khoảng đất trống ngoại ô nơi Vichama đã chờ sẵn bên chiếc Đá Thức Tỉnh Linh Hồn.
+
+“Đã tìm đủ đồ chưa?” Vichama hỏi.
+
+“Đều ở đây cả rồi. Khi nào chúng ta bắt đầu?” Mualani hỏi.
+
+“Đá Thức Tỉnh Linh Hồn đã điều chỉnh xong, bây giờ bắt đầu luôn thôi,” Vichama nói. “Theo giao hẹn, tôi sẽ giúp các vị tìm Tên Cổ của Kachina. Sau đó thì xin các vị hãy giúp tôi một tay nhé.”
+
+“Tôi có thể hỏi một câu không?” Lumine hỏi.
+
+“Xin cứ nói,” Vichama nói.
+
+“Anh tìm kiếm Tên Cổ của bạn mình... Là có cùng mục đích với chúng tôi sao?” Lumine hỏi.
+
+“...Đúng vậy,” Vichama nói. “Sau khi Mallko chết, tôi đã từng đi khảo sát chiến trường. Anh ấy không phải đã gặp kẻ địch mạnh đến mức không thể đánh bại, mà là bị vô số ma vật Vực Sâu bao vây đến chết. Nếu lúc đó tôi cũng ở trong đội thì nhất định sẽ cảm nhận được nguy hiểm từ trước. Tôi sẽ có thể nhắc nhở đồng đội từ từ tiến bước, tránh để rơi vào trận địa của kẻ địch... Sau đó tôi luôn tự trách bản thân. Cho đến khi nghe các vị kể về chuyện của Kachina... Tôi chợt nghĩ ra, có lẽ người bạn của tôi cũng chưa chết, anh ấy vẫn đang chống chọi trong Vương Quốc Dạ Thần.”
+
+“Nhưng mà, chúng tôi nghe nói đó là chuyện của mấy năm trước rồi...” Paimon nói. “Hỏa Thần từng nói, sinh mệnh ở đó sẽ dần hòa làm một với vô số linh hồn...”
+
+“Dù hy vọng có nhỏ đến mấy thì tôi cũng sẵn sàng thử. Chúng tôi từng hứa rằng, cho dù không thể quét sạch Vực Sâu, thì cũng phải kề vai chiến đấu cho đến phút cuối cùng,” Vichama nói. “Thôi không nói nữa, chuyện chính quan trọng hơn. Tôi sẽ bắt đầu tìm kiếm những cái Tên Cổ được khái niệm hóa, trong thời gian này có lẽ sẽ có một số ‘mảnh vỡ’ phân tán ra xung quanh. Phiền mọi người thu thập giúp nhé.”
+
+Vichama bắt đầu kích hoạt Đá Thức Tỉnh Linh Hồn. Ánh sáng xanh đen bùng lên khiến bầu trời quanh bãi đất trống chợt tối sầm xuống như phủ một màn đêm nặng nề.
+
+“Ngoài ra, cũng phải chuẩn bị chiến đấu. Tôi từng nói là Đá Thức Tỉnh Linh Hồn sẽ liên thông giữa trần thế và Vương Quốc Dạ Thần, nên sức mạnh của Vực Sâu có thể sẽ bất ngờ trỗi dậy,” Vichama nói.
+
+>Thu thập mảnh Tên Cổ
+
+Ngay khi nghi thức khởi động, vô số mảnh ánh sáng vàng óng bắt đầu bắn văng ra xung quanh bãi đất trống rồi chập chờn như sắp tan biến.
+
+>Mảnh Tên Cổ không thể tồn tại lâu dài trong thế giới hiện thực, hãy mau thu thập
+
+“Thứ màu vàng đó... chắc là ‘mảnh vỡ’ mà Vichama nói nhỉ. Chúng ta đến gần xem thử đi!” Paimon nói.
+
+Cả nhóm nhanh chóng chạy tỏa ra gom từng mảnh vỡ phát sáng. Khi vừa thu được phân nửa số mảnh, khí tức Vực Sâu đặc quánh bỗng xé toạc mặt đất: ba con Yumkasaur bị Vực Sâu ăn mòn lao ra tấn công dữ dội.
+
+“Ối! Ma vật xuất hiện thật kìa, cẩn thận!” Paimon nói.
+
+Lumine, Mualani và Chasca lập tức hợp sức đánh tan đợt tập kích đầu tiên, rồi tiếp tục hạ gục thêm hai con Tepetlisaur nhiễm Vực Sâu cùng một Pháp Sư Vực Sâu Hỏa xông ra ngay sau đó. Khi vừa dứt trận đánh và gom nốt những mảnh Tên Cổ còn lại, Chasca vội ngoái nhìn về phía giữa bãi đất.
+
+“Vichama, vẫn chưa xong sao?” Chasca hỏi.
+
+“Sắp rồi! Đợi thêm chút...!” Vichama nói.
+
+>Xem xét tình trạng của Vichama
+
+Giữa luồng xoáy năng lượng đen kịt ngày một dữ dội, Vichama gom trọn 16 mảnh vỡ vào một viên Đá Obsidian và dồn hết sức ném mạnh về phía Mualani, khiến cô vội giơ tay chụp lấy viên đá giờ đã mang dấu ấn Tên Cổ của Kachina. Thế nhưng thay vì dừng nghi thức, Vichama vẫn cắn răng chịu đựng cơn đau đớn để tiếp tục lục tìm Mallko trong biển Vực Sâu.
+
+“Vichama!” Paimon nói.
+
+“Cầm lấy... Nhanh nào!” Vichama nói. “Tôi tìm được Tên Cổ của Kachina rồi. Đợi tôi một chút, Mallko... Đợi tôi thêm một chút nhé...”
+
+“Không ổn. Sức mạnh của Vực Sâu càng ngày càng mạnh,” Chasca nói.
+
+“Vực Sâu đang hủy hoại cơ thể anh ta! Vichama, nếu cứ tiếp tục như vậy thì anh cũng sẽ...” Mualani nói.
+
+“...Cái mạng này của tôi đáng ra phải chết từ năm năm trước rồi,” Vichama nói. “Làm ơn, cho tôi thêm chút thời gian... Một chút nữa thôi!”
+
+“Tôi hiểu rồi. Để tôi giúp anh kéo dài thời gian,” Lumine nói.
+
+Vichama quay sang khẽ gật đầu cảm kích khi Lumine bước vội lên phía trước, đưa tay chạm vào luồng khí tức đen đặc đang quấn lấy anh để hút bớt và thanh tẩy sức mạnh Vực Sâu.
+
+>Nhấn nút liên tục, ngăn cản sức mạnh Vực Sâu xâm chiếm Vichama
+
+“Ối! Sức mạnh của Vực Sâu mạnh quá, phải cẩn thận đó!” Paimon nói.
+
+“Argh...” Vichama rên lên.
+
+Sức mạnh Vực Sâu tràn về ngày càng cuồng bạo, đẩy Lumine tới giới hạn.
+
+“Sức mạnh này là...” Chasca nói.
+
+“Cô vẫn ổn chứ?” Mualani hỏi.
+
+“Sắp không chống đỡ nổi rồi! Thời gian không còn nhiều nữa!” Lumine nói.
+
+“Mallko... Đáng ghét, tại sao lại không tìm thấy! Tại sao chứ...!?” Vichama hỏi.
+
+“Không thể chờ thêm nữa. Mualani, mau kéo anh ta ra!” Chasca nói.
+
+“Tôi đã thử rồi, nhưng sức mạnh Vực Sâu quấn rất chặt... Anh ta và Đá Thức Tỉnh Linh Hồn giống như đang bị những dây móc vô hình trói lại với nhau vậy,” Mualani nói.
+
+“Nếu đã vậy thì hết cách rồi. Xin lỗi, Citlali,” Chasca nói. “...Tránh ra.”
+
+“Chasca? Này...” Mualani nói.
+
+Không chần chừ thêm một giây, Chasca giương cung bắn thẳng mũi tên vào Đá Thức Tỉnh Linh Hồn. Một tiếng nổ chói lòa vang lên kèm sóng xung kích dữ dội hất văng tất cả mọi người ra xa, khiến toàn bộ khu đất chìm trong khói bụi trước khi bầu trời quang đãng trở lại.
+
+“Đau quá... Vừa nãy đã xảy ra chuyện gì vậy? Hình như tôi vừa nhìn thấy Đá Thức Tỉnh Linh Hồn bị...” Paimon nói.
+
+“Cứ mặc kệ thì sẽ bị mất kiểm soát, lại không có cách nào để dừng lại... Tôi chỉ đành phải phá hủy nó thôi,” Chasca nói. “Mọi người bị sóng xung kích hất văng đi nên chắc sẽ hơi choáng một chút. Đây là hiện tượng bình thường thôi.”
+
+“Lần sau trước khi ra tay thì nhớ nói một tiếng nhé. May mà lần này chúng tôi trốn nhanh đấy,” Mualani nói.
+
+“Hình như tôi đã nói tránh ra rồi mà...” Chasca nói.
+
+“Sau đó thì cô ra tay ngay sao? Không phải ai cũng có phản ứng nhanh như cô đâu. Vừa rồi suýt nữa chúng tôi đã bị cuốn vào rồi đấy!” Mualani nói.
+
+“Được rồi, lần sau tôi sẽ chú ý,” Chasca nói.
+
+“May mà Tên Cổ của Kachina không bị tổn hại... À đúng rồi, Vichama đâu?” Mualani hỏi. “Vichama!”
+
+“Vichama, anh...” Paimon nói.
+
+“Tôi không tìm thấy Tên Cổ của Mallko. Tên Cổ của anh ấy... chắc đã biến mất thật rồi,” Vichama nói. “Tên Cổ biến mất, đồng nghĩa với việc người đó sẽ không bao giờ quay lại nữa. Mặc dù sớm biết khả năng cao là như thế này, nhưng mà... Vẫn là muộn rồi sao... Từ thời điểm mà họ xuất phát thì đã muộn rồi...”
+
+“Vichama...” Mualani nói.
+
+“Tôi nghĩ những năm qua anh ấy đã nhận được nhiều lời an ủi rồi, cứ để anh ấy yên tĩnh một lúc đi,” Chasca nói.
+
+“Hmm... Hửm? Vichama, anh đang cầm gì trong tay vậy? Hình như đang phát sáng kìa?” Paimon hỏi.
+
+“Trong tay tôi? Đây là...” Vichama nói.
+
+Một luồng sáng ấm áp bỗng bay ra từ lòng bàn tay Vichama, mở ra trước mắt mọi người một đoạn ký ức của năm năm về trước — nơi hai chiến binh trẻ tuổi đang tựa lưng vào nhau giữa chiến trường Vực Sâu mịt mù.
+
+“Này Mallko, vẫn còn sức chứ?” Pisac hỏi.
+
+“Sức vung kiếm đã dùng hết rồi, sức nói chuyện thì vẫn còn một chút,” Mallko nói.
+
+“Haha, vậy thì có ích gì chứ. Cũng đâu có ai nghe được lời trăng trối của chúng ta đâu,” Pisac nói. “Không ngờ lại chết ở đây thật. Haiz, tôi không sợ chết, nhưng khó mà tưởng tượng ra khi mẹ biết được tin này sẽ có cảm xúc thế nào.”
+
+“Về điểm này thì tôi ổn hơn anh. Cha mẹ tôi mất sớm, nên không cần phải vì tôi mà đau lòng,” Mallko nói.
+
+Pisac kiệt sức, lặng lẽ nhắm mắt lại.
+
+“Pisac? Thói quen này của anh vẫn chưa thể bỏ được nhỉ? Đã đến chặng cuối rồi mà vẫn muốn tôi tiễn anh thêm một đoạn sao,” Mallko nói. “Không ai nghe được lời trăng trối của chúng ta sao... À, nhưng nếu lỡ như nghe được thì sao? Vichama, may mà anh không đến đây đấy. Đừng buồn, hãy sống tốt thay cho phần tôi nữa nhé.”
+
+Bầy Chó Săn Ma Vật lao tới ngay khoảnh khắc đoạn ký ức vỡ tan. Vichama đứng lặng hồi lâu nhìn xuống đôi bàn tay trống không trước khi thở dài.
+
+“Lạ thật. Vừa rồi hình như tôi thấy được một đoạn ký ức thì phải?” Paimon hỏi.
+
+“Xem ra lần ‘trục vớt’ này cũng không phải là không có thu hoạch gì,” Chasca nói.
+
+“Anh đã thấy dễ chịu hơn chưa?” Lumine hỏi.
+
+“Ừm. Được gặp lại anh ấy, được nghe giọng của anh ấy, tôi thực sự cảm thấy rất vui,” Vichama nói. “...Nhưng sau niềm vui đó là nỗi đau sâu sắc hơn.”
+
+“Nỗi đau? Tại sao?” Paimon hỏi.
+
+“Mallko luôn thích thể hiện vẻ phóng khoáng, nhưng mọi người có để ý không? Tay anh ta run lên liên tục, nụ cười trên gương mặt cũng rất miễn cưỡng,” Vichama nói.
+
+“Đúng là vậy thật...” Lumine nói.
+
+“Mấy năm nay tôi luôn tiếc nuối vì không thể kề vai tác chiến với anh ấy. Ở điểm cuối của cuộc đời, anh ấy cũng đang nghĩ về điều tương tự,” Vichama nói.
+
+“Vichama...” Paimon nói.
+
+“Tôi không sao. Nghe nói khi mọi người đến, thủ lĩnh Wayna không tán thành việc các vị đến Vương Quốc Dạ Thần,” Vichama nói. “Thật ra tôi cũng từng do dự. Giúp các vị tìm Tên Cổ, cũng chính là đẩy các vị tới gần ranh giới nguy hiểm thêm một bước. Nhưng mà... Tôi thật sự hiểu rõ tâm trạng của các vị. Cuộc đời luôn có quá nhiều điều nuối tiếc, mà cơ hội để bù đắp thì dường như không có. Sự áy náy trong lòng sẽ khiến chúng ta mất đi phẩm chất quý giá nhất của chiến binh. Nếu đã vậy, chi bằng ngay từ đầu dứt khoát lựa chọn con đường dũng cảm hơn...”
+
+“Con đường dũng cảm hơn? Ý là mang theo vết thương ra chiến trường sao?” Lumine hỏi.
+
+“Nếu có thể trở về quá khứ, tôi nhất định sẽ kiên trì đi ra tiền tuyến. Dù có bị thương thì cũng sẽ có chuyện mà tôi làm được...” Vichama nói. “Cho dù không thể thay đổi kết cục, thì tôi cũng có thể cùng Mallko chiến đấu đến giây phút cuối cùng. Cuối cùng tôi cũng nhận ra, có những sự lựa chọn rất quan trọng. Chỉ cần bỏ lỡ thời cơ đó thì sẽ không thể bù đắp được nữa. Các vị vẫn đang đứng ở ngã rẽ của sự lựa chọn này. Vì vậy... Tôi hy vọng các vị sẽ không để lại những nuối tiếc tương tự như tôi.”
+
+“Ừm, cảm ơn anh. Sự cổ vũ của anh đã khiến tôi càng thêm kiên định. Yên tâm, tôi nhất định sẽ đưa Kachina trở về,” Mualani nói. “Tôi đã hứa là sẽ tìm được em ấy, sẽ không để em ấy cô đơn một mình.”
+
+“Vậy thì tốt. Khụ khụ, kỳ lạ, cơ thể tôi...” Vichama nói.
+
+“Một khi Vực Sâu xâm nhập vào cơ thể thì sẽ có một phần đồng hóa với nội tạng. Cho dù Lumine có sức mạnh thanh tẩy thì cũng không thể loại bỏ hoàn toàn sự ảnh hưởng của Vực Sâu,” Chasca nói. “Nhưng cũng may, nhờ có Lumine mà anh không bị ảnh hưởng quá nặng bởi Vực Sâu. Tôi có thể hướng dẫn anh vài cách để đối phó với nó, ví dụ như giảm nhịp thở, kiểm soát tinh thần ổn định một cách có ý thức.”
+
+Nghe theo lời chỉ dẫn của Chasca, Vichama nhắm mắt điều hòa lại nhịp thở một lát rồi mới chậm rãi mở mắt ra.
+
+“Phù... Đúng là đỡ nhiều rồi. Không ngờ cô lại hiểu rõ vậy,” Vichama nói.
+
+“Chỉ là chia sẻ một ít kinh nghiệm thôi, không to tát gì đâu,” Chasca nói.
+
+“Tóm lại, chúng ta đã lấy được Tên Cổ của Kachina rồi, đây là một khởi đầu tốt. Chúng ta đưa Vichama về Dòng Dõi Vườn Treo trước đi, cũng tiện thể báo tin cho Wayna luôn,” Mualani nói. “Chậc... Chúng ta bất đắc dĩ phá hủy Đá Thức Tỉnh Linh Hồn rồi, cũng phải xin lỗi anh ấy mới được. Nhưng chắc anh ấy sẽ hiểu cho chúng ta nhỉ?”
+
+---
+
+>Quay về ‘Dòng Dõi Vườn Treo’
+
+Trở về nơi ở của thủ lĩnh Dòng Dõi Vườn Treo, cả nhóm bắt gặp Wayna đang lúng túng đứng đối diện một cô gái trẻ mặc trang phục thầy thuốc với ánh mắt sắc sảo đang lặng im chờ đợi.
+
+“Đã bảo rồi, Chuychu, cứ đứng như vậy thì đúng là khiến tôi không biết phải nói gì nữa đấy...” Wayna nói.
+
+“Giọng điệu của chú Wayna... Xem ra biết tôi định nói gì rồi à?” Chuychu hỏi.
+
+“Hai chị em lúc nào cũng vậy, thật khiến tôi khó xử quá đấy...” Wayna nói. “A, họ về rồi.”
+
+“Chuychu? Sao em lại ở đây?” Chasca hỏi.
+
+“Hah, chị nói vậy là đang giả vờ phải không? Rõ ràng chị biết tại sao em lại ở đây mà,” Chuychu nói. “Các vị, thật xin lỗi, tôi muốn mượn quý cô này vài phút. Nào, chị qua đây.”
+
+“Thật là... Xin phép mọi người nhé,” Chasca nói.
+
+“Chuychu? Cô ấy là ai vậy?” Paimon hỏi.
+
+“Nói ra thì dài lắm. Đó là em gái của Chasca... Tuy không cùng huyết thống,” Wayna nói.
+
+“Lúc nãy quả thật có nghe cô ấy gọi Chasca là ‘chị’. Hình như có câu chuyện đằng sau nhỉ...” Lumine nói.
+
+“Mặc dù người ngoài như tôi nói thì không thích hợp lắm, nhưng dù sao cũng không phải bí mật gì to tát... Thực ra Chasca... được nuôi lớn bởi Qucusaur,” Wayna nói. “Nghe nói hồi nhỏ cô ấy mắc một căn bệnh hiếm gặp, bị bỏ lại nơi hoang dã, đúng lúc gặp phải Vực Sâu xâm nhập. Vực Sâu định nuốt chửng cô ấy, nhưng không ngờ lại kích động khát vọng sinh tồn của Chasca. Khát vọng đó khiến cô ấy sống sót như một kỳ tích, nhưng cũng gieo xuống hạt giống ‘tranh đấu’ trong lòng Chasca. Sau khi được nhận nuôi, Chasca đã đi theo Qucusaur đánh đấm khắp nơi.”
+
+“Không biết tại sao, tôi có thể tưởng tượng ra khung cảnh đó...” Paimon nói.
+
+“Haha, sau đó Chasca quay về với xã hội loài người, được cha mẹ của Chuychu nhận nuôi. Lúc đó Chasca vẫn giữ thói quen đánh nhau, Chuychu thường phải dắt theo cô ấy đi xin lỗi,” Wayna nói.
+
+“Quả là khoảng thời gian khiến người ta hoài niệm. Hồi nhỏ tôi cũng từng đánh nhau với cô ấy, hai chúng tôi kiểu như không đánh thì sẽ không quen biết ấy...” Mualani nói. “Hiện giờ cô ấy đã kiểm soát được khát vọng chiến đấu của mình rồi, còn đi làm ‘sứ giả hòa bình’ để hòa giải mâu thuẫn của người khác nữa. ...Nhưng cô ấy vẫn cãi nhau với Chuychu sao? Tôi tưởng sau khi trưởng thành thì họ sẽ thôi cự cãi rồi chứ.”
+
+“Haiz, cũng có một phần trách nhiệm của tôi. Chuychu nhờ tôi ngăn cản Chasca làm một số việc nguy hiểm, nhưng các vị biết đấy, việc Chasca đã quyết thì rất khó để thay đổi,” Wayna nói.
+
+“Tôi hiểu rồi. Chẳng trách lúc trước anh muốn ngăn cản chúng tôi đến Vương Quốc Dạ Thần, Chasca còn nói gì mà không phải tác phong bình thường của anh nữa,” Mualani nói.
+
+“Tôi chắc chắn sẽ ủng hộ chuyến mạo hiểm của các vị. Hồi còn trẻ không tham gia mấy chuyện mạo hiểm này thì đến tầm tuổi như tôi sẽ làm không nổi nữa. Như vậy chẳng phải rất đáng tiếc sao?” Wayna hỏi. “Nhưng tôi cũng hiểu được Chuychu... Suy cho cùng thì chẳng ai muốn thấy người thân của mình liều mạng đi mạo hiểm cả.”
+
+Ở một góc khuất gần đó, Chuychu khoanh tay nhìn thẳng vào Chasca.
+
+“Được rồi, bây giờ chỉ có hai chúng ta, cho chị một phút để khai thật đấy,” Chuychu nói.
+
+“Không có gì để nói cả. Cho dù em có không công nhận chị thế nào đi nữa, thì em cũng nên hiểu rằng chị chỉ làm những việc cần thiết,” Chasca nói.
+
+“Chính thái độ cứng rắn này của chị mới khiến người khác buồn đấy. Chẳng nói một lời nào là đã định chạy đến Vương Quốc Dạ Thần, lại nói đơn giản như thể ra nước ngoài du lịch một chuyến vậy,” Chuychu nói.
+
+“Thì... đến Vương Quốc Dạ Thần cũng là ra nước ngoài mà?” Chasca hỏi.
+
+“Đó! Vẫn còn ngụy biện nữa à!” Chuychu nói.
+
+Chasca im lặng không đáp, để mặc cô em gái tiếp tục trút cơn giận.
+
+“Đầu tiên, chúng ta từng giao hẹn đúng không? Việc nguy hiểm phải chia thành bốn cấp, nếu không quá cần thiết thì tối đa chỉ được tham gia việc cấp hai, bất đắc dĩ lắm thì cũng chỉ đến việc cấp ba thôi,” Chuychu nói. “Nhưng Vương Quốc Dạ Thần, em thấy nó thuộc về cấp bốn, là cấp độ nguy hiểm nhất! Mà chị còn định lén lút trốn đi nữa!”
+
+“Gì mà lén lút chứ? Rõ ràng chị đường đường chính chính chiến thắng cuộc thi rồi mới hiên ngang bước vào mà,” Chasca nói.
+
+“Thứ hai, chị mua chuộc chú Wayna rồi phải không? Chú ấy đã hứa với em là sẽ ngăn cản chị, nhưng kết quả lại chẳng làm gì cả,” Chuychu nói.
+
+“Em định tìm Wayna tính sổ à? Nếu chị nói là do chị quá kiên quyết, Wayna không khuyên nổi và cũng đánh không lại, vậy thì em nghĩ sao?” Chasca hỏi.
+
+“Đúng như em đoán mà! Xem ra lần này chị đã khăng khăng làm theo ý mình rồi nhỉ,” Chuychu nói.
+
+“Chuyện ở mức độ này, nếu em là chị thì hẳn là em cũng sẽ đi,” Chasca nói.
+
+“Em là em, chị là chị, đừng có đánh đồng nhé. Em là bác sĩ, phụ trách hậu cần. Hiện giờ chị bất chấp nguy hiểm, nên sẽ có thể dẫn đến tình trạng bị mất kiểm soát. Thân là một bác sĩ thì em phải lên án hành động này,” Chuychu nói.
+
+“Thôi được rồi... Còn gì nữa không?” Chasca hỏi.
+
+“Chị... ‘Còn gì nữa’ là sao? Ít nhất thì chị nên tự kiểm điểm bản thân đi, sau đó hứa với em là không được đến nơi đó đấy,” Chuychu nói.
+
+“Tạm dừng đã. Lần này em định cãi chơi chơi thôi hay là cãi nhau nghiêm túc đây?” Chasca hỏi.
+
+“Chasca, trông em có giống đang đùa không?” Chuychu hỏi.
+
+“Vậy thì chị phải nói với em, Kachina gặp chuyện như vậy thì chị cũng có một phần trách nhiệm. Nếu bỏ mặc em ấy thì chị cũng không phải là chị nữa,” Chasca nói.
+
+“Nhưng nếu chẳng may bị mất kiểm soát... thì chị cũng đâu còn là chính mình nữa!” Chuychu nói.
+
+“Đó là vấn đề khác. Đạo đức và trách nhiệm rất quan trọng, không phải em đã nói vậy sao? Sống ở Natlan thì phải có tố chất tương xứng với nơi này chứ,” Chasca nói.
+
+“Em cũng từng nói với chị rồi, quản lý tốt tình trạng của bản thân cũng là một dạng đạo đức mà,” Chuychu nói.
+
+“Đôi khi sẽ có lúc phải từ bỏ. Được rồi, đến đây thôi, còn cãi nhau nữa thì chị sẽ nghiêm túc đấy, em cũng không muốn chúng ta đứng đây cãi cọ đến bung cả nóc nhà Wayna đâu nhỉ,” Chasca nói.
+
+“Đây là lời đe dọa sao? Hình như chị đang đe dọa em nhỉ?” Chuychu hỏi.
+
+“Chuychu! Làm em gái thì nên nghe lời chút đi,” Chasca nói.
+
+Chuychu khẽ lặng đi một nhịp, giọng nói bỗng chùng xuống đầy bất lực.
+
+“Vậy là chị thực sự muốn đi sao? Em nói gì cũng vô dụng hết nhỉ? Rốt cuộc em có phải là em gái chị không đây...” Chuychu nói.
+
+“Nếu em thực sự là em gái của chị, thì hãy chờ đợi để chào đón mọi người trở về nhé,” Chasca nói.
+
+“Haiz... Chasca...” Chuychu nói. “Thật hết cách... Ai bảo chị lại là người như vậy chứ... Đúng là đáng ghét mà.”
+
+Nói xong, Chuychu quay lưng bước đi, để lại Chasca quay trở về đứng bên cạnh nhóm Wayna.
+
+“Haiz... Thật là...” Wayna nói.
+
+“Có điều gì muốn nói không?” Chasca hỏi.
+
+“Hai người tuy không phải chị em ruột, nhưng tính cách thì lại rất giống nhau đấy,” Wayna nói.
+
+“Thật sao?” Chasca hỏi.
+
+“Lần trước tôi đã nói với Chuychu như vậy, cô ấy cũng đáp lại một câu y hệt. Ngay cả giọng điệu cũng giống y chang cô đấy, Chasca,” Wayna nói. “Người ngoài như tôi đây cũng khó mà nói được gì... Có điều, nếu rảnh thì hãy ở bên Chuychu thêm đi, hai cô đều là những cô gái kiên cường, nhưng kiên cường không có nghĩa là phải chịu đựng sự cô độc.”
+
+“...Cảm ơn,” Chasca nói.
+
+“Đừng khách sáo. Đá Thức Tỉnh Linh Hồn dùng xong chưa? Chắc là trả lại được rồi đấy nhỉ?” Wayna hỏi. “Kinich nói đó là đạo cụ nghi lễ, để ở chỗ tôi bảo quản sẽ an toàn hơn.”
+
+“Cái này...” Mualani nói.
+
+“Thực ra... Hmm, tôi bắt đầu nhớ tên hát rong đó rồi đấy. Giống như khi anh ta sửa xong Đàn Thiên Không vậy...” Paimon nói.
+
+“...Tuy chỉ mượn đi một cái, nhưng chúng tôi có thể trả lại ‘hai cái’ đấy,” Chasca nói.
+
+“Hả?” Wayna hỏi.
+
+>Giải thích mọi chuyện cho Wayna...
+
+“Thì ra là vậy. Haiz, sự việc cấp bách, liên quan đến tính mạng con người, tôi nghĩ đây cũng là chuyện bất đắc dĩ,” Wayna nói. “Chỉ là, Citlali không dễ đối phó đâu, nhất là với người làm hỏng đồ của mình. Để tôi đi giải thích sau vậy. Các vị... đến Vương Quốc Dạ Thần thì nhất định phải chú ý an toàn nhé. Tôi sẽ đợi mọi người bình an trở về.”
+
+#CH|Phần 3|Tiếng Vọng Của Sinh Mệnh|nc_natlan_night.png|Tiếng Vọng Của Sinh Mệnh
+
+Mang theo Tên Cổ của Kachina quay trở lại Đấu Trường Lửa Thánh, cả nhóm nhận ra bầu không khí nơi đây có phần khác lạ sau trận giao đấu vừa qua, liền bước thẳng vào Phòng Quản Lý gặp Hỏa Thần.
+
+>Giao Tên Cổ của Kachina cho Mavuika
+
+“Chúng tôi về rồi đây, Tên Cổ của Kachina cũng đã tìm được rồi!” Paimon nói.
+
+“Vừa rồi Đấu Trường Lửa Thánh đã xảy ra chuyện gì vậy?” Lumine hỏi.
+
+“Chuyện này... Kể ra thì hơi phức tạp, để tôi nói đơn giản nhé,” Mavuika nói.
+
+>Các bạn nghe Hỏa Thần kể về trận chiến giữa cô ấy với Capitano và chuyện hy sinh sức mạnh của cô ấy.
+
+“Lại là Fatui, sao ở đâu cũng có bọn chúng đến gây rối vậy!” Paimon nói.
+
+“Hỏa Thần đại nhân đã mất đi sức mạnh sao? Nếu chuyện này bị Fatui biết được thì bọn chúng sẽ thừa thắng xông lên mất!” Mualani nói.
+
+“Haha, cho nên đây là bí mật nhỏ giữa chúng ta. Đừng nói ra nhé, nếu không thì tôi sẽ gặp rắc rối đấy,” Mavuika nói. “Tuy tôi rất muốn để mọi người yên tâm, nhưng tình hình bây giờ chúng ta bị các thế lực truy đuổi, nhìn thế nào cũng không giống cục diện có thể yên tâm rồi. ...Chuyện phức tạp thì cứ giao cho tôi. Mọi người chỉ cần tập trung vào việc muốn làm là được.”
+
+“Ừm, tôi cũng sẽ thay mặt Hỏa Thần đại nhân giúp đỡ mọi người. Mặc dù năng lực của tôi có hạn...” Iansan nói.
+
+“Hahaha, khiêm tốn quá đấy Iansan. Thực lực của cô đã được mọi người biết đến từ lâu rồi, là niềm tự hào của Cộng Đồng Trù Phú đấy,” Mavuika nói.
+
+“Nói sao nhỉ, tôi thấy thật có lỗi. Mọi người có nhiều việc cần để tâm như vậy, mà tôi chỉ quan tâm đến cảm xúc của mình,” Mualani nói.
+
+“Có gì phải xin lỗi chứ, ai cũng có cảm xúc mà. Tôi cũng không ngoại lệ, nên tôi rất hiểu cảm giác đó,” Mavuika nói. “Đã tìm được Tên Cổ của Kachina rồi thì chúng ta mau đi tìm cô bé thôi. Theo tôi nào.”
+
+Theo bước chân Mavuika, cả nhóm bước vào một căn phòng trưng bày nhỏ nối liền phía trong, nơi đặt la liệt những kỷ vật mang dấu ấn của các bộ tộc Natlan.
+
+“Đây là nơi nào vậy?” Paimon hỏi. “Ơ, đó chẳng phải là bùa hộ mệnh của Atea sao?”
+
+“Haha, tinh mắt đấy. Đúng vậy, đây chính là nơi tôi dùng để lưu trữ các loại đồ lưu niệm,” Mavuika nói.
+
+“Tôi cũng lần đầu tiên thấy đó... Không ngờ lại nhiều như vậy,” Mualani nói.
+
+“Hầu như đồ đạc của mỗi bộ tộc đều có, việc thu thập chúng chắc phải tốn rất nhiều công sức nhỉ,” Chasca nói.
+
+“Ừm, các vị có thể xem đó là sở thích của tôi. Ở Natlan, ai cũng lớn lên cùng với những câu chuyện về anh hùng mà,” Mavuika nói. “Đồ vật là thứ chứa đựng ký ức tốt hơn, đáng tin cậy hơn nhiều so với đầu óc của chúng ta. Tôi còn phải chuẩn bị một số nghi thức. Mọi người cứ tham quan đi, xem như là giết thời gian nhé. Nếu tò mò về nguồn gốc của món đồ nào đó thì tôi sẽ kể cho mọi người nghe.”
+
+“Vậy thì tôi không khách sáo nhé!” Paimon nói.
+
+>Quan sát đồ lưu niệm trong phòng
+
+Trong lúc Mavuika chuẩn bị bột nghi thức ở bệ trung tâm, Lumine và Paimon dạo một vòng quanh căn phòng, dừng lại trước từng món kỷ vật nổi bật để lắng nghe câu chuyện phía sau chúng.
+
+Trước tiên, hai người dừng chân bên một thanh đại kiếm đồ sộ đặt trang trọng trên giá đỡ.
+
+“Ở đây có một món vũ khí rất lớn, là của bộ tộc nào vậy?” Paimon hỏi.
+
+“À, đó là vũ khí của Tenoch, vị anh hùng năm trăm năm trước. Nói một cách chính xác thì anh ấy không thuộc về bất kỳ bộ tộc nào cả,” Mavuika nói. “Bởi vì trước khi thảm họa Vực Sâu bùng nổ, anh ấy đã bị lưu đày vì một số lý do.”
+
+“Lưu đày...” Paimon nói.
+
+“Đây là chuyện bất đắc dĩ, nhưng anh ấy cũng đã chấp nhận hình phạt này. Theo anh ấy thì đây là kết cục mà anh ấy đáng phải chịu,” Mavuika nói. “Nhưng khi Vực Sâu ập đến, các bộ tộc cần gấp một thứ sức mạnh để khích lệ, để mà nói thì anh ấy chính là người không hề e sợ, không bao giờ lùi bước. Anh ấy đã tập hợp sáu bộ tộc, và lập nên kỳ tích trong trận đại chiến... Nhưng vì anh ấy đã mất đi Tên Cổ, cho nên ngay cả Thơ Hoàn Hồn sau trận chiến cũng không thể đưa anh ấy trở về. Cứ như vậy, anh ấy bị chôn vùi vào trong lòng đất của Natlan, bên cạnh hàng ngàn hàng vạn chiến binh và dân thường.”
+
+“Woa, nghe lợi hại nhỉ,” Paimon nói.
+
+“Đúng không? Ngay cả hiện tại, câu chuyện về Tenoch thì ai ai cũng đều biết cả,” Mavuika nói.
+
+Bên cạnh đó là tấm bùa hộ mệnh quen thuộc mà Mualani mới trao lại cho Hỏa Thần.
+
+“Đây chính là bùa hộ mệnh của Atea,” Paimon nói.
+
+“Nguồn gốc thì chắc các vị cũng đã rõ rồi. Đây là thứ đã đi theo Atea cả đời, mang lại cho cô ấy rất nhiều may mắn khi chiến đấu,” Mavuika nói.
+
+Đi tiếp sang góc phòng, Paimon chú ý tới một bộ cần câu cũ kỹ mang phong cách đặc trưng vùng biển.
+
+“Còn có cả cần câu sao? Vừa nhìn là biết ngay đồ của Cư Dân Suối Nước rồi!” Paimon nói.
+
+“Đúng vậy. Đó là một bộ dụng cụ câu cá, thuộc về thợ câu huyền thoại tên là Matavaru,” Mavuika nói. “Tôi và anh ta quen nhau ở quán rượu. Anh ta nói với tôi rằng bản thân đang săn lùng một loài cá khổng lồ, còn vạch ra kế hoạch chu toàn để bắt nó nữa. Tôi nhìn thấy ý chí chiến đấu và khát khao trong mắt anh ta. Với anh ta thì biển cả chính là chiến trường vinh dự mà anh đặt cược vào.”
+
+“Vậy sau đó anh ta có thành công không?” Paimon hỏi.
+
+“Sau đó tôi gặp lại thì trên người anh ta tràn đầy những vết sẹo. Anh ta vì con cá đó mà đã bị Vực Sâu xâm nhập vào cơ thể...” Mavuika nói. “Anh ta đã giết con cá đó, nhưng lại bị thương nặng, không thể ra khơi được nữa. Anh ta hỏi tôi rằng, ‘Hỏa Thần đại nhân, một ngư dân ra khơi không mang được cá về, thì rốt cuộc là thắng hay thua?’”
+
+“Tôi thấy chắc chắn là thắng rồi...” Paimon nói.
+
+“Tôi cũng nghĩ vậy. Trải nghiệm đó giá trị hơn nhiều so với chiến lợi phẩm,” Mavuika nói. “Sau đó, anh ta đã giao cả bộ đồ câu cho tôi, hy vọng tôi có thể sử dụng chúng thật tốt.”
+
+“Vậy có nghĩa là... Cô cũng biết câu cá sao!” Paimon nói.
+
+“Haha, nếu có cơ hội thì chúng ta có thể so tài với nhau,” Mavuika nói.
+
+Trên bệ trưng bày kế bên là một chiếc đai lưng bản lớn chạm trổ công phu.
+
+“Woa, chiếc đai này còn to hơn cái đầu tôi nữa!” Paimon nói.
+
+“Cộng Đồng Trù Phú có thói quen rèn luyện thân thể và đấu sức với nhau. Chiếc đai này cũng là một biểu tượng của vinh quang,” Mavuika nói. “Có lẽ là để gia tăng độ ấn tượng của sức mạnh mà bản gốc của chiếc đai này rất nặng. Dù là hai người trưởng thành cũng chưa chắc đã nhấc lên được. Vấn đề là chiếc đai nặng như vậy, cho dù người mang được nó là lực sĩ cơ bắp vạm vỡ, thì cũng phải chịu một áp lực đến mức không thở nổi.”
+
+“Quả thật là vậy...” Paimon nói.
+
+“Vậy nên Kitera, chủ nhân của chiếc đai này đã tìm thợ thủ công để làm ra một bản sao nhẹ hơn, cũng chính là cái ở trước mặt hai vị đấy,” Mavuika nói. “Trong lúc tập luyện, anh ta sẽ dùng bản sao này để làm dụng cụ bảo vệ phần eo của mình.”
+
+“Thực ra anh ta chỉ muốn mang nó bất cứ lúc nào để khoe khoang thôi nhỉ!” Paimon nói.
+
+Cuối cùng, hai người dừng lại trước hàng chai lọ nghi thức cổ xưa cùng một chiếc bình lớn nổi bật ở chính giữa.
+
+“Ở đây có rất nhiều chai lọ và thuốc men... Liệu có liên quan đến thuật giả kim không nhỉ?” Paimon hỏi.
+
+“Không, đó là đạo cụ nghi thức của Chủ Nhân Gió Đêm, thường sẽ dùng để tăng cường năng lực giao tiếp với Vương Quốc Dạ Thần và cả Wayob nữa,” Mavuika nói. “Yemaya là chuyên gia trong lĩnh vực này, cũng từng dạy tôi rất nhiều kiến thức. Tuy trông cô ấy có vẻ rất nghiêm túc, nhưng thực ra lại là một người khá vui tính. Tặng những thứ này cho tôi, đều là vì học trò của cô ấy chê mấy bộ chai lọ này quá truyền thống, không thể tiếp tục truyền lại nữa. Còn về thứ đựng ở bên trong thì cũng không có gì đặc biệt... À, ngoài cái bình to ở giữa ra. Đó là thứ cô ấy muốn tặng cho tôi nhất.”
+
+“Nghe lợi hại đấy, là thứ gì vậy?” Paimon hỏi.
+
+“Nước nho...” Mavuika nói.
+
+“Này!” Paimon nói.
+
+“Hahaha, ngon lắm đó. Tuy bây giờ có vẻ như sắp hết hạn rồi...” Mavuika nói.
+
+---
+
+>Nói chuyện với Mavuika
+
+Xem xong các món kỷ vật, Lumine và Paimon quay lại bàn nghi thức trò chuyện cùng Mavuika trong lúc chờ đợi.
+
+“Số bột này vẫn cần thời gian để lắng xuống, chúng ta đợi thêm chút nữa nhé,” Mavuika nói. “Sau khi tham quan thì hai vị cảm thấy thế nào? Hiện giờ đã có trải nghiệm chân thực hơn về văn hóa của Natlan rồi chứ?”
+
+“Đúng vậy. Mỗi một món đồ lưu niệm đều tượng trưng cho một câu chuyện. Xem ra Natlan đã trải qua rất nhiều câu chuyện nhỉ,” Paimon nói. “Nhìn thấy bùa hộ mệnh là nhớ ngay đến những lời Atea từng nói. Với cô thì mỗi một thứ đều có thể đánh thức ký ức đặc biệt nhỉ.”
+
+“Ừm, đúng vậy. Tác dụng của đồ lưu niệm, thật ra rất giống với Tên Cổ được lưu truyền trong các bộ tộc,” Mavuika nói. “Đó chính là cho chúng ta thấy được hình thái thực sự của ‘thời gian’.”
+
+“Hình thái... của thời gian?” Paimon hỏi.
+
+“Từ cảm nhận trực quan của chúng ta thì thời gian giống như một đường thẳng. Chúng ta chỉ có thể đi về phía trước, không thể thay đổi quá khứ, cũng chẳng thể dự đoán tương lai,” Mavuika nói. “Nhưng vẫn còn một cách giải thích khác. Tôi cho rằng nó gần với sự thật hơn: ‘Quá khứ’, ‘hiện tại’ và ‘tương lai’ cùng tồn tại.”
+
+“Hả? Cùng, cùng tồn tại? Tôi không hiểu lắm...” Paimon nói.
+
+“Nói thế này nhé, giả sử một ngày nào đó hai vị đến được điểm cuối của chuyến hành trình, hai vị sẽ cảm thấy trải nghiệm của quốc gia nào là quan trọng nhất?” Mavuika hỏi.
+
+“Mọi trải nghiệm đều quan trọng như nhau cả,” Lumine nói.
+
+“Đúng vậy. Tuy hai vị đã đến được điểm cuối, nhưng những gì trải qua trên chuyến hành trình vẫn không biến mất, mà nó chỉ chuyển hóa thành kinh nghiệm và trải nghiệm của hai vị thôi,” Mavuika nói. “Thiếu một phần trong đó có thể sẽ khiến hai vị đưa ra phán đoán khác nhau, và cũng có thể dẫn đến một kết thúc hoàn toàn khác. Ngược lại, ‘tương lai’ chưa xảy ra cũng như vậy. Nó đã tồn tại trước khi nó xảy ra, chỉ là chúng ta thiếu đi cách thức để cảm nhận nó thôi. Đương nhiên sẽ có những người lợi hại có thể nhìn thấy tương lai, và họ gọi đó là ‘vận mệnh’... Khái niệm này đối với hai vị mà nói không hề xa lạ phải không?”
+
+“Nghe có vẻ như rất có lý nhỉ! Rõ ràng là chưa xảy ra, nhưng lại đã tồn tại rồi...” Paimon nói.
+
+“Con người chỉ có sở trường cảm nhận ‘hiện tại’, nên rất dễ quên đi quá khứ và bỏ qua tương lai,” Mavuika nói.
+
+“Còn Tên Cổ thì ghi lại quá khứ,” Lumine nói.
+
+“Nghi Lễ Hành Hương và Trận Chiến Người Gác Đêm sẽ hướng về tương lai,” Mavuika nói. “Người Natlan ở các không thời gian khác nhau cũng vì thế mà đoàn kết lại, mới có thể đối đầu với kẻ địch khó nhằn như Vực Sâu. Không thể không cảm thán, Hỏa Thần đời đầu rốt cuộc đã có tri thức như thế nào mới có thể tạo ra được một bộ quy tắc như vậy đây.”
+
+“Quy tắc là do Hỏa Thần đời đầu tạo ra sao?” Lumine hỏi.
+
+“Ừm, Hỏa Thần đời đầu cũng là con người, nên vốn không có năng lực này. Thế nhưng, người đó đã dùng ngai thần để mượn sức mạnh từ bầu trời (Ronova), từ đó mà tạo ra quy tắc của Natlan,” Mavuika nói. “Cũng vì có quy tắc này mà người Natlan mới có thể trở thành thần. Thông qua Nghi Lễ Hành Hương để tuyển chọn ra người mạnh nhất, và khi bước lên ngai thần thì sẽ thức tỉnh ngọn lửa trong cơ thể. Ngoài ra, cũng sẽ nhận được rất nhiều tri thức và ký ức về Natlan. Những gì tôi nói với hai vị chính là học được từ Lửa Thánh.”
+
+“Thì ra là vậy, là sức mạnh của ngai thần và quy tắc...” Paimon nói. “Ơ, đây là... Ảnh gia đình sao?”
+
+“À, đúng vậy. Cha mẹ tôi, còn có em gái và chú Saurian nhỏ của chúng tôi nuôi nữa,” Mavuika nói. “Lúc đó tôi đã lấy một mảnh từ áo giáp da của cha để làm toan vẽ, rồi mời một họa sĩ cũng khá lợi hại đến thực hiện.”
+
+“Em gái của cô dễ thương ghê! Cảm thấy như mối quan hệ của hai người rất tốt nhỉ!” Paimon nói. “Hihi, trước đây tôi rất khó để tưởng tượng ra chuyện ‘chỉ là một con người bình thường trước khi trở thành thần’... Cho đến khi nhìn thấy bức tranh này. Trước khi cô trở thành thần thì trông cũng không có gì đặc biệt cả... À ừm, tôi có thể nói như vậy không?”
+
+“Thì Paimon cũng đã nói ra rồi đó, còn hỏi tôi sao?” Mavuika hỏi.
+
+“Xin lỗi nhé... Miệng tôi hơi nhanh,” Paimon nói.
+
+“Hahaha, đùa thôi. Paimon nghĩ tôi sẽ tức giận vì chuyện này sao,” Mavuika nói. “Dù cho người khác đánh giá thế nào thì đây cũng là quá khứ của tôi, là tài sản quý báu của tôi. Tôi luôn tự hào về nó. Cho dù con người trở thành thần thì chúng tôi cũng sẽ không cắt đứt mối liên hệ với gia đình. Chỉ là thường ngày sẽ rất bận rộn nên có hơi lo không xuể thôi. Cha rất giỏi hầm thịt, em gái thường mang theo hũ đựng thịt hầm đến tìm tôi, chúng tôi cùng ngồi ăn trên thảm. Có một lần đóng cửa không chặt, để chú Saurian nhỏ xông vào làm đổ. Thế là em gái tôi khóc to. Hai tên gây rối đó vốn dĩ muốn đến ăn thịt, thấy em gái tôi khóc đến mức ấy liền không dám nhúc nhích nữa. Sau đó chúng vô cùng tủi thân nằm bệt ra đất. Tôi vừa tức vừa bất lực, cuối cùng cũng đành kệ chúng mà cố gắng an ủi em gái.”
+
+“Thật không thể tin nổi...” Paimon nói.
+
+“Hỏa Thần lại khoan dung với hai con Saurian như vậy sao...?” Lumine hỏi.
+
+“Dù sao cũng là người nhà mà, là một gia đình thì không phải sẽ như vậy sao? Hahaha, tôi thì lại cảm thấy đó là một câu chuyện rất thú vị đó,” Mavuika nói. “Chính vì có những trải nghiệm như vậy mà tôi mới luôn ghi nhớ, rằng cái gọi là ‘bảo vệ Natlan’ rốt cuộc là đang bảo vệ cái gì.”
+
+“Sau đó thì sao? Bức tranh này trông có vẻ hơi cũ, giờ chắc cô ấy đã trưởng thành rồi nhỉ?” Paimon hỏi.
+
+“Tôi nhớ em ấy đã trở thành kiến trúc sư hay nghệ sĩ gì đó... Xây rất nhiều nhà cửa, tạo ra rất nhiều tác phẩm nghệ thuật đẹp mắt...” Mavuika nói. “Thôi không nói chuyện này nữa, bột đã lắng xuống rồi, chúng ta bắt đầu thôi. Iansan, Mualani, cả Chasca nữa, qua đây đi. Đợi khi mọi người đặt Tên Cổ lên đó thì chúng ta sẽ bắt đầu.”
+
+>Đặt Tên Cổ của Kachina
+
+Lumine bước tới đặt mảnh Đá Obsidian mang Tên Cổ của Kachina lên giữa bệ nghi thức. Mavuika khẽ giơ tay dẫn động ngọn lửa nhẹ quanh bột nghi thức và cất tiếng triệu hồi.
+
+“Tiếng vang sinh mệnh lan tỏa đất trời, câu chuyện sẽ mãi lưu truyền về sau,” Mavuika nói. “Hỡi danh xưng cổ xưa, xin hãy để người con định mệnh đáp lại tiếng gọi từ nơi này.”
+
+“Ơ... Mình lại nhìn thấy ảo giác rồi sao?” Kachina hỏi.
+
+“Kachina! Em không sao chứ?” Mualani hỏi.
+
+“Hả?! Mình... Mình không nhìn nhầm chứ? Không lẽ đây là trò đùa của Vực Sâu sao?” Kachina hỏi.
+
+“Bình tĩnh nào Kachina, là chị đây! Mọi người đang nghĩ cách để đưa em trở về đó!” Mualani nói.
+
+“Chị Mualani, chị Lumine, chị Paimon, còn có mọi người nữa...” Kachina nói. “Mọi người nghe em nói này. Em vẫn luôn điều tra ở Vương Quốc Dạ Thần, và em đã hiểu rồi, Wayob đang bị Vực Sâu ảnh hưởng! Em vốn nghĩ Wayob sẽ đưa em trở về, nhưng lại gặp phải một tên ma vật Vực Sâu rất lợi hại. Em suýt nữa là bị nó giết rồi... Kết quả là Wayob đã dùng chút sức mạnh yếu ớt để bảo vệ em. Em vừa né tránh ma vật, vừa tìm cách để giải cứu Wayob. Nhưng nơi này quá hỗn loạn. Em thường nghe thấy những âm thanh đáng sợ và nhìn thấy những cảnh tượng kinh hãi...”
+
+“Đừng nghe theo những giọng nói đó, Kachina. Đó là âm thanh mà Vực Sâu đang cố thử để làm tan rã tâm trí của em đấy,” Chasca nói. “Em chỉ cần đảm bảo sự an toàn của mình và chờ đợi, lát nữa mọi người sẽ đến.”
+
+“Không sao đâu. Được trò chuyện cùng mọi người là em đã khỏe hơn nhiều rồi, không cần lo lắng cho em đâu...” Kachina nói. “Vì em rất yếu, có hay không cũng không ảnh hưởng gì... Nên em bị lãng quên hay bị vứt bỏ cũng là chuyện bình thường. Hihi, cảm ơn mọi người đã quan tâm đến sự an toàn của em. Em sẽ tìm cách quay về, mọi người không cần mạo hiểm đến cứu em đâu.”
+
+“Em lúc nào cũng như vậy. Bây giờ không phải là lúc để tỏ ra mạnh mẽ đâu, Kachina! Mọi người sẽ cứu em trở về,” Mualani nói. “Bất kể Vực Sâu đã nói gì với em đi nữa, thì điều chị muốn nói là... Không một ai coi em là gánh nặng cả. Em đã thắng Trận Chiến Người Gác Đêm, em đã là anh hùng của Natlan. Bây giờ em chỉ cần đợi mọi người đến đón, và trở về để nhận tràng pháo tay chào đón anh hùng.”
+
+“Hu... huhu... huhuhu...” Kachina nói. “Em thực sự rất sợ! Ở đây vừa tối vừa âm u, em rất muốn trở về... Nhưng em cũng sợ mọi người sẽ gặp nguy hiểm, như vậy thì em lại trở thành gánh nặng mất.”
+
+“Không phải em vẫn luôn tin tưởng mọi người sao? Những lúc thế này thì em vẫn nên giữ vững niềm tin như đã từng chứ,” Mualani nói. “‘Chúng ta sẽ không chiến đấu một mình’... Mọi người sẽ không bỏ lại em một mình đâu.”
+
+“Đúng vậy! Đã tới được đây rồi thì sao có thể từ bỏ chứ!” Paimon nói.
+
+“Cảm... ơn...” Kachina nói. “Cẩn... thận...”
+
+Hình ảnh mờ ảo của Kachina tan biến dần vào không khí, cắt đứt đường liên lạc giữa hai thế giới.
+
+“Xem ra việc liên lạc chỉ đến được đây thôi. Tiếp theo chính là bước nguy hiểm nhất, cần mọi người dùng cơ thể thật để đi vào bên trong Vương Quốc Dạ Thần,” Mavuika nói. “Cổng vào Vương Quốc Dạ Thần này vốn do Vực Sâu để lại khi xâm nhập, vậy nên e là chỉ trong thời gian rất ngắn cũng có thể khiến mọi người bị tha hóa.”
+
+“Tôi biết, tôi chuẩn bị tâm lý rồi,” Mualani nói.
+
+“Chúc cho mọi việc thuận lợi. Tôi sẽ liên lạc với Chuychu trước, cô ấy có kinh nghiệm trong việc xử lý tình trạng Vực Sâu ăn mòn,” Mavuika nói. “Trông bộ dạng của cô kìa, hai người lại cãi nhau rồi à?”
+
+“...Xin lỗi, lại phải phiền em ấy rồi,” Chasca nói.
+
+“Hỏa Thần đại nhân, hãy để tôi đi cùng nhé. Thêm một người thì sẽ thêm một phần sức,” Iansan nói.
+
+“Cảm ơn mọi người đã dấn thân vào nước sôi lửa bỏng vì tôi và Kachina. Không thể chậm trễ nữa, chúng ta xuất phát thôi,” Mualani nói.
+
+“Tuy hiện tại tôi đã mất đi sức mạnh, không thể chi viện một cách thiết thực, nhưng tôi sẽ ở đây quan sát biến động của Vương Quốc Dạ Thần,” Mavuika nói. “Lỡ như, tôi chỉ nói lỡ như thôi nhé. Iansan, nếu như mọi người gặp phải tình huống không thể ứng phó thì...”
+
+“Sẽ không có chuyện này đâu,” Iansan nói.
+
+“Vậy thì tốt rồi,” Mavuika nói.
+
+---
+
+>Tiến vào di tích ngầm
+
+Rời Đấu Trường Lửa Thánh cùng Iansan đi theo chỉ dẫn của Mavuika, cả nhóm tìm đến lối vào ẩn sâu dưới lòng đất Natlan và bước vào một khu di tích cổ đại rộng lớn bỏ hoang từ lâu.
+
+>Thám hiểm di tích
+
+“Nơi này là phía dưới lòng đất của Natlan sao? Khác xa so với tưởng tượng của tôi đấy,” Paimon nói.
+
+“Đó là vì trong quá khứ xa xôi, Natlan từng được thống trị bởi loài rồng, tạo ra một nền văn minh vô cùng phát triển,” Chasca nói. “Sau khi tộc rồng diệt vong thì loài người mới xây dựng nên trật tự của mình.”
+
+“Cho nên đây là di tích của...” Paimon nói.
+
+“Chắc không phải là loài Saurian thường thấy trên mặt đất đâu... Mà là loài rồng thực sự,” Lumine nói.
+
+“Ý là những thứ như rồng nguyên tố sao? Chúng từng có nền văn minh bậc cao à?” Paimon hỏi.
+
+“Đúng vậy. Nhưng do thời đại đó đã quá xa, nên có rất ít ghi chép thực tế, cũng không ai biết thiết bị ở đây có tác dụng gì,” Iansan nói. “Vốn dĩ những di tích này đều bị bỏ hoang, nhưng do dạo gần đây Vực Sâu hoạt động mạnh, thiết bị trong di tích bất ngờ hoạt động trở lại một cách kỳ lạ.”
+
+“Cũng có nghĩa là đoạn đường này chắc chắn sẽ không dễ đi, đúng chứ?” Mualani hỏi.
+
+“Không chỉ khó đi, mà đây chỉ là bước đầu tiên của vô số khó khăn thôi,” Chasca nói. “Haha.”
+
+“Vậy không phải vừa hay sao,” Lumine nói.
+
+Nhìn Chasca, Iansan và Mualani cùng bật cười hào hứng trước hành trình đầy hiểm nguy sắp tới, Paimon khẽ rùng mình.
+
+“Mọi người đột nhiên cười gì vậy? Làm tôi sợ đấy...” Paimon nói.
+
+“Chắc mọi người ở đây đều đang rất hào hứng với chuyến mạo hiểm sắp tới nhỉ,” Iansan nói.
+
+“Đương nhiên. Tôi đã nóng lòng muốn thử từ lâu rồi đây,” Chasca nói.
+
+“Nhà mạo hiểm chính là vì điều này mà tồn tại,” Lumine nói.
+
+“Vậy thì đi thôi. Mặc kệ phía trước có gì, cứ xông qua là xong!” Mualani nói.
+
+Tiến sâu hơn vào khu di tích cổ của loài rồng, cả nhóm gặp phải một đoạn đường gãy sụt xuống vực sâu tối thẳm.
+
+“Phía trước hình như hết đường rồi, làm sao để qua được đây?” Paimon hỏi.
+
+Phát hiện một dấu ấn Linh Hồn Saurian gần mép vực, Lumine mượn sức mạnh nhập thể thành Koholasaur để lướt sang bờ bên kia và mở đường cho cả nhóm. Vừa đặt chân sang phía đối diện, Iansan quay sang nhìn Paimon đang thở dốc.
+
+“Dưới con mắt của huấn luyện viên chuyên nghiệp, tôi thấy Paimon có vẻ như thiếu tập luyện đấy,” Iansan nói.
+
+“Huấn luyện viên? Cô không phải là chiến sĩ của Cộng Đồng Trù Phú sao?” Paimon hỏi.
+
+“Thì đúng là vậy, nhưng huấn luyện viên thể thao mới là công việc của tôi,” Iansan nói. “Tôi còn có thể cung cấp hướng dẫn chuyên nghiệp về rất nhiều môn thể thao phổ biến khác ở Natlan, bao gồm huấn luyện và cả ăn uống.”
+
+“À, tôi biết rồi! Ăn ít đường, cấm nước ngọt, và không được phép ăn thịt nướng...” Paimon nói.
+
+“Đếm thế này thì đếm không xuể đâu, liệt kê những thứ lành mạnh và giàu dinh dưỡng sẽ nhanh hơn đấy,” Iansan nói.
+
+“Ví dụ như?” Paimon hỏi.
+
+“Nước ép rau xanh này, muốn uống không?” Iansan hỏi.
+
+“Tôi, tôi cảm thấy chúng ta không hợp nhau lắm rồi đó...” Paimon nói.
+
+Đi tiếp vào khu vực sảnh rộng phía trong, nhóm Hilichurl và các bóng ma Saurian do Vực Sâu đánh thức lập tức lao ra chắn lối.
+
+“Woa, trông chúng quen quá nhỉ?” Paimon hỏi.
+
+“Đối thủ quen thuộc rồi. Lên đi, không cần nương tay đâu,” Chasca nói.
+
+Hợp sức đánh tan toàn bộ kẻ địch, cả nhóm bước lên Đường Linh Hồn rực sáng lướt vút lên tầng kiến trúc cao tít phía trên.
+
+“Xem ra, nơi chúng ta muốn đến thật sự rất cao đó...” Paimon nói.
+
+Trước mắt họ là bức tường Phlogiston rắn chắc dựng đứng dẫn lên tầng cuối cùng của di tích.
+
+“Đoạn đường cuối cùng rồi, trèo lên là tới thôi,” Iansan nói.
+
+“Nói thì dễ rồi!” Paimon nói.
+
+>Tiếp tục tiến vào sâu hơn
+
+Trèo lên tới đỉnh, một khe nứt không gian tăm tối bị Vực Sâu xé toạc hiện ra lơ lửng giữa không trung.
+
+“Đây chính là lối vào bị Vực Sâu xé toạc mà Hỏa Thần nói nhỉ,” Mualani nói.
+
+“Đúng vậy. Tôi có thể cảm nhận được loại mùi vừa lạ lẫm vừa quen thuộc ở nơi sâu thẳm đó,” Chasca nói.
+
+“Không lẽ chúng ta phải chui vào đó sao?” Paimon hỏi. “Nói trước nhé, đừng đẩy tôi! Tự tôi sẽ đi!”
+
+#CH|Phần 4|Rơi Vào Màn Đêm Vĩnh Hằng|nc_char_mavuika.png|Rơi Vào Màn Đêm Vĩnh Hằng
+
+>Đến Vương Quốc Dạ Thần
+
+Bước qua khe nứt không gian, cả nhóm rơi thẳng xuống một khoảng tối thăm thẳm dường như vô tận trước khi bất ngờ chạm chân xuống nền đất lạnh lẽo của Vương Quốc Dạ Thần — chẳng ai sây sát chút nào, chỉ có Paimon cuống quýt kêu lên vì bị Lumine túm kéo theo giữa không trung.
+
+“Tại sao lại kéo tôi! Nặng quá đấy!” Paimon nói.
+
+“Xem ra chúng ta đã đến nơi rồi. Đây chính là... Vương Quốc Dạ Thần sao,” Mualani nói.
+
+“Tôi chỉ được nghe qua trong những câu chuyện thôi. Tôi hoàn toàn không thể tưởng tượng ra khung cảnh như vậy đấy,” Iansan nói.
+
+“Hơn nữa khắp nơi đều là năng lượng của Vực Sâu...” Lumine nói.
+
+“Do sự lắng đọng quá mức của Vực Sâu nên mới khiến Kachina mắc kẹt ở đây,” Mualani nói.
+
+“Bắt đầu từ đây, nhận thức của chúng ta về thế giới thực tại đã hoàn toàn sai lệch. Nơi này chuyện gì cũng có thể xảy ra,” Chasca nói.
+
+“Điều tôi quan tâm nhất là chúng ta phải làm sao để quay về... Lối vào ban nãy thì rõ ràng là một đi không trở lại mà...” Paimon nói.
+
+“Thấy vết nứt trên trời và ánh sáng chiếu xuống mặt đất không?” Chasca hỏi.
+
+“Là chỗ dưới chân, và cả trên đầu... Woa, xa thế! Chúng ta rơi xuống từ nơi cao như vậy sao?!” Paimon nói.
+
+“Đây chính là thứ sai lệch nhận thức mà tôi nói đấy. Rõ ràng rơi xuống từ nơi cao như vậy mà một chút tác động cũng không có,” Chasca nói. “Chúng ta cũng không cần leo ngược về lối vào để quay về, chỉ cần đứng dưới luồng ánh sáng này và cầu nguyện trong lòng là được.”
+
+“Thế này là được sao?” Paimon hỏi.
+
+“Đừng có thử lúc này chứ,” Lumine nói.
+
+“Ừm, tôi biết mà... Không cẩn thận để bị quay về là phiền phức đấy,” Paimon nói.
+
+“Vậy có nghĩa là, tìm được Kachina rồi đưa em ấy về đây là được nhỉ?” Mualani hỏi.
+
+“Ừm, vì ánh sáng này chiếu xuống từ thực tại, cũng là ‘sợi dây kết nối’ thế giới này với hiện thực,” Chasca nói.
+
+“Địa hình ở đây có vẻ phức tạp, tầm nhìn cũng không tốt, chúng ta làm sao để tìm được Kachina đây?” Iansan hỏi.
+
+“Hơn nữa, mấy thứ đen thui lơ lửng khắp nơi này hình như cũng không thân thiện cho lắm,” Paimon nói.
+
+“Đó đều là sức mạnh của Vực Sâu, phải cẩn thận,” giọng nói lạ mặt nói.
+
+“Ốiii, có ma! Ma biết nói chuyện sao?” Paimon hỏi.
+
+“Bình tĩnh nào, tôi đến để giúp các vị. Các vị là người đã giúp Vichama, đúng không?” giọng nói lạ mặt hỏi.
+
+“Không lẽ anh là...” Lumine nói.
+
+“Ừm, tôi là bạn của Vichama. Vốn dĩ tôi đã hòa tan hoàn toàn vào vương quốc này rồi, nhưng tôi lại cảm nhận được một luồng sức mạnh thần kỳ,” Mallko nói. “Sức mạnh đó giống như đang tìm kiếm tôi, ngưng tụ lại những khái niệm về tôi. Đương nhiên việc này là rất khó... Cũng rất xin lỗi vì đã gặp mọi người trong bộ dạng không hoàn chỉnh thế này.”
+
+“Không, chúng tôi mới là người nên xin lỗi. Vì lúc đó Đá Thức Tỉnh Linh Hồn đã bị sức mạnh Vực Sâu ảnh hưởng,” Chasca nói. “Nếu không cưỡng chế dừng nó lại thì Vichama và những người ở Dòng Dõi Vườn Treo đều sẽ gặp nguy hiểm mất.”
+
+“Ừm, tôi hiểu, cảm ơn các vị đã bảo vệ cậu ấy. Đã bao nhiêu năm trôi qua mà cậu ấy vẫn vì tôi mà làm mấy chuyện này...” Mallko nói. “Dưới tác động của thiết bị thần kỳ đó, tôi cảm thấy linh hồn mình đã kết nối được với cậu ấy. Thì ra ngay cả sự nuối tiếc của chúng tôi... cũng đều giống nhau đến vậy...”
+
+“Cho dù là chiến thắng hay hy sinh, anh cũng đều muốn được đứng bên những người bạn tốt nhất, phải vậy không?” Mualani hỏi.
+
+“Đúng vậy. Với chúng tôi thì đây đã được định sẵn là nguyện vọng không thể thực hiện rồi, nhưng mọi người vẫn còn cơ hội,” Mallko nói. “Mọi người đang tìm một cô bé thuộc Con Của Tiếng Vang phải không? Em ấy đang bị hóa thân của sức mạnh Vực Sâu đuổi theo rồi. Tôi cũng muốn tranh thủ lúc còn đang giữ được hình dạng để giúp em ấy. Đi theo tôi nào. Hãy cẩn thận, nơi này đã bị Vực Sâu ăn mòn rất nghiêm trọng đấy.”
+
+---
+
+>Đi theo Mallko
+
+Linh hồn mờ ảo của Mallko quay người bước vào làn sương tối đặc quánh phía trước. Cả nhóm lập tức bám theo sát bước chân anh.
+
+“Không ngờ Vương Quốc Dạ Thần đã trở nên như vậy...” Paimon nói.
+
+“Nơi này giống như ngọn núi lửa đen, có thể nhấn chìm thế giới của chúng ta bất cứ lúc nào,” Iansan nói.
+
+Xung quanh dày đặc những khối đen Vực Sâu lơ lửng chực chờ ập xuống. Mallko vung tay dựng lên một kết giới linh hồn bao quanh nhóm Lumine.
+
+“Sức mạnh của tôi có thể tạm thời bảo vệ các vị khỏi bị tấn công. Theo sát tôi nào,” Mallko nói. “Xem ra không chống chọi nổi rồi. Đi đường khác thôi, bên này.”
+
+Rẽ sang một lối đi hẹp bên sườn vách đá tối, cả nhóm lại chạm trán lũ ma vật Vực Sâu đang rình rập.
+
+“Lại là ma vật, đúng là khó đối phó mà,” Mallko nói.
+
+“Không có thời gian để lãng phí với chúng đâu,” Mualani nói.
+
+Dọn sạch đám ma vật cản đường và bước vào màn sương mù càng lúc càng dày đặc hơn, tầm nhìn trước mắt gần như bị nuốt chửng hoàn toàn.
+
+“Ối, nhìn không rõ nữa...” Paimon nói.
+
+“Ở đây rất dễ lạc đường. Không sao, đi theo tôi,” Mallko nói.
+
+>Đi sâu vào trong sương mù
+
+Khi cả nhóm vừa bước ra một khoảng đất trống mờ sương, vô số khối đen hóa thân của sức mạnh Vực Sâu bất ngờ vây kín lấy Lumine khiến cô có cảm giác mình bị tách rời hoàn toàn khỏi đồng đội; nhưng ngay khoảnh khắc Lumine rút kiếm thủ thế, toàn bộ bóng đen đột ngột tan biến vào hư không.
+
+“Mọi người có nghe thấy gì không?” Mualani hỏi.
+
+“Sao cơ?” Iansan hỏi.
+
+“Không có gì, có thể là tôi nghe nhầm thôi,” Mualani nói.
+
+“Đừng như vậy chứ, đáng sợ lắm đó!” Paimon nói.
+
+“Tôi cũng nghe thấy, là âm thanh đến từ Vực Sâu,” Chasca nói.
+
+“Ối! Nó nó... nó nói gì vậy?” Paimon hỏi.
+
+“Không cần biết đâu. Chắc chắn không phải điều gì đó tốt đẹp rồi,” Chasca nói.
+
+>Tiếp tục đi theo ‘Mallko’
+
+Bước vội theo bóng lưng Mallko xuyên qua màn sương đặc quánh, một giọng thì thầm quỷ dị bỗng vang thẳng vào tâm trí cả nhóm.
+
+“Hành trình... Dối trá...” tiếng thì thầm từ Vực Sâu vang lên.
+
+Giật mình trước âm thanh rợn người ấy, cả nhóm càng sải bước nhanh hơn để theo kịp Mallko.
+
+---
+
+>Nói chuyện với Kachina
+
+Phía trước, Kachina vừa chạy trốn vừa vấp ngã xuống nền đất đá tối tăm khi bị bầy Chó Săn Ma Vật và khí tức Vực Sâu bao vây. Đúng lúc ấy, Mualani cùng cả nhóm kịp thời lao tới.
+
+“Kachina, mọi người đến rồi đây!” Mualani nói.
+
+“Chị Mualani!? Là mọi người à! Tốt quá!” Kachina nói.
+
+“Xử lý đám ma vật này đã rồi nói tiếp!” Mualani nói.
+
+“Ừm, lên thôi, em vẫn có thể chiến đấu!” Kachina nói.
+
+>Đánh bại ma vật rục rịch manh động
+
+Kachina đứng bật dậy cầm vũ khí sát cánh cùng mọi người. Dưới sự phối hợp ăn ý của cả nhóm, toàn bộ bầy Chó Săn Ma Vật nhanh chóng bị đánh tan.
+
+>Nói chuyện với Kachina
+
+“Mọi người cuối cùng cũng đến rồi... Hức, em cảm ơn nhiều lắm,” Kachina nói. “Đám ma vật Vực Sâu đó có thể xuất hiện ở bất cứ đâu... Em suýt bị tóm mấy lần rồi. Wayob đã che giấu hơi thở của em, sau đó em đã cố kéo dài thời gian để lẩn trốn khắp nơi.”
+
+“Ừm, rất lợi hại đấy! Không bị thương là tuyệt vời nhất rồi,” Mualani nói.
+
+“Tiếp theo phải làm sao đây, chúng ta nên quay về chứ nhỉ?” Paimon hỏi.
+
+“Em có một thỉnh cầu. Chúng ta có thể cùng đi xem tình trạng của Wayob không?” Kachina hỏi. “Chuyện về Thơ Hoàn Hồn, tuy em không biết phải diễn tả thế nào, nhưng nó chắc chắn có liên quan đến sự ô nhiễm của Vực Sâu.”
+
+“Với tình trạng trước mắt, cơ bản là có thể chứng thực được suy đoán của Hỏa Thần rồi,” Iansan nói.
+
+“Trong Vương Quốc Dạ Thần có sáu trụ vật tổ chính, chúng đại diện cho Wayob của các bộ tộc,” Mallko nói. “Nếu nói trụ vật tổ trọng yếu là bản thể của Wayob, vậy thì trụ vật tổ ở đây chính là một trong các bản thể cùng chia sẻ ý thức với Wayob. Chính vì sự tồn tại của rất nhiều bản thể phân chia rải rác, nên ý thức của Wayob mới có thể bao trùm toàn bộ Vương Quốc Dạ Thần. Bất kể linh hồn có đi đến nơi nào thì cũng sẽ được tìm ra. Nhưng nếu bản thể phân chia bị ô nhiễm nghiêm trọng, thì linh hồn sẽ bị lạc lối trong Vương Quốc Dạ Thần.”
+
+“Nhưng theo tình hình hiện tại, chắc chắn không chỉ có một bản thể gặp vấn đề. Cho dù có loại bỏ được sức mạnh Vực Sâu thì cũng chẳng tác động gì nhiều,” Iansan nói.
+
+“Vậy chúng ta phải mặc kệ Wayob sao? Wayob vẫn luôn bảo vệ em...” Kachina nói.
+
+“Cứu được một thì vẫn là cứu,” Lumine nói.
+
+“Tôi tán thành. Hơn nữa chúng ta có thể nhân cơ hội này để tìm ra ma vật Vực Sâu đang truy đuổi Kachina,” Chasca nói. “Nếu có thể diệt trừ tận gốc tên này, có lẽ sẽ làm dịu lại tốc độ xấu đi của Vương Quốc Dạ Thần.”
+
+“Hmm, ừm... argh...” Kachina nói.
+
+“Sao vậy, Kachina?” Mualani hỏi.
+
+“Không... Không sao, em hơi đau đầu thôi. Lại có giọng nói phát ra trong đầu rồi. Nó muốn em bỏ rơi Wayob mà mau chóng quay về...” Kachina nói.
+
+“Hay là chúng ta quay về thôi... Dù sao Kachina cũng ở đây lâu quá rồi,” Paimon nói.
+
+“Không sao, em... em sẽ không nghe mấy lời nói lung tung của nó đâu. Em có thể kiên trì được,” Kachina nói.
+
+“Vậy trụ vật tổ đang ở đâu?” Lumine hỏi.
+
+“Ở ngay phía trước thôi, để em dẫn đường cho. Em cũng sẽ chiến đấu, nên là xin mời người đấy...” Kachina nói.
+
+“Nghe chị nói đây, Kachina. Mọi người sẽ đi cùng em, nhưng mọi người đi là vì muốn giúp Wayob, chứ không phải là để chứng minh điều gì đó với em,” Mualani nói. “Em không cần chứng minh điều gì cho bản thân cả, nếu không chịu được nữa thì mọi người vẫn luôn ở đây.”
+
+“Đánh nhanh thắng nhanh nào,” Iansan nói.
+
+“Ừm, dù gì cũng đến rồi, giải quyết vấn đề một cách triệt để nào,” Chasca nói.
+
+“Chúng ta đi thôi, bên này,” Kachina nói.
+
+“Tôi sẽ ở lại đây để giữ chân ma vật Vực Sâu đó,” Mallko nói.
+
+“Gì cơ? Nếu vậy thì anh sẽ gặp nguy hiểm đấy,” Mualani nói.
+
+“Không sao. Sức mạnh của tôi không bằng nó, nhưng lại quen thuộc với nơi này hơn. Hơn nữa...” Mallko nói. “Thời gian của tôi không còn nhiều nữa. Tôi tin các vị cũng giống như người bạn của tôi, không giỏi đối mặt với sự chia ly. Mau đi đi. Hoàn thành mục tiêu rồi rời khỏi đây, trở về nơi các vị nên trở về.”
+
+“Cảm ơn anh vì mọi thứ,” Iansan nói.
+
+“Anh đúng là vị anh hùng thực thụ,” Mualani nói.
+
+“Hahaha, cảm ơn nhé,” Mallko nói. “‘Chúng ta sẽ không chiến đấu một mình.’”
+
+Mallko lặng lẽ xoay người tiến lại phía màn sương đối đầu với tên ma vật đang truy kích, để lại nhóm Lumine men theo con đường dẫn tới chỗ trụ vật tổ Wayob.
+
+---
+
+>Kiểm tra tình trạng của Wayob
+
+Tới trước trụ vật tổ bị khí tức Vực Sâu đen kịt bao phủ, Kachina vội vã chạy lên phía trước gọi lớn.
+
+“Wayob? Wayob! Chúng tôi quay lại rồi đây, giờ tôi và các đồng đội sẽ chữa trị cho cô!” Kachina nói. “Wayob, có nghe thấy không? Wayob?”
+
+Trụ vật tổ vẫn lặng im bất động giữa vòng xoáy hắc ám, không một tiếng hồi đáp.
+
+“Quả nhiên sự ô nhiễm đã rất nghiêm trọng, không thể đáp lại tiếng gọi của chúng ta,” Mualani nói. “Cứ bắt đầu đi, chuẩn bị nào các vị. Hãy loại bỏ sức mạnh Vực Sâu nào.”
+
+“Tôi cũng sẽ giúp,” Lumine nói.
+
+“Cẩn thận, tên đó tới rồi,” Chasca nói.
+
+“Sao nhanh vậy?!” Iansan nói.
+
+“Sự dũng cảm ngu muội sẽ không có giá trị gì cả. Một linh hồn nhỏ bé mà muốn làm chậm bước chân của ta sao?” Comonqui hỏi. “Ta đành phải tiễn hắn đi vậy.”
+
+“Ngươi... ngươi đã sát hại Mallko sao...?!” Paimon nói.
+
+“Thay vì quan tâm một linh hồn sắp tan biến, chi bằng suy nghĩ cho bản thân các ngươi đi,” Comonqui nói. “Có lẽ các ngươi từng chiến thắng những thứ tương tự như ta, nhưng nếu vì điều đó mà xem thường thì ta sẽ cho các ngươi trả giá đấy.”
+
+“Tất cả chuyện này đều do ngươi làm sao?” Lumine hỏi.
+
+“Không. Sức mạnh Vực Sâu khiến người ta say đắm, sự hủy diệt mà nó vạch ra cũng tựa như một tác phẩm nghệ thuật. Ta chỉ không muốn bỏ lỡ cơ hội thưởng thức từ cự ly gần thôi,” Comonqui nói. “Ta còn tưởng sẽ không có nhân loại nào ngây thơ như con bé này, nhưng không ngờ lại có nhiều kẻ ngốc mò đến tận cửa như vậy. Đây chính là nỗi bi thương của loài người đoản mệnh, căn bản không nhận thức được sự áp đảo về sức mạnh. Tên Cổ? Lòng tự tôn? Tình bạn? Những thứ vô nghĩa đó chỉ dùng để mê hoặc chính mình, căn bản không hề có sức mạnh gì cả. Hỏa Thần tạo ra nhiều khái niệm hoành tráng như vậy, âu cũng chỉ xuất phát từ sự ích kỷ! Không bằng lòng đem ân điển ban đầu nhường lại cho những con người bình thường như các ngươi mà thôi. Nếu không thì tại sao Hỏa Thần lại là sự tồn tại mạnh nhất? Còn ngươi thì lại yếu đuối đến mức này chứ, Kachina?”
+
+“Ta, ta...” Kachina nói.
+
+“Kachina,” Mualani nói. “Đưa tay cho chị. Cảm nhận được không? Chị đang ở bên cạnh em.”
+
+“Cảm ơn, em nhớ ra rồi, em sẽ không sợ hãi nữa,” Kachina nói. “Vì em đã không còn đơn độc một mình nữa.”
+
+“Hmm?” Comonqui hỏi.
+
+“Ngươi nói đúng... Sự an ủi về mặt tinh thần sẽ không tạo ra sức mạnh nào cả,” Mualani nói. “Nhưng ngươi lại rất sai lầm. Vì sức mạnh của ngươi không có được từ sự nỗ lực, nên ngươi không thể hiểu được căn nguyên của sức mạnh.”
+
+“Gì chứ?” Comonqui hỏi.
+
+“Tình bạn khiến người ta tràn đầy dũng khí, không một ai lùi bước,” Mualani nói. “Thứ tạo ra sức mạnh không xuất phát từ bản thân tình bạn... Mà là tin vào tình bạn ấy mà đoàn kết lại với nhau!”
+
+“Nói hay lắm, Mualani!” Paimon nói.
+
+“Kẻ địch ở trình độ này thì cứ giao lại cho hai chúng tôi là đủ rồi. Lên nào, Kachina,” Mualani nói.
+
+“Ừm, thực sự xin lỗi, nhưng... nhưng mà... quả thực ta muốn đánh cho ngươi một trận!” Kachina nói.
+
+“Hãy để cho hắn thấy, cả Natlan cũng không có mấy ai đánh lại được hai chúng ta nào!” Mualani nói.
+
+>Đánh bại Sứ Đồ Vực Sâu
+
+Mualani và Kachina lập tức bước lên phía trước đối mặt với Comonqui — “Ngọn Sao Thiêu Đốt”. Tin tưởng vào sức mạnh của tình bạn và sự đoàn kết, hai chị em phối hợp nhịp nhàng đánh bật từng đợt hỏa diễm đen của Sứ Đồ Vực Sâu cho tới khi đánh bại hoàn toàn hắn.
+
+>Nói chuyện với các đồng đội
+
+“Thắng rồi! Chúng ta thắng rồi kìa!” Kachina nói.
+
+“Đánh hay lắm,” Lumine nói.
+
+“Nếu như bị xem thường thì đúng là nên dùng cách này để phản kháng,” Iansan nói.
+
+“Làm tốt lắm, tuyệt vời đó Kachina!” Mualani nói. “Tốt quá, tốt quá rồi...”
+
+“Em cũng rất vui, chị Mualani. Hihi, quả nhiên chúng ta là cặp đôi không thể cản phá đấy!” Kachina nói.
+
+“Woa, chuyện... chuyện gì vậy?” Mualani hỏi. “Tên Cổ của tôi đang phát sáng? Nhưng tôi đâu có mang nó theo...”
+
+“Có lẽ đây chỉ là một hình chiếu của không gian vật chất, nhưng tại sao Tên Cổ lại bất ngờ xuất hiện...” Chasca nói.
+
+“Lẽ nào chính là...?!” Iansan nói.
+
+Một bóng người khổng lồ tỏa ánh sáng vàng rực với những ký tự giống hệt Tên Cổ của Mualani phát sáng trên ngực chậm rãi bước ra từ luồng sáng.
+
+“Quả là một hành động điên rồ... Vì để giải cứu bạn bè mà vượt bao khó khăn, xông vào nơi Vực Sâu ô nhiễm nghiêm trọng nhất,” bóng người khổng lồ nói. “Nhưng mà, cũng rất lợi hại đấy nhỉ? Cô nói đúng. Nếu chỉ là một người Natlan đơn độc, thì căn bản sẽ không thể chống trả được khi đối mặt với sức mạnh Vực Sâu. Tôi đã mất rất nhiều thời gian để hiểu được điều này từ hàng tá vết sẹo trên khắp cơ thể, còn phải chịu rất nhiều nỗi thống khổ không cần thiết nữa. Trong kế hoạch của Hỏa Thần đại nhân, mỗi người đều đóng vai trò của riêng mình, đoàn kết lại thành một thể. Như vậy thì chúng ta mới có cơ hội đánh bại kẻ địch mạnh nhất.”
+
+“Anh, anh là...?” Mualani hỏi.
+
+“Tôi là Tupac, chiến sĩ của Cư Dân Suối Nước, đến từ lúc Vực Sâu xâm nhập vào Natlan của năm trăm năm trước,” Tupac nói.
+
+“Tôi từng nghe qua cái tên này, là vị anh hùng khổng lồ đã giải cứu Natlan!” Mualani nói.
+
+“Những lời của tôi đã được đánh thức bởi Tên Cổ, chứng tỏ cô đã hoàn toàn hiểu được sự kỳ vọng của Wayob,” Tupac nói. “Hãy ‘Đoàn Kết’ (Umoja) tất cả bộ tộc lại để giải cứu Natlan sắp bị hủy diệt.”
+
+“Tôi, tôi...?” Mualani hỏi.
+
+“‘Trước khi dòng máu tươi cạn kiệt, hãy dùng đá lửa quét qua lưỡi đao, để giữ lấy một ngọn đèn nhỏ bé.’” Tupac nói. “‘Ngọn lửa này sẽ kết nối mọi ánh nhìn của Natlan vào làm một.’ ‘Ngay cả bóng tối vĩnh hằng cũng không thể chia tách chúng ta.’”
+
+Bóng người khổng lồ đưa nắm đấm ra chạm nhẹ vào nắm tay của Mualani trước khi tan biến vào không trung. Ngay khoảnh khắc ấy, toàn thân Mualani bừng sáng luồng khí tức Dạ Hồn Chúc Phúc, dòng ký ức cuồn cuộn từ năm trăm năm trước ùa thẳng vào tâm trí cô.
+
+“Aaahh?!” Mualani nói.
+
+“Sao... Sao vậy, chị Mualani?” Kachina hỏi.
+
+“Nhiều ký ức quá! Là ký ức của anh ấy... trong đầu...” Mualani nói. “Thì ra là vậy...”
+
+“Thế nào rồi? Cô đã biết những gì vậy?” Paimon hỏi.
+
+“Không ngờ năm trăm năm trước họ đã dự đoán được nguy cơ của Natlan ngày hôm nay, và cũng đang cố gắng cứu lấy Natlan của ngày hôm nay vào năm trăm năm trước...” Mualani nói.
+
+“Chuyện này không nên nói dông dài ở đây. Đợi chúng ta quay về rồi giải thích cặn kẽ vậy,” Iansan nói.
+
+“Cô đã biết chuyện này từ lâu rồi sao?” Lumine hỏi.
+
+“Biết một phần thôi. Nhưng tôi không ngờ Mualani cũng là một phần trong kế hoạch,” Iansan nói.
+
+“Tóm lại, chúng ta hãy giải cứu Wayob ở đây trước đã! Em cảm thấy đây không phải chuyện mà chỉ cần vài ba câu là có thể giải thích rõ ràng,” Kachina nói.
+
+Khép lại dòng ký ức, cả nhóm cùng tiến lại vây quanh trụ vật tổ. Trong lúc Mualani, Chasca, Iansan và Kachina truyền sức mạnh nguyên tố vào trụ đá, Lumine giơ tay vận dụng năng lực thanh tẩy gột sạch toàn bộ lớp ô nhiễm Vực Sâu bám quanh, khiến trụ vật tổ bừng sáng sắc vàng rực rỡ.
+
+“Như vậy chắc không vấn đề gì nữa rồi, Wayob... Wayob? Wayob, cô tỉnh lại rồi à?” Kachina hỏi.
+
+“Ta có thể nghe được giọng nói của con, Kachina, đứa trẻ thân yêu của ta,” ‘Tinh Thần Vĩ Đại Ở Nơi Này’ nói.
+
+“Vậy thì tốt. Xin lỗi, chào hỏi xong thì phải tạm biệt rồi... Thời gian của chúng ta đã không còn đủ nữa,” Kachina nói. “Tôi muốn hỏi là tại sao tôi lại được ban cho Tên Cổ, nhưng mà không còn quan trọng nữa... Tôi sẽ tự mình suy nghĩ, cố gắng để trở nên mạnh hơn. Sau đó sẽ làm những việc mà một anh hùng nên làm!”
+
+“Dù như thế nào đi nữa... Kachina, con vẫn là đứa con ưu tú nhất của ta,” ‘Tinh Thần Vĩ Đại Ở Nơi Này’ nói.
+
+“Hả?” Kachina hỏi.
+
+“Các con đều là những đứa trẻ tốt mà ta yêu quý nhất. Ta luôn hãnh diện vì đã nuôi dưỡng và bảo vệ các con,” ‘Tinh Thần Vĩ Đại Ở Nơi Này’ nói. “Tên Cổ chính là cái tên mà ta đã đặt cho con, cũng giống như tên ‘Kachina’ mà cha mẹ con đặt cho vậy, không có ý nghĩa gì quá thâm sâu. Cứ làm tốt bản thân là được. Con không cần trở thành ‘người kế thừa’ xuất sắc hơn, ta chỉ hy vọng con sẽ trở thành ‘bản thân’ tốt hơn thôi. Con đang viết nên trang sử mới của Tên Cổ. Dù cho kết quả như thế nào thì cũng không quan trọng, ta vẫn sẽ yêu thương con, giống như cách cha mẹ con yêu thương con vậy.”
+
+Kachina sững người lặng im trong giây lát, nước mắt bất giác trào ra.
+
+“Hic, cảm ơn, Wayob...” Kachina nói.
+
+“Mau đi đi, tình hình ở đây vẫn đang không ngừng xấu đi rồi. Nhưng ta rất vui khi tận mắt nhìn thấy các con đã tiến thêm một bước tới kế hoạch của Hỏa Thần,” ‘Tinh Thần Vĩ Đại Ở Nơi Này’ nói. “Vì bộ tộc và những người mà các con yêu quý, các con hãy giải cứu Natlan nhé.”
+
+“Cảm ơn người, tuy rằng chúng ta chưa từng có dịp giao lưu...” Mualani nói. “Nhưng con thấy những lời người nói, chính là sự khích lệ tốt nhất cho Kachina.”
+
+---
+
+>Rời khỏi Vương Quốc Dạ Thần
+
+Vừa dứt lời từ biệt, cả không gian Vương Quốc Dạ Thần bỗng rung chuyển dữ dội như sắp sụp đổ.
+
+“Ối! Chuyện gì vậy? Động đất à?!” Paimon nói.
+
+“Không còn thời gian nữa,” Iansan nói.
+
+“Sức mạnh Vực Sâu tràn tới rồi! Mau, chúng ta chạy mau!” Mualani nói.
+
+“Là tiên linh, tiên linh đã mở đường cho chúng ta!” Paimon nói.
+
+Cả nhóm lập tức cắm đầu chạy theo ánh sáng của tiên linh dẫn lối qua những dải đá nứt toác. Phía trên đầu, khe nứt dẫn về hiện thực bắt đầu thu hẹp lại từng giây.
+
+“Vết nứt trên bầu trời, đang dần đóng lại?!” Paimon nói.
+
+“Không nhanh lên nữa thì sẽ không về được đâu!” Iansan nói.
+
+Những trụ đá obsidian khổng lồ bất ngờ đổ sập xuống chắn ngang lối đi trước mặt.
+
+“Cẩn thận! Có đá rơi xuống kìa!” Kachina nói.
+
+“Nhanh lên! Đi ở con đường chính giữa!” Mualani nói.
+
+Cả nhóm dốc toàn lực lao về phía cột ánh sáng đang thu nhỏ dần trước khi nó khép lại hoàn toàn.
+
+“Cố lên! Nhanh hơn nữa nào!” Iansan thúc giục.
+
+“Sắp không kịp rồi!” Paimon hốt hoảng kêu lên.
+
+Chỉ còn cách đúng một bước chân, khe sáng trên cao bỗng khép kín lại trong tích tắc. Bóng tối Vực Sâu cuộn trào như muốn nuốt chửng cả nhóm. Đúng khoảnh khắc tuyệt vọng ấy, một luồng hỏa quang rực cháy giáng thẳng từ đỉnh vòm trời xuống — sức mạnh tinh thần của Hỏa Thần Mavuika hiện thân phá tan trần không gian của Vương Quốc Dạ Thần, mở toang con đường ánh sáng chói lòa đưa mọi người vươn lên thoát khỏi màn đêm.
+
+“Mọi người làm tốt lắm,” Mavuika nói. “Chúng ta quay về thôi.”
+
+---
+
+>Nói chuyện với Kachina
+
+Chớp mắt một cái, cả năm người cùng Paimon đã đặt chân trở lại thế giới thực tại trước sự ngỡ ngàng của chính mình.
+
+“Chúng ta... trở về rồi?” Kachina hỏi.
+
+“Hỏa Thần đại nhân đã cứu chúng ta,” Iansan nói.
+
+“Nhưng Hỏa Thần không có ở đây, hơn nữa...” Paimon nói.
+
+“Cô ấy khôi phục lại sức mạnh bằng cách nào vậy?” Lumine hỏi.
+
+“Đúng nhỉ. Rõ ràng cô ấy nói sức mạnh của mình đã bị tiêu hao hết rồi mà...” Paimon nói.
+
+“Cô ấy vẫn đang ở Phòng Quản Lý, dùng sức mạnh tinh thần để bước vào Vương Quốc Dạ Thần,” Iansan nói.
+
+“Sức mạnh tinh thần mà cũng làm được đến mức này sao?!” Paimon nói.
+
+“...Để có được sức mạnh thì hẳn phải có cái giá của nó,” Iansan nói.
+
+“Khụ... khụ...” Kachina nói.
+
+“Rất khó chịu phải không, Kachina... Cố lên, sắp ổn rồi,” Mualani nói. “Chúng ta mau trở về Đấu Trường Lửa Thánh đi. Trước khi xuất phát, Hỏa Thần đại nhân đã nói là sẽ sắp xếp bác sĩ cho chúng ta.”
+
+“Ừm, tốt nhất mọi người nên về kiểm tra một lượt, đừng để sót lại những nguy cơ tiềm ẩn,” Chasca nói.
+
+“Hình như tôi không cảm thấy bị gì cả, Lumine thì sao?” Paimon hỏi.
+
+“Hoàn toàn bình thường,” Lumine nói.
+
+“Cũng phải, hình như Lumine không hề sợ sức mạnh Vực Sâu,” Paimon nói.
+
+“Chúng ta mau đi thôi. Ngoài việc chữa trị ra thì còn phải chia sẻ thông tin thu được từ Vương Quốc Dạ Thần nữa,” Iansan nói.
+
+“Đúng rồi! Kế hoạch của Hỏa Thần mà Wayob nhắc đến rốt cuộc là gì vậy?” Paimon hỏi.
+
+“Để cô ấy nói cho mọi người biết vậy. Giờ chúng ta đều đã là thành viên trong kế hoạch rồi,” Iansan nói. “Mỗi hành động của chúng ta đều liên quan đến vận mệnh của Natlan.”
+
+#CH|Phần 5|Quá Khứ Và Tương Lai|nc_natlan_primal_fire.png|Quá Khứ Và Tương Lai
+
+Vào thời khắc ngàn cân treo sợi tóc, sức mạnh tinh thần của Mavuika đã bước vào Vương Quốc Dạ Thần để đưa mọi người rời đi. Cả nhóm vội vã quay trở về Đấu Trường Lửa Thánh và tiến thẳng vào Phòng Quản Lý tìm gặp cô.
+
+>Tìm Mavuika
+
+Bước vào căn phòng trưng bày kỷ vật quen thuộc, Paimon lập tức nhận ra khung cảnh trống trải khác hẳn lúc trước.
+
+“Ơ, ở đây hình như thiếu đi rất nhiều thứ nhỉ...” Paimon nói.
+
+“Rất vui khi thấy mọi người quay trở lại,” Mavuika nói. “Tôi biết mọi người đang có rất nhiều thắc mắc, nhưng vẫn nên để Chuychu kiểm tra toàn thân, xử lý ảnh hưởng do sức mạnh Vực Sâu để lại đã.”
+
+“Thật tốt khi thấy mọi người trở về! Sau khi Hỏa Thần đại nhân nói chuyện này với tôi, tôi đã lập tức đến chờ lệnh đó!” Chuychu nói. “Mọi người cứ ngồi xuống đây nhé, tôi sẽ kiểm tra cho từng người...”
+
+>Mặc dù chỉ dừng chân trong Vương Quốc Dạ Thần một thời gian ngắn, nhưng trong cơ thể của Mualani và những người khác đều bị sức mạnh Vực Sâu làm ô nhiễm. Cũng may Chuychu đã có kinh nghiệm trong quá trình chữa trị cho Chasca, nên loại ô nhiễm này không có gì đáng ngại. Sau khi điều trị khẩn cấp, triệu chứng của Kachina cũng đã thuyên giảm rõ rệt.
+
+“Được rồi, như vậy chắc là ổn rồi. Nhưng để đảm bảo thì vài ngày sau tôi sẽ đến kiểm tra lại,” Chuychu nói. “Nhưng tôi chưa từng thấy qua tình trạng của Nhà Lữ Hành đây, như thể hoàn toàn miễn dịch với sức mạnh của Vực Sâu vậy.”
+
+“Trước đây Lumine đã rất đặc biệt về mặt này rồi, lại có thể thanh tẩy sức mạnh của Vực Sâu nữa. Hmm, kể ra thì... Hình như tôi cũng không cảm thấy bị Vực Sâu ảnh hưởng nhỉ...” Paimon nói.
+
+“Nhưng chúng tôi cũng không rõ nguyên nhân,” Lumine nói.
+
+“Tình hình trước mắt thì năng lực đặc biệt của cô rất có tiềm năng đấy,” Mavuika nói.
+
+“Vậy tôi đi trước đây, còn phải đến chỗ những bệnh nhân khác nữa,” Chuychu nói.
+
+“Cảm ơn nhé, em gái,” Chasca nói.
+
+“Được rồi. Dù quan điểm giữa chúng ta là khác nhau, nhưng không ai có ác ý cả,” Chuychu nói. “Cứ giao cho thời gian đi, rồi có một ngày mọi chuyện sẽ tốt lên thôi.”
+
+“Ừm...” Chasca nói.
+
+Chuychu quay bước rời khỏi căn phòng sau khi chào tạm biệt.
+
+>Đi theo Mavuika
+
+Mavuika bước tới khoảng trống giữa căn phòng lưu niệm giờ đã vắng lặng, ra hiệu cho mọi người đứng lại gần rồi bắt đầu giải thích toàn bộ sự thật đã được giấu kín suốt năm trăm năm.
+
+“Được rồi, nhiều chủ đề quá, chúng ta bắt đầu từ đâu đây? À, mọi người cũng thấy rồi đúng không, tình trạng thê thảm của Vương Quốc Dạ Thần ấy,” Mavuika nói. “Để tôi nói thẳng vậy, Natlan sắp bị hủy diệt rồi. ‘Tuổi thọ’ của nó rất có thể chưa đến một năm.”
+
+“Hả?!” Paimon nói.
+
+“Ối, không, không phải chứ?!” Kachina nói.
+
+“Quả nhiên đã...” Lumine nói.
+
+“Đúng vậy. Nhưng chuyện này chưa từng được công khai, chỉ có một số ít người trong kế hoạch giải cứu Natlan mới biết thôi,” Mavuika nói. “Thời gian đếm ngược cho sự hủy diệt này không phải mới bắt đầu gần đây, mà là từ thảm họa Vực Sâu năm trăm năm trước kéo dài đến nay rồi.”
+
+“Trước đó Mualani cũng từng nhắc đến...” Paimon nói.
+
+“Ừm, lúc đó tất cả quốc gia đều bị Vực Sâu xâm chiếm,” Mavuika nói. “Natlan vốn không có Địa Mạch kiên cố như các quốc gia khác, cho nên tình trạng bị xâm chiếm cũng nghiêm trọng nhất. Đó là một trận chiến dài và rất khốc liệt. Natlan đã phải hy sinh cả sinh mạng lẫn nền văn minh để giành được thắng lợi. Chúng tôi lại mất thêm mấy trăm năm nữa để giải quyết thảm họa do Vực Sâu gây ra, từ đó mà giành được nền hòa bình như ngày hôm nay. ...Nhưng đó chỉ là chiến thắng tạm thời, thực ra sức mạnh của Vực Sâu chỉ bị đẩy về dưới lòng đất mà thôi.”
+
+“Không ngờ lại như vậy...” Kachina nói.
+
+“Vấn đề của Vương Quốc Dạ Thần phức tạp hơn nhiều, bởi vì nó tương đương với Địa Mạch của Natlan,” Mavuika nói. “Theo chúng tôi suy đoán, tối đa chỉ sau năm trăm năm là Vương Quốc Dạ Thần sẽ hoàn toàn bị Vực Sâu hóa. Nhưng khi đó, khắp nơi đều là người Natlan tan cửa nát nhà. Họ không còn tin vào thắng lợi, cũng không còn tin tưởng vào tương lai nữa. Nền văn minh gần như kết thúc, tín ngưỡng cũng sụp đổ, sức mạnh của Wayob cũng không thể duy trì... Nếu không thể tập hợp Natlan lại với nhau, thì việc đánh bại Vực Sâu chỉ là lời nói viển vông. Vì vậy thần linh đã bàn bạc với anh hùng của các bộ tộc trong một thời gian dài, cuối cùng đã vạch ra kế hoạch giải cứu Natlan kéo dài năm trăm năm.”
+
+“Ra là vậy sao...” Mualani nói. “Sau khi tìm thấy Kachina, tôi đã nhìn thấy một bóng người xa lạ. Người đó đã cho tôi nhiều ký ức vốn không thuộc về tôi. Trong đó có nhắc đến kế hoạch này, và tôi được chọn làm một trong những thành viên quan trọng. Nhưng chuyện mà tôi không hiểu, chính là vị Hỏa Thần mà tôi thấy trong ký ức đó... Tại sao lại là cô?”
+
+“Hả?! Đợi đã, Hỏa Thần là con người đúng không, mà con người thì làm sao mà sống lâu như vậy được chứ?” Paimon hỏi.
+
+“Đúng vậy. Thứ mà con người khó vượt qua nhất chính là thời gian, hoặc có thể nói là tuổi thọ,” Mavuika nói. “Có lẽ đối với Ma Thần mà nói, một số thần lực hoặc lời nguyền sẽ có thể kéo dài tuổi thọ của con người... Nhưng mọi người đều biết là Natlan không hề tồn tại thứ này. Chúng ta chỉ có thể dựa vào bản thân để nghĩ cách. Sinh mệnh giống như ngọn lửa rồi sẽ bị dập tắt. Năm trăm năm trước tôi đã lưu trữ sinh mệnh của mình vào trong Lửa Thánh. Chết sớm trong quá khứ, mới có thể tỉnh dậy lần nữa ở hiện tại.”
+
+“Nói một cách đơn giản là... sinh mệnh thứ hai sao?” Chasca hỏi.
+
+“Cũng là để thúc đẩy kế hoạch đó sao?” Lumine hỏi.
+
+“Đúng vậy. Năm đó chính vì các bộ tộc cùng đoàn kết, nên mới có thể đẩy lùi Vực Sâu,” Mavuika nói. “Vì vậy, để đảm bảo Natlan có thể đủ sức chống lại Vực Sâu trong năm trăm năm sau, Hỏa Thần tiếp theo bắt buộc phải phục hưng các bộ tộc đã bị hủy diệt. Phục hưng bộ tộc để một lần nữa đoàn kết mọi người lại với nhau, để Wayob của bộ tộc đó khôi phục lại sức mạnh. Và để minh chứng cho sự phục hưng hoàn toàn, Wayob sẽ chọn ra một ‘anh hùng’, tượng trưng cho việc bộ tộc đã sẵn sàng chiến đấu. Giống như những vị anh hùng vĩ đại đó đã đứng bên cạnh tôi vào năm trăm năm trước.”
+
+“Cho nên, tôi chính là vị anh hùng đó sao?” Mualani hỏi.
+
+“Đúng vậy. Tên Cổ mà cô có được, giống với vị chiến binh đại diện cho Cư Dân Suối Nước vào năm trăm năm trước, mang ý nghĩa ‘Đoàn Kết’,” Mavuika nói. “Chắc hẳn sau chuyến thám hiểm ở Vương Quốc Dạ Thần, cô đã hoàn toàn lĩnh ngộ được ý nghĩa ẩn chứa trong Tên Cổ.”
+
+“Vậy cũng có nghĩa là, trước đây cô đã biết được Wayob sẽ chọn ai rồi sao?” Paimon hỏi.
+
+“Ừm. Theo kế hoạch thì khi tôi thức tỉnh, tất cả các bộ tộc đều đã hoàn thành việc phục hưng. Tuy nhiên, kế hoạch đã xảy ra sự cố,” Mavuika nói. “Sáu vị anh hùng tuy có được sáu cái Tên Cổ của năm trăm năm trước, nhưng thông tin liên quan về kế hoạch lại không được truyền đạt đến họ. Nguyên nhân là do Vương Quốc Dạ Thần có chuyển biến xấu, ngăn cản khả năng liên lạc giữa Wayob và Lửa Thánh.”
+
+“Giống như Thơ Hoàn Hồn không thể đưa Kachina trở về vậy,” Iansan nói.
+
+“Ừm, đây cũng là một trong những thủ đoạn của sức mạnh Vực Sâu. Tuy nó không có trí tuệ, nhưng trước giờ đều không dễ đối phó,” Mavuika nói. “Muốn kết nối lại thông tin, dựa vào mình tôi là không đủ. Người nắm giữ Tên Cổ cũng phải thể hiện mức độ hòa hợp với Tên Cổ này. Sau khi ý thức được chuyện đó, tôi vẫn luôn muốn giúp đỡ sáu người họ. Trước ngày hôm nay thì Xilonen từ Con Của Tiếng Vang, Kinich từ Dòng Dõi Vườn Treo, và cả Iansan từ Cộng Đồng Trù Phú, họ đều đã được công nhận. Và sau lần mạo hiểm này thì Mualani, cô cũng đã thuận lợi có được sự công nhận từ Wayob, nhận được ký ức của vị anh hùng quá khứ lưu giữ trong Tên Cổ.”
+
+“Vẫn còn thiếu hai người,” Lumine nói.
+
+“Nhưng thời gian chỉ còn lại chưa đến một năm...” Paimon nói.
+
+“Đúng vậy, nhưng không còn cách nào khác. Nếu các anh hùng vẫn chưa tập hợp đủ, thì kế hoạch sẽ thiếu đi điều kiện để khởi động,” Mavuika nói. “Đây chính là lý do tuy tình hình cấp bách, nhưng tôi vẫn không thể hành động.”
+
+“Nếu Hỏa Thần đại nhân đã biết thì tại sao không nói thẳng với tôi? Như vậy không phải sẽ nhanh hơn sao?” Mualani hỏi.
+
+“Có lẽ vậy, nhưng như vậy có thể sẽ bị phản tác dụng. Vì có thể cô sẽ biết trước sứ mệnh mà không thể phát huy tối đa tiềm lực của bản thân,” Mavuika nói. “Giống như việc cô muốn đi cứu Kachina vậy. Tôi hy vọng chuyện này xuất phát từ ý chí mãnh liệt của cô, chứ không phải là trách nhiệm do ai giao phó.”
+
+“Cho nên, Hỏa Thần đại nhân không định cho chúng tôi biết hai vị anh hùng còn lại là ai sao?” Chasca hỏi.
+
+“Ừm, ‘thời cơ’ của họ vẫn chưa đến. Bây giờ gây áp lực cho họ thì không khác gì quấy nhiễu cả,” Mavuika nói.
+
+“Nhưng như vậy liệu có kịp không?” Lumine hỏi.
+
+“Tôi chỉ có thể chọn cách tin vào Wayob thôi,” Mavuika nói. “Tôi chưa từng nghĩ mình sẽ có thể một mình giải quyết nguy cơ này. Chính vì tôi đã chọn tin tưởng và trông cậy, nên kế hoạch mới có thể tiến triển được đến bước này. Người có thể cứu Natlan không phải là thần, cũng không phải bất kỳ ai, mà là ‘chúng ta’.”
+
+“Không lẽ...” Lumine nói.
+
+“Cô rất nhạy bén, tôi còn nghĩ mình có thể bỏ qua chủ đề này chứ,” Mavuika nói.
+
+“Hả? À đúng rồi, đồ đạc ở đây đi đâu mất rồi? Tôi cũng rất tò mò đó,” Paimon nói.
+
+“Mặc dù tôi đã hy sinh sức mạnh của mình, nhưng tôi vẫn cần một kế hoạch dự phòng để đảm bảo mọi người sẽ quay trở về từ Vương Quốc Dạ Thần,” Mavuika nói. “Dẫu sao thì tôi cũng là người đã đồng ý để mọi người liều lĩnh chuyến này, và Mualani cũng là một trong những vị anh hùng then chốt. Ngoài giá trị tình cảm ra, những món đồ tôi cất giữ ở đây còn có mục đích quan trọng hơn nhiều, chính là ‘nhiên liệu’.”
+
+“Nhiên liệu? A, vậy nên Hỏa Thần đại nhân khi đó mới...” Kachina nói.
+
+“Ừm, những câu chuyện ẩn chứa trong đồ lưu niệm vốn rất quan trọng, nhưng chúng có một điểm chung còn quan trọng hơn... Đều là những đồ vật đồng hành lâu dài cùng các vị anh hùng,” Mavuika nói. “Chúng cũng sẽ tích lũy Lửa Tranh Đấu trong quá trình chủ nhân chiến đấu. Đương nhiên, sức mạnh của chúng cũng sẽ có giới hạn. Nhưng khi tích tiểu thành đại, hẳn cũng sẽ phát huy tác dụng trong thời điểm quan trọng. Tôi đã sử dụng Lửa Tranh Đấu sinh ra khi đốt những món đồ này mà mở ra ranh giới giữa hai thế giới. Đó là một cách tiếp cận khá thô sơ, nên như các vị đã thấy đấy, toàn bộ sức mạnh của chúng đã cạn kiệt ngay lập tức.”
+
+“Nhưng đó đều là những thứ rất quý giá, mỗi món đều có câu chuyện của mình...” Paimon nói.
+
+“Haiz, vậy nên tôi mới kéo mọi người đến đây đó. Đây là sức mạnh mà dù thế nào thì tôi cũng không muốn Hỏa Thần đại nhân dùng đến,” Iansan nói. “Thực sự rất xin lỗi.”
+
+“Không sao. Cũng may mọi người đã cứu được trụ vật tổ của Wayob, bằng không thì khu vực đó của Vương Quốc Dạ Thần giờ đã vĩnh viễn thất thủ rồi,” Mavuika nói. “Mà nếu như vậy thì Con Của Tiếng Vang sẽ gặp thảm họa sớm thôi. Về những món đồ ở đây, khi các vị anh hùng giao món đồ lại cho tôi, hoặc là Hỏa Thần của ngày trước, họ đều hy vọng chúng sẽ có đóng góp cho việc giải cứu Natlan. Nếu họ biết được những thứ này sau cùng đã giải cứu anh hùng của Natlan, thì hẳn là họ cũng sẽ rất vui mừng.”
+
+“Dù là vậy, nhưng em vẫn thấy rất áy náy...” Kachina nói.
+
+“Haha, đừng như vậy. Còn nhớ chủ đề về ‘thời gian’ từng nói trước đó không?” Mavuika hỏi. “Chúng ta không mất đi gì cả. Những con người và sự việc trong quá khứ chỉ là ở bên chúng ta theo một hình thức khác. Nếu vẫn còn thấy day dứt, thì hãy mang theo sự tiếc nuối ấy mà chiến đấu vì Natlan đi. Sự tích về mọi người sẽ trở thành truyền thuyết mới, sản sinh ra sức mạnh mới, giống như những món đồ từng tồn tại ở đây vậy.”
+
+“Dù sao chúng tôi cũng nợ một ân tình, nên vẫn muốn thể hiện chút gì đó...” Paimon nói.
+
+“Haha, vậy thì mời tôi đi uống rượu đi,” Mavuika nói. “Kachina đã trở về rồi, chúng ta phải tổ chức tiệc ăn mừng để chúc mừng cho chiến thắng của Trận Chiến Người Gác Đêm mới phải. Không những để mọi người được nghỉ ngơi thoải mái, mà còn khiến những người nghi ngờ các vị không còn gì để nói nữa.”
+
+“Haiz, sau khi biết được chuyện cấp bách như vậy, tôi đã không còn tâm trạng gì nữa rồi...” Mualani nói.
+
+“Đừng nghĩ vậy, cần phải kiên định hơn. Vội vàng chẳng mang lại ý nghĩa gì ngoài việc ảnh hưởng đến phán đoán của bản thân,” Mavuika nói. “Được rồi, mau đi đi. Tôi sẽ đến sau.”
+
+Nghe theo lời Mavuika, cả nhóm lần lượt rời khỏi Phòng Quản Lý để chuẩn bị cho buổi tiệc mừng chiến thắng tối nay, để lại một mình Hỏa Thần ngồi lặng bên bàn làm việc.
+
+---
+
+>Đi theo Mavuika
+
+>Nói chuyện với Mavuika
+
+Khung cảnh xung quanh bất chợt chuyển sang một không gian sương mù bảng lảng, nơi những lối đi dài nối liền hàng loạt ngọn tháp đá sừng sững dưới biểu tượng Natlan tỏa sáng trên bầu trời đêm — nơi tiếng vọng ký ức của những kỷ vật đã đốt cháy hòa cùng lời từ biệt năm trăm năm trước tái hiện lại trước bước chân Mavuika.
+
+Trên đỉnh ngọn tháp đầu tiên, bóng hình ký ức của Atea đứng mỉm cười nhìn cô.
+
+“Hồi còn rất nhỏ, tôi thường ngồi bên suối nước nóng, nghe các chiến binh kể chuyện,” Atea nói. “Họ thu hút mọi người từ mọi tầng lớp xã hội. Mọi người dù đến từ bộ tộc nào, cũng đều trở thành bạn tốt của nhau. Suối nước nóng chưa bao giờ thuộc sở hữu riêng của Cư Dân Suối Nước, mà là một sợi dây kết nối những người ‘bạn tắm suối’ lại với nhau. Rất vui khi nhìn thấy những đứa trẻ trong bộ tộc dần trưởng thành. Tôi cũng dần hiểu được ý nghĩa thực sự của suối nước. Thanh xuân, sức sống, nhiệt huyết, sự hăng hái đó, thật khiến người ta khao khát... Cho dù bọn trẻ có gây rắc rối, thì nỗi tức giận trong lòng cũng thoáng chốc trở thành sự yêu thương và bao dung. Thật là kỳ diệu. Khi Mualani trưởng thành, con bé chắc chắn sẽ là một chiến binh vô cùng lợi hại. Con bé mang trong mình tiềm năng vô hạn, tôi có thể nhìn ra điều đó. Sau này khi tôi không còn chiến đấu được nữa, tôi sẽ đến kể chuyện cho con bé nghe, và kể chuyện cho những đứa trẻ non nớt hơn nữa. Nên cô cũng phải làm tốt chuyện của mình nhé, Hỏa Thần. Như vậy thì tôi mới có nhiều thứ hơn để kể đấy, haha.”
+
+Hình ảnh Atea tan biến, mở ra cây cầu ánh sáng dẫn sang ngọn tháp kế tiếp, nơi đại anh hùng Tenoch của năm trăm năm trước đang đứng chờ.
+
+“Bầu trời tối đen như mực, bộ tộc rời rạc phân tán. Cô hứa với tôi, rằng cô sẽ giành chiến thắng ở trong một tương lai xa xôi...” Tenoch nói. “Nếu không phải tôi đã nhiều lần giao chiến với kẻ địch xảo quyệt đó, thì tôi sẽ không thể hiểu được sự thận trọng của cô. Ngọn lửa phẫn nộ của tôi sẽ không bao giờ tắt, sức mạnh của tôi sẽ không còn được dâng hiến vì cô nữa. Nhưng cô đến tìm tôi, vì cô biết chỉ cần một câu nói là sẽ có thể thuyết phục tôi. Tôi hiểu rồi. Anh hùng của ngày nay sẽ dùng lửa và máu để dọn đường, nên cô phải giành lấy cả phần thắng của mọi người đấy nhé. Bằng không, thù mới nợ cũ cùng tính sổ, tôi sẽ không buông tha đâu đấy. ...‘Vì Natlan.’”
+
+Tenoch khẽ gật đầu rồi tan vào màn sương. Mavuika tiếp tục bước qua lối nối sang tòa tháp tiếp theo — nơi em gái Hine và mẹ cô là Haumia đang đứng đợi ngày tiễn biệt của năm trăm năm trước.
+
+“Cũng có nghĩa là, chị sẽ phải đến tương lai của năm trăm năm sau để thực hiện chức trách của Hỏa Thần sao...” Hine nói. “Vậy chị của hiện tại thì sao? Cuộc đời của chị sẽ kết thúc như vậy sao?”
+
+“Con có hỏi vậy thì chị con cũng không trả lời được đâu. Chị con đã quyết định như vậy rồi, chúng ta hãy toàn lực ủng hộ chị gái con đi,” Haumia nói. “Yên tâm, chúng ta sẽ dốc toàn bộ sức lực để gây dựng lại bộ tộc. Mọi người đều đang nỗ lực vì tương lai của Natlan, chỉ là mốc thời gian sẽ khác nhau thôi.”
+
+“Ừm, mẹ nói đúng đó. Em và mọi người chắc chắn sẽ luôn ủng hộ chị,” Hine nói. “Thật là, sao những lúc thế này cha lại không ở đây nhỉ?”
+
+“Có lẽ cha con không biết phải nói gì, nên quyết định không đến. Kệ ông ấy đi, cha con vẫn luôn như vậy,” Haumia nói. “Dù tương lai có ra sao thì hãy luôn nhớ, mọi người đều rất yêu con.”
+
+Bóng hình Haumia dịu dàng tan biến. Khi Mavuika sải bước tiến sang cây cầu kế tiếp, cô em gái Hine vẫn hướng theo gọi lớn từ phía sau.
+
+“Em sẽ đi tìm chị đó!” Hine nói. “Tuy em không thể sống đến lúc đó, nhưng em sẽ nghĩ cách! Chắc chắn sẽ có cách để chúng ta gặp lại nhau vào năm trăm năm sau! Em sẽ tìm ra câu trả lời! Vậy nên, đừng có quên em đấy!”
+
+Mavuika lặng lẽ bước tiếp dọc theo con đường dài xuyên qua làn sương trắng. Dọc hai bên lối đi, những bóng hình anh hùng và chiến binh năm xưa là Ngendi, Kalunga, Fietena và Nzambe lần lượt gửi lại những lời nhắn nhủ cuối cùng trước khi tan vào ký ức.
+
+“Nếu Hỏa Thần đại nhân đã nói vậy, thì tôi sẽ ủng hộ hết mình,” Ngendi nói.
+
+“Nguyện cho bọn trẻ sẽ được nhìn thấy ánh mặt trời đẹp đẽ ấy,” Kalunga nói.
+
+“Vì Natlan,” Fietena nói.
+
+“Chúng ta sẽ không chiến đấu một mình,” Nzambe nói.
+
+Đặt chân lên ngọn tháp cuối cùng giữa biển sương, Mavuika lắng nghe tiếng vọng cổ xưa của vị Hỏa Thần đời đầu vang lên từ quá khứ, rồi chính cô cất giọng đáp lại lời thề bất diệt của Natlan.
+
+“Quy tắc là di sản của tôi, cũng là sức mạnh đủ để chống lại tai họa của lần tới,” Âm Thanh Từ Quá Khứ nói. “Chiến tranh đã tạo nên sáu bộ tộc hùng mạnh, dạy chúng ta cách để chiến đấu, cách để yêu thương... Rốt cuộc ai sẽ kết thúc mọi chuyện đây.”
+
+“Chúng ta đã kế thừa ký ức và truyền thuyết,” Mavuika nói. “Chúng ta đã trưởng thành cùng mặt trời và gió. Chúng ta đã đúc nên vận mệnh và tương lai. Đây đều là lửa của Natlan, là máu của Natlan.”
+
+---
+
+>Đợi đến tối (18h - 22h)
+
+>Đến khách sạn dự tiệc
+
+Khi màn đêm buông xuống và ánh đèn ấm áp thắp sáng khắp Đấu Trường Lửa Thánh, Lumine và Paimon tìm đến trước cửa Quán Trọ Mệt Mỏi để dự tiệc ăn mừng, thì tình cờ bắt gặp Chuychu vừa bước ra.
+
+“Ấy, chẳng phải Chuychu đây sao! Xin chào nhé, cô cũng đến tham gia bữa tiệc à?” Paimon hỏi.
+
+“À, hiểu lầm rồi. Chỉ là tôi biết được chị gái đang ở đây nên đến đưa thuốc thôi. Giờ tôi chuẩn bị đi đây,” Chuychu nói. “Xin lỗi, từ tận đáy lòng đó, tôi cũng rất vui vì sự trở về của Kachina, chỉ là... Bầu không khí có vẻ không thích hợp để tôi ở cạnh chị gái.”
+
+“Hmm, nếu đã cãi nhau thì cũng thật khó xử, tôi hiểu mà...” Paimon nói.
+
+“Suốt chặng đường chị ấy không gây phiền phức gì phải không?” Chuychu hỏi.
+
+“Đương nhiên rồi,” Lumine nói.
+
+“Đúng vậy. Cô ấy rất đáng tin cậy, lại rất am hiểu Vực Sâu, cung cấp cho chúng tôi rất nhiều thông tin nữa,” Paimon nói.
+
+“Vậy thì tốt rồi, tôi biết vậy là đủ rồi,” Chuychu nói.
+
+“Lúc trước tôi thấy cô rất thẳng thắn, sao vậy? Như thể có điều gì muốn nói nhỉ,” Paimon nói.
+
+“Không cần lo lắng đâu,” Lumine nói.
+
+“Tôi biết tôi thật không đúng khi cãi nhau với chị gái trước khi mọi người xuất phát. Nhưng tôi chọn làm vậy thực ra cũng có lý do,” Chuychu nói. “Khát vọng chiến đấu trong lòng chị ấy vô cùng mãnh liệt. Cho dù sức mạnh tinh thần của chị ấy có mạnh mẽ hơn nữa, thì vẫn sẽ có những lúc mất kiểm soát, mà tôi lại không biết mọi người sẽ phải đối mặt với thứ gì...”
+
+“Ý của cô là...” Paimon nói.
+
+“Tự biến mình thành mục tiêu để chị gái trút giận sao?” Lumine hỏi.
+
+“Hơi ngốc phải không? Nhưng quả thật đây cũng là cách có hiệu quả. Ít nhất sẽ có thể giúp chị ấy giữ được bình tĩnh trong một khoảng thời gian,” Chuychu nói. “Tóm lại, bình an trở về là tốt rồi. Đây cũng là nguyện vọng duy nhất của tôi, thực sự tôi rất vui.”
+
+“Không đến mức phải dùng cách này đâu nhỉ? Hay là nói chuyện đàng hoàng với cô ấy thử đi...” Paimon nói.
+
+“Không không! Xin đừng để chị ấy biết nhé. Chị ấy sẽ không chủ động giãi bày tâm sự đâu, đặc biệt là với người thân. Nên nếu chị ấy biết thì tôi sẽ càng khó giúp chị ấy hơn đấy,” Chuychu nói.
+
+“Tôi tôn trọng sự lựa chọn của cô,” Lumine nói.
+
+“Cảm ơn đã hiểu cho. Cũng đừng quá lo lắng nhé, tôi sẽ nghĩ cách chia sẻ gánh nặng giúp chị ấy. Vậy tôi đi đây, mọi người ăn mừng vui vẻ nhé,” Chuychu nói. “À, nếu mọi người thấy khó chịu trong người thì phải báo ngay cho tôi đấy.”
+
+“Cô ấy đi rồi, không ngờ nguyên nhân thực sự lại là như vậy...” Paimon nói.
+
+“Có lẽ họ đều suy nghĩ cho nhau rất nhiều,” Lumine nói.
+
+“Suy cho cùng thì vẫn là tại Vực Sâu mà. Đúng là thứ xấu xa, hứ!” Paimon nói.
+
+>Vào khách sạn
+
+Đẩy cửa bước vào trong Quán Trọ Mệt Mỏi, không khí tưng bừng rộn rã tiếng chúc tụng cùng hương thơm đồ ăn thức uống lan tỏa khắp khán phòng.
+
+“Chúng ta hãy cùng chúc phúc và gửi những tràng pháo tay nồng nhiệt nhất cho Kachina, dũng sĩ trẻ tuổi nhất của bộ tộc nào!” Pacal nói.
+
+“Woohoo!” Teayo nói.
+
+“Giỏi lắm, Kachina!” Sabea nói.
+
+“Cảm... Cảm ơn mọi người, em cũng vui lắm, cuối cùng em cũng làm được rồi!” Kachina nói.
+
+“Mọi người đều biết là em sẽ làm được mà. Còn trẻ mà đã có tiềm năng phi thường rồi, sau này nhất định sẽ có triển vọng đấy!” Weqro nói.
+
+“Nói gì thế, đừng tưởng tôi không biết cậu là người đầu tiên rút lui khỏi đội đấy. Để xem lúc về tôi xử lý cậu thế nào!” Pacal nói.
+
+“Tại... tại bạn tôi gửi lời mời, tôi không thể từ chối được mà!” Weqro nói.
+
+“Chứ không phải vì muốn được người khác gánh qua vòng đầu sao?” Sabea hỏi.
+
+“Thực sự không phải vậy! Vì người kế thừa đó lúc trước bị thương ở bên ngoài, tôi tình cờ đi ngang nên băng bó cho anh ta,” Weqro nói. “Anh ta nói gì mà muốn đáp lại ân tình này, nên tôi cũng không còn cách nào khác. Lúc đó tôi nghĩ bên chỗ Kachina chắc sẽ không gặp khó khăn gì khi thiếu tôi.”
+
+“Nhưng kết quả, bắt đầu từ cậu là ai ai cũng muốn chuyển đội,” Pacal nói.
+
+“Kachina, xin lỗi nhé. Chuyện này quả thật là lỗi của mọi người,” Tlaco nói.
+
+“Không ngờ lần này em đã vào được Trận Chiến Người Gác Đêm, lại còn giành được vinh dự cao nhất nữa,” Cempoa nói.
+
+“Vậy... Còn mọi người thì sao? Mọi người có đạt được thành tích gì không?” Kachina hỏi.
+
+“À ừm...” Tlaco nói.
+
+“Đội trưởng tiểu đội của chúng tôi... tối hôm đó uống nhiều quá nên hôm sau đến trễ... Thế là bị hủy tư cách thi đấu,” Cempoa nói.
+
+“Hahaha, đúng là đáng lắm mà!” Pacal nói.
+
+“Được rồi được rồi, chú Pacal đừng nói vậy nữa,” Kachina nói. “À... Mọi người, em muốn nói vài câu... Em có thể trở về đây, em thực sự rất biết ơn bạn bè và cả sự giúp đỡ của Hỏa Thần đại nhân. Chị Nhà Lữ Hành và chị Paimon đều rất giỏi. Nếu họ có thể tham gia Nghi Lễ Hành Hương thì chắc chắn sẽ chiến thắng tất cả. Họ đã đồng ý để em theo họ học tập, em tin rằng mình sẽ có thể tiến bộ hơn nữa! Mà những người bạn thân mến của em, chị Mualani, chị Chasca, anh Kinich, chị Iansan... Họ đều giúp đỡ chị Lumine và chị Paimon đưa em trở về từ Vương Quốc Dạ Thần... Họ cũng là những vị anh hùng đáng được chúng ta ca tụng. Hy vọng mọi người... cũng có thể dành cho họ những tràng pháo tay nồng nhiệt, em cảm ơn!”
+
+“Nói hay lắm!” Teayo nói.
+
+“Tôi xin nốc cạn để tỏ lòng kính trọng!” Sabea nói.
+
+“Hihi, Kachina, sẵn sàng trở thành anh hùng chưa nào?” Mualani hỏi.
+
+“Thú thật thì... Em thấy vừa mừng vừa lo, cảm thấy mọi thứ như không phải sự thật vậy...” Kachina nói.
+
+“Đã là anh hùng rồi, bước tiếp theo chính là đoạt lấy chức vô địch thôi!” Paimon nói.
+
+“Tôi chính là huấn luyện viên của nhà vô địch,” Lumine nói.
+
+“Này, đừng có trêu em mà...” Kachina nói.
+
+---
+
+>Nói chuyện với Mavuika
+
+Giữa lúc bữa tiệc đang vui vẻ náo nhiệt, Lumine và Paimon tìm thấy Mavuika đang đứng nghỉ ở một góc yên tĩnh cùng hai ly nước ép trái cây đã chuẩn bị sẵn.
+
+“Ồ, đến rồi à. Tôi đã chuẩn bị cho hai vị nước ép trái cây đặc biệt đây,” Mavuika nói.
+
+“Hihi, ngay cả sở thích này mà cô cũng biết sao!” Paimon nói.
+
+“Xem ra cô vẫn còn chuyện muốn hỏi, đúng chứ?” Mavuika hỏi.
+
+“Tại sao không để các vị anh hùng trong quá khứ thức tỉnh cùng cô?” Lumine hỏi.
+
+“Bởi vì họ vẫn còn cuộc sống của riêng mình,” Mavuika nói. “Đối với người của năm trăm năm trước mà nói thì Natlan gần như bị hủy diệt rồi. Cho nên việc từ bỏ người thân và người yêu để đi đến điểm tận cùng của thời gian sẽ là chuyện rất tàn nhẫn. Thử nghĩ xem, vạn vật trên thế giới này đều có điểm cuối, nhưng mọi người bị hạn chế bởi tuổi thọ ngắn ngủi, nên sẽ thiếu đi cảm nhận chân thực về dòng thời gian. Ví dụ, ‘Vì mặt trời chỉ còn cháy được thêm vài triệu năm thôi, nên bây giờ chúng ta phải đi cứu lấy nó’... Nghe rất quái lạ đúng không. Tôi không thể ép họ gánh vác trách nhiệm này cùng tôi. Tuy nhiên, anh hùng thì đời nào cũng có. Thời đại này cũng vậy, cho nên chuyện này cũng không bắt buộc là phải có họ mới được. Đương nhiên thiếu tôi cũng chẳng sao. Chỉ là, đây là kế hoạch mà tôi đề ra, nên tôi phải chịu trách nhiệm đến cùng.”
+
+“Tôi nhớ ra rồi. Bức tranh trong phòng cô, chẳng lẽ đó là... người thân của cô năm trăm năm về trước sao?” Paimon hỏi.
+
+“Ừm, đúng vậy. Nên khi Paimon hỏi sau đó em gái tôi ra sao, thì thực ra tôi có rất ít tài liệu để tra cứu,” Mavuika nói. “Tôi chỉ có thể chắp nối những mảnh ghép quá khứ lại với nhau, miễn cưỡng có thể cho rằng em ấy đã trở thành một kiến trúc sư và nghệ sĩ. Trong thời kỳ phục hưng Dòng Dõi Vườn Treo, em ấy đã phụ trách xây dựng rất nhiều nhà cửa. Đương nhiên thì đến bây giờ đã không còn nữa rồi. Nhưng điều này vẫn rất lợi hại đấy. Tôi rất tự hào về em ấy.”
+
+“Đây sẽ là cuộc đời mà cô phải từ bỏ,” Lumine nói.
+
+“Xem ra cô cũng rất dễ tiếc nuối cho những gì đã mất nhỉ... Còn tôi thì sớm đã giác ngộ chuyện này rồi,” Mavuika nói. “Đây là một trận chiến, mà chiến tranh thì chắc chắn sẽ có tổn thất. So với những người bình thường bị Vực Sâu nuốt chửng, thì tôi đã may mắn hơn nhiều rồi. Tôi gánh vác danh xưng thần linh, gánh vác kỳ vọng của quá nhiều người. Tôi phải đi đến điểm cuối của vận mệnh, cho dù ở đó có là gì đi nữa.”
+
+“Đây cũng là điều mà tôi muốn nói. Nếu cô đã biết về ‘vận mệnh’...” Lumine nói.
+
+“Đúng vậy. Rất có thể kết quả của kế hoạch này đã được soạn xong rồi...” Paimon nói.
+
+“Nếu như tôi biết thì sao chứ? Đừng quên hình thái của thời gian, chính là ‘quá khứ’, ‘hiện tại’, ‘tương lai’ cùng tồn tại, và cũng quan trọng như nhau,” Mavuika nói. “Giả dụ kết cục của tương lai là hủy diệt, thì cũng không có nghĩa là mọi thứ trước mắt không đáng để cứu vớt. Mà chính vì con người không thể biết được vận mệnh, nên mới luôn dốc hết sức mình. Bây giờ mới là thời khắc quan trọng, chúng ta còn thiếu hai vị anh hùng. Không, nói chính xác hơn thì là ba. Còn có một vị khác mà tôi rất hy vọng có thể ra tay giúp đỡ.”
+
+“Không phải là tôi đấy chứ?” Lumine hỏi.
+
+“Khả năng kháng lại Vực Sâu của cô thực sự khiến tôi ấn tượng. Trong trận chiến này, cô chắc chắn sẽ phát huy được sức mạnh tối quan trọng,” Mavuika nói. “Nếu cô đồng ý, thì ngoài việc tôi sẽ cố gắng trợ giúp cho chuyến hành trình của cô ra, tôi sẽ còn chế tạo cho cô một cái Tên Cổ hoàn toàn mới nữa.”
+
+“Tên Cổ có thể chế tạo được sao?” Paimon hỏi.
+
+“Ừm, điều kiện khá khó, nhưng nếu hoàn toàn không thể chế tạo ra được thì Tên Cổ được lưu truyền chắc chắn sẽ ngày càng ít đi,” Mavuika nói. “Đợi khi các vị có được Tên Cổ, vậy thì chuyến thám hiểm Natlan của các vị sẽ được ghi lại hoàn chỉnh. Người Natlan trong tương lai sẽ ghi nhớ các vị. Tuy sức mạnh của Thơ Hoàn Hồn tạm thời mất đi tác dụng, nhưng... hãy xem đây như một ‘lời cam đoan’ của tôi đến tính mạng của cô nhé. Tôi sẵn sàng trả bất kỳ cái giá nào để thực hiện lời hứa này, cũng giống như tôi cứu mọi người từ Vương Quốc Dạ Thần vậy. Nơi này sẽ không bao giờ bạc đãi anh hùng đâu.”
+
+“Tôi không có hứng thú với lợi ích. Tôi chỉ muốn giúp mọi người ở đây thôi,” Lumine nói.
+
+“Đúng vậy, không thể bỏ mặc được nữa rồi,” Paimon nói.
+
+“Tốt quá rồi. Vậy lát nữa tôi sẽ liên hệ với thợ thủ công tên Xilonen,” Mavuika nói. “Mặc dù chưa từng có chuyện rèn Tên Cổ cho người ngoài, nhưng tôi tin là cô ấy sẽ có cách.”
+
+---
+
+Cùng lúc ấy, tại một vùng hoang dã vắng vẻ khác của Natlan, chiến binh Fatui tên Rezanov tiến lại báo cáo tình hình cho Capitano.
+
+“Ngài Capitano, tin tình báo của chúng ta đã được gửi tới. Có vẻ như Hỏa Thần hiện giờ đã mất đi rất nhiều sức mạnh,” Rezanov nói. “Tuy tôi biết ngài đã bị thương, nhưng bây giờ là cơ hội tốt nhất để đoạt lấy Gnosis...”
+
+“Thắng thua là quy luật, chứ không phải kết quả. Nếu trước đây ta chưa từng thừa nước đục thả câu, thì bây giờ cũng vậy,” Capitano nói. “Còn ngươi, không ngờ chiêu trò che mắt của ngươi lại thực sự có tác dụng đấy.”
+
+“Dù sương mù có dày đến đâu, chỉ cần có mặt trời, thì ngày sẽ không thể biến thành đêm. Cô ta chỉ không muốn thôi, chứ không phải là không làm được,” người bí ẩn nói. “Thời gian của ngài không còn nhiều rồi, giờ còn bị thương nữa. Tiếp theo ngài định làm gì đây?”
+
+“Ta bắt đầu suy nghĩ nghiêm túc về giá trị của ngươi rồi đấy,” Capitano nói. “Ngươi... đã ‘nghe’ được gì từ nơi này rồi à?”
+
+>(Hết Chương V · Màn II — Đá Đen Ẩn Dưới Lớp Đá Trắng)

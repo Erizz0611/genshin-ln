@@ -1,0 +1,893 @@
+#CH|Phần 1|Ủy Thác Tồn Đọng Đã Lâu|nc_sumeru_amrita.png|Ủy Thác Tồn Đọng Đã Lâu
+
+Sau khi biến cố ở Fontaine khép lại, Lumine và Paimon quay trở lại vùng đất Sumeru. Một ngày nọ, khi cả hai ghé qua quầy tiếp tân của Hiệp Hội Nhà Mạo Hiểm tại Thành Sumeru, tiểu thư Katheryne bỗng gọi họ lại với một ủy thác kỳ lạ.
+
+>Đến Hiệp Hội Nhà Mạo Hiểm Sumeru nói chuyện với Katheryne
+
+“Ồ? Hai vị đến rồi sao, tôi có một ủy thác mà chỉ có hai vị mới có thể làm được đây,” Katheryne nói.
+
+“Phải là chúng tôi mới có thể làm được sao? Hmm... Vậy ủy thác này chắc cũng phải cỡ cấp độ Ma Thần rồi nhỉ?” Paimon hỏi.
+
+“Cứ giao cho tôi, phải đối phó với Ma Thần nào đây?” Lumine hỏi.
+
+“Haha... Ủy thác của Hiệp Hội Nhà Mạo Hiểm không có cấp độ này đâu, và ủy thác lần này cũng không quy mô như hai vị nghĩ đâu,” Katheryne nói. “Thực ra đó chỉ là một ủy thác tìm người thôi.”
+
+“Hả? Vậy tại sao lại nói... Chỉ có chúng tôi mới có thể làm được chứ?” Paimon hỏi.
+
+“Dạo trước, khi tôi đang kiểm kê danh sách các ủy thác tồn đọng thì vô tình thấy được nó,” Katheryne nói. “Trông có vẻ bình thường, nhưng lại có hơn mười lần ủy thác thất bại liên tục rồi, trong đó còn có một số nhà mạo hiểm danh tiếng nữa. Vì vậy, dưới góc độ danh tiếng của Hiệp Hội Nhà Mạo Hiểm và thành tích của phân hội tại Sumeru, tôi hy vọng có thể giao ủy thác này cho nhà mạo hiểm có tỉ lệ hoàn thành nhiệm vụ cao nhất trong nhiều năm trở lại đây...”
+
+“...Vậy thì đương nhiên là chúng tôi rồi!” Paimon nói.
+
+“Tôi cũng không đảm bảo là sẽ hoàn thành đâu,” Lumine nói.
+
+“Haha, hy vọng hai vị có thể thử sức xem sao,” Katheryne nói. “Nếu cả hai vị cũng không làm được, vậy thì tôi sẽ liên hệ với người ủy thác để bàn bạc về chuyện hủy bỏ nó.”
+
+“Vậy cô mau nói đi, ủy thác này rốt cuộc cần tìm ai, khó khăn ở đâu?” Paimon hỏi.
+
+“Ủy thác tìm người này là của các thôn dân ở Làng Vimara, họ nói rằng có một thôn dân đã mất tích...” Katheryne nói. “Nhưng mà... Họ thậm chí còn không biết tên của người đó là gì, chỉ nhớ đại khái về dáng vẻ và đặc điểm của người đó thôi.”
+
+“Hả? Đều là người trong cùng một làng mà, ngay cả tên cũng không biết sao?” Paimon hỏi. “Hơn nữa, nhiều nhà mạo hiểm thất bại như vậy, có khi nào không hề có người này không? Hoặc có thể nói là... trò đùa gì đó thì sao?”
+
+“Khả năng này rất thấp. Có rất nhiều thôn dân đến đây gửi ủy thác. Nhìn vẻ mặt và giọng điệu của họ đều rất nghiêm túc, không giống như đang đùa,” Katheryne nói. “Hơn nữa, việc gửi ủy thác cũng phải trả Mora để làm phí thủ tục, nên trò đùa này đối với họ cũng chẳng có lợi ích gì cả.”
+
+“Đúng là có chút kỳ lạ...” Lumine nói.
+
+“Tóm lại, hai vị có thể đến Làng Vimara hỏi thử nhé. Mặc dù tôi cũng có một số tài liệu ở đây, nhưng vẫn nên lấy thông tin trực tiếp từ phía thôn dân thì sẽ hợp lý hơn, tránh việc xảy ra sai sót,” Katheryne nói.
+
+“Ừm, vậy thì đi thôi Lumine, tôi cũng bắt đầu thấy tò mò rồi,” Paimon nói.
+
+---
+
+Nhận ủy thác từ Katheryne xong, Lumine và Paimon rời Thành Sumeru, men theo đường rừng để tiến về Làng Vimara.
+
+>Đi đến Làng Vimara
+
+“Đến Làng Vimara rồi, chúng ta đi tìm dân làng để hỏi thăm thông tin về người mất tích trước nhé?” Paimon hỏi.
+
+Vì đây là ủy thác hóc búa đã khiến hơn mười nhà mạo hiểm đi trước phải bỏ cuộc, cả hai quyết định bắt đầu hỏi thăm thật kỹ từ những người dân sống lâu năm trong làng. Họ tìm đến gặp thương nhân Bahram trước tiên.
+
+>Nói chuyện với Bahram
+
+“Ồ, xin chào, muốn mua gì sao? Tôi là dân buôn bán ở khu vực này đó...” Bahram nói.
+
+“Không không, chúng tôi là nhà mạo hiểm, do vừa nhận được ủy thác của Làng Vimara từ chỗ Katheryne nên đã đến đây...” Paimon nói.
+
+“Chuyện đó à, haiz... Cũng xem như phiền các nhà mạo hiểm đi đến đây một chuyến rồi,” Bahram nói. “Nói thật, mọi người đều không còn hy vọng gì nữa rồi. Lần nào cũng có người tự tin đến giúp, nhưng kết quả là nhanh chóng thất bại quay về. Chúng tôi khai manh mối đến nhàm chán cả rồi, ở xung quanh Làng Vimara cũng đã tìm gần hết, nhưng lại không có tiến triển gì mới...”
+
+“Vậy rốt cuộc anh ấy tên là gì? Sống ở đâu? Người thân của anh ấy đâu?” Paimon hỏi.
+
+“Không biết, không biết và không biết,” Bahram nói.
+
+“Hả... Dứt khoát vậy sao?” Paimon hỏi.
+
+“Xin lỗi, không phải tôi tỏ thái độ, mà là tôi đã lần lượt trả lời ba câu hỏi rồi đó,” Bahram nói.
+
+“Cả ba câu đều không biết sao?” Lumine hỏi.
+
+“Tuy nói là vậy, nhưng thực ra chúng tôi đều có ấn tượng sâu sắc với anh ấy. Đều là người sống cùng Làng Vimara cả, cũng từng cùng nhau làm qua rất nhiều việc,” Bahram nói. “Chỉ là chúng tôi không hiểu rõ tình hình cụ thể của anh ấy thôi. Hoặc cũng có thể là trước đây từng biết, nhưng bây giờ thì không còn ai nhớ nữa... Dù sao thì mọi người trong làng cũng đã trao đổi thông tin với nhau và đưa ra kết luận như vậy mà.”
+
+“Được rồi, cứ cho là vậy đi... Vậy anh ấy trông như thế nào?” Paimon hỏi.
+
+“Anh ấy à... Trong ấn tượng của tôi thì là một chàng trai tầm hai mươi tuổi, rất nhiệt tình, cũng rất hiền lành...” Bahram nói. “Khi chỗ tôi không có khách thì tôi hay trò chuyện với anh ấy, thỉnh thoảng lại thấy anh ấy mạo hiểm đi giúp đỡ người khác... Haha, đúng là một chàng trai thú vị.”
+
+“Xem ra anh đánh giá khá tốt về anh ấy nhỉ, vừa nhắc đến anh ấy là vẻ mặt cũng không còn buồn rầu như trước nữa,” Paimon nói.
+
+“Đương nhiên rồi! Mọi người đều rất thích anh ấy, nếu không thì đã không đến Hiệp Hội Nhà Mạo Hiểm để gửi ủy thác tìm người rồi,” Bahram nói. “Người trẻ tuổi hồn nhiên như anh ấy rất hiếm gặp, nhưng sao đột nhiên lại biến mất chứ. Mong là không có chuyện gì xấu xảy ra...”
+
+“Có lẽ... Anh ta chỉ là lén dọn đi chăng?” Paimon hỏi.
+
+“Không đâu, với tính cách của anh ấy thì sẽ không đi mà không từ biệt. Mà cho dù là vậy thì chuyện anh ấy dọn nhà cũng không thể qua mặt được tất cả mọi người ở Làng Vimara...” Bahram nói.
+
+“Ừm... Được rồi, cảm ơn thông tin của anh. Chúng tôi sẽ đến nơi khác hỏi thăm,” Paimon nói.
+
+Rời chỗ Bahram, Lumine và Paimon tiếp tục đến tìm trưởng làng Amadhiah để dò hỏi thêm manh mối.
+
+>Nói chuyện với Amadhiah
+
+“Là khách sao?” Amadhiah hỏi.
+
+“Xin chào, ông Amadhiah! Chúng cháu nhận được ủy thác của Làng Vimara nên đã đến đây,” Paimon nói.
+
+“Ồ, vậy thì vất vả cho hai cháu rồi. Đi đường xa như vậy, chuyện về anh chàng đó cũng đành nhờ vào hai cháu cả,” Amadhiah nói.
+
+“Ông có thể kể cho chúng cháu nghe thêm về người mất tích không?” Paimon hỏi.
+
+“Đương nhiên là được rồi, miễn là chuyện này giúp ích được cho các cháu,” Amadhiah nói. “Tuy mắt ta không tốt lắm, nhưng trước đây vẫn được nghe giọng nói của cậu ta, bây giờ không nghe thấy nữa nên luôn cảm thấy trống trải trong lòng. Cha mẹ cậu ta hình như đều không ở trong Làng Vimara, nhưng cậu ta có vẻ như không cô đơn chút nào, ngược lại còn luôn sẵn lòng đồng hành cùng người khác nữa. Cậu ta thường đến làm khách trong nhà những người già neo đơn, cũng thích dẫn lũ trẻ mồ côi trong làng đi chơi. Bất kể ai gặp phải chuyện gì đó đau lòng thì cậu ta đều vui vẻ ngồi nghe tâm sự, lại rất biết cách an ủi người khác nữa. Thân là trưởng làng, ta thực sự phải cảm ơn anh chàng đó vì đã giúp đỡ những người gặp khó khăn về mặt tinh thần, vì đây vốn dĩ cũng là một phần trách nhiệm của ta.”
+
+“Chẳng trách sao mọi người lại lo lắng như vậy sau khi anh ấy mất tích, thì ra anh ấy là một người rất tốt bụng và dịu dàng,” Paimon nói. “Nhưng mà... Về những thông tin như tên tuổi, nơi ở, tình hình gia đình của anh ấy... Ông là trưởng làng nhưng cũng không có manh mối gì sao?”
+
+“Haiz... Đây cũng là việc khiến ta vô cùng hổ thẹn. Dù gì thì ta cũng phải nhớ lấy những thông tin này mà, hoặc do ta thực sự đã lớn tuổi rồi... Những điều này ta có ngẫm thế nào cũng không thể nhớ ra,” Amadhiah nói.
+
+“A... Không sao, không cần gượng ép quá. Chúng cháu sẽ nghĩ cách...” Paimon nói.
+
+Để không làm trưởng làng bối rối, Lumine và Paimon bước sang một lối đi gần đó bàn bạc nhỏ với nhau.
+
+“Được rồi, Lumine thấy thế nào?” Paimon hỏi.
+
+“Cảm thấy đây không phải là một vụ mất tích đơn giản,” Lumine nói.
+
+“Phải đấy, tôi cũng thấy vậy! Có nói thế nào thì việc không ai nhớ tên anh ta cũng rất kỳ lạ...” Paimon nói. “Nơi ở và gia đình cũng không có manh mối gì liên quan... Người này quả thật giống như bị bốc hơi khỏi cuộc sống thực tại vậy.”
+
+“Không. Tôi thì lại thấy giống như...” Lumine nói. “...Một người chỉ tồn tại trong ký ức hơn.”
+
+“Hả... Ý là dưới góc độ hiện thực thì không phải là ‘bị bốc hơi’, mà là trước đó ‘chưa từng tồn tại’ sao?” Paimon hỏi. “Đợi đã, chuyện này hơi khó hiểu với tôi rồi... Một người chỉ tồn tại trong ký ức sao...”
+
+“Liệu có phải là sự thay đổi ký ức mang tính tập thể giống như Đại Vương Rukkhadevata khi đó không...?” Lumine thầm nghĩ.
+
+Đúng lúc Lumine còn đang suy ngẫm, một cô gái trong làng vội vã bước tới bắt chuyện với hai người.
+
+“Các vị là... nhà mạo hiểm mới đến sao? Là nhận được ủy thác nên đến Làng Vimara hả?” Cô gái lạ mặt hỏi.
+
+“À, đúng vậy. Chúng tôi đang điều tra chuyện của người mất tích...” Paimon nói.
+
+“Tốt quá rồi, cảm ơn hai vị vì vẫn chưa từ bỏ. Tôi vẫn luôn lo là Hiệp Hội Nhà Mạo Hiểm sẽ hủy bỏ ủy thác của chúng tôi đó...” Cô gái lạ mặt nói.
+
+“Tôi tên là Atossa, cũng sống ở Làng Vimara. Hai vị nhất định phải cố lên nhé, làm ơn...” Atossa nói.
+
+“Chỉ có thể nói là cố gắng hết sức thôi,” Lumine nói.
+
+“Đừng căng thẳng. Cô có quen người mất tích không? Có manh mối gì có thể cung cấp cho chúng tôi không?” Paimon hỏi.
+
+“Manh mối... Tôi cũng không biết có thể xem là manh mối hay không. Hai vị đi theo tôi, tôi dẫn hai vị đến một nơi,” Atossa nói.
+
+---
+
+Lumine và Paimon theo chân Atossa men theo con đường ngoài làng lên một sườn đồi phủ ánh chiều tà. Dưới tán một gốc cây lớn bên rìa vạt rừng, cô dừng bước.
+
+>Đến địa điểm Atossa đề cập
+
+“Chính là dưới cái cây này sao?” Paimon hỏi.
+
+“Ừm, trông có vẻ bình thường, nhưng đối với tôi mà nói thì lại là nơi tràn ngập hồi ức...” Atossa nói. “Chúng tôi từng ngồi dưới gốc cây này nói chuyện, ngắm nhìn những đám mây trên bầu trời, cảm nhận hướng gió... Thời gian cứ thế trôi qua. Tôi là đứa trẻ được nhân viên kiểm lâm phát hiện ra trong rừng, sau đó được Làng Vimara nhận nuôi. Mặc dù mọi người đối xử tốt với tôi, mỗi ngày trôi qua đều rất vui, nhưng tôi trước đây luôn cảm thấy cô đơn...”
+
+“Cô đơn?” Paimon hỏi.
+
+“Hmm... Nói sao nhỉ, có những chuyện trong lòng dù là vui hay buồn thì tôi luôn không biết phải chia sẻ với ai, hoặc có thể nói là không biết có nên mở lời hay không...” Atossa nói. “Mọi người đều có cuộc sống riêng của mình, đôi khi mở lòng ra sẽ chỉ mang đến phiền phức cho người khác.”
+
+“Tôi đại khái hiểu được cảm giác này,” Lumine nói.
+
+“Hửm? Cô cũng cảm thấy vậy sao?” Atossa hỏi.
+
+“Tôi từng có một người thân luôn sẵn lòng lắng nghe mình...” Lumine nói. “Có điều, giờ thì tôi cũng đã có thêm nhiều bạn bè thấu hiểu mình.”
+
+“Hihi,” Paimon nói.
+
+“Vậy thì tốt quá, thật là đáng ngưỡng mộ... Với tôi mà nói thì anh ấy vừa giống như người thân, vừa giống như một người bạn có thể hiểu tôi,” Atossa nói. “Bất kể tôi gặp chuyện gì thì tôi cũng đều có thể kể cho anh ấy nghe mà không ngại ngần gì... Anh ấy trong sáng một cách thuần khiết và rất tinh tế. Cảm xúc trên khuôn mặt luôn tràn đầy kiên nhẫn và hứng thú, cứ như đang được nghe câu chuyện về chính bản thân mình vậy. Từ sau khi anh ấy biến mất, tôi thực sự có rất nhiều điều muốn nói với anh ấy... À không, những chuyện đó cũng không còn quan trọng nữa, chỉ cần gặp lại anh ấy là được...”
+
+“Mối quan hệ của hai người thật sự rất tốt...” Paimon nói. “Trong ấn tượng của cô, anh ấy có nói gì về bản thân không?”
+
+“Hmm... Đại khái thì anh ấy kể về những chuyện thú vị mà bản thân từng chứng kiến được trong Làng Vimara, và đủ thứ suy nghĩ táo bạo của anh ấy...” Atossa nói. “À đúng rồi, có một lần tôi hỏi anh ấy rằng cha mẹ anh ở đâu... Nhưng anh ấy chỉ trả lời tôi rằng ‘họ không còn ở đây nữa’. Tôi cũng không dám hỏi thêm, vậy thì rốt cuộc là đã rời đi hay là không còn trên đời nữa nhỉ...”
+
+“Vẫn không có manh mối gì sao...” Paimon nói.
+
+“Trò chuyện nhiều như vậy nhưng vẫn không giúp được gì, thực sự xin lỗi...” Atossa nói.
+
+“Đừng nói vậy,” Lumine nói. “Ít ra thì chúng tôi cũng đã hiểu anh ấy hơn rồi.”
+
+“Lần gần nhất tôi nói một mạch nhiều như vậy, cũng là lúc ở cạnh anh ấy,” Atossa nói. “Kể ra thì, mỗi lần trò chuyện với anh ấy cũng đều là thời điểm hoàng hôn như này. Trong ký ức thì thời gian sẽ trôi rất chậm, đôi khi cảm thấy rõ ràng là đã nói rất lâu, vậy mà trời vẫn chưa tối đi...”
+
+“Hình như sau khi tâm trạng thư thả thì thời gian sẽ trôi chậm lại nhỉ... Ủa, sao vậy, Lumine?” Paimon hỏi.
+
+“Mỗi lần đều vào cùng một thời điểm...” Lumine nói. “Thời gian như ngừng lại...”
+
+“Thu thập thông tin đến đây thì cảm giác hoàn toàn không thể xử lý như một ủy thác tìm người thông thường rồi... Ngược lại, theo như Atossa vừa nói thì mấu chốt về vấn đề thời gian có lẽ chính là bước ngoặt để giải đáp bí ẩn...” Lumine thầm nghĩ.
+
+“...Này Lumine, đám Hilichurl bên đó hình như trông hơi kỳ lạ nhỉ?” Paimon hỏi.
+
+Lumine ngoái nhìn theo hướng Paimon chỉ. Trên vách đá gần đó, một tên Pháp Sư Vực Sâu Hỏa đang lén quan sát họ giữa đám Hilichurl bồn chồn.
+
+“Hửm, Giáo Đoàn Vực Sâu? Lẽ nào là do bọn chúng giở trò sao?” Paimon hỏi.
+
+Vừa bị phát hiện, tên Pháp Sư Vực Sâu Hỏa liền dịch chuyển thẳng xuống trước mặt họ.
+
+“Nó phát hiện ra chúng ta rồi kìa! Lumine, mau nghênh chiến đi!” Paimon nói.
+
+>Đánh lui ma vật của Giáo Đoàn Vực Sâu
+
+Lumine lập tức rút kiếm chắn trước Atossa. Sau khi cô hạ gục tên Pháp Sư Vực Sâu Hỏa đầu tiên, thêm hai tên Pháp Sư Vực Sâu Băng và một Pháp Sư Vực Sâu Hỏa nữa lại hiện ra vây đánh, nhưng tất cả đều nhanh chóng bị cô đánh tan.
+
+>Nói chuyện với Atossa
+
+“Cảm ơn hai vị! Không ngờ ở đây cũng xuất hiện ma vật. Nếu không có hai vị thì đúng là phiền phức đó...” Atossa nói.
+
+“Chuyện nhỏ thôi mà!” Paimon nói.
+
+“Điểm mấu chốt của vấn đề là...” Lumine nói. “Tại sao ở đây lại có Giáo Đoàn Vực Sâu hoạt động nhỉ.”
+
+“Kể ra thì dạo này Hilichurl ở gần Làng Vimara hoạt động sôi nổi hơn trước rất nhiều...” Atossa nói. “Chúng thường tỏ ra bồn chồn bất an, đôi khi còn tấn công không phân biệt mục tiêu. Trưởng làng đã không cho bọn trẻ chơi ở xung quanh Làng Vimara nữa rồi.”
+
+“Hừm... Chẳng lẽ là có liên quan đến Giáo Đoàn Vực Sâu thật sao?” Paimon hỏi. “Để đề phòng, chúng ta quay về Làng Vimara xem tình hình đi. Hy vọng dân làng sẽ không gặp nguy hiểm gì.”
+
+#CH|Phần 2|Ký Ức Không Nên Tồn Tại|nc_caribert.png|Ký Ức Không Nên Tồn Tại
+
+Lo ngại Giáo Đoàn Vực Sâu đang rình rập quanh Làng Vimara, Lumine, Paimon và Atossa vội quay trở lại làng. Nhưng vừa tới gần lối vào, họ đã trông thấy một bóng dáng quen thuộc đang vừa tay hạ gục một toán ma vật Vực Sâu.
+
+>Quay về Làng Vimara
+
+“Đợi đã, bóng người đó là... Dainsleif!” Paimon nói.
+
+“Ồ? Là hai người sao...” Dainsleif nói.
+
+“Là bạn của hai vị sao?” Atossa hỏi. “Vậy thì tôi vào trong làng để xác nhận tình hình của trưởng làng trước nhé. Gặp lại nhau sau.”
+
+“Gặp lại nhau sau, Atossa!” Paimon nói. “Đúng là xuất quỷ nhập thần mà, sao mỗi lần anh xuất hiện cũng đều đột ngột như thế vậy hả?”
+
+“Chỉ cần hai người vẫn đang theo đuổi Vực Sâu thì con đường của chúng ta sẽ luôn giao nhau thôi. Chuyện này không liên quan gì đến cá nhân tôi,” Dainsleif nói.
+
+“Vậy có nghĩa là anh đuổi theo Giáo Đoàn Vực Sâu đến đây sao? Cho nên ban nãy anh đã giải quyết một nhóm ma vật Vực Sâu à...” Paimon nói.
+
+“Đương nhiên rồi. Hửm? Lẽ nào hai người không phải vậy sao?” Dainsleif hỏi.
+
+“Được rồi, tôi thừa nhận là tôi tình cờ gặp phải chúng,” Lumine nói.
+
+“Bất kể có chậm chạp đến thế nào thì bây giờ hẳn là cô cũng phát hiện ra nơi này có gì đó kỳ lạ rồi nhỉ,” Dainsleif nói. “Giáo Đoàn Vực Sâu chắc chắn đang chuẩn bị gì đó ở gần đây, hoặc nghiêm trọng hơn là... đang thực hiện kế hoạch gì đó.”
+
+“Nên ý anh là Hilichurl xung quanh náo động như vậy là do Giáo Đoàn Vực Sâu gây ra sao?” Paimon hỏi.
+
+“Chuyện đến nước này thì vấn đề nhỏ như gây náo động Hilichurl chắc chắn không phải là mục đích của chúng. Cùng lắm đây chỉ là tác dụng phụ của kế hoạch nào đó thôi,” Dainsleif nói.
+
+“Nhưng chuyện này vẫn ảnh hưởng đến Làng Vimara, nên tốt nhất là chúng ta ở lại để bảo vệ nơi này một thời gian thì hơn nhỉ?” Paimon hỏi.
+
+“Ngoài việc bảo vệ ra, quan trọng hơn là phải làm rõ xem Giáo Đoàn Vực Sâu đang có âm mưu gì ở đây. Việc này mới là điểm mấu chốt để ngăn chặn bi kịch tiếp theo,” Dainsleif nói.
+
+“Về chuyện này thì chúng ta đi hỏi thăm dân làng thêm đi,” Lumine nói. “Ngoài ra... Anh còn nợ chúng tôi rất nhiều câu trả lời đấy.”
+
+“Tôi vốn cũng không có ý định trốn tránh những câu hỏi đó,” Dainsleif nói. “Yên tâm... Lần này chúng ta có nhiều thời gian để từ từ trò chuyện.”
+
+---
+
+>Nói chuyện với Dainsleif
+
+>Các bạn tiếp tục thu thập manh mối từ cư dân ở Làng Vimara cho đến khi trời tối...
+
+“Thì ra hai người nhận được ủy thác này nên mới đến đây sao...” Dainsleif nói. “‘Dường như chỉ tồn tại trong ký ức’... Đúng là rất thú vị. Tôi cũng không nghĩ đây là một vụ mất tích bình thường, nhưng cũng chưa xác định được là có liên quan đến Giáo Đoàn Vực Sâu hay không. Tất cả manh mối mà chúng ta có chỉ là Hilichurl đang hoạt động rất sôi nổi, còn lại thì không có thu hoạch gì cả.”
+
+“Được rồi, vậy bây giờ...” Lumine nói. “Thông tin mà anh đã hứa với tôi thì sao?”
+
+“Chính là giọng nói thần bí trong ký ức của người thân Lumine, hình như là... ‘Tội Nhân’ gì đó... Rốt cuộc người đó là ai?” Paimon hỏi.
+
+Dainsleif im lặng một thoáng rồi nhìn thẳng vào Lumine.
+
+“Lumine... Cô có cho rằng người thân của cô đã phản bội cô không?” Dainsleif hỏi.
+
+“Tôi muốn tin tưởng anh ấy,” Lumine nói.
+
+“Hmm... Tôi nhìn thấy được sự do dự ở trong cô, dù sao thì cô vẫn chưa làm rõ được là chuyện gì đang xảy ra,” Dainsleif nói. “Trước khi có bất cứ chuyện gì không thể cứu vãn xảy ra, thì mối quan hệ giữa anh em hai người hoàn toàn còn có cơ hội xoay chuyển. Không giống như ‘Tội Nhân’ mà hai người muốn tìm hiểu, hắn đã cùng với những ‘Tội Nhân’ khác phản bội quốc gia, cũng như phản bội tôi từ lâu... Tên của hắn là ‘Tiên Tri’ Vedrfolnir. Tuy không muốn nhắc đến, nhưng hắn chính là người thân của tôi, là anh trai tôi.”
+
+“Là... anh của Dain sao?” Paimon hỏi.
+
+“Khaenri'ah khi đó rốt cuộc đã xảy ra chuyện gì?” Lumine hỏi.
+
+“Tổng cộng có năm kẻ... Cũng là ‘Năm Tội Nhân’ của Khaenri'ah,” Dainsleif nói. “‘Hiền Giả’ Hroptatyr, ‘Tiên Tri’ Vedrfolnir, ‘Gold’ Rhinedottir. ‘Kỵ Sĩ Cực Ác’ Surtalogi, và ‘Thợ Săn Ánh Trăng (Rächer of Solnari)’ Rerir. Dù ký ức của tôi bị mài mòn đến thế nào thì những cái tên này tôi cũng sẽ không bao giờ quên. Sẽ có một ngày... Tôi sẽ trả thù tất cả bọn họ.”
+
+“Những cái tên này! Rất quen thuộc... Rhinedottir, người tạo ra Albedo, và sư phụ Surtalogi của Skirk...” Paimon nói. “Còn có anh trai của Dain... ‘Tiên Tri’ Vedrfolnir, người đã dẫn dắt Chlothar thành lập Giáo Đoàn Vực Sâu...”
+
+“Tất cả đều đã được kết nối với nhau rồi...” Lumine nói.
+
+“Nếu như vậy thì phiến đá tiên tri được phát hiện trong di tích Fontaine... Rất có thể cũng là do Vedrfolnir tạo ra nhỉ,” Lumine thầm nghĩ.
+
+“Họ từng là những người được đặt nhiều kỳ vọng ở Khaenri'ah, là anh tài xuất chúng trong các lĩnh vực khác nhau...” Dainsleif nói. “Kế hoạch vốn nên là sáu người bao gồm cả tôi... Chúng tôi vốn dĩ nên cùng nhau ngăn cản tai họa xảy ra, ngăn cản Hắc Vương tiếp tục lay chuyển gốc rễ của thế giới. Thế nhưng năm người họ ẩn giấu dục vọng trong lòng, không thể chống lại cám dỗ của Vực Sâu, từ đó chia nhau những loại sức mạnh đủ để hủy diệt thế giới. Họ trở thành Tội Nhân, cũng trở thành sự tồn tại siêu nhiên. Sức mạnh mà mỗi người họ nắm giữ đều có thể gây chấn động thế giới. Khi thảm họa giáng xuống Khaenri'ah, không một ai trong số họ đứng ra ngăn cản bi kịch đó... Vì vậy, tôi sẽ không bao giờ tha thứ.”
+
+“Và sau đó...” Lumine nói. “Người thân của tôi, đã tiếp xúc với anh trai của anh.”
+
+“...Đúng vậy. Nếu cứ tiếp tục mặc kệ, tôi tin rằng một ngày nào đó họ cũng sẽ phản bội cả thế giới,” Dainsleif nói.
+
+“Có vẻ như anh rất khó chịu khi phải nói ra những điều này,” Lumine nói. “Nhưng cảm ơn anh vì đã nói cho tôi biết.”
+
+“Không sao. Tôi đã nói rồi, tôi không định né tránh câu hỏi của cô,” Dainsleif nói.
+
+“Vậy thì... Dain, trong khoảng thời gian trước đó anh có điều tra được gì không?” Paimon hỏi.
+
+“Tôi tiếp tục điều tra vấn đề liên quan đến ‘Máy Dệt Vận Mệnh’. Đã khá lâu kể từ khi kế hoạch đó được triển khai rồi,” Dainsleif nói. “Dù sao thì chúng ta cũng từng đoạt được mắt của máy cày đầu tiên, nên đã ngăn cản được kế hoạch của họ một thời gian...”
+
+“Tôi nhớ, là họ muốn cải tạo Ma Thần Osial gì đó phải không?” Paimon hỏi.
+
+“Ừm... Nhưng rất hiển nhiên, đó chắc chỉ là một thử nghiệm kỹ thuật nào đó thôi...” Dainsleif nói. “Cho dù họ vẫn chưa có được ‘con mắt của máy cày’, nhưng họ đã lựa chọn bỏ qua giai đoạn thử nghiệm mà tiếp tục thúc đẩy kế hoạch bằng cách nào đó. Có rất nhiều dấu hiệu cho thấy điều này...”
+
+“Vậy phải làm sao đây? Liệu có còn kịp không?” Paimon hỏi.
+
+“Việc cấp bách trước mắt... là phải làm rõ rốt cuộc Máy Dệt Vận Mệnh dùng để làm gì, từ đó suy luận ra mục đích của Giáo Đoàn Vực Sâu,” Dainsleif nói. “Dựa theo manh mối mà tôi hiện đang có, thì tôi đoán rằng Máy Dệt Vận Mệnh có liên quan đến Địa Mạch.”
+
+“Địa Mạch?” Paimon hỏi.
+
+“Lumine, lần trước cô có thể nhìn thấy ký ức của người thân, nguyên nhân cũng là do Địa Mạch ở đó không ổn định,” Dainsleif nói. “Gần đây trong lúc điều tra Giáo Đoàn Vực Sâu, tôi phát hiện ra rằng chỉ cần là khu vực mà họ hoạt động thì đều sẽ đi kèm với một loạt vấn đề về Địa Mạch.”
+
+“Thứ chảy trong Địa Mạch của Teyvat chính là... ký ức,” Lumine nói.
+
+“Chờ đã! Vậy theo lời của Dain thì lần chúng ta đến Làng Vimara để tìm ‘người dường như chỉ tồn tại trong ký ức’ này, có lẽ cũng có liên quan nhỉ?” Paimon hỏi.
+
+“Ký ức... Địa Mạch... Máy Dệt Vận Mệnh... Người chỉ tồn tại trong ký ức... Những chuyện này rốt cuộc có điểm chung gì...?” Lumine thầm nghĩ.
+
+“Những điều hai người nói không phải là không có khả năng. Ngày mai tôi cũng sẽ tham gia điều tra cùng hai người. Sự việc lần này rất có thể sẽ trở thành chìa khóa để làm sáng tỏ những bí ẩn,” Dainsleif nói.
+
+“Lại hành động cùng Dain sao? Vậy chúng ta mau nghỉ ngơi lấy sức đi, ngày mai chúng ta đến nơi xa hơn một chút xem sao,” Paimon nói.
+
+>Một đêm qua đi...
+
+“Hơ ơ... Hôm qua suy nghĩ hơi nhiều nên bây giờ vẫn còn buồn ngủ quá... Đều tại Dainsleif cả, nói toàn những thứ khó hiểu thật...” Paimon nói.
+
+“Tôi cũng có chút mất ngủ...” Lumine nói.
+
+“Chúng ta đi tìm Dain đi, hôm nay còn rất nhiều việc phải làm đấy,” Paimon nói.
+
+---
+
+Sáng hôm sau, Lumine và Paimon tìm đến chỗ hẹn ở Làng Vimara thì thấy Dainsleif đang đứng thẫn thờ, vẻ mặt trầm trọng khác thường.
+
+>Nói chuyện với Dainsleif
+
+“Ơ, Dain? Này...! Sao anh lại ngẩn người ở đây vậy?” Paimon hỏi.
+
+Dainsleif vẫn lặng đi không đáp.
+
+“Đã gặp phải chuyện gì sao?” Paimon hỏi.
+
+“Sao vậy, Dain?” Lumine hỏi.
+
+“Lumine, người bị mất tích đó... Rốt cuộc là người như thế nào?” Dainsleif hỏi.
+
+“Hửm?” Paimon hỏi. “Là một chàng trai khoảng hai mươi tuổi... Đã xảy ra chuyện gì vậy Dain?”
+
+“Bây giờ trong đầu tôi dường như có thêm một số thứ đột nhiên xuất hiện...” Dainsleif nói. “...Là đoạn ‘ký ức’ liên quan đến người đó.”
+
+“Sao...? Có khi nào... Hôm qua chúng tôi nói quá nhiều về người đó, nên tối qua anh đã nằm mơ không?” Paimon hỏi.
+
+“Không. Đó không phải mơ, mà là một đoạn ký ức đột nhiên xuất hiện trong đầu tôi khi tỉnh dậy sáng nay...” Dainsleif nói. “Hơn nữa, tôi rất chắc chắn là tôi chưa từng gặp qua người này.”
+
+“Vậy nội dung của ‘ký ức’ đó là gì?” Lumine hỏi.
+
+“Tôi nhớ là trong đoạn ký ức đó...” Dainsleif nói. “...Tôi đã đưa ‘mắt của máy cày đầu tiên trên thế giới’ cho anh ta.”
+
+Nghe vậy, Lumine sững người kinh ngạc.
+
+“Haaaả!?” Paimon hỏi. “...Vậy bây giờ chúng ta có thể chắc chắn là người mất tích đó có liên quan đến Giáo Đoàn Vực Sâu đúng không?”
+
+“Ừm, hơn nữa người đó có lẽ còn có khả năng ‘cấy’ ký ức vào trong đầu mọi người,” Dainsleif nói.
+
+“Có thể làm được như vậy sao?” Lumine hỏi.
+
+“Nói như vậy thì có khi nào mọi người trong Làng Vimara cũng bị cấy ký ức giả vào không? Sự thật là vốn dĩ họ không quen biết người đó...” Paimon nói. “Nhưng mục đích của việc này là gì...”
+
+“Dù Giáo Đoàn Vực Sâu có kế hoạch gì thì chuyện sáng nay cũng đã tiết lộ một sự thật cho chúng ta,” Dainsleif nói.
+
+“Là sự thật gì?” Paimon hỏi.
+
+“Mục tiêu của họ... vẫn là con mắt của máy cày đầu tiên trên thế giới. Họ không bỏ qua việc tìm kiếm nó,” Dainsleif nói. “Việc cấy cho tôi một đoạn ký ức như vậy, chắc chắn là để làm rối loạn suy nghĩ của người duy nhất biết được tung tích của ‘con mắt’ đó...”
+
+“Liệu có khi nào ‘ký ức’ này là thật không?” Lumine hỏi.
+
+“Sự lo lắng này của cô không phải không có lý, nhưng tôi cho rằng Giáo Đoàn Vực Sâu vẫn chưa có khả năng biến đoạn ký ức đó thành hiện thực...” Dainsleif nói. “Nhưng nghĩ đến việc họ chấp nhất với con mắt đó đến vậy, thì chúng ta cũng phải cẩn trọng ở mức độ tương đương mới được. Đi theo tôi nhé. Chúng ta phải đi kiểm tra xem con mắt đó có còn ở trong tay chúng ta không.”
+
+“Anh muốn đến nơi anh giấu con mắt đó sao?” Paimon hỏi.
+
+“...Nhưng mà, nếu chúng ta cứ đi như vậy, lỡ như bị theo dõi thì chẳng phải sẽ lộ vị trí sao? Hoặc có lẽ đây vốn là mục đích của Giáo Đoàn Vực Sâu khi cấy đoạn ký ức đó cho Dain chăng? Họ khiến anh ta hoài nghi, khiến anh ta nảy sinh ý nghĩ muốn xác nhận lại...” Lumine thầm nghĩ.
+
+Dainsleif khẽ trầm ngâm trong giây lát.
+
+“Theo những gì mình biết về Dain thì anh ta phải ý thức được chuyện này... Có vẻ như anh ta đã có kế hoạch khác rồi...” Lumine thầm nghĩ.
+
+“Anh dẫn đường nhé, Dain,” Lumine nói.
+
+“...Ừm,” Dainsleif nói.
+
+---
+
+Dainsleif dẫn cả hai đi xa khỏi Làng Vimara đến một khu di tích hoang vắng khuất nẻo giữa núi rừng.
+
+>Đến địa điểm cất giấu ‘con mắt của máy cày’
+
+“Thì ra là ở đây sao? Nơi hoang vu thế này đúng là không dễ bị phát hiện nhỉ,” Paimon nói. “Vậy chúng ta mau đi xác nhận đi!”
+
+“Khoan đã, Lumine...” Dainsleif nói.
+
+“Hửm?” Lumine hỏi.
+
+Dainsleif bỗng khựng lại giữa chừng như vừa định nói điều gì đó rồi lại nuốt ngược vào trong.
+
+“...Việc không thể chậm trễ, chúng ta mau vào trong đi,” Dainsleif nói.
+
+“Vừa rồi Dain muốn nói gì với mình nhỉ...?” Lumine thầm nghĩ.
+
+“Này, chờ tôi với!” Paimon nói.
+
+Dainsleif vung tay giải trừ kết giới phong ấn cửa di tích.
+
+>Tiến vào địa điểm cất giấu ‘con mắt của máy cày’
+
+Bước vào bên trong Nơi Khải Thị, cả ba phải vượt qua hàng loạt cạm bẫy và toán ma vật canh giữ. Nhận thấy cơ quan trong di tích đã biến đổi theo thời gian, Dainsleif chỉ đường để Lumine mở lối qua cánh cửa bên cạnh lên tầng trên, kích hoạt lại cơ quan và xoay toàn bộ các phù văn chỉ đúng theo hướng ánh sáng để mở khóa cánh cửa đá dẫn vào tầng sâu.
+
+>Vào sâu trong di tích
+
+“Đây là đường cùng rồi nhỉ...” Paimon nói.
+
+“Cẩn thận, là mùi của Vực Sâu!” Dainsleif nói.
+
+“Đám Giáo Đoàn Vực Sâu đó đến thật rồi!” Paimon nói.
+
+>Đánh bại Sứ Đồ Vực Sâu
+
+Từ khoảng tối phía trước những bức tượng cổ, một tên Sứ Đồ Vực Sâu - Sương Lạc mang danh hiệu Người Chứng Kiến Sự Khởi Đầu Của Vận Mệnh — Tiên Phong Của Vận Mệnh Mới bất ngờ hiện ra chặn đường. Lumine cùng Dainsleif phối hợp phá tan lớp khiên Băng và đánh bại hắn.
+
+>Nói chuyện với Dainsleif
+
+“Đúng như tôi dự đoán... ‘Ký ức giả’ quả nhiên là cái bẫy, Giáo Đoàn Vực Sâu thật sự đã đi theo chúng ta đến đây...” Dainsleif nói. “Như vậy thì chúng ta cũng sẽ có cơ hội để gặp được... Argh...!”
+
+“Dain? Có chuyện gì vậy?” Paimon hỏi.
+
+“Hai người có cảm nhận được không? Là Địa Mạch đang nhiễu loạn. Giáo Đoàn Vực Sâu lại đang giở trò gì đó rồi...” Dainsleif nói.
+
+“Thể chất của anh nhạy cảm thật đó, tôi không cảm nhận được gì cả...” Paimon nói.
+
+“Lumine, làm theo tôi nói... Hai người dùng cơ quan bên kia rời đi trước đi,” Dainsleif nói.
+
+“Để anh một mình ở đây sao? Thật sự không sao chứ?” Lumine hỏi.
+
+“Giáo Đoàn Vực Sâu đang hành động. Nếu bây giờ quay về Làng Vimara thì có lẽ sẽ có cơ hội bắt được ‘người mất tích’ đó,” Dainsleif nói. “...Cũng có thể xem như là chia nhau ra hành động vậy.”
+
+“Ừm,” Lumine nói.
+
+“Lý thuyết thì là vậy... Nhưng cứ cảm thấy có gì đó không ổn... Là mình đã bỏ sót điều gì sao?” Lumine thầm nghĩ.
+
+---
+
+Dù vẫn cảm thấy bất an, Lumine và Paimon đành nghe lời Dainsleif dùng cơ quan bên cạnh rời khỏi di tích trước. Ngay khi bóng dáng hai người khuất sau lối ra, từ một hướng khác sâu trong điện, người anh trai song sinh Aether của cô lặng lẽ bước tới, tay nắm chặt thanh kiếm vàng.
+
+>Dainsleif nhìn theo bóng dáng bạn và Paimon rời đi trước, mà anh trai bạn lại tiến dần về phía Dain từ hướng khác...
+
+“Hừ... Tôi biết ngay là trừ khi tôi chủ động bước vào bẫy của các người, nếu không thì cậu cũng sẽ không đến đây gặp tôi,” Dainsleif nói.
+
+“Anh đem bản thân mình ra để đặt cược vào con mắt đó sao...” Aether nói. “Món cược lớn như vậy, người không kìm được mà rơi vào bẫy phải là tôi mới đúng nhỉ? ‘Kiếm Sĩ Hoàng Hôn’ Dainsleif.”
+
+“Một mình cậu đến đây sao? Đám tín đồ của cậu đâu, sao không đưa chúng theo?” Dainsleif hỏi.
+
+“Trước mặt Kiếm Sĩ Hoàng Hôn đã phòng bị sẵn sàng thì có mang bao nhiêu binh lính đến cũng chỉ là sự lãng phí vô nghĩa... Vậy thì cứ để một mình tôi đối diện với anh vậy,” Aether nói. “Tôi biết anh có rất nhiều điều muốn nói... ...Nhưng trước lúc đó thì anh phải đánh bại tôi trước đã, thế nào?”
+
+Lời vừa dứt, hai kẻ từng là đồng hành thuở xưa lao vào giao chiến giữa lòng di tích cổ.
+
+#CH|Phần 3|Tường Thuật Về Trật Tự Thế Giới|dainsleif_banner.png|Tường Thuật Về Trật Tự Thế Giới
+
+Thoát khỏi di tích bên ngoài, Lumine và Paimon lập tức cảm nhận được sự bất thường trong bầu không khí quanh vùng Rừng Avidya và vội vã chạy về phía Làng Vimara.
+
+>Quay về Làng Vimara
+
+“Giáo Đoàn Vực Sâu đang hành động, Địa Mạch cũng có chút bất thường...” Paimon nói. “Mau quay về Làng Vimara thôi!”
+
+Vừa bước vào vùng ngoại ô Làng Vimara ngập tràn sắc hoàng hôn bất động, cả hai trông thấy một nhóm Hilichurl từng hung hăng náo động trước đây nay lại đứng ngồi lặng lẽ một cách kỳ lạ.
+
+>Kiểm tra tình trạng của Hilichurl
+
+“Này Lumine, xem thử đám Hilichurl bên kia kìa...” Paimon nói.
+
+“Hình như chúng có hơi... bình tĩnh nhỉ?” Lumine hỏi.
+
+“Lúc trước chúng chẳng phải bồn chồn manh động lắm sao? Sao bây giờ lại yên tĩnh quá mức vậy?” Paimon hỏi.
+
+>Bạn đến gần những Hilichurl đó, trong đầu đột nhiên vang lên âm thanh nào đó...
+
+“Đợi đã... Hình như có âm thanh gì đó...” Lumine thầm nghĩ.
+
+>...Trong thế giới mới, họ từ biệt mặt trời bị che phủ. Cuối cùng cũng không cần suy nghĩ về những khổ nạn, không cần phải phân biệt khái niệm về sự báng bổ nữa. Đó là cái giá phải trả để tâm hồn được trong sạch.
+
+“Lumine... Có nghe thấy không? Âm thanh vừa nãy là sao vậy...?” Paimon hỏi.
+
+“Là tiếng ai đó đang trò chuyện...” Lumine nói.
+
+“Giọng điệu có hơi dịu dàng, là đang an ủi đám Hilichurl sao?” Paimon hỏi. “Không hiểu lắm... Chúng ta đến chỗ khác xem thử đi.”
+
+Hai người tiếp tục tiến lại gần một nhóm Hilichurl khác dọc đường.
+
+>Kiểm tra tình trạng của Hilichurl
+
+“Cả Hilichurl bên này nữa, chúng cũng bình tĩnh hẳn rồi...” Paimon nói.
+
+>...Thấy chứ? Chúng ta đều ở đây. Chúng ta nhận về khoảng thời gian vô tận để yêu thương. Khi đau buồn cũng không cần phải kìm nén bất cứ giọt lệ nào nữa.
+
+“Lại là giọng nói đó...” Lumine thầm nghĩ.
+
+Đi thêm một quãng nữa tới cổng làng, họ lại bắt gặp một tốp Hilichurl thứ ba đang tựa bên đường như chìm vào giấc ngủ say.
+
+>Kiểm tra tình trạng của Hilichurl
+
+“Nhìn này! Lẽ nào chúng đang ngủ sao...” Paimon nói.
+
+>...Sau cùng, anh ấy khẽ thì thầm, ‘Hãy ngủ yên nhé, hỡi cha. Hãy ngủ yên nhé, những người tôi yêu quý.’ ‘Khi tỉnh lại, chúng ta sẽ không còn khác biệt gì nhau nữa.’
+
+“...Nghe vừa giống thơ, lại vừa giống câu chuyện vậy,” Paimon nói. “Ít nhất thì đám Hilichurl đã không còn manh động nữa. Như vậy thì Làng Vimara cũng sẽ an toàn hơn. Tạm bỏ qua đám Hilichurl đã, Dain nói nhân lúc này không chừng có thể tìm thấy người mất tích đó đấy. Chúng ta tranh thủ về Làng Vimara thôi.”
+
+---
+
+Vào tới bên trong Làng Vimara, Lumine và Paimon lập tức đi tìm trưởng làng Amadhiah để hỏi thăm tình hình.
+
+>Nói chuyện với Amadhiah
+
+“Ông Amadhiah, mọi người không sao chứ? Giáo Đoàn Vực Sâu ở quanh đây hình như đang hoạt động sôi nổi lắm...” Paimon nói.
+
+“Giáo Đoàn Vực Sâu đang hoạt động à? Lần đầu tiên ta nghe nói đấy...” Amadhiah nói. “Cảm ơn các cháu đã quan tâm. Ít nhất thì ta thấy Làng Vimara vẫn đang như mọi ngày.”
+
+“Thế à? Vậy thì tốt rồi,” Paimon nói. “À đúng rồi... Hôm nay lúc chúng cháu không ở đây, ông có phát hiện thêm manh mối gì về người mất tích không?”
+
+“Người mất tích...? Ý các cháu là ai? Ai mất tích cơ?” Amadhiah hỏi.
+
+“Hả...?” Paimon hỏi.
+
+“Ông quên rồi sao?” Lumine hỏi.
+
+“Chính là... là người mà mọi người vẫn đang tìm kiếm đó! Người trẻ tuổi của Làng Vimara, mọi người còn đến Hiệp Hội Nhà Mạo Hiểm Sumeru để đăng ủy thác nữa,” Paimon nói. “Nếu không phải nhận được ủy thác tìm người đó thì chúng cháu đã không có mặt ở Làng Vimara rồi.”
+
+“Thật xin lỗi, các cháu đừng vội. Có thể là do ta già rồi nên đã quên mất gì đó...” Amadhiah nói. “Nhưng ít nhất trong lúc này thì ta hoàn toàn không biết gì về chuyện mà các cháu nói... Hay là các cháu thử tìm người khác hỏi thử xem nhé?”
+
+“Tại sao lại... Hmm, thôi được, làm phiền ông rồi, ông Amadhiah,” Paimon nói.
+
+Hai người tạm biệt trưởng làng rồi bước ra ngoài lối đi bàn bạc.
+
+“Chắc chắn có gì đó không đúng. Hôm trước chúng ta vừa mới trò chuyện với ông Amadhiah về người mất tích mà, không thể nào hôm nay đã quên ngay được...” Paimon nói. “Lumine thấy sao? Lẽ nào ký ức về người mất tích của cư dân Làng Vimara lại bị xóa sạch rồi sao?”
+
+“Chưa thể kết luận quá sớm như vậy,” Lumine nói. “Hỏi thử người khác xem sao.”
+
+“Cũng phải. Có khá nhiều khả năng dẫn đến tình trạng này... Chúng ta đi tìm người khác để hỏi thăm tiếp thôi!” Paimon nói.
+
+Họ bước sang sạp hàng gần đó hỏi thăm Bahram.
+
+>Nói chuyện với Bahram
+
+“Người mất tích? Ai cơ?” Bahram hỏi.
+
+“Hmm... Quả nhiên cũng là phản ứng này...” Paimon nói. “Chính là người thanh niên mà anh khen ngợi, và cũng thường hay trò chuyện cùng đó... Anh ta tầm hơn hai mươi tuổi, anh còn nói là anh ta vừa tốt bụng vừa nhiệt tình ấy...”
+
+“À! Tôi biết hai vị nói về ai rồi...” Bahram nói.
+
+“Hả?! Anh có chắc không? Giờ anh đã nhớ ra rồi sao?” Paimon hỏi.
+
+“Tôi rất ít khi đánh giá cao người trẻ tuổi thời nay. Nếu hai vị đã khẳng định đó là đánh giá mà tôi đưa ra thì...” Bahram nói. “Câu trả lời chắc chỉ có ‘anh ta’ mà thôi, không thể sai được... Nhưng tại sao hai vị lại nói anh ta mất tích nhỉ?”
+
+“Anh đã gặp anh ta rồi sao?” Lumine hỏi.
+
+“Ừm! Tôi vừa thấy anh ta cùng người khác rời khỏi làng đó. Chắc là chưa đi xa đâu,” Bahram nói.
+
+Rời chỗ Bahram, Paimon và Lumine đứng nán lại xâu chuỗi những chi tiết kỳ lạ vừa chứng kiến.
+
+“Lạ thật... Bahram vẫn nhớ anh ta, thậm chí còn nói là mới gặp được nữa,” Paimon nói. “Để tôi nghĩ xem... Lẽ nào không phải ký ức có vấn đề, mà là chúng ta đã quay về thời điểm trước khi người đó mất tích rồi sao?”
+
+“Quay về quá khứ sao? Chuyện này không dễ như vậy được. Kết hợp với vấn đề Địa Mạch nhiễu loạn mà Dain nói thì tình hình hiện giờ có lẽ vẫn đang liên quan đến ‘ký ức’... Để suy nghĩ kỹ xem... Rốt cuộc chuyện gì đang xảy ra...?” Lumine thầm nghĩ.
+
+>Suy luận về tình hình hiện tại
+
+“‘Người chỉ tồn tại trong ký ức’... Nếu là trong ký ức của ai đó thì...” Lumine thầm nghĩ.
+
+>Bạn phân tích kỹ lại những chuyện đã xảy ra, hình như ‘chúng ta đang ở trong ký ức của ai đó’ là cách giải thích hợp lý nhất.
+
+“Chúng ta đang trong ký ức của ai đó... Đúng rồi, tại sao tôi lại quên mất chuyện Địa Mạch bị nhiễu loạn nhỉ,” Paimon nói. “Giống như lần trước Lumine đi vào ký ức của người thân, hiện giờ chúng ta cũng đang ở trong ký ức của ai đó sao... Hơn nữa, nếu nói vậy thì cũng có thể lý giải được tại sao mốc thời gian ở nơi này lại là quá khứ trước khi người đó mất tích... Dù sao thì cũng là ký ức mà.”
+
+“Nếu là trong ký ức...” Lumine nói. “Thì chúng ta sẽ có thể tìm được người mất tích đó rồi.”
+
+“Phải đấy! Người chỉ tồn tại trong ký ức... Cuối cùng cũng có cơ hội gặp được anh ta rồi,” Paimon nói. “Nhưng vừa nãy Bahram nói anh ta đã cùng người khác rời khỏi làng rồi, chúng ta đi đâu tìm bây giờ nhỉ... Không biết hiện tượng Địa Mạch nhiễu loạn sẽ kéo dài bao lâu, cũng không biết thời gian có đủ hay không... Và đây là ký ức của ai cũng chưa thể xác định...”
+
+“Cùng sắp xếp lại thông tin hiện có thôi nào...” Lumine nói.
+
+“Ừm, đây là cách hiệu quả nhất rồi,” Paimon nói. “Lúc trước chúng ta đã cơ bản xác định được năng lực mà người mất tích sở hữu là...”
+
+“Cấy ký ức vào tâm trí người khác,” Lumine nói.
+
+“Đúng vậy! Nếu nhìn từ góc độ năng lực của người đó thì liệu có manh mối gì có thể giúp chúng ta tiếp cận anh ta hơn không?” Paimon hỏi. “Ví dụ như... Năng lực này liệu có kẽ hở nào không?”
+
+“Ừm... Cấy ký ức vào tâm trí người khác, thì không thể nào hòa quyện hoàn hảo với ký ức vốn có. Nhất định sẽ tồn tại sơ hở nào đó... Nếu thời gian trong ký ức giả vẫn trôi, thì sẽ rất dễ xảy ra xung đột với ký ức vốn có, cảm giác kỳ lạ sẽ lại càng rõ rệt,” Lumine thầm nghĩ.
+
+>Bạn phân tích kỹ lại những chuyện đã xảy ra, suy đoán rằng sơ hở của năng lực này là ‘thời gian sẽ ngưng đọng trong ký ức giả’.
+
+“Thảo nào! Tôi phát hiện ra rồi, lâu như vậy mà màu sắc của bầu trời lại chưa từng thay đổi, chứng tỏ thời gian ở đây cũng không hề trôi đi!” Paimon nói. “Đây chính là sơ hở của năng lực cấy ký ức rồi nhỉ, hmm... Do đây là ký ức bị cấy thêm vào, đồng nghĩa với việc đó là những chuyện xảy ra ngoài hai mươi tư giờ có sẵn trong ngày của nạn nhân. Nếu thời gian trong đoạn ký ức này vẫn trôi, thì hẳn sẽ rất dễ nhận thấy sự bất thường. Ví dụ, có thể sẽ nảy sinh thắc mắc kiểu như... ‘Tại sao lại có vẻ như mình đang làm hai việc trong cùng một khoảng thời gian nhỉ?’ Để giảm bớt cảm giác kỳ lạ đó, anh ta sẽ chỉ chọn một mốc thời gian để cấy ký ức, chứ không phải là cả một quãng thời gian.”
+
+“Vậy thì... Kết hợp với thông tin có được trước đó, nơi này là ký ức của ai thì đã quá rõ ràng rồi... Màu sắc của bầu trời... trùng khớp với mốc thời gian mà cô ấy mô tả,” Lumine thầm nghĩ.
+
+>Bạn phân tích kỹ lại những chuyện đã xảy ra, tin chắc rằng nơi này chính là bên trong ký ức của ‘Atossa’.
+
+“Tôi... tôi nhớ ra rồi! Atossa từng nói thế này...” Paimon nói.
+
+Trong tâm trí hai người thoáng hiện lại lời kể của Atossa trước đó:
+
+“Kể ra thì, mỗi lần trò chuyện với anh ấy cũng đều là thời điểm hoàng hôn như này,” Atossa nói. “Trong ký ức thì thời gian sẽ trôi rất chậm, đôi khi cảm thấy rõ ràng là đã nói rất lâu, vậy mà trời vẫn chưa tối đi...”
+
+“Đúng rồi! Đây chính là mấu chốt quan trọng, nơi này chính xác là ký ức của Atossa!” Paimon nói.
+
+“Đi thôi,” Lumine nói. “Chúng ta đến bên dưới gốc cây đó.”
+
+“Ừm! Chắc chắn anh ta và Atossa đang ở đó!” Paimon nói.
+
+---
+
+Lumine và Paimon vội vã chạy lên ngọn đồi ngoài làng, hướng thẳng tới gốc cây mà Atossa từng dẫn họ tới. Từ xa, cả hai trông thấy Atossa đang ngồi trò chuyện vui vẻ cùng một chàng trai trẻ.
+
+>Đến địa điểm Atossa từng nhắc đến
+
+“...Vậy nên cách nói chuyện của bà Jehiet thực ra đã được hình thành từ khi làm lính đánh thuê lúc còn trẻ, chứ không phải bà ấy cố ý dọa bọn trẻ đâu, haha...” Atossa nói. “Ừm, đúng rồi... Cảm thấy như tôi cứ đang chia sẻ câu chuyện của mình vậy, còn anh thì sao? Anh có điều gì muốn nói với tôi không? À ừm... Nếu thực sự không có điều gì muốn nói, hay là... Ừm, chia sẻ cảm nghĩ về tôi thì sao?”
+
+“Cô... cô tuy là một cô gái khá kiên cường mạnh mẽ, nhưng lại vô cùng chu đáo,” Chàng trai lạ mặt nói. “Cô sẽ gặp được rất nhiều người tốt, sẽ có một cuộc sống hạnh phúc... Cô sẽ không còn nhớ nhung một người như tôi...”
+
+“Ơ...? Hai người bên kia là bạn của anh sao?” Atossa hỏi.
+
+“Cuối cùng cũng gặp được anh ta rồi. Nhưng trông anh ta... có hơi quen thuộc...” Lumine thầm nghĩ.
+
+“Atossa trong ký ức... hình như lúc này vẫn chưa quen biết chúng ta...” Paimon nói.
+
+“Có thể xem như là bạn của tôi. Có lẽ họ cũng đã mất kha khá công sức để tìm được tôi đấy...” Chàng trai lạ mặt nói. “...Thực sự xin lỗi, Atossa. Chủ đề này chúng ta lần sau nói tiếp nhé, tôi phải tiếp đón bạn của mình đây.”
+
+“Lần sau... Ừm, được, vậy tôi về Làng Vimara trước đây. Lần sau chúng ta lại trò chuyện nhé,” Atossa nói.
+
+“Rất vui được gặp cô, Lumine. Chắc đây là lần đầu tiên chúng ta gặp nhau nhỉ?” Chàng trai lạ mặt hỏi.
+
+“Anh là...” Lumine nói.
+
+“Là người duy nhất có thể kết nối mọi thứ như ký ức, Giáo Đoàn Vực Sâu và Máy Dệt Vận Mệnh... ‘Sinh ra trong nỗi bi thương cùng cực đó, nó sẽ trở thành Máy Dệt Vận Mệnh,’” Lumine thầm nghĩ.
+
+>Bạn phân tích kỹ lại những chuyện đã xảy ra, cho rằng thân phận thực sự của anh ta là... ‘Caribert Alberich’.
+
+“Anh là... Caribert Alberich,” Lumine nói.
+
+“A... Cô biết tôi sao? Thật bất ngờ đấy, rõ ràng là tôi chưa từng gặp cô...” Caribert nói. “Ồ, tôi hiểu rồi. Là do ‘ký ức’ phải không? Nhờ có ký ức từ người thân của cô mà cô đã gặp được tôi trong ‘thời kỳ đó’. Nơi này là ký ức của Atossa, vốn dĩ tôi muốn đến để tạm biệt cô ấy... Chúng ta qua chỗ khác trò chuyện đi. Chuyện tạm biệt... Thôi thì để lại chút thông tin cho Atossa là được rồi.”
+
+Caribert để lại một dòng lời nhắn ngắn bằng văn tự Sumeru cho Atossa nơi gốc cây, rồi mở ra một khe nứt dẫn vào thế giới nội tâm của anh.
+
+---
+
+>Vào ‘không gian ý thức’
+
+Lumine bước một mình qua khe nứt vào bên trong. Trước mắt cô là một khoảng không gian tĩnh lặng chỉ có mảnh đất nhỏ với chiếc cây lớn tựa nơi Atossa từng ngồi và bậc gỗ dưới ánh hoàng hôn bình yên. Caribert đứng chờ sẵn, hơi thở đã yếu đi rõ rệt.
+
+>Nói chuyện với Caribert
+
+“Hộc... hộc...” Caribert nói.
+
+“Nơi này là...?” Lumine hỏi.
+
+“Cô có thể hiểu đây là không gian ý thức của tôi. Dù sao thì cô cũng đã biết tôi không hề tồn tại trong hiện thực rồi,” Caribert nói.
+
+“Trông anh rất mệt mỏi,” Lumine nói.
+
+“Không sao, tôi vẫn còn sức để tiếp khách. Tôi luôn hy vọng sẽ có cơ hội được trò chuyện với cô như thế này, cuối cùng thì nguyện vọng của tôi cũng thành sự thật,” Caribert nói.
+
+“Đối với mình thì bây giờ cũng là một cơ hội hiếm có, phải cố gắng thu thập thông tin từ Caribert mới được,” Lumine thầm nghĩ.
+
+“Rốt cuộc thì đã có chuyện gì xảy ra với anh?” Lumine hỏi. “Máy Dệt Vận Mệnh rốt cuộc là gì?”
+
+“Nỗi bi thương và đau khổ cực độ, niềm hy vọng và hối hận chảy trong huyết quản, cộng thêm sức mạnh Vực Sâu vượt xa hiểu biết thông thường...” Caribert nói. “Cha từng nói, khi có được tất cả những thứ này, tôi sẽ trở thành Máy Dệt Vận Mệnh. Nhưng trên thực tế không thể nói tôi sẽ trở thành Máy Dệt Vận Mệnh... Mà là Máy Dệt Vận Mệnh lợi dụng tôi để được ‘dựng lên’... Thực ra vào thời khắc đó, Caribert Alberich đã chết rồi. Đứng trước mặt cô lúc này, cũng chỉ là một ý thức còn sót lại trong Máy Dệt Vận Mệnh mà thôi.”
+
+“Caribert đã chết... Vậy nên mới không tồn tại trong hiện thực,” Lumine thầm nghĩ.
+
+“Về Máy Dệt Vận Mệnh... Đó là một cỗ máy dùng để dệt Địa Mạch,” Caribert nói.
+
+“Dệt... Địa Mạch?” Lumine hỏi.
+
+“Ban đầu nó chỉ có thể khởi tạo và cấy một số ký ức. Khi Máy Dệt Vận Mệnh dần hoàn thiện, hiệu quả cũng càng ngày càng mạnh... Cho đến khi nó có thể dệt nên Địa Mạch thực sự,” Caribert nói. “Mà nếu Máy Dệt Vận Mệnh hoàn thiện hoàn toàn và có thể dệt được Địa Mạch, thì năng lực tác động ký ức ở cấp độ thấp sẽ biến mất... ...Mà từ đó nó sẽ trở thành công cụ có thể thay đổi cả thế giới.”
+
+“Đây chính là nguồn gốc về khả năng cấy ký ức của anh sao?” Lumine hỏi.
+
+“Ừm, tôi có khả năng điều khiển máy dệt ở trạng thái bán hoàn thiện... Tôi nghĩ đây xem như là một dạng bồi thường với tôi,” Caribert nói. “...Dù sao thì tôi cũng từng hy sinh tính mạng vì nó mà.”
+
+“Xem ra ký ức đột nhiên xuất hiện trong đầu Dain lúc đó chính là do Caribert đã sử dụng Máy Dệt Vận Mệnh bán hoàn thiện để cấy vào... Điểm này xem như đã rõ ràng... Nhưng điều khiến người ta vẫn thấy khó hiểu chính là người dân Làng Vimara...” Lumine thầm nghĩ.
+
+“Nhưng tại sao anh lại cấy những ‘ký ức mình đã từng sống’...” Lumine nói. “Vào người dân Làng Vimara?”
+
+“Ồ... Chuyện này à? Tùy tiện thêm những ký ức đó cho mọi người quả thật là lỗi của tôi. Lỡ làm phiền đến cô và mọi người ở Làng Vimara, tôi thực sự xin lỗi,” Caribert nói. “Chỉ là... Tôi muốn họ cảm thấy rằng có một người như tôi từng tồn tại... Cũng giống như... Tôi từng được sống vậy.”
+
+“Thì ra là vậy... Nhưng làm như vậy... thực sự có nghĩa lý gì không? Người chỉ tồn tại trong ký ức cũng xem như đã từng sống sao?” Lumine thầm nghĩ.
+
+“Haha, tôi biết lúc này cô đang nghĩ gì rồi...” Caribert nói. “Chắc sẽ thấy... Tôi đang làm những chuyện vô nghĩa phải không? Nhưng tôi thực sự... Tôi thực sự không cam tâm. Tôi thực sự rất muốn biết, nếu tôi đã từng sống, nếu như tôi có một cuộc đời của riêng mình, thì trong mắt mọi người tôi sẽ là một người như thế nào... Ông Amadhiah, Bahram, bà Jehiet... và cả Atossa... Không có tai họa, không có lời nguyền, chỉ là một thôn làng bình yên trên thế giới, sống vui vẻ yên bình cùng mọi người... Cảm giác đó sẽ thế nào... Tôi rất tò mò, vậy nên tôi đã ích kỷ... muốn thử sở hữu cuộc đời của riêng mình. Cho dù... Cho dù chỉ là những mảnh ghép từ ký ức của mọi người mà ghép thành dáng vẻ như tôi từng sống trên cuộc đời này. Nghe cũng thật đáng xấu hổ đấy nhỉ, haha... Dù sao thì... tôi cũng đã chết từ lâu rồi.”
+
+Lumine lặng im lắng nghe nỗi lòng của anh.
+
+“Cuộc đời của tôi đã kết thúc từ năm tám tuổi, ngay từ ban đầu đã không có cơ hội trưởng thành, chỉ có độ tuổi tinh thần là tăng lên trong hư vô,” Caribert nói. “Ngay cả dáng vẻ hiện tại của tôi, cũng chỉ là ngoại hình khi tôi lớn lên được tưởng tượng dựa trên ngoại hình của cha.”
+
+“Suy cho cùng thì cũng chính là bi kịch của Khaenri'ah đã gây ra tất cả những chuyện này...” Lumine thầm nghĩ.
+
+“Anh có biết...” Lumine nói. “Mọi người đều đang tìm anh không?”
+
+“Tôi biết... Nhưng tôi không thể làm gì được,” Caribert nói. “Nếu như có thể, nếu như tôi tồn tại trong hiện thực, tôi cũng muốn xuất hiện bất ngờ trước mặt mọi người rồi hù họ một phen.”
+
+“Theo tôi hiểu thì...” Lumine nói. “Dù chỉ là dưới hình thái ký ức... Thì sự tồn tại của anh đã là niềm an ủi với rất nhiều người.”
+
+Caribert chỉ im lặng.
+
+“Mọi người đều tin rằng anh đã từng sống,” Lumine nói.
+
+“...Ừm,” Caribert nói.
+
+“Phía Dain có lẽ vẫn đang cần trợ giúp...” Lumine nói.
+
+“Cô nói về ngài Kiếm Sĩ Hoàng Hôn Dainsleif sao? Phía anh ấy chắc cũng ‘kết thúc’ rồi, không cần qua đó nữa đâu,” Caribert nói.
+
+“Kết thúc?” Lumine hỏi.
+
+“Ừm. Vốn dĩ tôi chỉ tồn tại trong ký ức, vậy mà bây giờ có thể trò chuyện với cô trong không gian ý thức thế này thì chỉ có một lý do...” Caribert nói. “Máy Dệt Vận Mệnh đã chính thức hoàn thiện.”
+
+“Sao!?” Lumine hỏi.
+
+“Máy Dệt Vận Mệnh đã hoàn thiện... Nếu không nhầm thì điều đó có nghĩa là ‘con mắt của máy cày’ đã rơi vào tay Giáo Đoàn Vực Sâu... Lẽ nào Dain...?” Lumine thầm nghĩ.
+
+“Đừng lo cho ngài Dainsleif, hiện giờ ngài ấy vẫn ổn. Sở dĩ ngài ấy mất đi ‘con mắt’, là vì vừa hay tôi đoán trúng suy nghĩ của ngài ấy thôi,” Caribert nói. “‘Con mắt’ đó ngay từ đầu đã luôn được giấu trong người ngài Dainsleif, đúng chứ? Vậy nên kế hoạch ban đầu của ngài ấy chắc là muốn tương kế tựu kế để dẫn dụ Giáo Đoàn Vực Sâu đến ‘kho báu’ giả, từ đó giành lấy cơ hội gặp lại Hoàng Tử điện hạ lần nữa... Còn về ‘con mắt của máy cày’, ngài ấy đã đưa cho cô và bảo cô rời khỏi địa điểm đó trước rồi... Bằng cách này, ngài Dainsleif vừa thực hiện được mục đích của mình, lại vừa đảm bảo sự an toàn cho ‘con mắt’... Một kế hoạch vô cùng chu toàn.”
+
+“Tuy nhiên...” Lumine nói. “Dain lại không giao ‘con mắt’ cho tôi.”
+
+“Đúng vậy. Đó là vì... ngài ấy ‘tự cho rằng’ mình đã giao nó cho cô,” Caribert nói.
+
+“Lẽ nào... là ‘ký ức giả’ sao?!” Lumine thầm nghĩ.
+
+“Anh đã ra tay từ lúc nào?” Lumine hỏi.
+
+“Trước khi cả hai bước vào nơi giấu kho báu...” Caribert nói.
+
+>Caribert khiến tình cảnh lúc đó tái hiện lại trước mặt bạn...
+
+“Khoan đã, Lumine...” Dainsleif nói.
+
+“Hửm?” Lumine hỏi.
+
+Dainsleif khựng lại giữa không trung một thoáng trước khi cất lời:
+
+“...Việc không thể chậm trễ, chúng ta mau vào trong đi,” Dainsleif nói.
+
+“Thì ra lúc đó Dain ngẩn ngơ như vậy, là do đang bị cấy ký ức giả vào đầu... Chẳng trách...” Lumine thầm nghĩ.
+
+“Trong khoảnh khắc đó, ký ức giả mà tôi cấy vào tâm trí ngài ấy, chính là ‘Dainsleif đã đưa 'con mắt' cho Lumine’,” Caribert nói. “Do tình thế khi đó khá căng thẳng nên ngài Dainsleif đã tin là thật, không hề phát giác ra điều gì bất thường. ...Xin lỗi, tôi phải trợ giúp cho việc hoàn thành Máy Dệt Vận Mệnh, vì vậy chúng tôi cần ‘con mắt’ đó.”
+
+“Vậy thì đến cuối cùng, ‘con mắt’ vẫn ở chỗ của Dain... cho đến khi bị Giáo Đoàn Vực Sâu đoạt lấy. Quả nhiên là một đòn tấn công không thể chống cự,” Lumine thầm nghĩ.
+
+“Máy Dệt Vận Mệnh đã hoàn thiện như vậy...” Lumine nói. “Các anh định dùng nó vào việc gì?”
+
+“Tôi không có ý che giấu gì đâu... Nhưng quả thật tôi cũng không rõ mục đích của Hoàng Tử điện hạ,” Caribert nói. “Hệ thống Địa Mạch của Teyvat đã cắm rễ sâu vào hành tinh, việc tạo ra Địa Mạch mới sẽ không thể nào ‘thay thế’ hay ‘mở rộng’ cái đã có... Đối mặt với kế hoạch có thể đang được điện hạ tính toán thì tôi quá nhỏ bé, không thể nhìn thấu được toàn bộ. Nhưng ít nhất, tôi đã dùng Máy Dệt Vận Mệnh để hoàn thành mục đích của mình.”
+
+“Mục đích của anh?” Lumine hỏi.
+
+“Ừm, cô còn nhớ không? Cha tôi, Chlothar Alberich, hẳn là cô đã từng gặp người đó trong ký ức,” Caribert nói. “Khi đó tôi là một Hilichurl, đã được sức mạnh của Vực Sâu khôi phục tâm trí... Khoảnh khắc đó, tinh thần của tôi phải đối mặt với nỗi sợ hãi khó có thể diễn tả. Mà cha đã an ủi tôi bằng một câu chuyện. Ông ấy nói đây là một vương quốc cổ tích, tôi chỉ đang bị biến thành bộ dạng của một chú quái vật nhỏ... Dù chỉ trong chốc lát, nhưng điều đó quả thật đã xóa bỏ nỗi sợ hãi của tôi. Đến nay, mục đích của tôi rất đơn giản, chính vào lúc Máy Dệt Vận Mệnh sắp hoàn thiện, là lúc khả năng ‘tạo ra ký ức’ đạt ngưỡng mạnh nhất... Tôi đã tiến hành cấy một đoạn ‘ký ức giả’ vào toàn bộ Hilichurl. Trong ký ức đó, tôi học theo cha, kể cho chúng một câu chuyện cổ tích về tình yêu, và cũng là về câu chuyện của chúng tôi.”
+
+“Đám Hilichurl đột nhiên trở nên bình tĩnh, thì ra là đang nghe câu chuyện của Caribert... Mục đích chỉ đơn thuần là như vậy sao... Sử dụng một công cụ ở ‘cấp độ thế giới’ chỉ để mang đến sự an ủi chóng vánh cho các Hilichurl...” Lumine thầm nghĩ.
+
+“Tôi không thể thay đổi thế giới, nhất là đối với một người ngay cả sự tồn tại trong hiện thực cũng đã mất như tôi... Vậy thì đây là chuyện đáng làm nhất mà tôi có thể nghĩ đến rồi,” Caribert nói.
+
+“Tôi cho rằng... Điều đó không hẳn là vô nghĩa,” Lumine nói.
+
+“Ừm, thân là một luồng ý thức còn sót lại từ Máy Dệt Vận Mệnh, tôi vốn dĩ nên tan biến từ lâu rồi... Chính mục tiêu này đã giúp tôi gắng gượng đến bây giờ,” Caribert nói. “Giờ thì tôi đã kể xong ‘câu chuyện trước khi ngủ’, cũng đến lúc phải nghỉ ngơi rồi.”
+
+---
+
+>Nói chuyện với Caribert
+
+>Caribert ngồi dưới bóng cây, bình tĩnh và mệt mỏi nhắm mắt lại. Bạn dõi theo bóng dáng anh ta dần biến mất trong gió. Lúc này, từ sau lưng bạn bất ngờ vang lên giọng nói của người thân. Bạn quay đầu nhìn lại đầy vẻ khó tin, và anh ấy thực sự đứng đó... chỉ là hai người không thể chạm vào nhau.
+
+Bóng dáng Caribert tan dần thành những đốm sáng theo làn gió nhẹ. Ngay lúc ấy, Aether bước vào trong không gian này từ phía sau.
+
+“...Xem ra không kịp để gặp Caribert lần cuối rồi,” Aether nói.
+
+Aether giơ tay hứng lấy chiếc khăn lụa còn vương lại của Caribert, nhưng chỉ một khoảnh khắc sau, chiếc khăn cũng nhẹ nhàng tan biến theo chủ nhân của nó. Lumine vội bước tới vươn tay chạm vào anh trai, song bàn tay cô lại xuyên thẳng qua thân ảnh anh như chạm vào hư không.
+
+“Ý thức của Caribert đã tiêu tan, nơi này cũng trở thành không gian vô chủ sắp biến mất,” Aether nói. “Không ai trong chúng ta thuộc về nơi này. Đó là lý do tại sao chúng ta không thể chạm vào nhau. Nếu không phải vậy, thì anh cũng rất muốn ôm lấy em.”
+
+---
+
+>Nói chuyện với người thân
+
+“Chúng ta trò chuyện chút nhé,” Aether nói. “Có được cơ hội dừng chân và thoải mái trò chuyện với nhau, thật là một cơ hội hiếm có... Chắc em cũng nghĩ vậy nhỉ?”
+
+Aether xoay người bước về phía gốc cây, Lumine lặng lẽ đi theo sau. Hai anh em cùng ngồi xuống bên mép bậc gỗ gần đó.
+
+“Em thậm chí còn không dám tin đây là sự thật,” Lumine nói.
+
+“Trận chiến vừa rồi cũng rất dữ dội...” Aether nói. “Ừm, ý anh là giữa anh và Dain. Không ngờ là đến hiện tại, anh ta vẫn còn chút do dự khi chĩa kiếm về phía anh... Bằng không... E rằng anh cũng không phải là đối thủ của Kiếm Sĩ Hoàng Hôn. Năm trăm năm trước thì lại càng rõ ràng hơn.”
+
+“Máy Dệt Vận Mệnh sẽ được dùng vào việc gì?” Lumine hỏi.
+
+“Phải rồi... Máy Dệt Vận Mệnh... Hiện tại thì anh vẫn chưa tìm được cách phát huy hết tác dụng của nó, nhưng anh vẫn còn thời gian...” Aether nói. “...Trước khi Thiên Lý ‘thức tỉnh’.”
+
+“Thiên Lý vẫn đang say ngủ sao?” Lumine hỏi.
+
+“Sau thảm họa Khaenri'ah năm trăm năm trước, Thiên Lý đã chìm vào giấc ngủ, không còn tăm hơi...” Aether nói. “Mới gần đây, chắc em cũng đã chứng kiến Thủy Thần tự hủy đi ngai thần của mình phải không? Hành vi coi thường ‘quy tắc’ như vậy mà Đảo Thiên Không lại không hề có động tĩnh gì... Cũng có thể xem đó là một bằng chứng. Tuy nhiên, Thiên Lý chắc chắn sẽ thức tỉnh... Chỉ là chúng ta vẫn chưa rõ thời cơ và lý do cụ thể là gì thôi.”
+
+“Anh hận Thiên Lý thế sao?” Lumine hỏi.
+
+“Có thể xem là vậy,” Aether nói. “Em nhìn Caribert xem, anh ta thuần khiết giống như thế giới nội tâm của anh ta ở chính nơi này vậy, đơn giản mà bình yên. Ngay cả khi là Hilichurl, sau khi tháo mặt nạ và nhìn thấy thứ trong gương thì tinh thần anh ta cũng không hề hoen ố. Có những người, dù đã không còn tồn tại trên thế giới này thì vẫn có thể chữa lành cho người khác... Nhưng ai... Là ai đã tước đi tư cách được tồn tại của anh ta? Đương nhiên, đây chỉ là một ví dụ. Cảm xúc của anh với Thiên Lý không thể nói rõ chỉ bằng vài lời được...”
+
+Cả hai cùng lặng đi trong giây lát trước khi Aether khẽ gọi tên em gái.
+
+“...Lumine?” Aether gọi.
+
+“Trong thế giới này, chỉ có anh mới gọi em như vậy,” Lumine nói. “Em vốn dĩ có hàng tá vấn đề muốn hỏi anh, nhưng hiện giờ thì đột nhiên lại không muốn hỏi nữa. Bởi vì em không hiểu, chỉ một chuyện mà ngay từ đầu em không hiểu... Tại sao... Tại sao chúng ta lại không thể cùng nhau tiếp tục chuyến hành trình chứ?”
+
+Trên cành cây phía trên, hai bức tượng gỗ nhỏ tạc hình Atossa và Caribert lặng lẽ nép bên nhau. Aether lặng đi hồi lâu rồi mới chậm rãi mở lời.
+
+“Ở điểm cuối trong chuyến hành trình của anh, anh đã đến một nơi được gọi là ‘Biển Hoa Tận Cùng’,” Aether nói. “Em còn nhớ không? Rất lâu rất lâu về trước, khi chúng ta cùng nhau du hành giữa các tinh cầu... Em nói là... Em muốn tìm một nơi trong vũ trụ có ‘loài hoa đó’ nở rộ. Mà nơi đó, biển hoa đó, nó đã xuất hiện trước mắt anh như thế... Em thấy... đó có phải là một sự trùng hợp không?”
+
+“Ý anh là...” Lumine nói.
+
+“Anh cũng rất nhớ em, Lumine,” Aether nói. “Nhưng trước khi chiến tranh kết thúc, trước khi anh có được đáp án cuối cùng đó... Anh không biết sẽ phải đối mặt với bản thân mình thế nào, càng không biết phải đối diện với em ra sao.”
+
+Lumine im lặng chưa kịp nói thêm gì thì không gian xung quanh bỗng chốc rung chuyển, nhiễu loạn dữ dội.
+
+“...Chuyện gì xảy ra vậy?” Lumine hỏi.
+
+“Một không gian đã vô chủ... Nên thời gian tồn tại của nó cũng sắp đạt đến giới hạn rồi,” Aether nói. “Thực ra, ở đây chúng ta không những không thể chạm vào nhau. Từ khi Caribert biến mất, mọi thứ trong không gian này cũng không thể lưu lại trong ký ức của bất kỳ ai... Mọi thứ vốn dĩ không nên tồn tại, cuộc gặp lần này của chúng ta cũng vậy.”
+
+“Chuyện đến nước này... mới nói như vậy sao...” Lumine nói.
+
+>Bạn còn rất nhiều điều chưa nói hết, nhưng không gian nhiễu động đã đến giới hạn, các bạn không còn nghe thấy tiếng của nhau nữa...
+
+Lumine hốt hoảng gọi với theo anh trong vô vọng, nhưng không gian ý thức đã tan rã đến giới hạn — từ phía đối diện, đôi môi Aether chỉ còn mấp máy không thành tiếng giữa làn ánh sáng vỡ vụn.
+
+---
+
+>Quay về Làng Vimara
+
+Khi Lumine mở mắt tỉnh lại, cô thấy mình đang nằm nghỉ trong Làng Vimara, bên cạnh là Paimon vừa thức giấc không lâu.
+
+“Oáp... Buồn ngủ quá. Đầu óc vẫn còn lờ đờ thật...” Paimon nói. “Tôi tỉnh dậy sớm hơn một chút, nghe người dân Làng Vimara nói rằng họ thấy hôm qua hai chúng ta đã ngủ ở gần làng, có gọi thế nào cũng không tỉnh... Nên họ đã đưa chúng ta về đây. À đúng rồi, vừa nãy Dain có đến đấy, hình như còn bị thương nữa... Sau khi xác nhận chúng ta không sao thì anh ấy đã rời đi với tâm trạng khá phức tạp. Chắc là không sao đâu nhỉ, cái con người này...”
+
+“Dain vẫn như xưa nhỉ?” Lumine hỏi.
+
+“Đợi đã... Để tôi nghĩ lại xem. Trong ký ức hình như hai chúng ta đã gặp được cái người mà Lumine gọi là Caribert nhỉ?” Paimon hỏi. “Anh ta chính là người mất tích mà chúng ta cần tìm sao? Sau đó thế nào nữa nhỉ, tôi không có ấn tượng gì cả...”
+
+“Sau đó tôi và Caribert đã trò chuyện với nhau rất nhiều...” Lumine nói. “Anh ta kể cho tôi nghe về Máy Dệt Vận Mệnh.”
+
+“Úi! Thật sao?! Thông tin này quan trọng đó!” Paimon nói.
+
+“Như vậy là ủy thác xem như đã hoàn thành rồi, người mất tích chính là Caribert chỉ tồn tại trong ký ức... Chỉ là... Hiện nay Caribert đã hoàn toàn biến mất, phải giải thích thế nào với cư dân Làng Vimara đây...” Lumine thầm nghĩ.
+
+“Còn gì nữa không? Sau đó xảy ra chuyện gì nữa vậy?” Paimon hỏi.
+
+“Đúng rồi, sau đó xảy ra chuyện gì nhỉ?” Lumine hỏi.
+
+“Là do mình chưa tỉnh hẳn sao? Cứ cảm thấy đã có chuyện xảy ra sau đó, nhưng lại nghĩ mãi không ra... Không hiểu tại sao nữa... Nhưng hình như mình còn có cảm giác mất mát...” Lumine thầm nghĩ.
+
+Đúng lúc đó, Bahram từ ngoài bước vào làng với gương mặt rạng rỡ nhẹ nhõm.
+
+“Này! Hai vị ở đây sao. Haha, ngủ ngon chứ?” Bahram hỏi.
+
+“Bahram? Anh vừa từ bên ngoài trở về nhỉ, lại còn vui như vậy, là gặp chuyện đáng mừng gì sao?” Paimon hỏi.
+
+“Chuyện đáng mừng? Hmm... Thực ra thì không tốt cũng không tệ,” Bahram nói. “Hôm qua Làng Vimara chúng tôi đã tập hợp một đội tìm kiếm. Nếu chỉ ỷ lại vào nhà mạo hiểm như các vị đi tìm người thì cũng không hay cho lắm. Kết quả khi đi tìm một lúc thì đột nhiên có người nói anh ta nhớ ra rồi... Anh ta nói, vào một buổi hoàng hôn khi đi qua một cái cây bên ngoài làng, anh ta đã nhìn thấy anh chàng bị mất tích đó. Anh chàng đó ngủ gật ở đấy một mình, sau đó cha mẹ anh ấy tới, đánh thức rồi đưa anh ấy đi... Cả gia đình tươi cười vui vẻ. Sau đó thì mọi người cũng bắt đầu mơ hồ cảm thấy hình như có chuyện như vậy thật... Lúc trước sao lại có thể quên đi được nhỉ?”
+
+“Đây là cách để Caribert nói lời tạm biệt sao... Chắc cũng là đoạn ký ức cuối cùng về anh ấy rồi,” Lumine thầm nghĩ.
+
+“À, chúng tôi cũng nhớ ra rồi. Anh chàng mất tích đó tên là Caribert. Quả là một cái tên kỳ lạ, nếu nhớ ra sớm hơn thì tốt biết mấy,” Bahram nói.
+
+“Lần này đừng quên nữa nhé,” Lumine nói.
+
+“Hy vọng anh ấy sẽ có một tương lai vui vẻ hạnh phúc. Ít nhất nếu được như vậy thì chúng tôi cũng yên tâm phần nào,” Bahram nói.
+
+“Xem ra mọi người đều cho rằng Caribert đã rời đi rồi. Cũng tốt, xem như cũng có một cái kết cho mọi chuyện,” Paimon nói.
+
+“Caribert đã biến mất, Máy Dệt Vận Mệnh đã hoàn thành...” Lumine nói. “Ký ức của mọi người sẽ không bị ảnh hưởng nữa.”
+
+“Không biết Atossa sao rồi, chúng ta có nên đi xem thử tình hình của cô ấy không nhỉ? Nếu cô ấy vẫn chưa nhớ ra thì chúng ta có thể kể cho cô ấy nghe,” Paimon nói. “Khi nãy không thấy cô ấy ở trong làng, tôi nghĩ chắc là cô ấy lại ở dưới gốc cây đó rồi! Đi thôi, qua đó xem sao!”
+
+---
+
+Lumine và Paimon quay lại gốc cây trên sườn đồi ngoài làng, bắt gặp Atossa đang đứng lặng lẽ một mình.
+
+>Tìm kiếm Atossa
+
+“Atossa, cô ở đây suy nghĩ gì sao?” Paimon hỏi.
+
+“A, là hai vị sao? Tôi đang định đi tìm hai vị để cảm ơn đây,” Atossa nói. “Tôi đã tham gia đội tìm kiếm, trên đường đi tôi cũng đã nhớ ra chuyện về anh Caribert rồi. Thật là... Rõ ràng là hồi ức quan trọng như vậy, tại sao tôi lại dễ dàng quên đi như thế chứ...”
+
+“Anh ấy hy vọng cô sẽ không quên anh ấy,” Lumine nói.
+
+“Hình như tôi có chút ấn tượng, anh ấy nói với tôi là... khi nào ấy nhỉ? Thôi bỏ đi...” Atossa nói. “Cuộc đời một con người là do ký ức dựng nên, những kỷ niệm liên quan đến anh ấy đã trở thành một phần trong cuộc đời tôi rồi. Tôi chỉ cần cảm thấy may mắn vì đã được gặp anh ấy, như vậy là đủ. Còn về tương lai thì... ai mà quan tâm chứ?”
+
+Atossa bỗng ngừng bặt. Lumine khẽ giơ tay định vỗ vai an ủi cô, nhưng không biết nên nói lời nào cho phải nên lại rụt tay xuống.
+
+“Được rồi, tôi thừa nhận là mình chỉ đang mạnh miệng thôi,” Atossa nói. “Thực chất tôi... bị bỏ rơi rồi, đúng không? ...Nếu không thì tại sao anh Caribert lại cứ thế rời đi mà không đến để tạm biệt tôi trực tiếp chứ?”
+
+“Chắc anh ấy... có lý do riêng của mình,” Lumine nói.
+
+Atossa quay lưng đi giấu giọt nước mắt vừa trào ra nơi khóe mắt, rồi nhanh chóng lấy lại bình tĩnh mỉm cười.
+
+“Haha, không cần an ủi đâu, tôi không sao,” Atossa nói. “Giống như anh Caribert vẫn thường nói, chính vì có đủ thứ chuyện xảy ra, nên đời người mới đáng quý. Ừm... Nếu vẫn còn chút lương tâm cắn rứt, hy vọng anh ấy sẽ quay lại đây tìm tôi. Mấy ngày nay vất vả cho hai vị rồi, tôi phải đến chỗ bà Jehiet để phụ giúp đây. Tạm biệt hai vị nhé.”
+
+“Như vậy... Chắc là ổn rồi nhỉ? Cuộc sống của mọi người cũng quay về đúng quỹ đạo rồi...” Paimon nói. “À đúng rồi, lúc trước Lumine nói... Sau khi trò chuyện xong với Caribert thì xảy ra chuyện gì ấy nhỉ?”
+
+“Phải đấy... Không nhớ ra nổi. Đã xảy ra chuyện gì nhỉ? Hửm...? Đợi đã, trong túi mình hình như có thứ gì đó...” Lumine thầm nghĩ.
+
+Lumine thò tay vào túi áo lấy ra thứ lạ mặt vừa chạm phải — một bức ảnh chụp chung đầy ấm áp của cô, Aether và Caribert nở nụ cười rạng rỡ.
+
+“Hả? Là bức hình? Ở đâu ra vậy, cho tôi xem thử nào...” Paimon nói.
+
+>“Hai anh em phải hòa thuận với nhau đấy.”
+
+>(Hết Chương IV · Màn VI — Câu Chuyện Trước Khi Ngủ)

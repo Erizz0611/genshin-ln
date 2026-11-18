@@ -1,0 +1,1635 @@
+#CH|Phần 1|Delusion|nc_char_arlecchino.png|Delusion
+
+Sau biến cố tại Ngân Hàng Bắc Quốc và cuộc giao tranh với Chấp Chính Của Sự Sống Rhinedottir, nhóm Lumine tạm quay về Nhà Hàng Podvorye nghỉ ngơi cùng ba anh em Lyney, Lynette và Freminet. Trong căn phòng ấm áp hơi súp nóng, Lyney khẽ quay sang nhìn hai người em vừa trở về sau nhiệm vụ.
+
+>Rời Nhà Hàng Podvorye
+
+“Uống súp củ dền xong người ấm hẳn lên. Nhưng cảm giác mệt mỏi cũng kéo đến, hai đứa vẫn ổn chứ?” Lyney hỏi.
+
+“Ấm áp...” Freminet nói.
+
+“Em gái yêu quý, sao lại im lặng vậy?” Lyney hỏi.
+
+“Hình như Lynette ngủ rồi,” Freminet nói.
+
+“Vừa ngủ vừa ăn, không hổ là Lynette. Lần hành động này thật vất vả, lát nữa chúng ta cõng Lynette về nghỉ ngơi nhé,” Lyney nói.
+
+Đợi hai anh em dìu Lynette thu xếp nghỉ ngơi, Lumine và Paimon bước ra khỏi Nhà Hàng Podvorye giữa làn gió tuyết lạnh của Snezhnaya. Vừa sải bước, Paimon liền nhớ lại lời Lyney nhắc ban nãy.
+
+“Ừm... chuyện về Dấu Ấn Sự Sống và Chấp Chính Của Sự Sống coi như tạm xong, giờ chúng ta làm gì đây?” Paimon hỏi. “Đúng rồi, Lyney vừa nói Arlecchino đi tìm Pierro để bàn chuyện, chúng ta có nên đi xem thử không? Tiện thể hỏi xem Pierro có biết kế hoạch tiếp theo của Nữ Hoàng không... Không hỏi cho rõ thì trong lòng cứ thấy thấp thỏm không yên.”
+
+>Đến Glupov gặp Pierro
+
+Tại Glupov, Pierro và Arlecchino đang đứng trao đổi riêng về giai đoạn thử nghiệm tiếp theo. Nhận thấy Lumine và Paimon tiến lại gần, Arlecchino liền lên tiếng đón tiếp.
+
+“...Các nhiệm vụ hiện tại về cơ bản đã tạm kết thúc, giai đoạn thí nghiệm tiếp theo khi nào bắt đầu vậy?” Arlecchino hỏi.
+
+“Tôi cần phải nhắc lại tính rủi ro của thí nghiệm, những rủi ro sau này có thể còn tăng cao hơn nữa... Hãy đảm bảo rằng cô luôn trong trạng thái tốt nhất, cả về tinh thần lẫn thể xác,” Pierro nói.
+
+“Được rồi, ngài vốn không phải là người do dự, Quan Thống Lĩnh. Cả hai ta đều hiểu rằng thí nghiệm phải tiếp tục, vì thời gian không còn nhiều nữa, chúng ta cần sức mạnh lớn hơn,” Arlecchino nói. “Lumine và Paimon, hai người không cần phải tránh mặt. Trước mối nguy này, hiện giờ Snezhnaya không còn bí mật nào cần phải giấu ‘đồng minh’ nữa.”
+
+“À ừm... Vậy thì tốt, chúng tôi cũng có việc cần tìm Pierro, thấy mọi người đang bận nên cũng ngại làm phiền...” Paimon nói.
+
+“Lâu rồi không gặp, Arlecchino,” Lumine nói.
+
+“Arlecchino, dựa trên những thông tin cô hiện có, năng lực của Lumine liệu có giúp ích gì trong việc giảm thiểu rủi ro của thí nghiệm không?” Pierro hỏi.
+
+“Ý ngài là... năng lực thanh tẩy Vực Sâu? Hmm... có lẽ khả thi,” Arlecchino nói.
+
+“Tuy đã chuẩn bị rất nhiều phương án dự phòng để ứng phó với rủi ro, nhưng thực tế chưa chắc tất cả đều có hiệu quả. Có thêm một lớp bảo hiểm tóm lại vẫn tốt hơn,” Pierro nói.
+
+“Sao ai cũng biết tôi có thể thanh tẩy Vực Sâu vậy?” Lumine hỏi.
+
+“Dù sao thì Lumine cũng chưa từng cố tình che giấu năng lực này mà,” Paimon nói. “Nếu không định giấu chúng tôi về chủ đề này thì mau nói đi, mọi người lại định làm ‘thí nghiệm’ gì thế?”
+
+“Là nghiên cứu phát triển phiên bản mới của Delusion,” Pierro nói.
+
+“Delusion? Mọi người vẫn còn nghiên cứu thứ này sao? Trong ấn tượng của tôi thì đây không phải thứ tốt đẹp gì...” Paimon nói.
+
+“Từ trước đến nay, Delusion mà nội bộ Fatui dùng đều là bán thành phẩm, gây hao tổn sức sống của người dùng,” Pierro nói. “Fatui cũng dựa trên nguyên tắc tự nguyện. Khi thực hiện nhiệm vụ quan trọng hoặc ứng phó với tình huống đột xuất thì có thể đăng ký sử dụng theo nhu cầu, không có yêu cầu bắt buộc.”
+
+“Hiện tại, xung đột trực diện với Ronova gần như là điều không thể tránh khỏi, việc nâng cấp vũ lực là vô cùng cấp bách,” Arlecchino nói. “Nếu có thể hoàn thành Delusion vào thời điểm này thì ít nhất phần thắng cũng cao hơn một chút.”
+
+“Mà Arlecchino, hậu duệ của Xích Nguyệt... chính là mấu chốt để hoàn thành Delusion,” Pierro nói.
+
+“Hả? Delusion thì liên quan gì đến Arlecchino vậy? Hình như tôi chưa từng thấy Arlecchino dùng Delusion bao giờ nhỉ?” Paimon hỏi.
+
+“Delusion có khả năng tiêu hao sinh mệnh để đổi lấy sức mạnh, nếu phải nói thì nó thuộc phạm trù quyền năng liên quan đến ‘cái chết’,” Arlecchino nói. “Ở Nod-Krai, hai người cũng đã chứng kiến sức mạnh của ‘ba mặt trăng’. Rất lâu trước đây, quyền năng Sự Sống, Cái Chết, Thời Gian và Không Gian trên thế gian đều thuộc về ‘ba mặt trăng’. Trong đó, Hồng Nguyệt được phân chia phần lớn quyền năng của ‘cái chết’. Sau khi ‘ba mặt trăng’ biến mất, những quyền năng tối cao này vốn đã được Thiên Lý thu hồi, rồi phân chia cho bốn cái bóng theo quy tắc mới. Nhưng Hồng Nguyệt tan vỡ lại kết hợp với Vực Sâu. Vực Sâu đã ‘mô phỏng’ lại quyền năng vốn có, hay nói cách khác, đã thể hiện khả năng ‘quyền năng chưa bị tước đoạt’. Cho đến nay, quyền năng ‘cái chết’ vẫn tồn tại ở Teyvat dưới một hình thức khác, tồn tại trong Xích Nguyệt và huyết mạch của con dân Xích Nguyệt, ‘Ngọn Lửa Hai Thế Giới’ chính là minh chứng.”
+
+“Nhớ lúc còn ở Khaenri'ah, Viện Bí Ẩn chưa bao giờ ngừng nghiên cứu về Xích Nguyệt,” Pierro nói. “Giờ đây muốn hoàn thành Delusion rồi dùng sức mạnh tương đương để chống lại Ronova, thì những khả năng tiềm ẩn trong Xích Nguyệt chính là cơ hội mà chúng ta không thể bỏ qua.”
+
+“Thì ra là vậy, theo cách tôi hiểu bây giờ...” Paimon nói. “Lúc trước chúng ta đã thất bại khi định dùng quyền năng của ‘sự sống’ để chống lại Ronova, còn bây giờ lại định thử dùng quyền năng của ‘cái chết’ để chống lại cô ta?”
+
+“Có thể nói là vậy. Tuy nhiên... kế hoạch Delusion ứng dụng quyền năng của ‘cái chết’ thực ra đã sớm được hình thành từ trước,” Pierro nói. “Khi chúng tôi phát hiện Peruere là hậu duệ của Xích Nguyệt, liền nhận ra cơ hội để hoàn thiện Delusion đã đến. Chỉ là khi ấy lý do để có được sức mạnh này vẫn chưa cấp bách đến mức đó. Còn Peruere, người vừa mới trở thành Arlecchino, thực lực vẫn chưa hoàn thiện.”
+
+“Có lẽ tôi nên cảm ơn ngài, Pierro. Nếu là tên Dottore kia phụ trách nghiên cứu này, hắn sẽ không coi mạng sống của nhân viên thí nghiệm ra gì,” Arlecchino nói. “Đương nhiên, nếu là hắn phụ trách, tôi cũng không có ý định phối hợp.”
+
+“Lẽ ra Fatui, thậm chí cả Snezhnaya phải cảm ơn cô mới đúng, Arlecchino. Khi cô chủ động tìm đến và đề nghị phối hợp thí nghiệm, quả thực tôi có chút bất ngờ,” Pierro nói.
+
+“Không cần đâu, tôi không cao thượng đến vậy. Dù sao thì chúng ta cũng đã thỏa thuận điều kiện rồi...” Arlecchino nói.
+
+“Căn Nhà Hơi Ấm sẽ hoạt động độc lập, không còn là cơ quan tình báo trực thuộc Fatui, cũng không đào tạo lũ trẻ thành gián điệp nữa. Họ đi theo cô dưới danh nghĩa Xích Nguyệt... là như vậy đúng không?” Pierro hỏi. “Cô đã nhìn ra mâu thuẫn cốt lõi của Căn Nhà Hơi Ấm: Tình yêu và sự lợi dụng luôn đan xen lẫn nhau. Rất nhiều người hiểu rõ điều này, nhưng chỉ có cô sẵn lòng thực hiện giao dịch này với tôi.”
+
+“Bọn trẻ từng hỏi tôi thế nào là một mái nhà thực sự. Tôi nghĩ trước khi bàn về điều đó, nên gạt bỏ phần không giống nhà nhất trước đã,” Arlecchino nói.
+
+“Chỉ cần cô vẫn trung thành với Nữ Hoàng, hành động theo lập trường của người Snezhnaya, thì việc những người dưới trướng cô có độc lập hay không cũng chẳng có gì khác biệt...” Pierro nói. “Không đáng để đánh đồng với rủi ro mà một vị Quan Chấp Hành phải gánh chịu.”
+
+“Yên tâm, tôi tự có chừng mực,” Arlecchino nói.
+
+“Tôi cũng sẽ giúp,” Lumine nói.
+
+“Cảm ơn. Chuyện này không thể chậm trễ, tôi sẽ đi chuẩn bị trước,” Arlecchino nói.
+
+Dứt lời, Arlecchino quay người tiến sâu vào bên trong cơ sở thí nghiệm để chuẩn bị trước.
+
+“Hóa ra Arlecchino cũng có mục đích của riêng mình,” Paimon nói.
+
+“Bên phía Arlecchino đành nhờ cô vậy. Trong thời gian ngắn tôi vẫn phải tiếp tục đi tìm hiểu ký ức và thông tin mà pha lê cung cấp, hy vọng có được phát hiện mới,” Pierro nói. “Được rồi, vậy thì... hai vị tìm tôi có chuyện gì không? Hình như hai vị vẫn chưa nhắc tới mục đích đến đây lần này.”
+
+“Ồ, đúng vậy, suýt nữa thì quên mất...” Paimon nói.
+
+“Tại sao Nữ Hoàng lại hẹn gặp Rhinedottir?” Lumine hỏi.
+
+“Nếu tôi nói, kế hoạch đối phó với Ronova thực ra đã tồn tại, nhưng ngay cả Quan Thống Lĩnh của Fatui như tôi cũng không biết được toàn bộ nội dung... Liệu cô có tin không?” Pierro hỏi.
+
+“Ngay cả ông cũng không biết sao? Tôi, tôi không tin cho lắm... Ông nắm chức vụ lớn nhất trong Fatui rồi còn gì?” Paimon hỏi.
+
+“Thứ mà chúng ta phải đối đầu là sự tồn tại thuộc cấp bậc bốn cái bóng của Thiên Lý, không ai biết những kẻ ở cấp bậc ấy sẽ có bao nhiêu thủ đoạn để đối phó với chúng ta,” Pierro nói. “Vì vậy... tốt nhất chúng ta nên giả định rằng mọi nơi đều đang bị Ronova giám sát, mọi nơi đều đang bị Ronova nghe lén. Nếu công bố kế hoạch tác chiến, thì chẳng khác nào mời kẻ địch tham dự cuộc họp của chúng ta, làm vậy chẳng có chút ý nghĩa nào.”
+
+“Vậy, vậy phải làm sao đây?” Paimon hỏi.
+
+“Chỉ có thể tin tưởng vào Nữ Hoàng bệ hạ, tin tưởng vào sức mạnh và trí tuệ của người,” Pierro nói. “Tuy bệ hạ vẫn chưa thu thập đủ bảy Gnosis, nhưng tôi tin rằng Nữ Hoàng bệ hạ hiện nay đã có đủ sức mạnh để làm lay chuyển những quy tắc của Teyvat. Trước đó, bệ hạ đã triển khai chiến lược, kế hoạch được chia thành nhiều mục tiêu và giai đoạn... Cuộc gặp với Rhinedottir chắc hẳn cũng là một phần trong đó. Tiếp theo chúng ta chỉ cần hoàn thành nhiệm vụ bản thân được giao, biết càng nhiều... rủi ro lại càng cao.”
+
+“Chia nhỏ kế hoạch, mỗi người chỉ biết một phần, nhờ đó né tránh tai mắt của địch, là ý này phải không?” Paimon hỏi. “Cảm giác cách làm này cần phải được xây dựng trên nền tảng ‘tin tưởng’ tuyệt đối. Không chỉ mọi người phải tin tưởng Nữ Hoàng, mà Nữ Hoàng cũng phải tin rằng mọi người có thể hoàn thành tốt từng khâu một... Dù các Quan Chấp Hành thường hành động theo ý mình, nhưng khi có chuyện xảy ra, tôi cảm thấy người Snezhnaya lại đoàn kết hơn ai hết...”
+
+“Vậy tôi cũng nằm trong kế hoạch sao?” Lumine hỏi.
+
+“Snezhnaya không có lập trường ‘phân công nhiệm vụ’ cho cô, nhưng Nữ Hoàng đã từng đặc biệt nhấn mạnh rằng hãy cố gắng tranh thủ sự hỗ trợ của cô trong trận quyết chiến,” Pierro nói.
+
+“Tôi đã nói sẽ giúp mà,” Lumine nói.
+
+“‘Chiến trường’ mà chúng ta phải đối mặt là như nhau, còn việc cụ thể cần làm...” Pierro nói.
+
+Pierro ghé lại gần và nói ngắn gọn cho Lumine cùng Paimon biết phần hành động mà hai người cần thực hiện khi thời cơ tới.
+
+“Hết rồi sao? Đơn giản thế thôi à?” Paimon hỏi. “Hơn nữa đúng là có chút không đầu không đuôi, dù Ronova có nghe được thì cũng sẽ thấy mơ hồ vậy thôi...”
+
+“Nghe theo mọi người vậy, tin tưởng Nữ Hoàng,” Lumine nói.
+
+“Bây giờ phần của Arlecchino cũng cần cô hỗ trợ, coi như là công việc phát sinh thêm,” Pierro nói. “Công tác chuẩn bị thí nghiệm chắc cũng gần hoàn tất rồi, vị đồng nghiệp kia của tôi xin giao lại cho cô.”
+
+>Vào địa điểm thí nghiệm Delusion
+
+Theo hướng dẫn của Pierro, Lumine và Paimon tiến sâu vào lối dẫn xuống khu vực nghiên cứu của Cục Khí Tài. Ngay trước sảnh kiểm soát, một nhân viên nghiên cứu đã đứng chờ sẵn để đón tiếp.
+
+“Xin chào. Quan Thống Lĩnh đã dặn dò, để tôi dẫn đường cho hai vị,” Nhân Viên Thí Nghiệm nói. “Đây là trung tâm của phòng thí nghiệm tổng hợp thuộc Cục Khí Tài, bên trong tập hợp rất nhiều đơn vị nghiên cứu.”
+
+Nhân viên nghiên cứu đưa cả hai bước vào buồng thang máy chuyên dụng hướng xuống khu thử nghiệm bên dưới.
+
+>Thang máy đã đến tầng mục tiêu, cửa trước đã mở.
+
+>Đến địa điểm thí nghiệm Delusion
+
+>Nói chuyện với nhân viên thí nghiệm
+
+Cửa thang máy mở ra trước khu vực thí nghiệm rộng lớn của Cục Khí Tài. Arlecchino đã có mặt sẵn gần bệ điều khiển cùng nhân viên thí nghiệm.
+
+“Chúng tôi đến rồi, Arlecchino, chỗ cô đã chuẩn bị xong chưa?” Paimon hỏi.
+
+“Trạng thái khá ổn, có thể bắt đầu bất cứ lúc nào. Pierro xưa nay làm việc luôn cẩn trọng, vậy mà cuối cùng vẫn làm phiền đến mọi người,” Arlecchino nói.
+
+“Chúng tôi quan tâm đến sự an toàn của cô, đề nghị của Pierro rõ ràng là rất hay,” Paimon nói. “Vậy rốt cuộc thí nghiệm này rủi ro đến mức nào? Hmm... nếu đã liên quan đến Vực Sâu thì chắc hẳn rủi ro không nhỏ đâu nhỉ?”
+
+“Tôi đã sớm quen với những rủi ro mà Vực Sâu mang lại. ‘Đây’ chính là bằng chứng,” Arlecchino nói.
+
+Arlecchino giơ bàn tay mang dấu ấn nguyền rủa của mình lên trước mắt Lumine và Paimon.
+
+“Còn về tác dụng phụ của Delusion... ảnh hưởng một chút đến tuổi thọ tôi có thể chấp nhận, chỉ cần cho tôi đủ thời gian để hoàn thành sứ mệnh của con dân Xích Nguyệt là được,” Arlecchino nói.
+
+“Cô... cô đúng là nghĩ thoáng quá rồi. Không được không được, chúng tôi sẽ không để tuổi thọ của cô bị ảnh hưởng. Dù chỉ mất đi một ngày thôi tôi cũng thấy phí phạm và đáng tiếc!” Paimon nói.
+
+“Vậy sao, ý tốt của các vị tôi xin nhận,” Arlecchino nói.
+
+“Nhà khoa học, anh thử nói xem, thí nghiệm này thực sự sẽ ảnh hưởng đến tuổi thọ của Arlecchino sao?” Paimon hỏi.
+
+“Tuy không dám đảm bảo... Nhưng nhìn tổng thể thì xác suất xảy ra là rất nhỏ, dù sao thì mục đích cuối cùng của thí nghiệm chính là hoàn thành Delusion,” Nhân Viên Thí Nghiệm nói. “Phiên bản Delusion mới sẽ được tăng cường thêm khả năng chiến đấu, đồng thời hạn chế tối đa các tác dụng phụ... Chỉ tiêu hao sinh lực mà hiện tại có thể tái sản sinh của người sử dụng, và khống chế trong giới hạn không ảnh hưởng đến tuổi thọ. Nếu trong quá trình thí nghiệm xảy ra tình huống bất thường, chẳng hạn như Delusion mất kiểm soát hoặc sự ăn mòn của Vực Sâu gia tăng, thì sẽ lập tức chấm dứt thí nghiệm và xử lý khẩn cấp những ảnh hưởng mà người tham gia thí nghiệm phải chịu.”
+
+“Chuyên nghiệp thật đấy, nghe vậy thì tôi yên tâm hơn nhiều rồi, huống hồ còn có Lumine ở đây nữa,” Paimon nói.
+
+Vừa lúc đó, Paimon ngoái nhìn ra khu vực thử nghiệm và phát hiện Arlecchino đã dứt khoát bước vào vị trí chiến đấu.
+
+“Ối, Arlecchino! Đã chuẩn bị xong rồi sao? Đúng là làm việc nhanh nhẹn dứt khoát thật,” Paimon nói.
+
+“Quý cô Arlecchino, có nghe được tôi nói không?” Nhân Viên Thí Nghiệm hỏi.
+
+“Có,” Arlecchino nói.
+
+“Được, kiểm tra liên lạc bình thường. Tiếp theo chúng ta sẽ đồng thời kiểm tra hiệu suất chiến đấu và tác dụng phụ của phiên bản Delusion hiện tại,” Nhân Viên Thí Nghiệm nói. “Quý cô sẽ phải đối mặt với ‘cỗ máy thí nghiệm’ do quý cô Sandrone thiết kế và chế tạo. Xin hãy cố gắng tưởng tượng đây là một trận thực chiến, chúng tôi sẽ tiến hành đo lường số liệu theo thời gian thực.”
+
+“Tưởng tượng thành một trận thực chiến sao? Cũng không khó lắm. Nếu một ngày nào đó Sandrone đứng ở phía đối lập với tôi, hẳn sẽ phải tốn công dẹp mấy món đồ thủ công tâm đắc này của cô ấy,” Arlecchino nói.
+
+“Cô ấy nói như thể thật sự sẽ có ngày đó vậy...” Paimon nói.
+
+“Thông qua việc đo lường cường độ dao động của Vực Sâu khuếch tán ra trong lúc chiến đấu, chúng tôi có thể ước tính mức độ sức mạnh Vực Sâu ảnh hưởng lên quý cô hiện tại, và hiển thị dưới dạng số liệu cụ thể,” Nhân Viên Thí Nghiệm nói. “Nếu chỉ số ảnh hưởng của Vực Sâu vượt quá giới hạn, có thể sẽ gây ra những tác động tiêu cực ngoài dự kiến của thí nghiệm, cũng có nghĩa là... có thể đe dọa đến tuổi thọ của quý cô.”
+
+“Không được không được! Chúng tôi cũng sẽ trông chừng!” Paimon nói.
+
+“Trong quá trình chiến đấu, hãy điều chỉnh nhịp độ và hô hấp một cách phù hợp, tránh để cơ thể và tinh thần rơi vào trạng thái cực đoan. Nếu chỉ số vượt quá ngưỡng cho phép, tôi sẽ buộc phải tắt cỗ máy chiến đấu và dừng thí nghiệm,” Nhân Viên Thí Nghiệm nói. “Cỗ máy cũng sẽ theo dõi các động tác chiến đấu của quý cô, và sẽ kích hoạt chế độ bảo vệ khi cần thiết.”
+
+“Hiểu rồi, nghĩa là đừng quá miễn cưỡng bản thân phải không? Nhưng chiến đấu mà không dốc hết toàn lực thì không phải phong cách của tôi... Thôi được rồi, tạm thời phối hợp với mọi người vậy,” Arlecchino nói.
+
+>Tiến hành thí nghiệm Delusion vòng một
+
+Những cỗ máy chiến đấu thử nghiệm do Sandrone thiết kế được kích hoạt giữa sàn đấu. Arlecchino vận dụng Delusion phiên bản mới, bắt đầu vòng kiểm tra đầu tiên dưới sự giám sát chặt chẽ của các máy đo chỉ số.
+
+“Bắt đầu vòng thí nghiệm đầu tiên, khởi động đơn vị kiểm tra. Hiệu suất tấn công của Delusion mở 20%,” Nhân Viên Thí Nghiệm nói. “Các dữ liệu hiển thị bình thường, chỉ số ảnh hưởng Vực Sâu bình thường. Quý cô Arlecchino, cô cảm thấy thế nào?”
+
+“Có thể cảm nhận sức mạnh đang tăng lên, còn mức độ tăng thì... mọi người tốt nhất nên tìm và mang tới đây thứ gì đó chịu đòn giỏi hơn,” Arlecchino nói.
+
+Trong lúc chiến đấu, hệ thống theo dõi liên tục ghi nhận mức độ ăn mòn gia tăng theo từng đòn đánh, buộc Arlecchino phải điều chỉnh nhịp tấn công để giữ chỉ số ảnh hưởng Vực Sâu trong ngưỡng an toàn. Trước những cỗ máy Tuần Tra Lục Chiến Cận Chiến, Trinh Sát và Xung Kích lần lượt lao tới, cô nhanh chóng quét sạch toàn bộ mục tiêu.
+
+>Arlecchino dễ dàng hoàn thành vòng thí nghiệm Delusion đầu tiên...
+
+“Dữ liệu thí nghiệm vòng đầu đã thu thập xong, đóng đơn vị thí nghiệm, bắt đầu dọn dẹp hiện trường,” Nhân Viên Thí Nghiệm nói.
+
+>Đợi xác nhận dữ liệu thí nghiệm
+
+“Quý cô vất vả rồi. Cho đến hiện tại có cảm thấy chỗ nào không ổn không?” Nhân Viên Thí Nghiệm hỏi.
+
+“Cảm giác khá ổn, sức mạnh và năng lực chiến đấu của bản thân đúng là đã được nâng lên,” Arlecchino nói. “Tuy nhiên, một nguồn sức mạnh khác đi kèm với nó cũng đang rục rịch manh động, nhưng hiện tại vẫn có thể dễ dàng áp chế...”
+
+“Nếu không có gì bất thường, chúng ta sẽ tiến hành thí nghiệm giai đoạn hai,” Nhân Viên Thí Nghiệm nói. “Khi hiệu suất tấn công của Delusion tăng lên, cường độ chiến đấu cũng sẽ tăng lên tương ứng. Xin hãy chú ý đến trạng thái của bản thân.”
+
+“Mau bắt đầu đi,” Arlecchino nói.
+
+>Tiến hành thí nghiệm Delusion vòng hai
+
+“Bắt đầu vòng thí nghiệm thứ hai, khởi động đơn vị kiểm tra. Hiệu suất tấn công của Delusion mở 50%,” Nhân Viên Thí Nghiệm nói.
+
+Đợt máy móc mới hạng nặng hơn — gồm các đơn vị Đa Năng Cận Chiến, Trinh Sát và Hỏa Lực Tầm Xa — lập tức tràn ra bao vây. Arlecchino đẩy cao công suất chiến đấu, nhanh chóng giao chiến quyết liệt với bầy cơ quan.
+
+“Mấy thứ này... miễn cưỡng cũng coi là đối thủ ra hồn,” Arlecchino nói.
+
+Giữa trận đấu căng thẳng, chỉ số cơ thể của Arlecchino thoáng dao động mạnh trước lượng lớn dao động Vực Sâu khuếch tán trong phòng.
+
+“Quý cô Arlecchino, chỉ số cơ thể của cô dường như có biến động, có cần tạm dừng thí nghiệm không?” Nhân Viên Thí Nghiệm hỏi.
+
+“Anh nói phải tưởng tượng như thực chiến, giờ mới mức độ này đã hỏi tôi có cần rút lui không à?” Arlecchino hỏi.
+
+“À... vô cùng xin lỗi quý cô Arlecchino. Thể trạng của cô hoàn toàn có thể tiếp tục, chúng tôi sẽ tiếp tục theo dõi...” Nhân Viên Thí Nghiệm nói.
+
+Dứt lời, Arlecchino tiếp tục tung những nhát chém sắc bén dứt điểm toàn bộ nhóm cỗ máy thử nghiệm vòng hai.
+
+>Vòng thí nghiệm thứ hai kết thúc, Arlecchino đã phát huy sức mạnh lớn hơn, nhưng cô ấy dường như cũng để lộ chút vẻ mệt mỏi...
+
+“Vất vả rồi, đã thu thập hoàn tất dữ liệu thí nghiệm vòng hai, đóng đơn vị thí nghiệm,” Nhân Viên Thí Nghiệm nói.
+
+>Đợi xác nhận dữ liệu thí nghiệm
+
+“Không hổ là quý cô Arlecchino, dữ liệu vô cùng xuất sắc, đúng là một lần thí nghiệm lý tưởng,” Nhân Viên Thí Nghiệm nói.
+
+“Sao rồi, Arlecchino? Trước mắt xem ra mọi thứ đều khá thuận lợi,” Paimon nói.
+
+“Cũng không tệ, dù sao cũng là dự án do Pierro phụ trách,” Arlecchino nói. “Nhưng chỉ với mức độ này mà muốn đối đầu trực tiếp với Ronova thì vẫn có chút viển vông, không biết giới hạn của thứ này nằm ở đâu...”
+
+“Dữ liệu thế nào rồi, nhà khoa học. Có cần tiếp tục nữa không?” Paimon hỏi.
+
+“Dữ liệu chiến đấu cơ bản của quý cô Arlecchino cao hơn dự tính... Ừm... có lẽ cao hơn khoảng ba lần, thật đáng kinh ngạc,” Nhân Viên Thí Nghiệm nói. “Chúng tôi đang phối hợp điều chỉnh mô hình, giới hạn sức mạnh của Delusion ước tính còn có thể nâng cao hơn nữa...”
+
+“Arlecchino đã mạnh hơn rồi,” Lumine nói.
+
+“Woa...” Paimon nói.
+
+“Được rồi, lần này chúng tôi sẽ điều chỉnh hiệu suất tấn công của Delusion lên đến giới hạn lý thuyết. Chuẩn bị bắt đầu thí nghiệm vòng thứ ba,” Nhân Viên Thí Nghiệm nói.
+
+“Cuối cùng cũng chịu thể hiện bản lĩnh thật sự rồi sao? Không tồi, để tôi xem nào,” Arlecchino nói.
+
+“Vòng thí nghiệm thứ ba bắt đầu, khởi động đơn vị kiểm tra. Hiệu suất tấn công của Delusion... mở toàn lực,” Nhân Viên Thí Nghiệm nói.
+
+Một vầng sáng đỏ rợn người bỗng bùng lên bao trùm lấy Arlecchino giữa sàn đấu.
+
+“Ừm... sức mạnh đang dâng trào,” Arlecchino nói.
+
+Trước mắt cô, cỗ máy chiến đấu khổng lồ đột ngột biến dạng, hóa thành huyễn ảnh của chính Ngọn Lửa Hai Thế Giới — Peruere.
+
+“Hửm? Bầu không khí thay đổi rồi...” Arlecchino nói. “Chuyện gì vậy, vẫn đang ở trong thí nghiệm sao?”
+
+Ảo ảnh vung lưỡi hái lao thẳng tới tấn công.
+
+“Không... không còn thời gian nghĩ mấy chuyện này nữa, ‘cô ta’ đã tấn công rồi...” Arlecchino nói.
+
+>Khi vòng thí nghiệm thứ ba vừa bắt đầu, giữa ánh sáng đỏ rợn người, Arlecchino dường như đã nhìn thấy cái bóng của chính mình...
+
+>Tiến hành thí nghiệm Delusion vòng ba
+
+Giữa màn ánh sáng đỏ đặc quánh, Arlecchino buộc phải giao chiến trực diện với chính cái bóng của mình. Ngoài phòng điều khiển, các kim đo đồng loạt nhảy vọt báo động.
+
+“Phát hiện chỉ số ảnh hưởng Vực Sâu bất thường, các chỉ số cơ thể của người thí nghiệm biến động dữ dội...” Nhân Viên Thí Nghiệm nói. “Quý cô Arlecchino, tình trạng của cô thế nào rồi? Xin hãy trả lời, quý cô Arlecchino!”
+
+“Arlecchino!” Lumine nói. “Tình trạng của cô ấy không ổn rồi, mau dừng thí nghiệm lại!”
+
+“Mức độ bất thường của dữ liệu vẫn đang tăng, mau lên, tắt đơn vị thí nghiệm!” Nhân Viên Thí Nghiệm nói.
+
+“Sự thay đổi này... Thí nghiệm đã dừng lại rồi sao? Không đúng, ‘cô ta’ vẫn tồn tại...” Arlecchino nói.
+
+“Arlecchino, sao rồi?!” Lumine hỏi.
+
+>Giúp Arlecchino thanh tẩy sức mạnh Vực Sâu
+
+Khi trận đấu kết thúc và huyễn ảnh tan biến, chỉ số ăn mòn Vực Sâu trên cơ thể Arlecchino bỗng tăng vọt tới sát ngưỡng nguy kịch khiến cô loạng choạng khuỵu xuống. Lumine lập tức lao vào sàn đấu, chạm tay hấp thụ và thanh tẩy luồng năng lượng Vực Sâu đang cuộn trào trong người Arlecchino trước khi nó kịp gây tổn hại đến sinh mệnh của cô.
+
+>Thí nghiệm dừng lại, bạn vội vàng hấp thụ hết năng lượng Vực Sâu trong cơ thể Arlecchino, ngăn chặn sức mạnh Vực Sâu sắp gây thêm ảnh hưởng lên cô ấy...
+
+Sau khi tình hình ổn định, Lumine đỡ Arlecchino quay lại phòng điều khiển bên ngoài.
+
+“Xác nhận ngừng cung cấp năng lượng Delusion, chỉ số ảnh hưởng Vực Sâu... vừa rồi dường như đã tụt về không trong nháy mắt...” Nhân Viên Thí Nghiệm nói. “Chỉ số cơ thể của quý cô Arlecchino về cơ bản đã khôi phục bình thường, xin hãy yên tâm.”
+
+“Còn tuổi thọ của Arlecchino thì sao? Có bị ảnh hưởng gì không?” Paimon hỏi.
+
+“Nhờ có sự xử lý kịp thời của quý cô Lumine, sức mạnh Vực Sâu đã chưa kịp ăn mòn. Tôi có thể đảm bảo hoàn toàn không có ảnh hưởng gì,” Nhân Viên Thí Nghiệm nói.
+
+“Thí nghiệm thất bại rồi sao?” Arlecchino hỏi.
+
+“Rất xin lỗi, thưa quý cô Arlecchino. Thí nghiệm đã xảy ra tình huống ngoài dự kiến, khiến quý cô rơi vào nguy hiểm...” Nhân Viên Thí Nghiệm nói.
+
+“Mấy lời thừa thãi ấy thì thôi. Một thí nghiệm mà không tồn tại rủi ro thì cũng chẳng có ý nghĩa,” Arlecchino nói.
+
+“Vậy rốt cuộc vừa rồi đã xảy ra chuyện gì?” Lumine hỏi.
+
+“Ừm... dựa theo phán đoán tại hiện trường, có lẽ phiên bản Delusion mới đã vô tình tiếp nhận một quyền năng khác ngoài ‘cái chết’ của Xích Nguyệt, từ đó trở thành yếu tố bất ổn...” Nhân Viên Thí Nghiệm nói. “Có thể sẽ gây ảo giác và xuất hiện tình trạng mất kiểm soát sức mạnh. Tất cả là lỗi của chúng tôi khi chưa nghiên cứu kỹ về quyền năng ẩn chứa trong Xích Nguyệt...”
+
+“Không cần tự trách bản thân như vậy. Ngay cả những kẻ giỏi nhất của Viện Bí Ẩn Khaenri'ah 500 năm trước cũng không dám nói là đã hoàn toàn giải mã được sức mạnh của Xích Nguyệt,” Arlecchino nói. “Với năng lực kỹ thuật hiện tại của Snezhnaya, mọi người đã làm rất tốt rồi.”
+
+“Cảm ơn... cảm ơn quý cô Arlecchino... Chúng tôi sẽ tiếp tục nghiên cứu phương án mới, loại bỏ thêm các yếu tố bất ổn và giảm thiểu tác dụng phụ,” Nhân Viên Thí Nghiệm nói.
+
+“Tiếc thật, thí nghiệm thất bại rồi. Cứ tưởng hôm nay sẽ được chứng kiến vũ khí bí mật mới của Snezhnaya ra đời chứ,” Paimon nói.
+
+“Nói thật thì tôi không thấy tiếc lắm,” Arlecchino nói. “Ít nhất thì khi bắt đầu vòng thí nghiệm thứ ba, tôi đã được cảm nhận toàn bộ sức mạnh của Delusion phiên bản mới...”
+
+“Thế nào?” Lumine hỏi.
+
+“Vẫn chưa đủ, nó còn quá bảo thủ. Cách ‘trở nên mạnh mẽ’ nhưng lại không dám vượt quá giới hạn này sẽ không tạo ra bước ngoặt thực sự, và tất nhiên cũng không thể là đối thủ của Ronova,” Arlecchino nói. “Ở giai đoạn hiện tại, cho dù thí nghiệm thành công cũng không thay đổi được gì.”
+
+“Xem ra vẫn còn một chặng đường rất dài, liệu còn kịp không?” Paimon hỏi.
+
+“Đúng rồi, có thể phiền mọi người chuyển kết quả thí nghiệm cùng ý kiến của tôi cho Pierro được không?” Arlecchino hỏi. “Thí nghiệm vừa rồi quả thực đã gây ra chút ảnh hưởng cho tôi, tôi cần nghỉ ngơi một chút.”
+
+“Đương nhiên là được! Lần này Arlecchino không hề gượng ép bản thân, nghỉ ngơi là chuyện tốt mà!” Paimon nói.
+
+“Dù sao lần này cũng nhờ mọi người nên cơ thể mới không xảy ra vấn đề gì lớn, phải nhanh chóng hồi phục thì mới không phụ sự giúp đỡ này,” Arlecchino nói. “Cảm ơn nhé, Lumine.”
+
+“Đừng khách sáo,” Lumine nói.
+
+“Hì hì,” Paimon nói.
+
+#CH|Phần 2|Thời Gian Được Khắc Ghi|nc_snezhnaya_glimpse.png|Thời Gian Được Khắc Ghi
+
+Rời khu thử nghiệm Delusion, Lumine và Paimon bước lên thang máy quay trở lại khu vực đặt Gương Truy Ngược Ký Ức để báo cáo tình hình cho Pierro.
+
+>Đi thang máy đến Gương Truy Ngược Ký Ức
+
+>Báo cáo kết quả thí nghiệm cho Pierro
+
+“Quả nhiên là ở đây thật này. Pierro, thí nghiệm vừa kết thúc rồi,” Paimon nói.
+
+“Arlecchino không đi cùng... Thí nghiệm có vấn đề sao?” Pierro hỏi.
+
+“Thật nhạy bén! Thực ra chuyện là thế này...” Paimon nói.
+
+Paimon liền thuật lại đầu đuôi diễn biến ba vòng thí nghiệm và sự cố mất kiểm soát ở phút cuối.
+
+“Hiện tại Arlecchino thế nào rồi?” Pierro hỏi.
+
+“Trông có vẻ ổn, nhân viên thí nghiệm cũng nói không có gì đáng ngại, chắc là vẫn ổn thôi nhỉ? Cô ấy chỉ nói là muốn nghỉ ngơi một chút,” Paimon nói.
+
+“Phải nói rằng, cô ấy đã nhận ra mấu chốt vô cùng sắc bén. Đúng là vấn đề lớn nhất mà kế hoạch Delusion đang phải đối mặt...” Pierro nói. “Có lẽ, hiểu biết của chúng ta về quyền năng của ‘cái chết’ vẫn chưa đủ sâu sắc... Phải nhanh chóng đưa ra quyết định thôi.”
+
+“Còn bên này thì sao, có phát hiện gì mới không? Ví dụ như... về Ronova và Rhinedottir chẳng hạn?” Paimon hỏi.
+
+“Những thông tin mới có thể thu thập được vẫn còn rất ít, hơn nữa lại vô cùng vụn vặt, hầu hết đều là những thông tin đã biết hoặc vô dụng,” Pierro nói. “Có lẽ trước sự chênh lệch thực lực tuyệt đối, những kẻ bề trên vốn không cần phải che giấu quá nhiều.”
+
+“Ra là vậy... Trong cuộc chiến tình báo này, vất vả cho ông rồi, Pierro,” Paimon nói. “Cho nên thông tin giá trị nhất cho đến hiện tại vẫn là đoạn đối thoại giữa Ronova và Rhinedottir, đúng không?”
+
+“Tôi muốn xem lại lần nữa,” Lumine nói.
+
+“Ừm, tận dụng tối đa thông tin hiện có cũng là một hướng đi có thể tạo ra tiến triển,” Pierro nói. “Chờ một chút, tôi giúp cô truy xuất.”
+
+Pierro bước đến trước màn hình điều khiển gần đó để truy xuất lại đoạn dữ liệu ký ức.
+
+“Có thể chỉ huy Quan Thống Lĩnh Fatui làm việc, Lumine cũng có thể diện thật đấy,” Paimon nói.
+
+“Cũng có thể là nể mặt Paimon,” Lumine nói.
+
+“Xong rồi, xin mời,” Pierro nói.
+
+>Chạm vào Gương Truy Ngược Ký Ức
+
+Khi Lumine chạm tay lên bề mặt pha lê lạnh lẽo của Gương Truy Ngược Ký Ức, khung cảnh cuộc đối thoại giữa Rhinedottir và Ronova lại một lần nữa tái hiện trước mắt.
+
+“Cái chết không thể bị lạm dụng, Ronova, chắc hẳn cô hiểu rõ điều đó,” Rhinedottir nói. “Thiên Lý rất yêu thương con người. Nếu không có lệnh của Thiên Lý mà tự ý giáng xuống hình phạt cái chết cho con người... Đó sẽ là một trọng tội trong mắt Thiên Lý.”
+
+“Đương nhiên là tôi biết. Nhưng trong thời gian vị đại nhân đó chìm vào giấc ngủ, Đảo Thiên Không chỉ định kỳ giám sát hành vi của chúng ta mà thôi,” Ronova nói.
+
+Hình ảnh Rhinedottir và Ronova tan biến, để lại Lumine đứng lặng giữa không gian mờ ảo của tấm gương.
+
+“Hmm... như Pierro đã nói, trước sự chênh lệch thực lực tuyệt đối, những kẻ bề trên vốn không cần phải che giấu quá nhiều.” Lumine thầm nghĩ. “Rất nhiều thông tin, dù biết nhưng dường như cũng không thay đổi được gì. Ronova còn nói, đợi đến khi Thiên Lý thức tỉnh, tự nhiên sẽ tính sổ với Snezhnaya... Đây chắc là tình huống tuyệt vọng nhất rồi, liệu Snezhnaya có trở thành Khaenri'ah thứ hai không? Thiên Lý thật sự sẽ làm vậy sao? Suy cho cùng, thật ra mình cũng chẳng hiểu gì về Thiên Lý. Từ rất lâu trước khi mình bắt đầu hành trình ở Teyvat, có lẽ Thiên Lý đã chìm vào giấc ngủ rồi, phải chăng là bắt đầu từ lúc xảy ra thảm họa Khaenri'ah? Dù bây giờ đã đến Snezhnaya, nhưng thế giới này vẫn còn rất nhiều bí mật mà mình chưa hiểu rõ...”
+
+“Nhà Lữ Hành?” Paimon hỏi.
+
+“...Có lẽ trước đây mình từng nghĩ, Thiên Lý, Đảo Thiên Không hay những bí mật của thế giới này thì có liên quan gì đến mình chứ.” Lumine thầm nghĩ. “Mình chỉ muốn tìm lại người thân ở Teyvat mà thôi. Vậy mà chẳng biết từ lúc nào, mình bắt đầu quan tâm đến thế giới này. Những cuộc gặp gỡ ấy, những phong cảnh trên đường... Nếu chúng bị đe dọa, mình sẽ không khoanh tay đứng nhìn nữa. Anh hai, đây cũng là ý nghĩa của chuyến hành trình sao?”
+
+Đúng lúc ấy, một giọng nói trẻ trung xa lạ chợt vang vọng từ sâu trong tầng ký ức pha lê.
+
+“...Nói rất đúng, sao lại không nghĩ ra nhỉ?” một giọng nói bí ẩn vang lên.
+
+“Hửm? Là giọng của ai vậy...” Lumine thầm nghĩ. “Lẽ nào có ‘ký ức’ khác xuất hiện? Khoan đã... chẳng lẽ đó là Pierro lúc còn trẻ?”
+
+---
+
+Lớp sương ký ức trong gương mở ra một cảnh tượng xa xôi từ hàng trăm năm trước tại một sân viện yên tĩnh ở Khaenri'ah. Ở đó, một Pierro thời trẻ — khi ấy mang tên Eftirvit — đang đứng trò chuyện sôi nổi cùng người bạn đồng môn Hroptatyr.
+
+“...Lại là một quan điểm rất mới lạ, Eftirvit,” Hroptatyr nói. “Quả nhiên, thảo luận với anh lúc nào cũng có thu hoạch.”
+
+“Chỉ là một vài suy đoán sơ bộ, chưa chắc đã đúng,” Eftirvit nói. “Dù sao nếu cứ suy nghĩ theo hướng này, sẽ dẫn đến một vài suy luận hoang đường... Nghi thức triệu hồi ‘bản chất’ của hệ thống phức tạp, quy trình chiết xuất Azosite. Kết hợp với công nghệ đã phát triển trước đây để bắt giữ sao bay... Có lẽ chúng ta thực sự có thể vượt qua không gian, bỏ qua lực hấp dẫn...”
+
+Nghe đến đó, Hroptatyr hào hứng bước lên đặt tay lên vai bạn mình, ánh mắt ánh lên vẻ phấn khích tột độ.
+
+“Đó chẳng phải là điều khiến người ta phấn khích sao, bạn của tôi,” Hroptatyr nói. “Nếu lý thuyết khả thi, một ngày nào đó, chúng ta thậm chí còn có cơ hội triệu hồi bản chất của Đảo Thiên Không. Dĩ nhiên, vẫn còn vô số vấn đề kỹ thuật cần giải quyết... Và còn cần một vị vua đủ dã tâm chấp thuận việc này.”
+
+Giữa cuộc trao đổi say sưa ấy, một người phụ nữ lớn tuổi ngồi xe lăn từ tốn tiến lại gần dưới tán cây — cô giáo Mimameith.
+
+“Suy luận của con không hề hoang đường,” Mimameith nói. “Mọi không gian và thời gian đều liên kết mật thiết với nhau, lý thuyết chặt chẽ chính là phép thuật trong tay học giả.”
+
+“Cô giáo, sức khỏe của cô...” Eftirvit nói.
+
+“Hôm nay ta cảm thấy khá hơn nhiều rồi,” Mimameith nói. “Cảm ơn sự quan tâm của con, Eftirvit.”
+
+“Thật vui khi được gặp cô, cô Mimameith,” Hroptatyr nói. “Những ‘buổi thảo luận dưới tán cây’ gần đây đều thiếu vắng sự chỉ dạy của cô, thật đáng tiếc.”
+
+“Haha, không có gì đáng tiếc cả,” Mimameith nói. “Những gì ta có thể chỉ dạy cho các con nay đã chẳng còn bao nhiêu. Trong tương lai, các con nhất định sẽ trở thành những học giả xuất sắc nhất của đất nước này. Mong rằng ta vẫn còn cơ hội được nhìn thấy tương lai do mọi người xây dựng.”
+
+Eftirvit và Hroptatyr nhìn nhau mỉm cười trước lời kỳ vọng dịu dàng của người thầy. Thế nhưng, khung cảnh yên bình ấy chẳng kéo dài được bao lâu. Màn ký ức chuyển sang một hành lang tối tăm, lạnh lẽo nhiều năm sau đó.
+
+“Tình trạng của cô Mimameith thế nào rồi? Nghe nói anh lại đi thăm cô à?” Hroptatyr hỏi.
+
+“Cơ thể của cô giáo đang ‘suy thoái’ với tốc độ có thể nhìn thấy bằng mắt thường...” Eftirvit nói. “Dù là trị liệu, điều dưỡng, hay các biện pháp kéo dài tuổi thọ đều vô hiệu, chuyện này thật không đúng.”
+
+“Hẳn là di chứng để lại,” Hroptatyr nói. “Năm đó cô tham gia vào công trình nghiên cứu theo lệnh bệ hạ, sau khi trở về thì sức khỏe ngày càng sa sút...”
+
+“Dự án liên quan đến Vực Sâu đó sao?” Eftirvit hỏi.
+
+“Ừm,” Hroptatyr nói.
+
+“Tôi sẽ không bỏ cuộc, nhất định vẫn còn cách nào đó...” Eftirvit nói.
+
+“Cô Mimameith luôn đối xử với chúng ta như người thân, dù thế nào đi nữa cũng phải cứu được cô,” Hroptatyr nói. “Tôi sẽ cố gắng huy động tài nguyên của Viện Bí Ẩn, một số hướng nghiên cứu hiện tại có thể sẽ hữu ích. Ừm, về chuyện tôi được thăng chức viện trưởng trước đây, hy vọng anh đừng...”
+
+“Này. Giờ không phải lúc nói chuyện đó, tôi không muốn nhắc tới,” Eftirvit nói.
+
+“...Anh nói đúng, là tôi hơi mạo muội, xin lỗi... Trước mắt vẫn nên tập trung vào chuyện của cô,” Hroptatyr nói.
+
+Thời gian lại trôi qua. Ký ức chuyển tiếp đến căn phòng bệnh lặng lẽ của cô Mimameith. Eftirvit đứng dậy khỏi ghế khi thấy Hroptatyr bước vào cùng một cuốn sổ ghi chép dày cộm trên tay.
+
+“Anh nói anh đã tìm ra cách rồi sao?” Eftirvit hỏi.
+
+“Đúng vậy, ‘bí ẩn’ nằm ở đây,” Hroptatyr nói. “Chắc anh cũng biết, tôi vẫn luôn hướng dẫn các nghiên cứu liên quan đến Xích Nguyệt trong viện. Gần đây, tôi phát hiện ra một phương pháp có cấp bậc rất cao, có thể kéo dài tuổi thọ...”
+
+“Tính khả thi thế nào? Có gì khác so với những phương pháp thất bại trước đây?” Eftirvit hỏi.
+
+“Anh vẫn sắc sảo như hồi còn các ‘buổi thảo luận dưới tán cây’ vậy, Eftirvit,” Hroptatyr nói. “Nhưng cũng chính vì vậy, đó là khoảng thời gian chúng ta tiến bộ nhanh nhất. Không cần phân tích lý thuyết tại chỗ nữa, ‘kết quả’ mới là minh chứng thuyết phục nhất. Dù sao thì, cơ thể của cô cũng không thể chờ thêm được nữa...”
+
+“Được rồi, tôi tin anh, Hroptatyr,” Eftirvit nói. “Tôi chỉ nghi ngờ lý thuyết, chứ không nghi ngờ năng lực của anh.”
+
+“Cảm ơn, Eftirvit,” Hroptatyr nói. “Tôi nghĩ với thành quả này, ngay cả bệ hạ cũng sẽ phải trầm trồ. Tiếp theo, chỉ cần phân tích sức mạnh Xích Nguyệt theo lý thuyết này, cô giáo sẽ có thể...”
+
+Hroptatyr mở cuốn sổ ghi chép, giơ bàn tay triệu hồi một ấn ký huyền bí lơ lửng giữa lòng bàn tay. Thế nhưng chỉ ngay khoảnh khắc sau, sắc mặt hắn chợt biến đổi; hắn siết chặt nắm tay dập tắt luồng ấn ký rồi lặng lẽ khép sổ lại.
+
+“Hroptatyr? Sao vậy, anh đang do dự điều gì?” Eftirvit hỏi.
+
+“Hay là... bỏ đi,” Hroptatyr nói. “Có lẽ bộ lý thuyết này sai rồi, là tôi đã nhầm.”
+
+Hroptatyr quay người bước đi, cố ý tránh né ánh nhìn của Eftirvit.
+
+“...Anh đang nói dối. Anh chưa bao giờ tự phủ nhận bản thân, Hroptatyr, rốt cuộc là sao?” Eftirvit hỏi.
+
+“Không có gì. Tôi sẽ tìm cách khác, đã làm mất thời gian của anh rồi,” Hroptatyr nói.
+
+“Chẳng lẽ... anh lo tôi sẽ đánh cắp thành quả của anh sao?” Eftirvit hỏi. “Tuy tôi từng vì chuyện trước đây mà ghen tị với anh, nhưng không đời nào tôi làm chuyện như vậy. Huống hồ, chuyện này còn liên quan đến tính mạng của cô giáo! Hroptatyr! Này...!”
+
+Mặc cho tiếng gọi với theo đầy phẫn uất và lo lắng của Eftirvit, Hroptatyr vẫn dứt khoát đẩy cửa rời khỏi phòng. Cảnh tượng cuối cùng đọng lại trước một tấm bia mộ cô quạnh giữa bầu trời u ám: Hroptatyr đứng lặng cầm ô trước mộ cô Mimameith, rồi lặng lẽ bước ngang qua Eftirvit vừa đi tới mà chẳng ai ngoái lại nhìn ai.
+
+“Để ý đấy, trời sắp mưa rồi,” Hroptatyr nói.
+
+---
+
+Dư ảnh trong gương dần tan biến, Lumine thu tay lại và quay sang nhìn Pierro đang đứng chờ cạnh đó.
+
+“Xong rồi sao? Lần này cô ‘xem’ khá lâu đấy. Có thu hoạch gì không?” Pierro hỏi.
+
+“Hroptatyr... sau này đã trở thành ‘Hiền Giả’ trong số Năm Tội Nhân của Khaenri'ah, đúng không?” Lumine hỏi.
+
+“...Hmm?” Pierro hỏi. “Có vẻ cô đã nhìn thấy một số ký ức của tôi... Cũng khó trách. Dạo này tôi liên tục ở đây tìm hiểu thông tin, chắc hẳn một phần sức mạnh của pha lê đã vô tình phản chiếu lên người tôi.”
+
+“Lumine đã thấy ký ức của Pierro sao? Là về chuyện gì vậy? A... hỏi như vậy hình như hơi bất lịch sự, giống như đang dò hỏi chuyện riêng tư của người khác ngay trước mặt họ vậy...” Paimon nói.
+
+“Tôi không cố ý xem đâu...” Lumine nói.
+
+“Không sao, chỉ là một cuộc đời tẻ nhạt và thất bại mà thôi, cũng chẳng có bí mật gì đáng để che giấu,” Pierro nói.
+
+“Tôi có thể hỏi một câu không?” Lumine hỏi. “‘Bí ẩn’ mà lúc đó Hiền Giả tìm được, thứ lẽ ra có thể cứu được cô giáo, rốt cuộc là gì vậy?”
+
+“Đây từng là vấn đề làm tôi trăn trở mãi, cho đến tận bây giờ vẫn chưa có được câu trả lời,” Pierro nói.
+
+“Có thể câu trả lời nằm trong cuốn sổ ghi chép của Hiền Giả?” Lumine hỏi.
+
+“Đúng vậy, cuốn sổ đó...” Pierro nói. “Vẫn còn nhớ không lâu sau khi thảm họa Khaenri'ah xảy ra, vương quốc chìm trong cảnh hoang tàn đổ nát. Hroptatyr, kẻ đã hấp thụ sức mạnh Vực Sâu và trở thành ‘tội nhân’, đã tìm thấy tôi giữa đống đổ nát. Khi gặp mặt, tôi đã không còn đủ sức để trách mắng hay lên án hắn về những gì đã làm. Lúc đó tôi đã hoàn toàn xem hắn như một ‘con quái vật’. Còn Hroptatyr chỉ đưa cho tôi cuốn sổ ghi chép đó, rồi nói với tôi rằng... Hắn sắp rời khỏi Teyvat, chuẩn bị đến nơi sâu thẳm trong vũ trụ để hòa làm một với Vực Sâu, nhằm thu thập tri thức vô tận... Đúng là điên rồ. Hắn còn nói, cuốn sổ đó chứa đựng sự thật mà tôi từng muốn biết, cùng với phần ‘nhân tính’ cuối cùng mà hắn chuẩn bị từ bỏ.”
+
+“Vậy, vậy thì ông đã mở ra chưa? Cuốn sổ ghi chép đó...” Paimon nói.
+
+“Ban đầu tôi vô cùng căm ghét cuốn sổ ghi chép đó, thậm chí không muốn chạm vào...” Pierro nói. “Mãi về sau, khi nỗi căm hận đối với kẻ đã ruồng bỏ đất nước và phản bội cô giáo dần phai nhạt đôi chút, tôi mới bắt đầu thử nghiên cứu những bí mật ẩn chứa trong cuốn sổ đó. Kết quả là vừa mở cuốn sổ ra đã phát hiện... Rất nhiều nội dung trong đó tôi hoàn toàn không thể hiểu được, hay nói đúng hơn, nội dung trong đó sẽ khiến tôi phát điên.”
+
+“Chẳng lẽ là tri thức cấm kỵ?” Lumine hỏi.
+
+“Lúc đó tôi đã là Quan Thống Lĩnh của Fatui, phụng sự dưới trướng Nữ Hoàng,” Pierro nói. “Tôi hiểu rõ sự nguy hiểm của cuốn sổ này, thậm chí nó có thể mang đến thảm họa cấp quốc gia. Tôi không thể để Snezhnaya lặp lại vết xe đổ của Khaenri'ah... Vì vậy tôi đã đưa ra thỉnh cầu với Nữ Hoàng, rồi dẫn dắt toàn bộ Quan Chấp Hành cùng nhau phong ấn cuốn sổ này.”
+
+“Tôi nghĩ... nếu là thời điểm hiện tại, thì rủi ro từ cuốn sổ đó hẳn đã giảm đi rất nhiều...” Lumine nói.
+
+“Ý của cô là?” Pierro hỏi.
+
+“Trong chuyến hành trình ở Sumeru, tôi đã cùng Thảo Thần Nahida xóa bỏ hoàn toàn tri thức cấm kỵ khỏi Cây Thế Giới,” Lumine nói. “Giờ đây, tri thức cấm kỵ mà Vực Sâu nhúng tay vào hẳn là đã không thể tồn tại dưới bất kỳ hình thức nào ở Teyvat nữa rồi.”
+
+“Chuyện này tôi có nghe qua, chỉ là lúc đó tôi không nghĩ đến việc nó có liên quan đến cuốn sổ... Ừm, tôi đồng ý với phán đoán của cô,” Pierro nói. “Trùng hợp là nghiên cứu về Delusion hiện đang gặp bế tắc, mà lúc trước hướng nghiên cứu của Viện Bí Ẩn do Hroptatyr dẫn dắt cũng tập trung vào Xích Nguyệt...”
+
+“Biết đâu nội dung trong sổ ghi chép sẽ giúp ích được?” Paimon hỏi.
+
+“Thật mỉa mai... Không ngờ sau 500 năm, đến tận hôm nay vẫn không thể thoát khỏi cái bóng của hắn trong lĩnh vực nghiên cứu, kẻ ‘thiên tài’ đáng hận...” Pierro nói.
+
+“Nhưng ông nhất định cũng là một thiên tài siêu cấp trong mắt rất nhiều người đó, Pierro,” Paimon nói.
+
+“Cảm ơn nhé, Paimon,” Pierro nói.
+
+“Không ngờ ông lại cảm ơn một cách trịnh trọng như vậy... làm tôi ngại quá...” Paimon nói.
+
+“Có lẽ sự công nhận của Paimon mang một ý nghĩa đặc biệt đối với Pierro...” Lumine thầm nghĩ.
+
+“Vậy cũng nên chuẩn bị triệu tập toàn bộ Quan Chấp Hành rồi,” Pierro nói.
+
+“Toàn bộ Quan Chấp Hành? Huy động lực lượng lớn như vậy để làm gì?” Paimon hỏi.
+
+“Quy tắc được đặt ra khi phong ấn cuốn sổ...” Pierro nói. “Những quyết định liên quan đến rủi ro cấp quốc gia phải được tất cả các Quan Chấp Hành đương nhiệm bỏ phiếu tại chỗ, và chỉ được thực thi khi có sự đồng thuận tuyệt đối.”
+
+“Nghiêm ngặt vậy sao... Nhưng với tình hình hiện tại, chắc không ai bỏ phiếu phản đối đâu nhỉ? Tôi đoán nhất định sẽ có thể mở được phong ấn trên cuốn sổ đó,” Paimon nói.
+
+“Có muốn đi cùng không? Cuốn sổ được phong ấn ở nơi sâu nhất trong kho dữ liệu của Cục Khí Tài. Tôi sẽ triệu tập các Quan Chấp Hành đến hiện trường,” Pierro nói. “Nếu tất cả đồng ý gỡ bỏ phong ấn, sự thật của 500 năm trước sẽ được phơi bày, mọi thắc mắc của chúng ta đều sẽ có lời giải đáp.”
+
+“Nếu là toàn bộ Quan Chấp Hành thì tôi đi có phù hợp không?” Lumine hỏi.
+
+“Có thêm một người chứng kiến, cũng không có gì là không tốt cả,” Pierro nói. “Arlecchino chắc vẫn đang nghỉ ngơi, các vị Quan Chấp Hành khác cũng đều bận việc riêng. Triệu tập cần một chút thời gian, lát nữa chúng ta gặp nhau tại đó nhé.”
+
+>Đợi Pierro triệu tập Quan Chấp Hành
+
+Sau khi nghỉ ngơi chờ đợi đến ngày hôm sau, Lumine và Paimon quay lại Cục Khí Tài và bước lên khoang thang máy dẫn xuống tầng sâu nhất.
+
+>Đi thang máy đến kho tài liệu bị phong tỏa
+
+>Đến kho tài liệu bị phong tỏa
+
+“Đây là chỗ Pierro nói đúng không? Chẳng lẽ chúng ta là người đến đầu tiên?” Paimon hỏi.
+
+“Quan Chấp Hành đều rất bận rộn,” Lumine nói.
+
+“Không giống như chúng ta, có thể tự do rong ruổi khắp nơi. Dù có cho tôi cơ hội làm quan chức ở Snezhnaya, tôi nhất định cũng sẽ chọn đi du lịch cùng Lumine!” Paimon nói.
+
+“Tôi lại khá tò mò về cuộc sống của Quan Chấp Hành...” Lumine nói.
+
+“Sao? Lumine muốn trở thành Quan Chấp Hành thứ 12 của Fatui - ‘Nhà Lữ Hành’ à?” Paimon hỏi.
+
+“Nếu phải xếp sau Tartaglia thì thôi vậy,” Lumine nói.
+
+“Hahaha... Cũng phải, bây giờ anh ta chắc chắn đánh không lại Lumine rồi,” Paimon nói.
+
+>Đợi tất cả Quan Chấp Hành đến
+
+Trong lúc hai người vừa chuyện trò giết thời gian giữa hành lang lạnh lẽo, tiếng bước chân quen thuộc bỗng vang lên từ phía thang máy: Childe đã tới nơi.
+
+“Ồ? Lumine và Paimon đấy à?” Childe hỏi.
+
+“Ah... Chào nhé, Tartaglia! Rất vui được gặp anh!” Paimon nói. “Chắc anh ta không nghe thấy đâu nhỉ...”
+
+Khi Childe tiến lại gần vị trí hẹn, anh thoáng khựng lại nhìn quanh.
+
+“Hửm...? Tôi đi nhầm chỗ rồi sao, Pierro thông báo tập hợp ở đây mà...” Childe nói.
+
+“Không đâu, chúng tôi cũng được Pierro gọi đến đây. Ông ấy nói chúng tôi có thể đến để chứng kiến,” Paimon nói.
+
+“Ồ... thảo nào. Có một khoảnh khắc tôi còn tưởng rằng ngài Pierro đã thần thông quảng đại đến mức thu nạp cô vào làm Quan Chấp Hành luôn rồi chứ,” Childe nói. “Sao? Có muốn trở thành Quan Chấp Hành thứ 12 của Fatui không, ‘Nhà Lữ Hành’?”
+
+“Ý tưởng lớn gặp nhau?” Paimon hỏi.
+
+“Ngay từ lúc ở Hoàng Kim Ốc, anh đã mất đi tư cách xếp hạng trước tôi rồi,” Lumine nói.
+
+“Đáng ghét... Sao cứ lôi chuyện cũ ra thế, có cơ hội nhất định phải đấu lại lần nữa! Trong lúc cô du ngoạn thì tôi vẫn luôn nỗ lực để trở nên mạnh hơn!” Childe nói.
+
+“Tôi có thể nhường anh hai ba loại sức mạnh nguyên tố,” Lumine nói.
+
+“Nếu lần này anh lại thua, tôi sẽ cười nhạo anh thật đấy, nghị sĩ Tartaglia ạ,” Paimon nói.
+
+Một lát sau, tiếng vận hành của thang máy lại vang lên đều đặn trong không gian yên tĩnh.
+
+>Thang máy đang vận hành, xin vui lòng chờ...
+
+Pulcinella bước ra khỏi khoang thang máy tiến về phía điểm tập kết.
+
+“Ồ, ngài thị trưởng của chúng ta cũng đến rồi,” Childe nói.
+
+“Xin chào, Tartaglia, và cả hai vị khách quý của Snezhnaya,” Pulcinella nói.
+
+“Hân hạnh,” Lumine nói.
+
+“Dạo này vất vả rồi, ngài Pulcinella. Nghe nói từ khi Kế Hoạch Stuzha được triển khai, ngài vẫn chưa được nghỉ ngơi ngày nào,” Childe nói. “Mấy hôm trước Teucer còn nhắc là lâu rồi chưa được gặp ông Pulcinella, thằng bé nhớ ngài lắm đấy.”
+
+“Haha... Dạo này ta vẫn ổn, ‘Kế Hoạch Stuzha’ đã được tạm hoãn, nên công việc điều phối tài nguyên cũng bớt căng thẳng đi nhiều,” Pulcinella nói. “Đợi khi nào có cơ hội, ta cũng nên ghé qua làng Morepesok thăm Tonia, Teucer và tụi nhỏ một chuyến. Bên cậu thế nào rồi? Nghe nói cậu đang bận dẫn người đi trấn áp ma vật ở khu vực xung quanh...”
+
+“Chỉ là chút tàn dư nhỏ sau khi Nữ Hoàng bệ hạ tiêu diệt ma vật thôi, vừa hay để tôi hoạt động gân cốt chút. Ngài biết đấy, mấy việc này hấp dẫn tôi hơn là ngồi làm đống giấy tờ văn phòng nhiều,” Childe nói.
+
+“Thưa ngài Pulcinella, tôi có một câu hỏi...” Lumine nói.
+
+“Ồ? Có điều gì tôi có thể giải đáp cho Lumine đây? Hiếm khi ở nơi không có người của giới truyền thông, cứ hỏi tự nhiên đi,” Pulcinella nói.
+
+“Mối quan hệ giữa ngài và ‘Rokot’...” Lumine nói.
+
+“Hóa ra là chủ đề về Rokot à? Đó quả thực là một tổ chức dân chúng đang nổi như cồn, các thành viên cũng vô cùng bí ẩn. Nếu cô có hứng thú, tôi có thể nhờ người điều tra giúp,” Pulcinella nói. “À phải rồi, hình như cô khá thân với người của Nhà Hát Korolevskiy nhỉ? Tôi rất ấn tượng với những buổi ‘biểu diễn’ gần đây của họ, đặc biệt là tiểu thư Vodyanitsa, Odette, và... ừm, cả thanh niên Alyosha đó nữa.”
+
+“Tôi sẽ chuyển lời khen của ngài đến họ,” Lumine nói.
+
+“Hóa ra ngài Pulcinella cũng có hứng thú với mấy buổi diễn ca múa nhạc đó nhỉ? Tôi cứ tưởng ngày thường ngài bận rộn không có thời gian đi xem,” Childe nói.
+
+“Haha, ai mà chẳng có những khía cạnh ít người biết đến, chuyện thường tình thôi,” Pulcinella nói.
+
+Chẳng bao lâu sau, thang máy lại tiếp tục đi xuống. Từ bên trong khoang kín vọng ra tiếng tranh luận gay gắt giữa Sandrone và Pantalone ngay cả trước khi cửa thang máy kịp mở hẳn.
+
+“...Tôi nói lại lần nữa, Pantalone, kho bạc của Ngân Hàng Bắc Quốc dĩ nhiên là quan trọng, nhưng mức độ an ninh mà anh yêu cầu vẫn hơi khoa trương quá đấy,” Sandrone nói.
+
+“Không không, quý cô Sandrone, không nên nghĩ như vậy,” Pantalone nói. “Nếu không nhân cơ hội này tiến hành nâng cấp quy mô lớn cho hệ thống an ninh, mà chỉ đơn thuần làm công tác sửa chữa thôi thì... ‘Tổn thất’ của sự việc lần này sẽ được chốt lại thành một ‘tổn thất’ thuần túy và hoàn toàn không có ý nghĩa.”
+
+“Tổn thất là tổn thất, anh còn muốn ý nghĩa gì nữa, thật không hiểu nổi,” Sandrone nói.
+
+“Thương nhân tầm thường chỉ thấy được tổn thất, còn thương nhân xuất sắc sẽ nhắm tới những cơ hội do tổn thất mang lại,” Pantalone nói.
+
+“Lumine và Paimon?” Sandrone hỏi. “Tôi đã cảm thấy từ lúc hai người đến Snezhnaya, đi đâu cũng chạm mặt... Lần này thậm chí là cả buổi họp nội bộ của Quan Chấp Hành Fatui sao?”
+
+“Chắc là do chúng tôi có nhân duyên tốt ấy mà,” Lumine nói.
+
+“Lại gặp nhau rồi, hai vị. Tôi và quý cô Sandrone đang thảo luận về việc nâng cấp an ninh và tu sửa lại Ngân Hàng Bắc Quốc,” Pantalone nói. “Như hai vị đã biết, quý cô Sandrone là kỹ sư giỏi nhất Teyvat, ngoài cô ấy ra thì chẳng ai đảm nhận nổi ủy thác này đâu.”
+
+“Bớt nịnh hót đi. Haiz... Nếu làm theo phương án anh đề xuất lúc trước, tôi muốn nghe anh báo giá trước đã,” Sandrone nói.
+
+Pantalone mỉm cười, thong thả giơ ba ngón tay lên ra dấu.
+
+“Tôi có thể chi ra... con số này,” Pantalone nói.
+
+“Cũng tạm hợp lý. Cơ mà, chẳng phải anh là người giàu nhất Teyvat sao? Tôi cứ nghĩ anh sẽ đưa ra một con số đẹp hơn đấy,” Sandrone nói.
+
+“Haha... Có lẽ, tôi chỉ là người biết kinh doanh nhất thôi,” Pantalone nói.
+
+Lượt thang máy tiếp theo đưa Arlecchino xuống tầng hầm. Dù mới trải qua trận thử nghiệm nguy hiểm không lâu, thần thái cô vẫn điềm tĩnh như thường lệ.
+
+“Ồ, là Arlecchino! Arlecchino, sức khỏe của cô sao rồi, chúng tôi đều rất lo cho cô,” Paimon nói.
+
+“Ngủ một giấc xong, giờ đã gần như hồi phục đến mức có thể tiếp tục tiến hành thí nghiệm bất cứ lúc nào,” Arlecchino nói.
+
+“Ừm... có phải hơi cố quá rồi không,” Paimon nói.
+
+“Xem ra trong lúc tôi nghỉ ngơi, mọi người đã có thêm tiến triển mới rồi... Nghe nói lần này triệu tập chúng tôi là vì ‘ghi chép của Hiền Giả’?” Arlecchino hỏi.
+
+“Đúng vậy! Tôi nghe Pierro nói cuốn sổ đó rất có thể liên quan đến nghiên cứu của ‘Hiền Giả’ về Xích Nguyệt, biết đâu lại giúp ích được gì đó,” Paimon nói.
+
+“Có cảm thấy đáng bài xích không?” Lumine hỏi.
+
+“Bài xích ư? Chưa đến mức đó. Dù vài trăm năm trước Viện Bí Ẩn có dùng thủ đoạn gì để nghiên cứu Xích Nguyệt, thì giờ cũng đã là quá khứ rồi,” Arlecchino nói. “Điều tôi hướng tới hiện tại là tương lai của Xích Nguyệt và Snezhnaya. Nếu cuốn sổ của nhân vật này có ích, tôi mới là người được lợi nhiều nhất.”
+
+“Xem ra ‘lá phiếu’ tưởng như khó lấy nhất cũng không gặp vấn đề gì rồi...” Paimon nói.
+
+Cuối cùng, Pierro cũng bước ra từ thang máy, hoàn tất sự có mặt của toàn bộ các Quan Chấp Hành đương nhiệm.
+
+“Cảm ơn các vị đã có mặt đúng giờ, tôi tin là các vị đã nắm được tình hình chung rồi,” Pierro nói. “Chúng ta chuẩn bị bắt đầu thôi.”
+
+Các Quan Chấp Hành lần lượt theo chân Pierro tiến vào sảnh chính trước cánh cửa kho lưu trữ.
+
+“Sao tôi... lại cảm thấy hơi hồi hộp nhỉ? Cuộc họp toàn ‘nhân vật lớn’ thế này, cảm giác không được thoải mái...” Paimon nói.
+
+“Không sao đâu, toàn người quen cả mà,” Lumine nói.
+
+“Cũng... cũng đúng nhỉ...” Paimon nói.
+
+>Nói chuyện với Pierro, chứng kiến cuộc bỏ phiếu của các Quan Chấp Hành
+
+“Nhìn thế này mới thấy, đúng là đã ít đi rất nhiều người,” Childe nói. “Nhớ lúc trước trong tang lễ của Rosalyne, chúng ta cũng tụ họp lại như thế này. Khi đó ai mà ngờ được chỉ trong thời gian ngắn lại mất đi nhiều người đến vậy.”
+
+“Những gì anh nói tuy là sự thật, nhưng tôi không muốn vì thế mà có người lại nhớ đến cái tên súc sinh Dottore đó,” Sandrone nói.
+
+Sandrone liếc mắt nhìn sang phía Pantalone.
+
+“So với lúc đó, bầu không khí quả thật thoải mái hơn nhiều,” Pantalone nói.
+
+“Điều đó chứng tỏ những người còn lại như chúng ta, giờ đây đều có chung mục tiêu và lập trường,” Pulcinella nói.
+
+“Tạm thời thôi. Ít nhất có thể duy trì cho đến khi giải quyết xong vấn đề Chấp Chính Của Cái Chết,” Arlecchino nói.
+
+“Quay lại vấn đề chính. Hôm nay chúng ta cần biểu quyết tại chỗ về việc có nên gỡ bỏ phong ấn cuốn sổ ghi chép của Hiền Giả hay không,” Pierro nói. “Về những rủi ro và lợi ích trong đó, mời mọi người nghe tôi trình bày...”
+
+>Pierro đã trình bày cho mọi người một cách trung lập và khách quan về những rủi ro cũng như lợi ích tiềm năng của ‘sổ ghi chép’...
+
+>Các Quan Chấp Hành có mặt đã chìm vào suy tư và im lặng trong chốc lát, dường như trong lòng mỗi người đều đã có quyết định...
+
+“Hmm...” Pulcinella nói. “Lý do ban đầu phong ấn cuốn sổ này chủ yếu là vì lo ngại Snezhnaya sẽ trở thành Khaenri'ah thứ hai, bị Thiên Lý và những người duy trì nhắm đến. Nhưng đến ngày hôm nay, chúng ta đã sớm trở thành cái gai trong mắt Chấp Chính Của Cái Chết. Tôi cho rằng không cần lo lắng nữa, tôi tán thành việc gỡ bỏ phong ấn.”
+
+“Vậy thì những lo ngại về ô nhiễm Vực Sâu dường như cũng không còn là vấn đề gì lớn nữa. Dù sao thì chúng ta cũng có chuyên gia xử lý ô nhiễm Vực Sâu ở đây,” Childe nói. “Đúng không, đồng đội? Có cô ở đây, tôi nhất định sẽ tán thành.”
+
+Childe quay sang nhìn Lumine, còn cô nhẹ nhàng gật đầu đáp lại.
+
+“Hiện tại chính là giai đoạn chúng ta cần phải ‘bất chấp thủ đoạn’. Thiên Lý muốn chúng ta diệt vong, có lẽ chỉ là chuyện trong chớp mắt,” Arlecchino nói. “Tôi không muốn đến phút chót phải hối hận vì còn một con át chủ bài chưa đánh ra. Tôi tán thành việc gỡ bỏ phong ấn.”
+
+“Rủi ro hoàn toàn nằm trong phạm vi chấp nhận được,” Pantalone nói. “Nói cách khác, trong hoàn cảnh tuyệt vọng như hiện tại, rủi ro lớn nhất lại đến từ việc không dám ‘đánh cược’. Tôi tán thành việc gỡ bỏ phong ấn.”
+
+“Tôi xác nhận lại một chút. Chủ nhân của cuốn sổ này, kẻ được gọi là Hiền Giả đó, cũng là một trong Năm Tội Nhân của Khaenri'ah đúng không?” Sandrone hỏi. “Giống như Rerir?”
+
+“Đúng vậy, họ là đồng phạm,” Pierro nói.
+
+“Sau đó kẻ này đắm chìm trong nghiên cứu, không màng đến cảm nhận của người khác, cuối cùng trở nên giống như một kẻ điên, đúng không?” Sandrone hỏi. “Giống như Dottore?”
+
+“Hai người đó có tính cách khá khác nhau, nhưng từ góc độ trải nghiệm, mô tả của cô quả thực chính xác,” Pierro nói.
+
+“Ah, thật là, tất cả những ký ức tồi tệ đều cùng lúc ùa về. Thật muốn xóa hết những ký ức liên quan đến mấy kẻ này cho rồi, vậy mà mấy người lại muốn dựa dẫm vào kỹ thuật của loại người này sao...” Sandrone nói.
+
+“Hình như Sandrone không cam tâm lắm, cô ấy chuẩn bị phản đối sao...” Paimon nói.
+
+“Sau những gì đã xảy ra ở Nod-Krai...” Lumine nói.
+
+“Nhưng mà này, lúc Hiền Giả đưa cuốn sổ cho ông có nói rằng bên trong chứa đựng phần ‘nhân tính cuối cùng’ của mình phải không?” Sandrone hỏi.
+
+“Ừm,” Pierro nói.
+
+“...Được rồi, tôi tán thành việc gỡ bỏ phong ấn,” Sandrone nói.
+
+“Hả? Tôi còn tưởng cô sẽ phản đối chứ!” Paimon nói.
+
+“Bản thân tôi rất tò mò về việc những tên khốn này được sinh ra như thế nào, trong cuốn sổ đó có lẽ sẽ có manh mối, đáng để xem thử,” Sandrone nói.
+
+“Một góc nhìn hoàn toàn không ngờ tới...” Lumine nói.
+
+“Được rồi, việc gỡ bỏ phong ấn do tôi khởi xướng, người khởi xướng không cần bỏ phiếu,” Pierro nói. “Vậy thì, tất cả Quan Chấp Hành đều đã nhất trí thông qua, mọi người hãy theo tôi.”
+
+Cánh cửa nặng nề dẫn vào kho tài liệu bị phong tỏa từ từ mở ra.
+
+>Vào kho tài liệu bị phong tỏa
+
+“Tôi tưởng bỏ phiếu xong là đi được rồi,” Childe nói.
+
+“Lỡ như có rủi ro gì thực sự xảy ra, những người cùng đưa ra quyết định thì nên cùng nhau gánh vác,” Pulcinella nói.
+
+“Nhưng biết đâu rút lui sớm lại có thể giúp bảo toàn lực lượng cho Snezhnaya,” Pantalone nói.
+
+“Đừng nói mấy lời xui xẻo thế nữa,” Sandrone nói.
+
+>Xem nội dung trong sổ ghi chép của ‘Hiền Giả’
+
+Cả nhóm tiến đến trước bệ đá ở trung tâm căn phòng, nơi cuốn sổ ghi chép được niêm phong cẩn mật.
+
+“Sao rồi, ‘sổ ghi chép’ vẫn còn nguyên vẹn chứ?” Arlecchino hỏi.
+
+“Ừm, sổ ghi chép ở đây. Nếu trong lúc tôi lật xem xảy ra chuyện gì ngoài ý muốn, mong các vị hãy xử lý một cách quyết đoán,” Pierro nói.
+
+“Xử lý... cái gì? Xử lý ông á?” Paimon hỏi.
+
+“Chắc sẽ không sao đâu,” Lumine nói.
+
+Pierro chần chừ một thoáng, rồi đưa tay nhấc cuốn sổ lên, phủi sạch lớp mạng nhện bám trên bìa và lật mở từng trang.
+
+“Hmm...” Pierro nói. “Đúng như Lumine dự đoán, cuốn sổ này ban đầu không phải như vậy. Bây giờ rất nhiều nội dung đã trở thành khoảng trắng, hẳn là tri thức cấm kỵ đã bị xóa bỏ. Phần còn lại, một số là ghi chép suy nghĩ cá nhân của Hroptatyr, một số là thành quả nghiên cứu qua các giai đoạn của Viện Bí Ẩn.”
+
+“Còn vấn đề mà mọi người luôn thắc mắc thì sao? Cách bí ẩn mà Hiền Giả vốn định dùng để cứu cô giáo, có tìm thấy không?” Paimon hỏi.
+
+“‘...Suy đoán quả không sai, Xích Nguyệt quả nhiên sở hữu quyền năng liên quan đến cái chết. Phát hiện này có được cũng nhờ gần đây viện đã không ngừng tìm hiểu sâu về sức mạnh Vực Sâu.’,” Pierro nói. “‘Với trình độ kỹ thuật hiện tại của Viện Bí Ẩn, đã có thể bước đầu lấy được phần quyền năng này và khống chế nó.’ ‘Không sai... Đây là lần có hy vọng nhất từ trước đến nay. Không, phải nói là lần này nhất định sẽ thành công.’ ‘Sử dụng sức mạnh cấp bậc quy tắc thế giới, có thể giúp con người hoàn toàn tránh xa cái chết, như vậy cô Mimameith cũng sẽ có thể sống tiếp.’ ‘Phải nhanh chóng báo cho Eftirvit. Ồ đúng rồi, còn phải đặt tên cho thành quả này nữa...’ ‘Gọi là 'Chúc Phúc Bất Tử' đi...’”
+
+“Hửm!?” Lumine hỏi.
+
+“‘Chúc Phúc Bất Tử’? Nghe có vẻ quen quen. Đây chính là đáp án sao? Thế nào Pierro, sau đó thì sao?” Paimon hỏi.
+
+“Cái tên này... về sau lại bị Hroptatyr gạch bỏ, và sửa lại thành một cái tên khác...” Pierro nói. “...‘Lời Nguyền Bất Tử’.”
+
+“!!!” Lumine nói.
+
+Nghe đến bốn chữ ấy, đồng tử Lumine chợt co rút lại.
+
+“Lời nguyền bất tử!” Paimon nói. “Lúc đó ở Viện Bí Ẩn, Hiền Giả đã tự mình nghiên cứu ra ‘lời nguyền bất tử’?”
+
+“Phía sau vẫn còn nội dung...” Pierro nói. “‘Sao lại không nghĩ ra sớm hơn chứ... Lúc đó chỉ một lòng mong cô có thể sống tiếp, sau đó lại bị niềm vui đạt được thành quả làm cho mờ mắt.’ ‘Nó không phải là chúc phúc, tuyệt đối không phải là chúc phúc... Thứ này chỉ mang đến đau khổ và giày vò vô tận, thà cứ để cô ra đi như vậy còn hơn...’ ‘Có lẽ Eftirvit sẽ không bao giờ hiểu được, mà cũng không cần phải giải thích nữa. Thế giới của anh ta quá đơn thuần, nhiều lúc chỉ có phải trái đúng sai.’ ‘Nghiên cứu này nên bị niêm phong vĩnh viễn, không ai đáng phải chịu sự giày vò như vậy cả...’”
+
+“Không ngờ sự thật lại là như vậy...” Lumine nói.
+
+“Tôi đã đại khái đoán ra được toàn bộ câu chuyện rồi. Năm đó Hiền Giả chắc chắn không thể ngờ rằng, trong tương lai ngài lại thấu hiểu mình theo cách này,” Arlecchino nói.
+
+“Ngài có vì thế mà tha thứ cho Hiền Giả không, Pierro?” Sandrone hỏi.
+
+“Dường như vận mệnh luôn tìm mọi cơ hội để trêu ngươi người ta, càng sống lâu càng thấm thía điều đó,” Pierro nói. “Tôi sẽ không vì chuyện này mà thay đổi cách nhìn về hắn. Việc này chỉ là nguồn gốc cho sự rạn nứt giữa tôi và Hroptatyr, chứ không phải nguồn gốc cho lòng căm hận của tôi đối với hắn. Dù hắn không phản bội cô giáo, nhưng vẫn phản bội đất nước, phản bội người dân Khaenri'ah, thậm chí phản bội cả thế giới này.”
+
+“Nhưng tôi lại cảm thấy, đã có những suy nghĩ tinh tế như vậy, có lẽ Hiền Giả chưa hẳn là một ‘kẻ ác’ hoàn toàn,” Pantalone nói. “Chẳng phải Hiền Giả còn nhắc đến việc cuốn sổ này chứa đựng ‘nhân tính cuối cùng’ của mình sao? Rốt cuộc điều đó nghĩa là gì?”
+
+“Tôi cũng đang chờ đợi câu trả lời,” Sandrone nói.
+
+“Ồ? Trang này có kẹp thứ gì đó,” Pierro nói.
+
+Từ giữa trang giấy, Pierro rút ra một vật trông tựa như bức ảnh chụp lại hình bóng của ông và Hroptatyr năm xưa.
+
+“Là gì vậy, để tôi xem nào...” Paimon nói. “Một bức tranh? Hình như cũng không phải... Trang ghi chép này có viết gì không?”
+
+“‘Tôi đã quyết định ra đi. Cuộc đời của tôi ở Teyvat sắp kết thúc.’,” Pierro nói. “‘Sau khi tiếp xúc với Vực Sâu thực sự, tôi mới nhận ra cuộc đời này của mình trống rỗng và tẻ nhạt đến nhường nào.’ ‘Giống như vĩnh viễn bị nhốt trong một cái kén không chút ánh sáng lọt qua, mà chẳng hề hay biết.’ ‘Nhưng dù vậy, tôi vẫn thường xuyên hoài niệm về những 'buổi thảo luận dưới tán cây', hoài niệm khung cảnh ấy cùng với khoảng thời gian khi mọi thứ tràn đầy hy vọng.’ ‘Nhưng điều đó hoàn toàn không cần thiết. Với tương lai mà tôi sắp phải đối mặt, nó lại càng không cần thiết.’ ‘Tôi quyết định sẽ 'chạm khắc' lại đoạn ký ức ấy, cùng 'nhân tính' mà mảnh đất này đã tạo nên cho mình, rồi để chúng ở lại Teyvat.’ ‘Cũng như mọi cuộc gặp gỡ trong đời, đều nên được lưu giữ ở khoảnh khắc đẹp nhất.’”
+
+“Hai câu cuối nghĩa là gì vậy... ‘Chạm khắc’ ký ức?” Paimon hỏi. “Nhìn kỹ thì... chẳng lẽ thứ được vẽ trên này chính là khung cảnh ‘buổi thảo luận dưới tán cây’ đó sao?”
+
+“Tôi mơ hồ cảm nhận được hơi thở của Vực Sâu...” Lumine nói.
+
+“‘Chạm khắc’... Đây không phải tranh thông thường. Chất liệu của thứ này hình như là pha lê, dùng sức mạnh Vực Sâu để khắc ra hình ảnh trên đó,” Pierro nói.
+
+“Pha lê do Hiền Giả để lại? Loại chất liệu có thể lưu trữ ký ức đó?” Sandrone hỏi.
+
+“Mọi người cẩn thận!” Lumine nói.
+
+“Ối!!” Paimon nói.
+
+---
+
+>Vào ‘Ký Ức Được Khắc Ghi’
+
+Luồng sức mạnh Vực Sâu từ mảnh pha lê cuốn phăng toàn bộ những người có mặt vào một không gian ký ức kỳ lạ. Khi mở mắt ra, Pierro nhận thấy mình đang đứng giữa khung cảnh sân viện Khaenri'ah quen thuộc năm xưa.
+
+“Nơi này... tôi biết,” Pierro nói. “Nơi này hẳn là trong ký ức của Hroptatyr, xem ra sự hoài niệm của hắn về ‘buổi thảo luận dưới tán cây’ là thật. Nhưng dường như lại có chút khác biệt so với ký ức mà pha lê thông thường thể hiện, là do ảnh hưởng của sức mạnh Vực Sâu sao? Dường như ở đây... tôi không chỉ đơn thuần là một ‘người quan sát’. Lên phía trước xem thử vậy.”
+
+Bước qua cột đá đầu tiên, diện mạo già nua của Pierro chợt tan biến, nhường chỗ cho hình dáng thanh niên Eftirvit của năm trăm năm trước. Phía trước tán cây, bóng dáng Hroptatyr thời trẻ đang đứng chờ sẵn.
+
+“Cuối cùng anh cũng đến rồi, Eftirvit. Đến muộn đâu phải là tác phong của anh,” Hroptatyr nói.
+
+“Cảm giác chân thực này... Đây chắc chắn không đơn thuần chỉ là ký ức.” Eftirvit thầm nghĩ. “Dựa theo nội dung ghi trong sổ tay của hắn, Hroptatyr đứng trước mặt mình đây e là... ‘nhân tính cuối cùng’ của hắn rồi. Hắn đã phong ấn nhân tính của bản thân vào đoạn ký ức này sao? Hừ, đúng là không bao giờ hành xử bình thường cả...”
+
+“Eftirvit? Sao lại không nói gì thế, trông anh có vẻ không muốn đến đây cho lắm nhỉ,” Hroptatyr nói.
+
+“Tôi đúng là chẳng hề muốn gặp anh chút nào,” Eftirvit nói.
+
+“Hả? Lẽ nào anh vẫn còn để bụng chuyện chọn đề tài luận văn lần trước? Tôi đã xin lỗi rồi mà, thật sự chỉ là vô tình chọn trùng hướng nghiên cứu thôi...” Hroptatyr nói. “Dù sao thì đối với những học giả như chúng ta, đúng là rất khó cưỡng lại sức hút của Xích Nguyệt.”
+
+“Tôi không muốn tự xếp mình chung hàng ngũ với anh đâu,” Eftirvit nói.
+
+“...Hôm nay anh cay nghiệt thế, Eftirvit,” Hroptatyr nói. “Hay là thế này đi. Để đền bù, chủ đề cho buổi thảo luận hôm nay sẽ do anh quyết định, tôi sẽ dốc hết sức suy nghĩ giúp anh.”
+
+“Với trình độ và mức độ hiểu biết về Xích Nguyệt của anh ở thời điểm này, e là chẳng giúp ích gì được cho tôi đâu,” Eftirvit nói.
+
+“Ồ? Mấy câu vừa rồi, tôi không thể xem như chưa nghe thấy được. Anh có ý gì đây?” Hroptatyr hỏi. “Này, Eftirvit, cứ ra đề xem, đừng coi thường người khác thế. Nếu tôi giải được thì tôi muốn anh phải...”
+
+Eftirvit quay lưng bước đi vài bước, khiến Hroptatyr vội cất tiếng gọi với theo.
+
+“...Chuyển một nửa kinh phí nghiên cứu tháng sau sang phòng thí nghiệm của tôi, anh dám cược không?” Hroptatyr hỏi.
+
+“Haiz...” Eftirvit nói.
+
+Eftirvit dừng chân, quay lại ngồi xuống chiếc ghế đá bên cạnh.
+
+“...Giả sử có một loại vũ khí, vận hành bằng quyền năng liên quan đến ‘Cái Chết’ của Xích Nguyệt...” Eftirvit nói.
+
+>Dù biết chỉ lãng phí thời gian, Pierro vẫn dùng hình thức giả định để mô tả vấn đề nan giải mà Delusion trong tương lai sẽ gặp phải...
+
+Eftirvit đứng dậy chuẩn bị rời đi.
+
+“Anh cứ ở đây mà tự vò đầu bứt tai đi. Tôi đi trước đây, còn nhiều việc phải làm lắm,” Eftirvit nói.
+
+“Cảm ơn nhé Eftirvit, cái này quả thực phấn khích vô cùng!” Hroptatyr nói. “Những lý thuyết anh vừa nói, dù chỉ là giả định, nhưng cảm giác hoàn toàn có thể thực hiện được trong tương lai. Thật sự khiến tôi mở mang tầm mắt.”
+
+“Không cần cảm ơn. Muốn thì tự đi cảm ơn bản thân ấy, không ít lý thuyết nền tảng trong đó vốn được dựa trên thành quả của anh,” Eftirvit nói.
+
+“Tôi cảm thấy... vấn đề của giả định này nằm ở chỗ, thiết kế của ‘vũ khí’ đó có phải ôn hòa quá rồi không?” Hroptatyr hỏi.
+
+“Ồ?” Eftirvit hỏi.
+
+“Nếu mục đích cuối cùng là gia tăng cấp bậc để chạm tới sức mạnh ‘Cấp Quy Tắc’, thì sao lại lãng phí tâm trí vào việc triệt tiêu tác dụng phụ cơ chứ?” Hroptatyr hỏi. “Nếu không quán triệt ‘Cái Chết’, thì làm sao chiếm đoạt được quyền năng của ‘Cái Chết’?”
+
+“Đúng là một tên khốn,” Eftirvit nói.
+
+“...Cấu trúc thế này có thể lấy các quyền năng còn lại của Xích Nguyệt làm chất dẫn, tạo ra sự bùng phát sức mạnh tức thời, kích hoạt ‘Tuyệt Chiêu’ thực sự,” Hroptatyr nói.
+
+Cả hai ngồi lại bên nhau, vùi đầu trao đổi hồi lâu về bản thiết kế giả định ấy.
+
+“Có lẽ khả thi... Tôi thật không ngờ trong khoảng thời gian ngắn mà anh lại hiểu được đến mức này, Hroptatyr,” Eftirvit nói.
+
+“Haha, dù gì tôi cũng không hoàn toàn mù tịt với thứ anh nói đến, trước đây tôi cũng tranh thủ thời gian rảnh nghiên cứu qua rồi,” Hroptatyr nói.
+
+“Hóa ra khoảng cách đã bắt đầu xuất hiện từ lúc đó rồi à,” Eftirvit nói.
+
+“Haiz, có điều những phương án chúng ta vừa bàn, dù trên lý thuyết là khả thi, nhưng rốt cuộc vẫn chỉ là lý luận viển vông...” Hroptatyr nói. “Loại vũ khí chỉ dùng một lần là người sử dụng sẽ bỏ mạng... thì có ý nghĩa thực chiến gì cơ chứ?”
+
+“Chưa chắc đã vô nghĩa... Tôi ở tương lai có thể dùng được,” Eftirvit nói.
+
+“Trong tương lai anh sống như thế nào, Eftirvit? Cảm giác anh dường như rất vất vả đó,” Hroptatyr nói.
+
+“Anh nhận ra rồi sao? Quả thực tôi không phải Eftirvit của mốc thời gian này,” Eftirvit nói.
+
+“Đúng, tôi chưa ngốc đến vậy đâu. Với lại hình như anh cũng không có ý định che giấu,” Hroptatyr nói. “Có thể nói cho tôi biết, thế giới tương lai trông như thế nào không? Lúc đó tôi là một người như thế nào?”
+
+“Tương lai cũng chẳng tốt đẹp gì, mà anh cũng chỉ là một tên khốn thôi,” Eftirvit nói.
+
+“Ơ...” Hroptatyr nói.
+
+---
+
+Cùng lúc đó, ở một tầng không gian tách biệt bên trong mảnh pha lê, Lumine cũng mở mắt tỉnh dậy giữa cảnh sắc xa lạ của Viện Bí Ẩn Khaenri'ah năm xưa.
+
+“Nơi này... là ký ức bên trong pha lê sao? Lẽ nào là hồi ức của vị ‘Hiền Giả’ đó?” Lumine hỏi. “Mọi thứ liên quan đến ‘Đại Tội Nhân’ đều phải cẩn trọng. Cứ đi tiếp về phía trước xem sao.”
+
+“Cuối cùng anh cũng đến rồi, Eftirvit...” Hroptatyr nói. “Á, xin lỗi, tôi nhận nhầm người rồi. Tôi cứ tưởng đến vào giờ này thì chắc chắn là người bạn kia của tôi. Xin hỏi, cô có nhìn thấy anh ấy không? Một học giả tóc vuốt ngược ra sau, trông khá là nghiêm túc.”
+
+Lumine ngoái nhìn quanh đầy ngơ ngác trước khi cất tiếng.
+
+“Hả? Đang nói chuyện với tôi sao?” Lumine hỏi.
+
+“Tất nhiên rồi, ở đây chẳng phải chỉ có hai chúng ta thôi sao?” Hroptatyr hỏi.
+
+“Hóa ra đây không phải chỉ là ký ức... thậm chí còn có thể tương tác được với người ở trong ký ức sao?” Lumine thầm nghĩ.
+
+“Trang phục của cô trông không giống người trong viện nhỉ... Lạc đường rồi sao?” Hroptatyr hỏi.
+
+“Không có, tôi chỉ vô tình đi ngang qua thôi,” Lumine nói.
+
+“Ra là vậy, thế thì tốt rồi,” Hroptatyr nói.
+
+Hroptatyr thong thả ngồi xuống băng ghế dài.
+
+“Nếu có thể trò chuyện, thì đây chẳng phải là cơ hội hiếm có để giao tiếp với ‘Đại Tội Nhân’ sao...?” Lumine thầm nghĩ.
+
+“Cảm giác như cô đang có tâm sự gì đó thì phải,” Hroptatyr nói. “Ồ, tôi không có ý gì đâu, chỉ mơ hồ cảm thấy cô là người gánh vác rất nhiều thứ. Hơn nữa trên người cô có một khí tức tôi chưa từng thấy... Ừm, nguồn gốc là từ đâu nhỉ... Dường như không thuộc về thế giới này vậy? Làm tôi khá tò mò đấy...”
+
+“Không ngờ ‘Hiền Giả’ lại nhạy bén đến thế, nếu hắn đã chủ động mở lời, hay là mình thử hỏi xem...” Lumine thầm nghĩ.
+
+“Tôi vẫn luôn tìm kiếm anh trai của mình, chúng tôi đã thất lạc nhau từ rất lâu rồi,” Lumine nói. “Tôi biết anh ấy từng ở lại đất nước này rất lâu, anh có ấn tượng gì không? Trông rất giống tôi, có mái tóc màu vàng.”
+
+“Hóa ra là thất lạc người thân sao, thật xin lỗi, tôi chưa từng gặp ai trông giống cô cả...” Hroptatyr nói.
+
+“Vậy rất có thể vào thời điểm này, anh trai vẫn chưa tới Khaenri'ah...” Lumine thầm nghĩ.
+
+“Nhưng nhắc đến tóc vàng... Tôi có một người quen rất lợi hại, anh ấy từng kể tôi nghe một câu chuyện ngụ ngôn,” Hroptatyr nói. “Nội dung khá dài, đại khái kể về hai người kế nhiệm tóc vàng đi tìm trân châu sáng thế. Sau khi nghe xong, anh ấy nói với tôi rằng câu chuyện ngụ ngôn đó thực ra tượng trưng cho những việc sẽ xảy ra trong tương lai. Và người kế nhiệm đầu tiên đó, chính vì đã đáp lại lời kêu gọi của tôi trong tương lai không xa, nên mới bước vào vận mệnh như vậy. Chẳng lẽ... Có liên quan đến cô sao?”
+
+“Nghe có vẻ mơ hồ quá, ‘người kế nhiệm’ chẳng lẽ là chỉ anh hai khi ở Khaenri'ah sao?” Lumine thầm nghĩ. “‘Đáp lại lời kêu gọi của Hiền Giả’ là ý gì chứ... Xem ra tốt nhất nên đi hỏi Pierro thôi.”
+
+“Tôi nghĩ ít nhất chắc không phải là tôi,” Lumine nói.
+
+“Hahaha, đúng vậy, chúng ta chỉ tình cờ gặp nhau thôi,” Hroptatyr nói. “Xin lỗi, đã không giúp được gì, mà còn nói mấy lời kỳ quặc với cô.”
+
+---
+
+>Nói chuyện với các Quan Chấp Hành đang có mặt
+
+Ánh sáng pha lê dần tan biến, trả toàn bộ nhóm người trở về kho lưu trữ lạnh lẽo của Cục Khí Tài.
+
+“À ừm... chuyện gì vậy, tôi trở về hiện thực rồi sao?” Paimon hỏi. “Nghe tôi nói này, Lumine, không xong rồi. Hình như vừa rồi tôi đã tiến vào một không gian khác, ở đó có một kẻ mà tôi nghi ngờ hắn chính là...”
+
+“Là Hiền Giả lúc còn trẻ,” Lumine nói.
+
+“Hả? Lumine cũng gặp sao?” Paimon hỏi.
+
+“Không chỉ hai người đâu, tôi cũng đã nói chuyện với hắn rồi. Hắn còn nói có cơ hội sẽ giúp tôi cải tiến Trang Phục Ma Vương...” Childe nói.
+
+“Xem ra tất cả chúng ta đều đã ‘bước vào’ rồi,” Arlecchino nói. “Đúng là một trong Năm Tội Nhân, rất am hiểu về sức mạnh Vực Sâu. Hắn đã cho tôi một vài lời khuyên về cách kiểm soát sự ô nhiễm của Vực Sâu.”
+
+“Thôi khỏi nhắc đến cái tên chưa gì đã tỏ ra thân thiết lại còn bất lịch sự đó... Nhưng tôi phải thừa nhận, Khaenri'ah thời đại đó quả thật có chút nghiên cứu về mặt kỹ thuật cơ khí,” Sandrone nói.
+
+“Sự thân thiện này của Hiền Giả, rốt cuộc là xuất phát từ tính cách vốn có, hay là... đã thêm vào một chút sắp đặt ‘có chủ ý’?” Pulcinella hỏi.
+
+“Ý ngài thị trưởng là?” Pantalone hỏi.
+
+“Năm đó, trước khi rời khỏi Teyvat, Hiền Giả đã đặc biệt đưa cuốn sổ ghi chép cho Pierro...” Pulcinella nói. “Có lẽ trong cái gọi là ‘nhân tính cuối cùng’ của hắn, cũng bao gồm cả mong muốn giúp đỡ người bạn cũ.”
+
+“Đến nước này rồi, việc phỏng đoán suy nghĩ của hắn cũng không còn ý nghĩa gì nữa. Hiền Giả của ngày đó đã sớm không còn tồn tại, chính hắn đã tự từ bỏ bản thân mình,” Pierro nói.
+
+“Còn ông thì sao, Pierro? Hai người đã nói chuyện gì vậy?” Paimon hỏi.
+
+“Cũng giống như ‘trước đây’, nói về những khó khăn gặp phải trong công việc,” Pierro nói. “Việc cải tiến Delusion... đã có phương án mới rồi.”
+
+>Mọi chuyện tạm lắng xuống, ‘sổ ghi chép của Hiền Giả’ được niêm phong trở lại, các Quan Chấp Hành cũng lần lượt rời khỏi hiện trường.
+
+Pierro đặt cuốn sổ trở lại bệ đá, còn các Quan Chấp Hành lần lượt rẽ lối ra về. Khi Paimon háo hức rủ đi uống trà, Lumine chợt bước lên chặn Pierro lại ngay trước lúc ông rời khỏi cửa.
+
+“Cuối cùng nghi vấn cũng được giải đáp, còn gặp được cả Hiền Giả nữa, may mà chúng ta đã tới tham gia cuộc họp,” Paimon nói. “Đi thôi Lumine, đang ngẩn ngơ gì vậy? Vừa rồi trước khi đi, Sandrone đã mời chúng ta đi uống trà đấy.”
+
+“Pierro, tôi còn một vấn đề,” Lumine nói.
+
+“Vấn đề gì vậy? Ừm... hình như cô chưa từng nhắc đến cuộc trò chuyện của mình với Hroptatyr, có phải hắn đã nói gì không?” Pierro hỏi.
+
+“Nói rằng có một người quen tài giỏi nào đó đã nói với hắn rằng...” Lumine nói. “‘Người kế nhiệm’ tóc vàng sẽ đáp lại lời kêu gọi của hắn.”
+
+“‘Người kế nhiệm’... tóc vàng sao?” Paimon hỏi.
+
+“Chắc là do ‘Tiên Tri’ Vedrfolnir đó đã nói với hắn,” Pierro nói. “Nhìn từ thời điểm hiện tại, tôi biết rõ ràng là đang ám chỉ điều gì. Hình như tôi chưa từng nói với cô về điều này... Giống như năm đó tôi đã ‘triệu hồi’ Paimon từ Đảo Thiên Không, thì cùng lúc đó, thứ mà Hroptatyr ‘triệu hồi’... ...Chính là anh trai của cô.”
+
+“Từ Đảo Thiên Không sao?” Lumine hỏi.
+
+“Cũng giống, giống tôi sao?” Paimon hỏi.
+
+“Cũng không rõ thông tin này có ý nghĩa gì với cô hay không, nên trước đây không chủ động nhắc tới,” Pierro nói.
+
+“Phải rồi... điều này rốt cuộc có nghĩa là gì chứ? Tại sao lúc đó anh hai lại ở trên Đảo Thiên Không? Anh ấy đã trải qua chuyện gì ở đó?” Lumine thầm nghĩ. “Những thông tin về quá khứ của anh ấy vẫn đang dần được chắp vá, tưởng chừng như sắp kết nối thành một sợi dây hoàn chỉnh, nhưng lại chẳng thể nào nắm bắt được. Nếu cứ tiếp tục hành trình này, liệu có một ngày nào đó mình sẽ vén bức màn mở ra toàn bộ sự thật không?”
+
+#CH|Phần 3|Lông Vũ Đen Rơi Khi Tiễn Biệt|nc_snezhnaya_shadow.png|Lông Vũ Đen Rơi Khi Tiễn Biệt
+
+Rời Cục Khí Tài, Lumine và Paimon tìm đến điểm hẹn uống trà do Sandrone mời từ trước, nơi Sandrone và Arlecchino đang ngồi chờ sẵn.
+
+>Đến tham dự tiệc trà của Sandrone
+
+“Cuối cùng cũng đến rồi, trà sắp nguội hết rồi đấy. Có chuyện gì mà lâu vậy?” Sandrone hỏi.
+
+“Không có gì, nói chuyện với Pierro một lúc thôi,” Lumine nói.
+
+“Đến là tốt rồi, có cô ở đây, cộng thêm Paimon nữa, bốn người chúng ta gượng ép cũng tìm lại được chút cảm giác của những buổi tiệc trà ngày trước,” Sandrone nói.
+
+“Cô hoài niệm khoảng thời gian đó hơn tôi tưởng đấy, Sandrone,” Arlecchino nói.
+
+“Tôi chỉ muốn nói hai người uống trà thì không gọi là tiệc trà thôi, không có ý gì khác,” Sandrone nói.
+
+“Sao lần này đột nhiên lại nghĩ đến chuyện uống trà thế?” Paimon hỏi.
+
+“Để đổi không khí thôi. Hai người không cảm nhận được sao, cái không khí trước đại chiến đó... ngoài đè nén ra thì chỉ có đè nén,” Sandrone nói.
+
+“Ừm, chuyện phải đối đầu với Ronova, dù không cố tình nghĩ tới thì giờ đây nó vẫn đang đè nặng trong lòng mỗi người,” Arlecchino nói.
+
+“Dù sao cũng là một trong bốn cái bóng, đến cả quy tắc của thế giới cũng nắm trong tay, muốn đánh bại một kẻ như vậy...” Paimon nói.
+
+“Không thể gánh chịu cái giá của thất bại,” Lumine nói.
+
+“Đúng vậy, nhìn lại thì mọi người đã thể hiện rất điềm tĩnh rồi,” Paimon nói. “Ngược lại là tôi... hình như nên căng thẳng hơn một chút mới đúng, ừm...”
+
+“Pierro hiện tại chắc hẳn đang chịu áp lực rất lớn, đó cũng là một trong những lý do tôi sẵn lòng tích cực phối hợp nghiên cứu Delusion,” Arlecchino nói.
+
+“Vậy còn Nữ Hoàng thì sao?” Lumine hỏi.
+
+“Nữ Hoàng bệ hạ thì... ai mà biết được chứ?” Sandrone hỏi. “Nội tâm của Nữ Hoàng bệ hạ tựa như mặt hồ đã đóng băng từ lâu, chẳng còn chuyện gì có thể khiến nó gợn sóng được nữa. Mặt nước nhìn có vẻ trong suốt tinh khôi, nhưng khi cô tưởng mình có thể nhìn thấu tất cả và nhìn xuống đáy hồ, lại phát hiện ra nó sâu thẳm đến nhường nào... bản thân hóa ra chẳng biết gì cả.”
+
+“Đó không hề là lời miêu tả quá đà đâu. Điều yên tâm là, hình ảnh Nữ Hoàng bệ hạ trong mắt kẻ thù chắc chắn cũng khó đoán như vậy,” Arlecchino nói. “Hơn nữa bệ hạ chắc từ rất lâu về trước đã dự liệu được sẽ có ngày này rồi, thậm chí từ trước khi thăng thần, có thể bệ hạ đã chuẩn bị cho việc trực tiếp đối đầu với Thiên Lý rồi.”
+
+“Niềm tin của mọi người dành cho Nữ Hoàng lớn thật đấy, Pierro cũng từng nói điều tương tự,” Paimon nói.
+
+“‘Niềm tin’ là thứ có qua có lại. Càng tin tưởng ai đó, bản thân lại càng muốn sống sao cho xứng đáng với niềm tin ấy... Nghĩ kỹ thì đúng là một chuyện phiền phức,” Sandrone nói. “Thay vì ngồi đoán già đoán non ý đồ của Nữ Hoàng, chi bằng cứ tập trung hoàn thành công việc được giao đi.”
+
+“Dạo này Sandrone đang bận gì vậy?” Paimon hỏi.
+
+“Tạm thời chỉ là gia cố công sự, nâng cấp trang bị cho lực lượng các cấp, với bố trí sẵn một vài chiến trường... chưa chắc đã dùng tới,” Sandrone nói.
+
+“Chuyện của Ronova rất có thể chỉ là khởi đầu, chẳng ai biết Snezhnaya sẽ phải đối mặt với điều gì trong tương lai. Nên là chuẩn bị nhiều hơn cũng không thừa,” Arlecchino nói. “Còn về phía tôi... Trước khi phương án mới của Delusion bước vào giai đoạn thử nghiệm, có vẻ tôi sẽ được nghỉ ngơi một chút.”
+
+“Cô cũng vất vả rồi, Arlecchino. Thôi được rồi, nói chuyện khác đi, cứ thế này không biết là tiệc trà hay họp công việc nữa...” Sandrone nói.
+
+>‘Tiệc trà bốn người’ bắt đầu chuyển sang những chủ đề thả lỏng hơn, thong thả tận hưởng khoảng thời gian bình yên và dễ chịu hiếm hoi...
+
+>Vài ngày sau đó, cả Snezhnaya vận hành một cách trật tự dưới sự cai trị của Nữ Hoàng, và chẳng mấy chốc đã đến ngày hẹn với Rhinedottir...
+
+---
+
+>Quay về Nhà Hàng Podvorye nghỉ ngơi
+
+Trong lúc Lumine và Paimon trở về Nhà Hàng Podvorye nghỉ ngơi, tại đại sảnh tiếp khách của Cung Điện Zapolyarny, hầu gái trưởng Danica đang nghiêm túc chỉ đạo đội ngũ hầu gái hoàn tất những khâu chuẩn bị cuối cùng cho cuộc gặp gỡ sắp tới.
+
+“...Khăn trải bàn không được dính một hạt bụi, chú ý hướng đặt của bộ trà cụ, không đặt lộn xộn,” Danica nói. “Tropina, ánh đèn tối hơn dự kiến đấy. Tôi đã nói ánh sáng là yếu tố then chốt rồi, cô có chắc là đã lau hết tất cả đèn chưa? Tropina?”
+
+“Ối, a... Xin lỗi hầu gái trưởng Danica, tôi đi xác nhận lại ngay đây,” Tropina nói.
+
+“Vừa rồi ngẩn ngơ suy nghĩ chuyện gì vậy, không giống cô thường ngày chút nào,” Danica nói.
+
+“Tôi... Tôi chỉ là hơi hồi hộp thôi, không có gì đâu...” Tropina nói.
+
+“Cô biết danh tính vị khách hôm nay rồi sao? Ai nói cho cô biết vậy?” Danica hỏi.
+
+“Xin, xin lỗi! Tôi chỉ vô tình nghe được thôi, tôi không biết đây là bí mật...” Tropina nói.
+
+“Đây không phải bí mật. Người đến hôm nay là Chấp Chính Của Sự Sống, quý cô Rhinedottir. Tôi không báo trước là vì thấy không cần thiết,” Danica nói. “Thân phận của khách không liên quan đến chúng ta. Là hầu gái, tiêu chuẩn làm việc chỉ có một, đó là ‘hoàn hảo’... Chắc tôi đã nói điều này rất nhiều lần rồi. Dù vị khách cần tiếp đón là ai, là sứ giả trên trời hay người ăn xin ven đường, đều phải thể hiện lễ nghi tiếp đón tốt nhất.”
+
+“Vâng, quý cô nói đúng, là tôi đã làm cô phải mất mặt rồi,” Tropina nói.
+
+“Không sao. Cung Điện Zapolyarny hôm nay cũng không khác gì ngày thường, hãy tạo ra ấn tượng ban đầu tốt nhất cho khách...” Danica nói. “...Còn lại, cứ giao cho Nữ Hoàng bệ hạ.”
+
+Sáng hôm sau, khi ánh bình minh lạnh giá phủ xuống những mái nhà Snezhnograd, Lumine và Paimon thức dậy tại Nhà Hàng Podvorye.
+
+“Haa! Hôm nay là ngày Nữ Hoàng hẹn gặp Rhinedottir rồi nhỉ?” Paimon hỏi.
+
+“Cuối cùng cũng đến ngày phải hành động rồi,” Lumine nói.
+
+“Hơi hồi hộp thật đó... Nhưng thời gian vẫn còn sớm, hay là qua Cung Điện Zapolyarny xem họ chuẩn bị đến đâu rồi nhỉ?” Paimon hỏi.
+
+“Danica chắc không muốn bị làm phiền đâu,” Lumine nói.
+
+“Cũng đúng nhỉ, Danica một khi đã làm việc thì nghiêm túc hơn ai hết. Vậy chúng ta đi đâu đây? Dù sao tôi cũng không thể ngồi yên ở đây được...” Paimon nói.
+
+“Đến Rankova Zorya đi,” Lumine nói.
+
+“Ý hay! Biết đâu bên đó lại có việc gì cần chúng ta giúp đấy,” Paimon nói.
+
+---
+
+>Đến Rankova Zorya
+
+“Dù không biết toàn bộ kế hoạch, nhưng theo lời Pierro suy đoán thì lúc này Mitya phải ở đây mới đúng chứ...” Paimon nói.
+
+“Nhưng hình như... Tôi nhìn thấy một người quen khác,” Lumine nói.
+
+“Ở đâu ở đâu? Lumine nói ai cơ?” Paimon hỏi.
+
+Chưa kịp để Paimon dứt lời, Dainsleif đã từ phía nhà ga sải bước tiến lại gần.
+
+“Ồ? Không ngờ vừa xuống tàu ở đây, người đầu tiên tôi gặp lại là hai người,” Dainsleif nói.
+
+“Dain!” Paimon nói.
+
+“Cảm ơn hai người đã cất công đến đón tôi, chắc chưa để cả hai phải chờ lâu đâu nhỉ,” Dainsleif nói.
+
+“Tình cờ gặp thôi, rất vui được gặp lại anh,” Lumine nói.
+
+“Tôi cũng quen rồi, lần nào Dainsleif xuất hiện cũng sẽ có gì đó mới lạ...” Paimon nói. “Vậy sao anh lại tới đây vậy?”
+
+“Đương nhiên là vì nhận được thông báo của Eftirvit nên đã đến,” Dainsleif nói. “Mấy ngày trước, tôi cảm giác như mình bị Fatui truy nã vậy, thuộc hạ của họ tìm tôi khắp nơi.”
+
+“Pierro từng nói phải phối hợp mọi lực lượng có thể kết nối, quả nhiên không phải nói suông, còn gọi cả anh đến,” Lumine nói.
+
+“Nghĩ lại cũng đúng, Rhinedottir không chỉ là Chấp Chính Của Sự Sống, mà còn là... ‘Gold’, một trong Năm Tội Nhân của Khaenri'ah,” Paimon nói. “Nơi nào có Tội Nhân hoặc Giáo Đoàn Vực Sâu xuất hiện là nơi đó có Dainsleif, cứ như thể đây là quy luật vận hành của thế giới vậy, ừm...”
+
+“Lý do tôi đến lần này không chỉ vì sự xuất hiện của Rhinedottir...” Dainsleif nói. “Ronova... kẻ đầu sỏ đã giáng xuống ‘Lời Nguyền Bất Tử’, hành hạ tôi suốt năm trăm năm qua, cũng rất đáng để tôi đến một chuyến. Hơn nữa, Eftirvit có dặn thuộc hạ nhắn lại với tôi rằng, hiện giờ Snezhnaya đã nắm được cách giao tiếp với ‘Hiền Giả’ năm xưa...”
+
+“Cái này tôi có thể làm chứng, là thật đó!” Paimon nói.
+
+“Kẻ hèn nhát bỏ trốn khỏi Teyvat đó, tôi có rất nhiều chuyện muốn tính sổ với hắn,” Dainsleif nói.
+
+“Tuy nhiên theo mình thì, vào thời điểm đó Hroptatyr chắc vẫn chưa biết gì cả...” Lumine thầm nghĩ.
+
+“Lý do tham chiến của anh thực sự rất chính đáng... Nói ra thì có phải anh rất thân quen với Pierro không? Dù gì cũng là đồng hương mà,” Paimon nói.
+
+“Chỉ tính là quen biết thôi, năm xưa ở hoàng cung có chút giao thiệp,” Dainsleif nói. “Lần này Eftirvit muốn tôi ‘toàn lực đối phó với Ronova, không được tự ý hành động’... Nên tôi nể mặt ông ta vậy. Nếu không thì điểm đến đầu tiên của tôi đã là thay mặt Nữ Hoàng đi gặp Rhinedottir rồi.”
+
+“Dù sao thì bên chúng tôi vẫn cần anh hơn,” Lumine nói.
+
+“Hừ, chuyện này tôi vẫn biết chừng mực. Được rồi, cứ làm theo lời Eftirvit đi,” Dainsleif nói. “Tiếp theo hai người định đi đâu? Còn Eftirvit thì sao?”
+
+“Trước đó ông ấy đang nghiên cứu vũ khí bí mật, cũng không biết đã xong chưa. Chúng tôi định đi hội ngộ với Mitya, đồng đội ở Snezhnaya, anh đi cùng luôn nhé,” Paimon nói.
+
+>Nói chuyện với Mitya
+
+Cả ba cùng bước tới khu vực ga tàu ở Rankova Zorya, nơi đang tấp nập bóng người qua lại. Giữa đám đông, Mitya, Vodyanitsa, Odette cùng Valeriy và Vesna bên phía quân đội đang khẩn trương hoàn tất khâu bốc dỡ hàng hóa.
+
+“...Đây chắc là lô thiết bị cuối cùng rồi, vận chuyển xong là hoàn thành,” Vodyanitsa nói.
+
+“Hiệu suất cao thật đấy, vất vả cho mọi người rồi... Ơ, sao các vị lại tới đây?” Mitya hỏi.
+
+“Mitya, chúng tôi đến để giúp đỡ, hóa ra Vodyanitsa cũng ở đây à,” Paimon nói.
+
+“Lâu rồi không gặp nhỉ, Lumine và Paimon, trông trạng thái của mọi người cũng ổn đấy,” Vodyanitsa nói.
+
+“Chỗ tôi tạm thời không cần giúp nữa đâu, người bên phía quân đội như Valeriy và tiểu thư Vesna đều ở đây cả rồi...” Mitya nói. “Những người bạn Rokot lại quen thuộc với bên nhà ga, nên giúp tôi xử lý rất nhanh.”
+
+“Chà, hôm nay náo nhiệt thật đấy,” Paimon nói.
+
+“Haiz... anh Mitya, khi nhắc đến Rokot thì làm ơn tiết chế một chút, làm như chúng tôi là tổ chức công khai rồi vậy,” Vodyanitsa nói.
+
+“Ahaha xin lỗi nhé, tôi thấy người Snezhnaya ai cũng quý mọi người, nên có công khai thì cũng tốt mà,” Mitya nói. “Ơ, vị này là... Khoan đã, để tôi đoán xem, vị này chắc hẳn là người quen cũ của ngài Pierro phải không? Đến để cùng đối phó với Ronova.”
+
+“Đúng vậy, anh ấy là Dainsleif, cũng là người Khaenri'ah từ năm trăm năm trước. Anh đoán ra nhờ nhìn vào mắt Dain sao?” Paimon hỏi.
+
+“Xin chào, anh Dainsleif. Không chỉ nhờ đôi mắt, mà tôi còn cảm nhận được hơi thở của ‘Lời Nguyền Bất Tử’ giống hệt ngài Pierro vậy,” Mitya nói. “Từ khi linh hồn tôi mang dấu ấn của Ronova, tôi bắt đầu trở nên nhạy cảm với mấy thứ này.”
+
+“Xin chào, lần đầu gặp mặt,” Vodyanitsa nói.
+
+“Xin chào. Mỗi lần nghe đến cái tên Pierro, tôi lại thấy... Thực ra tôi mới là người có lý do để tự chế giễu số phận mình hơn ông ta,” Dainsleif nói.
+
+“Vậy mọi người đang vận chuyển thứ gì tới Snezhnograd vậy?” Paimon hỏi.
+
+“Haha, các vị chưa biết đâu nhỉ, ban đầu đây là bí mật đấy, nhưng đến hôm nay thì có thể đường hoàng nói cho các vị biết rồi,” Mitya nói. “Trước đây khi đang nghỉ phép, tôi vô tình nghĩ ra một cách, có thể giúp tránh được ‘phong tỏa công nghệ’ mà Ronova gây ra. Đó là... cải tạo nhà hát thành phòng thí nghiệm mới. Số hàng hóa này toàn là thiết bị mới mua, chỉ cần vận chuyển qua đó là được, lắp ráp cũng nhanh lắm.”
+
+“Cô biết không, Lumine, họ thậm chí chẳng cho tôi cơ hội từ chối nào cả, haiz,” Vodyanitsa nói.
+
+“Xin lỗi nhé, Vodyanitsa, haha,” Mitya nói. “Vụ việc xảy ra ở nhà hát lần trước có thể chứng minh rằng, dù chết trong nhà hát, linh hồn cũng sẽ bị giam cầm ở đó một thời gian, không thể trở về Địa Mạch. Vậy nếu số người của chúng ta đủ đông, dù có kích hoạt ‘lời nguyền chết chóc’ trong nhà hát, thí nghiệm biết đâu vẫn có thể hoàn thành ở thế giới bên kia?”
+
+“Hả? Anh đang nói gì vậy... Hoàn thành thí nghiệm ‘sau khi chết’ sao?” Paimon hỏi.
+
+“Linh hồn của tôi mang dấu ấn của Ronova, có thể ghi nhớ những gì xảy ra ở thế giới sau khi chết,” Mitya nói. “Nếu thí nghiệm thành công, thì chỉ cần tôi có mặt, kết luận sẽ được mang trở lại thế giới thực. Vấn đề Địa Mạch ở nhà hát vẫn luôn tồn tại, Ronova chắc sẽ không thể khắc phục trong thời gian ngắn, vậy nên đây là cơ hội tốt.”
+
+“Liệu có thực sự thành công được không...” Lumine nói.
+
+“Tôi cũng thấy nghi ngờ... Dù sao thì thế giới bên kia cũng là lãnh địa của Ronova, cô ta chắc chắn sẽ có cách cản trở thí nghiệm chứ?” Vodyanitsa hỏi.
+
+“Tuy tôi không hiểu lắm về nghiên cứu của mọi người, nhưng kết luận ở thế giới sau khi chết có áp dụng được cho thế giới thực không?” Paimon hỏi.
+
+“Ừm, không tệ, đó đều là những nghi vấn rất hợp lý. Khó nói lắm, không ai trong chúng ta có thể chắc chắn phương án này sẽ thành công, nhưng cũng có nghĩa là...” Mitya nói. “...Ronova cũng không thể chắc chắn rằng kế hoạch này nhất định sẽ thất bại.”
+
+“Điều cậu đang đánh cược ở đây... là Ronova không dám làm liều đúng không?” Dainsleif hỏi.
+
+“Đại khái là vậy, chúng ta chỉ cần khiến Ronova không thể khoanh tay đứng nhìn...” Mitya nói.
+
+“Gây phiền phức cho ta, vui lắm sao?” Ronova hỏi.
+
+Thế nhưng, ngay lúc Mitya còn chưa kịp dứt lời, một bóng dáng uy nghiêm đáng sợ bỗng bất ngờ hiện ra giữa không trung.
+
+“Ronova!” Lumine nói.
+
+“...Ối!” Paimon nói.
+
+“Chậc... Sớm hơn dự kiến, mà ‘địa điểm’ cũng không đúng. Vodyanitsa, mau đi gọi Valeriy và Vesna! Rồi báo Rokot sơ tán đám đông ngay!” Mitya nói.
+
+Lumine lập tức rút thanh kiếm Exaiphanes ra chắn trước mặt Paimon.
+
+“Đừng lo, tôi sẽ bảo vệ Paimon,” Lumine nói.
+
+“Ừm!” Paimon nói.
+
+---
+
+>Đối đầu với Ronova
+
+>Trước đó không lâu, nhận lời mời của Nữ Hoàng, Chấp Chính Của Sự Sống Rhinedottir đã đến thăm Cung Điện Zapolyarny...
+
+“Mời đi lối này, quý cô Rhinedottir,” Danica nói.
+
+Khi đi ngang qua hàng hầu gái đang đứng đón hai bên hành lang, Rhinedottir khẽ mỉm cười nhìn họ, khiến các cô gái vội vã cúi mặt tránh ánh nhìn đầy sợ hãi.
+
+“Trên đường đến đây, tôi nhận ra rất nhiều ánh mắt đang nhìn về phía mình, nhưng chỉ có ánh mắt của cô là khác. Trong mắt cô dường như không có sự ‘sợ hãi’ nhỉ,” Rhinedottir nói.
+
+“Tôi biết cô là ‘Chấp Chính Của Sự Sống’ của thế giới này, nhưng lúc này ở Cung Điện Zapolyarny, cô chỉ là ‘khách’,” Danica nói. “Đã là hầu gái đại diện cho chủ nhân, tôi không nên và cũng không cần phải sợ hãi.”
+
+“Cô đã gây ấn tượng với tôi đấy. Cảm ơn vì đã dẫn đường, quý cô hầu gái xuất sắc,” Rhinedottir nói. “Tiếp theo sẽ là thời gian dành riêng cho tôi và chủ nhân của cô.”
+
+Nữ Hoàng Anastasya bước vào đại sảnh, cùng Rhinedottir đứng đối diện nhau hai đầu chiếc bàn dài. Danica nhẹ nhàng đặt tách trà nóng xuống trước mặt vị khách rồi lặng lẽ lui ra.
+
+“Chúc buổi sáng tốt lành, Nữ Hoàng Anastasya,” Rhinedottir nói. “Dù khen ngợi chủ nhà là một phần trong lễ nghi, nhưng tôi, xuất phát từ tận đáy lòng, ca ngợi sự thanh lịch và vẻ đẹp tuyệt mỹ của cô.”
+
+“Cảm ơn vì đã giữ đúng lời hẹn, quý cô Rhinedottir. Tâm trạng của cô có vẻ rất tốt,” Anastasya nói.
+
+“Đúng vậy, vùng đất này tràn ngập sức mạnh nguyên sơ và hoang dã của tự nhiên...” Rhinedottir nói. “Một nền văn minh được gây dựng trên mảnh đất thế này, khiến người ta đi đến đâu cũng cảm nhận được nhịp đập mãnh liệt của sự sống, quả thực rất dễ chịu.”
+
+“Tôi sẽ hiểu những gì cô nói là, cô rất tán dương tinh thần chống lại số phận của người dân Snezhnaya. Mời ngồi,” Anastasya nói.
+
+Hai người lần lượt ngồi xuống ghế.
+
+“...Không biết cô có từng đặt chân đến cung điện hoàng gia Khaenri'ah năm đó chưa, tất nhiên, là trước khi thảm họa xảy ra,” Rhinedottir nói.
+
+“Tôi chỉ đến đó một lần sau thảm họa thôi,” Anastasya nói.
+
+“Ra là vậy. Tôi chỉ muốn nói rằng, theo đánh giá cá nhân của tôi, gu thẩm mỹ của Hắc Vương khác xa so với mấy người,” Rhinedottir nói. “Chỉ riêng điểm này thôi, tôi đã sẵn lòng thỉnh cầu hoãn lại ‘cuộc thanh toán’ từ Thiên Lý dành cho mấy người rồi.”
+
+Giữa lúc đó, giọng nói của Naberius bất ngờ vang lên trong tâm trí Rhinedottir.
+
+“Nhưng tôi cho rằng, khía cạnh thẩm mỹ chiếm tỷ trọng không cao trong giá trị tồn tại của một nền văn minh đâu,” Naberius nói.
+
+“Quý cô Naberius thân mến, tôi nhớ cô từng nói không có hứng thú tham gia cuộc gặp này mà? Xin đừng tùy tiện xuất hiện ngắt mạch suy nghĩ của tôi nữa,” Rhinedottir nói.
+
+“Nghe giọng điệu của cô, có vẻ Snezhnaya đã là một quốc gia cầm chắc kết cục diệt vong rồi nhỉ,” Anastasya nói.
+
+“Có sao? Tôi đâu có nói thế,” Rhinedottir nói. “Việc tuyên bố một nền văn minh sắp lụi tàn tự khắc sẽ có kẻ khác đảm nhận. Tôi chẳng hứng thú, công việc đó mất cảm tình lắm.”
+
+“Vậy sao. Vậy chúng ta cũng nên vào thẳng vấn đề chính thôi nhỉ,” Anastasya nói.
+
+“Vào thẳng vấn đề sớm vậy sao? Cũng tốt, tôi cứ ngỡ có thể trò chuyện rôm rả với cô, nhưng cô lại... dè dặt hơn tôi tưởng nhiều,” Rhinedottir nói.
+
+“Về ‘Chấp Chính Của Không Gian’ Asmoday, gần đây tôi đã tận mắt chứng kiến sự xuất hiện của cô ta,” Anastasya nói. “Đó là khi tôi xuất chinh để thảo phạt ma vật vô danh dám xâm phạm Snezhnaya và mang theo bão tuyết... Ma vật đó càng di chuyển lại càng trở nên hùng mạnh, nguồn sức mạnh tỏa ra xung quanh nó khiến đoàn quân thuộc hạ của tôi khó lòng chống đỡ.”
+
+“Nghe qua có vẻ là một sinh vật khá thú vị,” Rhinedottir nói.
+
+“Tôi đành một mình tiến sâu vào trong, nhưng cơn bão tuyết dữ dội cản trở tầm nhìn rất nghiêm trọng,” Anastasya nói. “Khi tôi tiếp cận được tâm bão và xác nhận được hình dáng ma vật, tôi mới nhận ra ở gần ma vật còn có hai bóng người đang đứng. Một kẻ trùm mũ kín đầu không rõ danh tính, và người còn lại... tôi chắc chắn đó chính là Asmoday.”
+
+Qua làn gió tuyết trong ký ức mà Anastasya gợi lại, hình ảnh mờ ảo của kẻ trùm mũ bí ẩn đứng cạnh Asmoday thoáng hiện lên.
+
+“Asmoday thì đúng là khó mà nhầm lẫn được, nhưng nhân vật trùm mũ mà cô nói là ai được nhỉ...” Rhinedottir nói.
+
+“Tôi có thể nghe thoáng qua cuộc trò chuyện của họ...” Anastasya nói.
+
+“‘...Đây quả thực là điều đáng để chứng kiến, kết cục của █████...’,” Bóng người trùm mũ bí ẩn cất lời.
+
+“Sau đó dường như họ phát hiện ra sự hiện diện của tôi. Asmoday đã dùng quyền năng không gian và cả hai lập tức biến mất,” Anastasya nói.
+
+“Kẻ đó nói đến để ‘chứng kiến’? Chứng kiến cái gì? Sự tồn tại của ma vật, hay là cái chết của nó?” Rhinedottir hỏi. “Vậy sau đó cô đã ra tay kết liễu ma vật sao?”
+
+“Ừm, ma vật đó hầu như không có ý thức riêng, nó chỉ chống trả đôi chút theo bản năng,” Anastasya nói.
+
+“Đây là thông tin rất có giá trị. Không lẽ trên người ma vật đó có điểm gì đặc biệt...” Rhinedottir nói. “Đảo Thiên Không quả thực không dành sự chú ý đặc biệt nào cho nó. Dù sao thì một thứ có thể bị tiêu diệt bởi sức mạnh cấp Ma Thần của cô, thì mối đe dọa cũng không lớn.”
+
+“Tôi cũng không nhận được cảnh báo nào cả. Loại này thường chỉ được xếp vào dạng ma vật tự đột biến mà thôi,” Naberius nói.
+
+“Vậy thì còn quá nhiều ẩn số. Một con ma vật như thế, sao lại thu hút được sự chú ý của Asmoday?” Rhinedottir hỏi. “Còn người đội mũ trùm đầu kia, lẽ nào thực sự... là ‘chủ nhân mới’ của Asmoday?”
+
+“Cô vẫn chưa từ bỏ giả thuyết đó sao, Rhinedottir. Khả năng cao chỉ là ý nghĩ bất chợt của Istaroth thôi, có khi chính cô ấy cũng quên mất rồi,” Naberius nói.
+
+“Sự cẩn trọng vốn có không cho phép tôi bỏ qua khả năng này, Naberius,” Rhinedottir nói. “Có lẽ chúng tôi sẽ tiến hành điều tra lại từ manh mối ma vật đó. Cảm ơn cô, Nữ Hoàng Snezhnaya.”
+
+“Không có gì, đây vốn là lời hứa của tôi mà,” Anastasya nói.
+
+“Tôi biết cô không đời nào chủ động cung cấp thông tin chỉ để lấy lòng Thiên Lý,” Rhinedottir nói. “Cứ nói đi, cô muốn nhận lại điều gì, hay muốn biết điều gì từ tôi?”
+
+“Hãy nói cho tôi biết tình trạng hiện tại của Thiên Lý, và khi nào Thiên Lý sẽ thức tỉnh,” Anastasya nói.
+
+“Thẳng thắn hơn tôi tưởng đấy, chẳng khác nào bộc lộ thẳng dã tâm của cô rồi, Nữ Hoàng,” Rhinedottir nói.
+
+“Lời khuyên của tôi là, chuyến ghé thăm hôm nay nên dừng lại ở đây thôi, Rhinedottir,” Naberius nói.
+
+“Tôi đồng ý, Naberius,” Rhinedottir nói. “Rất tiếc, Nữ Hoàng Anastasya. Vì lý do lập trường, yêu cầu vừa rồi của cô có phần hơi thái quá, xin thứ lỗi vì tôi không thể trả lời.”
+
+Rhinedottir đứng dậy khỏi ghế, xoay người chuẩn bị rời đi.
+
+“Để giữ thể diện cho cả hai bên, cuộc gặp gỡ nên dừng lại tại đây,” Rhinedottir nói.
+
+“Thôi được, Rhinedottir, tôi tôn trọng ý chí của cô. Quả thực là tôi đã đặt kỳ vọng sai chỗ,” Anastasya nói. “Xem ra Đảo Thiên Không nắm giữ sức mạnh tuyệt đối... vốn không cần phải tôn trọng đối thủ. Tin tức về Asmoday coi như món quà tôi tặng các vị vậy.”
+
+“‘Tôn trọng đối thủ’?” Naberius hỏi.
+
+“‘Tôn trọng đối thủ’?” Rhinedottir hỏi.
+
+“Không phải sao? Về khía cạnh tình báo, thái độ của các vị dành cho Snezhnaya còn cẩn trọng hơn những gì tôi hình dung đấy,” Anastasya nói.
+
+Nghe vậy, Rhinedottir dừng bước, quay người nhìn thẳng về phía Nữ Hoàng.
+
+“Màn khích tướng này không được cao tay cho lắm. Không lẽ cô nghĩ rằng, nếu bây giờ tôi rời đi, đồng nghĩa với việc tuyên bố Đảo Thiên Không thừa nhận Snezhnaya là đối thủ đấy chứ?” Rhinedottir hỏi.
+
+“Nhưng cô hoàn toàn có thể chọn ở lại và uống hết ấm trà này cùng tôi mà,” Anastasya nói.
+
+“Cô thấy sao, Naberius?” Rhinedottir hỏi.
+
+“Dù lời cô ta nói khiến tôi khó chịu, nhưng suy đi nghĩ lại, cách ứng xử của chúng ta lúc nãy quả thực hơi thiếu bình tĩnh,” Naberius nói.
+
+Rhinedottir thong thả ngồi trở lại ghế.
+
+“Được rồi, xuất phát từ cá nhân, tôi sẵn lòng thực hiện đúng lễ nghi của một vị khách, tiếp tục ngồi lại uống hết ấm trà này với cô,” Rhinedottir nói. “Cũng vì lý do cá nhân, tôi có quyền từ chối trả lời câu hỏi của cô. Chúng ta hoàn toàn có thể bàn về những chủ đề khác.”
+
+“Xin cứ tự nhiên,” Anastasya nói.
+
+“Về quá khứ của chính cô... hiện tại cô nắm được bao nhiêu phần rồi?” Rhinedottir hỏi.
+
+“Câu hỏi này tôi không thể trả lời. Sau khi Thiên Lý ‘can thiệp’ vào ký ức của tôi, tôi đã không còn tin vào trí nhớ của mình nữa,” Anastasya nói. “Nếu cô đang nói tới phần ký ức mà tôi bị ép phải ‘quên đi’, thì Bạch Sa Hoàng từng kể cho tôi nghe một lần... Nhưng nghe như thể câu chuyện của một ai khác vậy, hoàn toàn không có cảm giác chân thực. Hơn nữa... tôi cũng chẳng đủ tin tưởng Bạch Sa Hoàng.”
+
+“Thực ra tình hình có thể không tệ như cô nghĩ đâu,” Rhinedottir nói. “Thứ mà Thiên Lý từng xóa khỏi tâm trí cô... chỉ có ‘Kẻ Đổ Bộ Thứ Ba’ và tất cả những gì liên quan đến hắn mà thôi. Mà không chỉ riêng cô, Thiên Lý khi ấy đã thông qua Cây Thế Giới để xóa sạch toàn bộ vết tích tồn tại của Kẻ Đổ Bộ Thứ Ba trên thế gian này... Chỉ có Bạch Sa Hoàng ẩn mình vào ‘Ảnh Vực’ mới lưu lại đôi chút ký ức về hắn. Những gì Bạch Sa Hoàng nói với cô, có lẽ là sự thật đấy.”
+
+“Dù quá khứ đó là thật hay giả, chừng nào Thiên Lý độc đoán kia vẫn còn tồn tại, tôi sẽ chỉ chọn sống cho hiện tại mà thôi,” Anastasya nói.
+
+“Ồ? Vậy sao... Vậy cô có muốn nghe quan điểm của tôi không?” Rhinedottir hỏi. “Tôi từng tra cứu ghi chép về sự kiện Kẻ Đổ Bộ Thứ Ba trên Đảo Thiên Không, khá là thú vị đấy.”
+
+“Được thôi. Vừa thưởng trà vừa nghe người khác kể câu chuyện của chính mình, trải nghiệm này cũng thật hiếm có,” Anastasya nói.
+
+“Cân nhắc cẩn trọng, tôi e rằng những điều cô sắp sửa nói ra... chưa chắc đã thích hợp để công khai đâu,” Naberius nói.
+
+“Hãy cứ coi như tôi không muốn nhận miễn phí thông tin của cô ta, nên đáp lễ lại chút quà mọn đi... Thỉnh thoảng cô cũng nên mắt nhắm mắt mở một chút,” Rhinedottir nói. “Trước khi bắt đầu, tôi nghĩ với tư cách là một người Khaenri'ah, tôi nên trịnh trọng gửi lời chào tới cô... ‘Người Mẹ Của Khaenri'ah’. Người Khaenri'ah được sinh ra từ sự hòa quyện huyết thống giữa cô và Kẻ Đổ Bộ Thứ Ba, chắc hẳn cô đã biết điều này rồi.”
+
+“Ừm, tôi không có phần ký ức đó, mãi rất lâu sau này mới biết chuyện... Nhưng điều tôi luôn băn khoăn là không biết phải đối mặt với mọi người ra sao,” Anastasya nói.
+
+“Đó không phải lỗi của cô. Tôi rất hiểu, suy cho cùng tôi cũng là một ‘người mẹ’,” Rhinedottir nói. “Tình mẫu tử là một bản năng, nhưng bản năng đó rất khó nảy sinh khi ‘được báo rằng mình là một người mẹ’. Hơn nữa... với tư cách là một Ma Thần, tình yêu của cô đã bị Thiên Lý bóp méo từ lâu. Không được phép yêu thương người mình nên thương yêu, thứ duy nhất còn lại chỉ là tình yêu do Thiên Lý ban phát. Bởi vậy người Khaenri'ah mới thật bất hạnh, bất hạnh vì đã mất đi tình yêu của cô. Và chuỗi bất hạnh đó bắt đầu kể từ sự kiện năm ấy... Ngày đó, dưới sự xúi giục của Bạch Sa Hoàng, cô, người mà khi ấy còn là sứ giả truyền lệnh trong cung, đã cùng Kẻ Đổ Bộ Thứ Ba mở ra cánh cửa dẫn đến Vực Sâu. Vô số tai họa Vực Sâu trong suốt hàng ngàn năm sau đó đều bắt nguồn từ hành động này. Không cần bàn cãi, đây là tội lỗi không thể tha thứ ở Teyvat. Nhưng nói cho đúng thì khoản nợ này phải tính lên đầu Bạch Sa Hoàng. Nhưng Thiên Lý khi ấy chẳng thèm bận tâm nhiều đến thế, lập tức xóa bỏ sự tồn tại của cô để răn đe. Còn Bạch Sa Hoàng kia lại lẩn trốn vào Ảnh Vực và thoát được kiếp nạn, về sau cũng chẳng bị truy cứu gì thêm. Kẻ Đổ Bộ Thứ Ba đã lên Đảo Thiên Không đàm phán với Thiên Lý, chấp nhận dùng mạng sống của mình để đổi lấy sự sống cho cô. Nhờ thể chất cực kỳ tương thích với Lãnh Địa Loài Người của Teyvat, thậm chí có thể khuếch đại sức mạnh các nguyên tố, đó chính là vốn liếng để Kẻ Đổ Bộ Thứ Ba đặt ra điều kiện. Chỉ cần Thiên Lý đồng ý hồi sinh cô, đồng thời cam kết không bao giờ làm hại đến hậu duệ của hắn, tức người Khaenri'ah sau này... Hắn sẵn lòng để thân xác của mình bị xẻ thành bảy mảnh, củng cố cho hệ thống thống trị mà Thiên Lý gây dựng nên.”
+
+“Thật ngây thơ. Mặc cả với kẻ nắm quyền lực tuyệt đối, lời hứa của đối phương chẳng khác nào tờ séc khống,” Anastasya nói.
+
+“Nhưng Kẻ Đổ Bộ Thứ Ba cũng không phải dạng vừa. Hắn đã áp lên Thiên Lý lời nguyền sâu thẳm nhất, một khi Thiên Lý bội ước, lời nguyền sẽ lập tức phát tác,” Rhinedottir nói. “Còn Thiên Lý thì chọn cách ngã giá, hồi sinh cô thì được, nhưng mọi ký ức liên quan đến hắn đều sẽ bị xóa sạch... Dù sao thì sức mạnh, tri thức hắn mang tới, cả những hành vi cuối cùng của hắn, trong mắt Thiên Lý đều là mối đe dọa. Mọi yếu tố bất ổn đều phải bị loại trừ hoàn toàn.”
+
+“Vậy thì, việc Thiên Lý ngủ vùi chính là do thảm hoạ Khaenri'ah sau này đã kích hoạt lời nguyền của Kẻ Đổ Bộ Thứ Ba, đúng không?” Anastasya hỏi. “Nhờ vậy mà tôi đã xác định được trạng thái hiện tại của Thiên Lý rồi, cảm ơn cô đã giải đáp.”
+
+“Giải đáp? Không không, tôi chỉ đang kể chuyện thôi, mà còn là chuyện về cô nữa. Tôi có giải đáp gì đâu, không cần cảm ơn,” Rhinedottir nói. “Tôi lại thấy khá ngạc nhiên đấy. Điều cô bận tâm vẫn là Thiên Lý, chứ chẳng phải sự hy sinh mà Kẻ Đổ Bộ Thứ Ba đã dành cho cô.”
+
+“Tôi nói rồi, tôi chỉ sống cho hiện tại,” Anastasya nói.
+
+---
+
+Ánh nhìn chuyển trở lại chiến trường căng thẳng tại Rankova Zorya, nơi Lumine đang giơ cao thanh kiếm đứng chắn trước Paimon cùng Dainsleif.
+
+“Ồ? Đây là ý gì, chuẩn bị chiến đấu sao?” Ronova hỏi. “Thật nằm ngoài dự đoán của ta, không lẽ các ngươi thực sự nghĩ... có thể đối đầu trực diện với ta sao?”
+
+“Thần linh cũng thích hù dọa vậy sao?” Dainsleif hỏi.
+
+“Hừm, ban đầu ta chỉ định trừng phạt vài nhà nghiên cứu, cho các ngươi một bài học rồi rời đi thôi,” Ronova nói. “Đã vậy thì ta sẽ chọn hình phạt cấp độ cao hơn... ‘Thần Phạt’.”
+
+>Đối mặt với sự chuẩn bị chiến đấu của mọi người, Ronova chuẩn bị giáng xuống ‘hình phạt của thần’. Cô ta tung ra một đòn mang sức mạnh kinh ngạc, biến Rankova Zorya thành chiến trường phán quyết.
+
+>Đánh bại Chấp Chính Của Cái Chết - Ronova
+
+Cuộc giao tranh trực diện với Chấp Chính Của Cái Chết lập tức nổ ra giữa làn ánh sáng rợn người bao trùm Rankova Zorya. Lumine sát cánh chiến đấu cùng Odette và Vesna, trong khi Dainsleif liên tục tung sức mạnh ngăn cản mỗi khi Ronova tìm cách rút cạn sinh lực của họ. Thế nhưng, trước quyền năng áp đảo của một trong Bốn Cái Bóng, lời nguyền cái chết cuối cùng vẫn giáng xuống khiến tất cả ngã gục xuống nền đất.
+
+>Thoát khỏi ‘thế giới sau khi chết’
+
+Ý thức của Lumine bị kéo tuột vào một khoảng không gian xám xịt, lạnh lẽo tách biệt hoàn toàn với trần thế.
+
+“Ronova lại sử dụng quyền năng của cái chết sao? Nhưng đối với mình, cái chết này chỉ là tạm thời,” Lumine nói.
+
+>Vesna đã dùng Quyền Năng Sự Sống vào phút cuối. Dấu Ấn Sự Sống ngưng tụ từ ký ức sẽ giúp thoát khỏi thế giới sau khi chết.
+
+Tiến bước về phía nguồn sáng yếu ớt phía trước, Lumine nhận ra thứ đang lơ lửng trước mặt mình chính là Dấu Ấn Sự Sống do Vesna kịp thời ngưng tụ từ ký ức ở khoảnh khắc cuối cùng.
+
+“Đây là... Dấu Ấn Sự Sống?” Lumine hỏi.
+
+Khi chạm vào Dấu Ấn Sự Sống ấy, hình ảnh làn gió dịu nhẹ của Mondstadt bỗng ùa về trong tâm trí Lumine, khiến cô không cam tâm bị cái chết trói buộc. Một luồng phong trường tức thì dâng lên, nâng bước Lumine bay vút lên tầng trên giữa cõi u minh.
+
+“Sức mạnh bắt nguồn từ sự sống quả nhiên có thể chống lại cái chết,” Lumine nói. “Chỉ cần nghĩ cách rời khỏi đây, để linh hồn trở về thể xác...”
+
+Bước dọc theo hành lang trống trải, từng bậc thang đá dưới chân chợt đổ sụp trước sức ăn mòn của cõi chết. Giữa lằn ranh sụp đổ ấy, những Dấu Ấn Sự Sống lại lần lượt hiện ra, đánh thức từng miền ký ức rực rỡ suốt hành trình qua bảy quốc gia: dãy núi non trùng điệp của Liyue tiếp thêm ý chí kiên định hóa thành Kim Lý tung mình vượt qua vực thẳm; tiếng sấm sét rền vang của Inazuma xua tan nỗi sợ trước cái chết khi cô lao xuyên qua Cổng Không Gian; cánh rừng rậm xanh tươi của Sumeru trả lại cảm giác căng tràn sức sống qua những Ấn Tứ Diệp; dòng nước gợn sóng êm đềm của Fontaine xoa dịu tâm trí đang xao động; ngọn lửa chiến hỏa bùng cháy nơi Natlan thắp lên dũng khí chống lại tử thần; ánh trăng dịu dàng của Nod-Krai biến thành Kuuhenki dẫn lối Nguyệt Lộ đưa cô khao khát trở về bên cạnh mọi người; và cuối cùng là màn tuyết mịn của Snezhnaya nhắc nhở về mục đích thực sự của chuyến hành trình.
+
+Vượt qua cánh cổng vòm rực sáng ở cuối con đường, Lumine dốc sức lao về phía ánh sáng của thực tại.
+
+“Không biết ở hiện thực đã trôi qua bao lâu rồi, phải mau quay về thôi...” Lumine nói. “Vẫn còn nhiệm vụ cần hoàn thành...”
+
+---
+
+>Đối đầu với Ronova
+
+Lumine choàng mở mắt trở về thân xác giữa Rankova Zorya hoang tàn, nơi những người đồng đội xung quanh vẫn đang nằm bất động trên mặt đất.
+
+“Phù... trở về thực tại rồi à...” Lumine thầm nghĩ. “Mọi người...”
+
+“...‘Quay về’ nhanh vậy sao? Có vẻ ngươi đã quá quen với cái chết rồi,” Ronova nói. “Thế này không ổn chút nào... Ta đang nghiêm túc cân nhắc, lần tới khi giết ngươi thì phải hủy hoại cả thể xác.”
+
+“Chắc là lúc này rồi, kế hoạch mà Pierro từng nói, ‘nhiệm vụ’ của mình... cuối cùng cũng đến lúc hành động rồi...” Lumine thầm nghĩ.
+
+Trong tâm trí Lumine chợt hiện lại lời dặn của Pierro trước ngày hành động.
+
+“Còn về việc cụ thể cần làm...” Pierro nói. “...Vào ngày Nữ Hoàng gặp Chấp Chính Của Sự Sống, Mitya sẽ vận chuyển một lô thiết bị từ Rankova Zorya đến Snezhnograd. Còn cô chỉ cần chờ thời cơ, đợi Ronova xuất hiện và tiêu diệt tất cả mọi người... hãy kéo dài thời gian, đừng để cô ta rời khỏi hiện trường.”
+
+“Hết rồi sao? Đơn giản thế thôi à?” Paimon hỏi.
+
+Ký ức vừa dứt, giọng nói lạnh lẽo của Ronova lập tức cắt ngang.
+
+“Này, ngươi có đang nghe ta nói không đấy?” Ronova hỏi.
+
+“Giết ta xong rồi, lại muốn ta trò chuyện với ngươi sao?” Lumine hỏi.
+
+“Hừ, kẻ đáng ghét. Thật sự không hiểu sao Thiên Lý lại coi trọng Kẻ Đổ Bộ như ngươi đến thế,” Ronova nói. “Nhưng tốt nhất ngươi nên biết cư xử cho đúng mực, sự nhẫn nại của Thiên Lý hay của ta dành cho ngươi đều có giới hạn. Tiền lệ đã rành rành ra đó, di cốt của Kẻ Đổ Bộ Thứ Ba đã bị đám Ma Thần mang ra đùa giỡn suốt mấy trăm năm qua rồi... Nếu ta là ngươi, ta sẽ suy nghĩ kỹ về kết cục có thể xảy ra với mình rồi sống cho thật cẩn trọng, hoặc là chọn cách rời khỏi đây ngay.”
+
+“Nếu ta là ngươi, ta sẽ suy nghĩ kỹ xem bản thân có đáng sống như vậy không,” Lumine nói. “Trông có vẻ cao quý, định đoạt số phận người khác, nắm giữ bao nhiêu quy tắc... Nhưng thực ra, những quy tắc trói buộc ngươi còn nhiều hơn gấp bội so với quy tắc ngươi nắm giữ, muốn làm gì cũng không thể làm được.”
+
+“Ngươi tưởng ta thực sự không có cách nào tiêu diệt triệt để các người sao?” Ronova hỏi. “Chỉ cần đợi Asmoday trở về, để ‘Bốn Cái Bóng’ cùng kích hoạt quyền hạn... hoặc đợi ta tìm được chứng cứ ‘định tội’ trực tiếp hơn... Hay đơn giản nhất là đợi Thiên Lý thức giấc... Nền văn minh Snezhnaya này vốn đã ngàn cân treo sợi tóc từ lâu rồi, giờ ngươi cũng hoàn toàn trở thành kẻ đồng phạm... Ta sẽ không bao biện cho ngươi đâu.”
+
+“Ta còn tưởng là giờ ngươi đã có cách rồi đấy,” Lumine nói. “Theo ta thấy, cùng là tạo vật của Đảo Thiên Không, Paimon giỏi giang hơn ngươi nhiều. Ngươi nói Paimon không có sức mạnh, cũng không có quyền năng... rồi còn định thu hồi cô ấy như một món đồ. Nhưng suốt chặng đường qua, Paimon luôn dẫn lối cho ta, biết bao nhiêu người đã chứng kiến hành trình này, và cũng âm thầm làm thay đổi số phận của rất nhiều người. Đó là sự gắn kết chỉ tồn tại giữa con người, giữa các sinh mệnh với nhau, và Paimon cũng đang tự viết nên vận mệnh của chính mình. Còn ngươi mới giống một công cụ, một đồ vật hơn... Ngươi là kẻ đến cả tự do cho bản thân cũng chưa từng có, chỉ là một thứ xiềng xích mà Thiên Lý dùng để giam cầm loài người mà thôi.”
+
+Ronova khẽ hừ lạnh đầy khinh miệt.
+
+“Mình có hơi quá lời không nhỉ... Ban đầu định nói chuyện để kéo dài thời gian, kết quả nghĩ đến chuyện của Paimon lại lỡ miệng...” Lumine thầm nghĩ.
+
+“Vốn dĩ ta nghĩ các ngươi đã rút ra bài học rồi, lần này định dừng lại ở đây thôi...” Ronova nói. “Nhưng bây giờ... Tốt lắm, ta đổi ý rồi. Nếu như Thiên Lý không cho phép ta tiêu diệt các ngươi hoàn toàn, mà đúng là ta cũng không cần phải làm thế. Cái chết là sự an nghỉ, chỉ khi sống mới cảm nhận được nỗi đau vô tận. Về khoản này... ta có thừa thủ đoạn. Ta sẽ khiến các ngươi phải oán hận Thiên Lý, oán hận tại sao Thiên Lý lại không cho phép ta tiêu diệt các ngươi triệt để.”
+
+“Chậc... Thôi xong, lần này thật sự không còn đường lui nữa rồi.” Lumine thầm nghĩ.
+
+“Thời gian cũng sắp đến rồi, giờ chỉ cần đợi Rhinedottir hồi sinh các ngươi...” Ronova nói.
+
+Lumine nghiến chặt răng, thủ thế chuẩn bị đón đòn tiếp theo từ Chấp Chính Của Cái Chết.
+
+“...Hửm?” Ronova hỏi. “...Chuyện gì thế này, việc hồi sinh vẫn chưa bắt đầu sao?”
+
+---
+
+Cùng lúc đó, bên trong đại sảnh Cung Điện Zapolyarny, Rhinedottir vẫn đang tiếp tục câu chuyện với Nữ Hoàng Anastasya.
+
+“...Xem ra, sự thù địch của cô đối với Thiên Lý phần lớn là vì lý tưởng và tương lai của Snezhnaya, chứ không phải vì những thù oán trong quá khứ...” Rhinedottir nói. “Khaenri'ah nên thấy tự hào vì có một ‘người mẹ’ như cô, chỉ tiếc là giờ đây Khaenri'ah đã không còn nữa. Sao vậy, trông cô có vẻ không được khỏe lắm. Trò chuyện với tôi làm cô khó chịu sao? Tôi tưởng mình đã thu lại uy thế Chấp Chính Của Sự Sống rồi chứ. Đúng rồi, thực ra ngay từ đầu tôi đã muốn hỏi... Cô ‘tiếp đón’ tôi ở đây, trò chuyện uống trà cùng tôi thế này, thật sự không sao chứ? Dù là những tinh anh trong dân chúng Snezhnaya, hay những ‘chi viện bên ngoài’ được đặc biệt mời đến, lúc này chắc đều đang dốc hết sức để chống lại Ronova. Người đã nắm trong tay sáu Gnosis như cô lúc này, nếu lựa chọn dốc toàn lực tham chiến... Biết đâu có thể kéo tỷ lệ chiến thắng từ con số không lên một phần vạn đấy.”
+
+“Không, tôi nghĩ trò chuyện với cô quan trọng hơn,” Anastasya nói.
+
+“Được thôi, tùy cô vậy,” Rhinedottir nói. “Không cần trực tiếp đối mặt với Ronova, dù là ai thì cũng nên xem đó như một sự may mắn. Đừng nhìn vẻ ngoài như thể đang hăng hái làm việc đó, thực ra bản chất Ronova là một người thích làm theo ý mình. Giống như vừa rồi, tôi cảm nhận được cô ta lại đang đại khai sát giới... Những lực lượng vũ trang mà cô đặt cược vào chắc hẳn đều đã ‘chết một lần’ cả rồi. Vậy thì... cuộc trò chuyện vui vẻ kết thúc tại đây, cũng đến lúc tôi phải đi ‘dọn dẹp hậu quả’ cho quý cô đồng nghiệp bốc đồng kia rồi...”
+
+Thế nhưng, khi vừa định đứng dậy rời đi, Rhinedottir chợt liếc nhìn tách trà vẫn còn bốc hơi nóng hổi trước mặt mình.
+
+“Hả? Khoan đã... tốc độ trôi của thời gian...” Rhinedottir nói.
+
+---
+
+Bên ngoài chiến trường Rankova Zorya, chỉ có một mình Lumine còn trụ vững giữa vùng đất chết chóc khi thời hạn hồi sinh đã trôi qua mà chẳng hề có phép màu nào xuất hiện. Đứng giữa vòng vây tĩnh lặng, Ronova bỗng cảm nhận được điều bất thường.
+
+“Chuyện gì vậy... Rhinedottir?” Ronova hỏi.
+
+Ronova định xoay người rời khỏi chiến trường đi tìm nguyên nhân, nhưng ngay lập tức, luồng sức mạnh đen thẳm của Dainsleif đã trói chặt lấy chân cô ta.
+
+“Định đi đâu vậy, chuyện ở đây chưa xong đâu,” Dainsleif nói.
+
+Dainsleif và Lumine đồng loạt lao lên tấn công nhưng đều bị luồng kình lực của Ronova hất văng ra xa. Ngay khi Chấp Chính Của Cái Chết toan rời đi lần nữa, một mũi nhọn Nguyên Tố Lôi sắc bén bất ngờ giáng thẳng từ trên không xuống, ép Ronova phải giơ tay đỡ đòn.
+
+“Pierro...!” Lumine nói.
+
+Giữa làn bụi tuyết, Pierro đáp xuống chiến trường, trên lòng bàn tay ông lấp lánh một viên Delusion đặc biệt chưa từng thấy.
+
+“Kịp rồi sao...” Pierro nói. “Dù chưa trải qua thử nghiệm thực chiến. Nhưng ít nhất cũng đã kịp hoàn thành ‘Con Mắt Fatui’ này.”
+
+“Không ngờ có thể điều khiển được sức mạnh ở quy mô này,” Ronova nói. “Thứ mà thân xác và tinh thần của người thường không thể nào chịu đựng được. Cho dù trên người ngươi có Lời Nguyền Bất Tử của ta...”
+
+“Fatui chẳng hề quan tâm,” Pierro nói. “Miễn là có được tư cách đối mặt với thần. Dù phải trả giá ra sao, phải chịu đựng đau khổ thế nào, đều không quan trọng.”
+
+“Khá đấy, Eftirvit,” Dainsleif nói.
+
+Cả ba cùng dốc toàn lực lao vào công kích Ronova.
+
+“Đủ rồi...” Ronova nói.
+
+“Cẩn thận, có vẻ cô ta lại định...” Dainsleif nói.
+
+Ronova lại một lần nữa giáng xuống lời nguyền cái chết, hất linh hồn Lumine rơi trở lại vào cõi chết.
+
+“Trong thời gian ngắn mà lại phát động được quyền năng tiếp...” Lumine nói. “Không ổn, cứ thế này... sẽ không ngăn được cô ta! Phải nhanh hơn... nhanh hơn nữa!”
+
+Vận dụng sức mạnh Nguyên Tố Lôi lao vun vút xuyên qua cõi chết về tới lối thoát, Lumine kịp thời nhập hồn trở lại thân xác. Cô hội tụ toàn bộ sức mạnh các nguyên tố thành luồng quang mang thuần khiết của Lãnh Địa Ánh Sáng, tung đòn đánh hủy diệt hoàn toàn cánh cổng không gian mà Ronova vừa mở ra để trốn thoát.
+
+“Ngươi...!” Ronova nói.
+
+Chưa kịp ra tay đáp trả, Ronova bỗng khựng lại khi cảm nhận được nguồn quyền năng tối cao trong cơ thể mình đang bị tước đoạt từng chút một. Cùng khoảnh khắc ấy, bên trong Cung Điện Zapolyarny, Rhinedottir đưa tay chạm vào khoảng không và phát hiện một kết giới năng lượng vô hình đang bao bọc lấy mình cùng Nữ Hoàng, với sáu viên Gnosis làm những nút neo định giới.
+
+“Hình như tôi hiểu rồi,” Rhinedottir nói. “Sáu Gnosis trong tay cô... Hóa ra là để đối phó với tôi. Khá bất ngờ đấy. Sức mạnh Nguyên Tố Băng sau khi được Gnosis toàn lực cường hóa. Không ngờ lại có thể chạm đến cảnh giới của ‘Lý’... Dù không thể hoàn toàn ‘đóng băng’ thời không nơi đây. Nhưng ít nhất cũng làm thời gian ở đây trôi chậm lại rồi. Là vậy phải không, Ma Thần Băng?”
+
+---
+
+“Đến cả ‘chu kỳ giám sát’ của Thiên Lý mà các người cũng điều tra ra được sao? Đảo Thiên Không đúng là đã đánh giá thấp quyết tâm làm phản của các người rồi,” Rhinedottir nói. “Tương tự, Đảo Thiên Không cũng đánh giá thấp hiệu quả tăng cường từ di cốt của Kẻ Đổ Bộ thứ ba... Dùng Nguyên Tố Băng để tác động lên thời gian và không gian, sửa đổi quy tắc vận hành của thế giới trong phạm vi nhỏ... Đây rõ ràng không phải sức mạnh mà một Ma Thần có thể sở hữu.”
+
+“Gnosis chỉ là một phần thôi, trong đó có cả những gì tôi tự lĩnh ngộ suốt hàng ngàn năm qua,” Anastasya nói.
+
+“Rõ ràng chỉ là một Ma Thần... vậy mà lại có thể đạt đến cảnh giới này,” Rhinedottir nói. “Dưới ảnh hưởng từ sức mạnh Nguyên Tố Băng vượt xa quy chuẩn của cô, tốc độ thời gian trôi trong đại sảnh nơi chúng ta đang ở đã chậm hơn đáng kể so với bên ngoài... Nói cách khác, trong lúc tôi và cô đang thong dong trò chuyện, chẳng chút căng thẳng... Thì thời gian bên ngoài đang trôi qua vô cùng nhanh chóng. Để né tránh ‘chu kỳ’, thời điểm ‘hồi sinh’ mà tôi hứa với Ronova cũng bị lỡ mất lúc nào không hay...”
+
+“Tình hình của Ronova lúc này có lẽ chẳng mấy tốt đẹp. Quyền Năng Cái Chết hẳn là đã bị thu hồi rồi,” Naberius nói.
+
+“Giờ mới xem xét lại thì cũng vô nghĩa, tôi biết kế sách này chỉ dùng được một lần duy nhất thôi,” Anastasya nói. “Ngoài ra, giờ cô có thể hồi sinh những người đã bị Ronova sát hại rồi đấy, đó vẫn là trách nhiệm của cô, đúng không?”
+
+“Đúng vậy. Ngay từ khi phát hiện ra sự việc này, Đảo Thiên Không đã đưa ra phương án xử lý rồi,” Rhinedottir nói. “Ngay lúc này đây, mệnh lệnh từ Đảo Thiên Không đang vang vọng trong đầu tôi, yêu cầu tôi dùng quyền năng để bù đắp cho sai lầm của Ronova. Cô thậm chí còn tính đến cả nước đi này sao?”
+
+“Chỉ là... tôi không thích những chiến thuật buộc phải ‘thí tốt’,” Anastasya nói.
+
+“Được rồi, như cô mong muốn,” Rhinedottir nói. “Vậy thì, Nữ Hoàng Anastasya, chuyện đã đến nước này rồi, cô nghĩ tiếp theo tôi sẽ làm gì?”
+
+“Đáng tiếc là hành vi ‘phản loạn’ này không thể bị Đảo Thiên Không phán xét, cũng còn lâu mới đến mức giáng xuống ‘đinh trừng phạt’,” Naberius nói. “Nhưng đối với cá nhân cô ta, hành vi vượt giới hạn quyền năng vừa rồi đã đủ cấu thành lý do để ‘trừng phạt’ rồi. Rhinedottir?”
+
+“...Hahaha, đừng căng thẳng thế chứ, tôi đùa chút thôi mà,” Rhinedottir nói. “Ronova vừa chịu phạt xong, tôi và Naberius cũng coi như là ‘đồng phạm’, hiện tại đang bị Đảo Thiên Không giám sát rất chặt chẽ. Tôi không muốn Quyền Năng Sự Sống cũng bị thu hồi đâu.”
+
+“...Tại sao lại dùng cái cớ đó? Cô thật sự định tha cho Ma Thần Băng sao?” Naberius hỏi.
+
+“Nhân tiện, tôi rất khâm phục bản lĩnh và mưu lược của cô, cô là một ‘đối thủ’ đáng được kính trọng đấy,” Rhinedottir nói. “Thôi, hôm nay tạm dừng ở đây vậy. Nếu tiếp tục làm phiền với tư cách khách mời, chủ nhà sẽ thấy phiền lòng mất.”
+
+“Tiếp đón không được chu đáo, mong cô thông cảm,” Anastasya nói.
+
+“Bỏ qua thân phận Chấp Chính Của Sự Sống, chỉ đứng trên lập trường của ‘Ma Nữ R’ hay ‘Gold’ của Khaenri'ah mà nói...” Rhinedottir nói. “Tôi bắt đầu tin rằng Snezhnaya thực sự có thể làm nên ‘đại sự’ rồi.”
+
+Khi Rhinedottir xoay người bước ra khỏi phòng làm việc của Nữ Hoàng, giọng nói bực dọc của Naberius lại vang lên trong tâm trí cô.
+
+“Tôi không hài lòng với cách xử lý của cô đâu, Rhinedottir. Sau vụ này, Snezhnaya nhất định sẽ ngày càng lấn tới...” Naberius nói.
+
+“Hả...? Cô vừa nói gì cơ, Naberius, tín hiệu bên tôi hình như không được tốt lắm,” Rhinedottir nói.
+
+“Hừ... quý cô ‘Ma Nữ’ này...” Naberius nói.
+
+---
+
+Trở lại chiến trường Rankova Zorya, phép hồi sinh của Rhinedottir cuối cùng cũng phát huy tác dụng, khiến những người đã ngã xuống lần lượt tỉnh lại.
+
+“Quyền năng... các ngươi đã tính toán hết rồi đúng không...” Ronova nói.
+
+Mitya cùng các đồng đội vừa kịp hoàn hồn ngước nhìn xung quanh.
+
+“Trở về thực tại rồi sao... Thế nào, thành công rồi à?” Mitya hỏi.
+
+“Trở về rồi thì chuẩn bị chiến đấu đi, cô ta sẽ không dễ dàng bỏ qua như vậy đâu,” Pierro nói. “Mặc dù đã mất đi Quyền Năng Cái Chết phiền phức nhất, nhưng bản thân thực lực của Ronova chắc chắn không hề giảm sút đâu.”
+
+“Không biết đúng sai... hành xử tùy tiện... vậy mà dám đoạt đi...” Ronova nói. “Cũng tốt, dù sao ta cũng chán ngấy cái gọi là ‘sự trói buộc’ này từ lâu rồi... Giờ thì, cuối cùng ta cũng có thể thỏa thích gieo rắc cái chết. Ta thừa nhận các ngươi đã tạm thời đạt được mục đích... Nhưng cái giá phải trả cho việc tháo bỏ xiềng xích của ta, liệu các ngươi có gánh nổi không?”
+
+>Mặc dù đã mất đi quyền năng, Ronova vẫn giữ được sức mạnh ở cấp độ bốn chiếc bóng, và lúc này cô ta sẽ dốc toàn lực. Trận chiến ngày càng trở nên khốc liệt, cuối cùng cũng dần đi đến hồi kết...
+
+>Đánh bại Ronova đã mất đi quyền năng
+
+Trận quyết chiến cuối cùng bùng nổ dữ dội hơn bao giờ hết. Trong suốt cuộc chiến, Pierro liên tục giải phóng sức mạnh của thứ vũ khí mới để tiếp ứng cho Lumine và Dainsleif.
+
+“‘Con Mắt Fatui’... giải phóng!” Pierro nói. “Ronova!”
+
+---
+
+Cuộc giao tranh kéo dài khiến Ronova bắt đầu lộ rõ dấu hiệu kiệt sức. Pierro dốc sức lao lên tấn công liên tiếp, nhưng do tiêu hao quá độ, ông bất ngờ khuỵu gối xuống nền tuyết. Thừa cơ hội ấy, Ronova toan ra tay kết liễu ông, song Dainsleif đã kịp lao tới kéo Pierro thoát khỏi tầm đánh rồi cùng Lumine phản công, câu giờ cho Pierro dồn tụ đòn quyết định.
+
+Giữa khoảnh khắc sinh tử ấy, ký ức năm trăm năm trước trong ngày thảm họa Khaenri'ah lại hiện về trước mắt Pierro — ánh nhìn vô cảm tuyệt đối của Chấp Chính Của Cái Chết khi giáng xuống Lời Nguyền Bất Tử.
+
+“Suốt năm trăm năm qua, ta luôn nhớ ánh mắt đó,” Pierro nói. “Khi giáng xuống lời nguyền bất tử. Trong mắt Chấp Chính Của Cái Chết, không một chút thương xót. Cũng chẳng hề thỏa mãn. Rõ ràng khắp nơi đều là những con người đang van xin. Vậy mà trong mắt cô ta, dường như chỉ là một vùng hoang vu.”
+
+Ronova hất văng cả Lumine và Dainsleif xuống đất rồi tụ lực chuẩn bị tung đòn, nhưng một luồng Nguyên Tố Lôi cuộn trào dữ dội bỗng thu hút hoàn toàn sự chú ý của cô ta về phía Pierro. Toàn thân ông bừng sáng những ký tự cổ Teyvat khi phát động toàn bộ uy lực của Con Mắt Fatui.
+
+“Bây giờ, hãy nhìn thẳng vào ta,” Pierro nói. “Ronova, hãy nhìn thẳng vào kẻ thù của ngươi. Để ta cho ngươi biết sức nặng của sự sống!”
+
+Từ trên tầng mây cao vút, một cây đinh Nguyên Tố Lôi khổng lồ mang uy thế hủy diệt chẳng kém gì Đinh Trừng Phạt dần hiện hình, lao thẳng xuống đầu Ronova.
+
+“Mau tránh đi!” Dainsleif nói.
+
+Dainsleif vội kéo Lumine lùi ra xa ngay khoảnh khắc đòn đánh tối hậu giáng xuống. Ronova dồn hết sức chống đỡ luồng công kích, còn Pierro tiếp tục rót cạn sinh mệnh và linh hồn mình vào Con Mắt Fatui khiến ngọn đinh lôi chuyển từ sắc tím sang đỏ rực, ép mạnh xuống xuyên thủng hoàn toàn lớp phòng ngự của Ronova. Vụ nổ kinh thiên động địa cuốn phăng cả chiến trường trong biển bụi mù mịt. Lumine lập tức dựng kết giới Nguyên Tố Nham che chắn cho những người xung quanh, còn Dainsleif lao tới đỡ lấy Pierro khi nguồn năng lượng trong Con Mắt Fatui đã hoàn toàn cạn kiệt.
+
+Khi làn khói bụi dần tan đi, để lại một hố va chạm sâu hoắm giữa chiến trường đổ nát, một cánh cổng không gian nhỏ lặng lẽ biến mất ngay bên rìa miệng hố mà chẳng ai hay biết.
+
+---
+
+>Nói chuyện với các đồng đội
+
+“Kết, kết thúc rồi sao? Ronova... chết rồi ư?” Paimon hỏi.
+
+“Chấp Chính Của Cái Chết... cũng có thể chết sao?” Vodyanitsa hỏi.
+
+“Thực ra, ngay từ khoảnh khắc quyền năng của cô ta bị Đảo Thiên Không thu hồi, Snezhnaya đã đạt được mục đích rồi...” Pierro nói. “Nhưng việc đi đến nước này gần như là điều tất yếu. Có lẽ ngay từ khoảnh khắc Lời Nguyền Bất Tử giáng xuống, ân oán ‘bất tử bất diệt’ này đã được định sẵn rồi.”
+
+“Vậy là sự phong tỏa đối với công nghệ Snezhnaya đã được giải trừ, Kế Hoạch Mistilteinn cuối cùng cũng có thể tiếp tục xúc tiến rồi,” Mitya nói. “Nếu biết trước việc đánh bại Chấp Chính Của Cái Chết lại là một mắt xích bắt buộc trong kế hoạch... Lúc đó tôi nhất định sẽ cân nhắc kỹ hơn việc có nên gia nhập hay không.”
+
+“Đòn cuối cùng đó của ông, liệu có chắc là đã hoàn toàn kết liễu cô ta?” Dainsleif hỏi.
+
+“Trừ khi cô ta dùng thủ đoạn nào đó mà chúng ta không nhận ra để thoát khỏi chiến trường...” Pierro nói. “Nhưng dù vậy, ít nhất cô ta cũng sẽ bị trọng thương không thể hồi phục. Dù sao đi nữa, trong khoảng thời gian tới chúng ta vẫn phải đề phòng khả năng bị trả thù... Trong cuộc đối đầu với thần linh, không một ai có thể nhìn thấu hoàn toàn diện mạo của vận mệnh.”
+
+“Xem ra thì... ‘lời nguyền bất tử’ là lời nguyền vĩnh cửu mà Ronova đã thực thi dưới phán quyết của Thiên Lý năm đó, ngay cả bản thân cô ta cũng không thể tùy tiện xóa bỏ.” Lumine thầm nghĩ. “Còn lần này, lời nguyền chết chóc mà Ronova tự ý giáng xuống để phong tỏa khoa học kỹ thuật của Snezhnaya... không có sự cho phép của Thiên Lý, nên chắc đã bị thu hồi cùng với quyền năng rồi.”
+
+---
+
+>Nói chuyện với Paimon
+
+>Trong vài ngày sau khi trận chiến kết thúc, các cơ sở vật chất xung quanh Rankova Zorya bắt đầu được sửa chữa một cách trật tự... Sau khi được các nhân viên thí nghiệm của Cục Khí Tài xác nhận, lệnh phong tỏa đối với Kế Hoạch Mistilteinn đã được gỡ bỏ.
+
+>Đến ngày hôm nay, Nữ Hoàng Băng Giá đã triệu kiến tất cả những người tham gia tác chiến lần này...
+
+Sau buổi lễ tuyên dương trọng thể, Lumine và Paimon cùng bước ra khỏi Cung Điện Zapolyarny.
+
+“...Kết thúc rồi, kết thúc rồi! Ban đầu trước khi vào gặp Nữ Hoàng bệ hạ tôi còn thấy hơi hồi hộp, giờ nhìn lại thì...” Paimon nói. “Chẳng khác nào một buổi lễ tuyên dương công khai cả, chúng ta hút trọn ánh nhìn rồi đó!”
+
+“Rõ ràng có rất nhiều người được Nữ Hoàng khen thưởng mà...” Lumine nói.
+
+“Hì hì, thật ra tôi nghĩ công lao của Nữ Hoàng mới là lớn nhất,” Paimon nói.
+
+Giữa lúc hai người trò chuyện, bóng dáng Dainsleif lặng lẽ sải bước ngang qua phía trước.
+
+“Cả nhóm chúng ta mới đối phó được Ronova, còn cô ấy một mình đã ứng phó được với Rhinedottir, phải tìm ai đó khen cô ấy mới được,” Paimon nói.
+
+“Paimon có thể đại diện cho Đảo Thiên Không để trao tặng danh hiệu cho cô ấy,” Lumine nói.
+
+“Không, không dám đâu! Tôi cứ nghĩ mãi... liệu Nữ Hoàng có cho rằng tôi là gián điệp của Đảo Thiên Không hay gì đó không...” Paimon nói.
+
+“Có tôi bảo đảm, không ai có thể nghi ngờ Paimon đâu,” Lumine nói.
+
+“Được! Để tôi theo sát Lumine!” Paimon nói. “Ơ, Dain ở phía trước kìa, lúc ở trong cung điện tôi đã định nói rồi, không ngờ trong dịp thế này mà anh ấy cũng đến nữa... Dain!”
+
+“Sao thế, có chuyện gì à?” Dainsleif hỏi.
+
+“Sao rời đi vội vậy, định đi đâu à?” Paimon hỏi.
+
+“Tôi chỉ muốn nhanh chóng rời đi thôi, chỗ này khiến tôi thấy không thoải mái,” Dainsleif nói.
+
+“Không thoải mái sao còn đến? Nói thật là tôi hoàn toàn không ngờ anh lại tới yết kiến Nữ Hoàng bệ hạ đấy,” Paimon nói.
+
+“Nữ Hoàng thì khác. Chỉ là một buổi yết kiến đơn giản thôi, tôi không thể không nể mặt ‘Người Mẹ Của Khaenri'ah’ được,” Dainsleif nói.
+
+“Ừm... ‘Mẹ’ có vẻ là danh xưng có trọng lượng nhất trên thế gian này nhỉ,” Paimon nói. “Đúng rồi, Pierro có thực hiện lời hứa không? Anh đã đi gặp ‘Hiền Giả’ chưa?”
+
+“Gặp rồi, nhưng có chút thất vọng,” Dainsleif nói. “Giá trị lớn nhất của vị Hiền Giả trẻ tuổi đó có lẽ chỉ là để hàn huyên tâm sự thôi, hắn hoàn toàn chưa từng chạm tới góc tối của Khaenri'ah. Ngược lại thì lão Eftirvit đó, dạo này lại rất hào hứng đem công việc trong tay ra thảo luận với hắn. Chỉ có thể nói... ông ta sống ‘không chấp nhặt’ hơn tôi tưởng. Nhưng cũng có thể là để chống lại ‘sự hao mòn’ thôi. Trận chiến với Ronova đã tiêu hao quá nhiều tinh thần và linh hồn của ông ta. Để nắm giữ sức mạnh to lớn đến vậy, tất nhiên phải trả những cái giá không thể cứu vãn.”
+
+“Thảo nào hôm nay không thấy ông ấy đâu, đúng là nên nghỉ ngơi cho đàng hoàng một chút,” Paimon nói.
+
+“Đối với Snezhnaya, lần này coi như đã đại thắng rồi... Dù sao đối thủ cũng là Chấp Chính Của Cái Chết Ronova cơ mà,” Dainsleif nói. “Năm trăm năm trước, khi những người Khaenri'ah trong thảm họa ngước nhìn cô ta, ai nấy cũng chỉ cảm thấy đó là một vị thần không thể chạm tới.”
+
+“Mang ý nghĩa như khởi đầu của một thời đại mới,” Lumine nói.
+
+“Ừm, nhưng có một điều chắc chắn rằng... đó sẽ không phải là một thời đại bình yên,” Dainsleif nói.
+
+---
+
+Cùng lúc ấy, tại một vùng đất băng giá hẻo lánh khác ở Snezhnaya, một cánh cổng không gian khẽ mở ra ngay bên dưới Đinh Trừng Phạt đang lơ lửng phía trên hài cốt khổng lồ của Băng Long. Ronova — thân mang thương tích chí mạng và đang cận kề cái chết — bước ra từ cánh cổng ấy.
+
+“‘Kẻ kiểm soát cái chết... lại không thể cảm nhận cái chết’,” Ronova nói.
+
+Cô ho sặc sụa lên lòng bàn tay, sững sờ cúi nhìn vết máu đỏ sẫm đang loang dần trên da thịt mình.
+
+“Khụ... khụ...” Ronova nói. “Thì ra... Đây chính là cảm giác của ‘cái chết’. Con người. Chư thần. Và cả ██████... Đều không cần phải oán hận nữa. Hãy đáp lại tạo vật vi phạm cấm kỵ nguyên sơ này đi... Phôi Chất Địa Nguyên mà người Hyperborea giấu sâu trong Ảnh Vực...”
+
+Một quả cầu ánh sáng rực rỡ hiện lên trong tay Ronova rồi lao thẳng vào thân Đinh Trừng Phạt. Chiếc đinh cổ xưa lập tức rạn nứt dữ dội và bắt đầu sụp đổ, trong khi đôi cánh sau lưng Ronova rụng từng chiếc lông đen, còn bàn tay cô dần bốc cháy tan biến vào hư không.
+
+“Ta đem cảm xúc lúc này cùng với Hóa Đất Thánh,” Ronova nói. “Trao tặng cả cho thế gian... ...Như một món quà tiễn biệt.”
+
+>(Hết Chương VII · Màn IV — Khúc An Hồn Cõi Âm)
