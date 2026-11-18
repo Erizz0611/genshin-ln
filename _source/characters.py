@@ -343,7 +343,7 @@ dict(name='Zhongli', title='Khách của Vãng Sinh Đường', img='zhongli_car
   origin='Theo lời Nahida, Katheryne là một “con rối sinh học Snezhnaya”; Nahida có thể “truy cập” ý thức của người mang Trạm Cuối Akasha nhưng chỉ mượn ý thức của Katheryne trong lúc nguy cấp nhất.',
   role='Cuối Chương III Màn II, Nahida dùng thân thể Katheryne trò chuyện với Lumine và Paimon; Katheryne chỉ nói bằng giọng của mình sau khi Nahida rời đi. Ở Màn III, thân thể này tiếp tục đi cùng Lumine và Paimon trong cuộc điều tra.'),
  dict(name='Setaria', title='Học giả Giáo Viện', img='setaria_npc.png',
-  info=[('Vai trò','Học giả, trợ lý của Đại Hiền Giả'),('Thuộc về','Giáo Viện · Sumeru'),('Xuất hiện','Chương III Màn III')],
+  info=[('Vai trò','Học giả, trợ lý của Đại Hiền Giả'),('Thuộc về','Giáo Viện · Sumeru'),('Xuất hiện','Chương III Màn II, Chương III Màn III')],
   who='Người của Giáo Viện, trợ lý của Đại Hiền Giả Azar, thường đi theo ông. Theo lời Nahida, cô xuất thân từ vùng sa mạc và là thiên tài học thuật hàng đầu ở đó.',
   origin='Được Giáo Viện đặc cách tuyển vào học nhờ tài năng; Nahida nói rằng mình thích quan sát cô trong số rất nhiều người.',
   role='Ở Chương III Màn II, cô đọc lệnh cấm Lễ Hội Sabzeruz cùng Azar. Ở Màn III, Nahida chọn cô làm người nên được thuyết phục; Lumine, Paimon và Nahida tìm cách nói chuyện với cô, tính cả những người quen của cô như Nabiya, Akim và Qishan.'),
