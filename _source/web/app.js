@@ -1,7 +1,12 @@
 (function () {
   var KEY = 'ln-settings', PROG = 'ln-progress', READ = 'ln-read';
   function get(k, d) { try { return JSON.parse(localStorage.getItem(k)) || d; } catch (e) { return d; } }
-  function set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+  var onLocal = null; // đồng bộ tài khoản (gắn ở cuối file)
+  function set(k, v, quiet) {
+    if (k === PROG && v && !quiet) v.t = Date.now();
+    try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {}
+    if (!quiet && onLocal && (k === PROG || k === READ)) onLocal(k);
+  }
   var root = document.documentElement, s = get(KEY, {});
   s.fs = s.fs || 18; s.lh = s.lh || 1.8; s.font = s.font || 'serif'; s.theme = s.theme || 'light';
 
@@ -79,7 +84,8 @@
   });
   paint();
   var cont = document.getElementById('continue');
-  if (cont && p && p.url) {
+  function showContinue() {
+    if (!cont || !p || !p.url) return;
     cont.href = p.url; cont.hidden = false;
     var note = document.getElementById('continue-note');
     // lấy tên hiện tại từ mục lục (tên màn có thể đã đổi sau khi lưu)
@@ -90,6 +96,7 @@
     }
     if (note && t) { note.textContent = 'Đang đọc: ' + t; note.hidden = false; }
   }
+  showContinue();
   // ----- hồ sơ nhân vật: thẻ nổi -----
   var modal = document.getElementById('modal');
   if (modal) {
@@ -154,4 +161,108 @@
   navs.forEach(function (a) { a.addEventListener('click', function () { openAct(a.dataset.nav); }); });
   openAct(location.hash.slice(1));
   window.addEventListener('hashchange', function () { openAct(location.hash.slice(1)); });
+  // ----- tài khoản Google: đồng bộ dấu đã đọc + vị trí "Đọc tiếp" lên Firestore (users/{uid}) -----
+  // Chưa đăng nhập: chỉ lưu localStorage như cũ. Thư viện Firebase chỉ tải khi đã/đang đăng nhập.
+  var FBV = 'https://www.gstatic.com/firebasejs/10.14.1/', SYNC = 'ln-sync';
+  var CFG = { apiKey: 'AIzaSyAIcdBv-1_o66dvgdv8T5MT3FkccvYZ-B4', authDomain: 'genshinln.firebaseapp.com', projectId: 'genshinln',
+    storageBucket: 'genshinln.firebasestorage.app', messagingSenderId: '883911656308', appId: '1:883911656308:web:f2a2e1be72755e6e90e221' };
+  var fbP = null, user = null, state = 'off', tRead = 0, tProg = 0, lastProg = 0;
+  function imp(u) { return (new Function('u', 'return import(u)'))(u); }
+  function loadFb() {
+    if (!fbP) fbP = Promise.all([imp(FBV + 'firebase-app.js'), imp(FBV + 'firebase-auth.js'), imp(FBV + 'firebase-firestore.js')]).then(function (m) {
+      var app = m[0].initializeApp(CFG), A = m[1], F = m[2], auth = A.getAuth(app);
+      var fb = { A: A, F: F, auth: auth, db: F.getFirestore(app) };
+      if ((get(SYNC, {}) || {}).pending) A.getRedirectResult(auth).catch(function () { state = 'err'; ui(); });
+      A.onAuthStateChanged(auth, function (u) {
+        user = u;
+        if (u) pull(fb); else { state = 'off'; try { localStorage.removeItem(SYNC); } catch (e) {} ui(); }
+      });
+      return fb;
+    });
+    fbP.catch(function () { fbP = null; state = 'err'; ui(); });
+    return fbP;
+  }
+  function doc(fb) { return fb.F.doc(fb.db, 'users', user.uid); }
+  function push(fb) {
+    if (!user) return;
+    var meta = get(SYNC, {}); meta.uid = user.uid; meta.dirty = 1; set(SYNC, meta, true);
+    fb.F.setDoc(doc(fb), { read: get(READ, {}), prog: get(PROG, null), t: Date.now() }).then(function () {
+      var m = get(SYNC, {}); delete m.dirty; set(SYNC, m, true); if (state !== 'ok') { state = 'ok'; ui(); }
+    }, function () { state = 'err'; ui(); });
+  }
+  function pull(fb) {
+    var uid = user.uid; state = 'busy'; ui();
+    fb.F.getDoc(doc(fb)).then(function (snap) {
+      if (!user || user.uid !== uid) return;
+      var meta = get(SYNC, {}), first = meta.uid !== uid, d = snap.exists() ? snap.data() : null;
+      var lr = get(READ, {}), lp = get(PROG, null), r = lr, pr = lp, needPush = !d;
+      if (d) {
+        if (first || meta.dirty) { r = Object.assign({}, d.read || {}, lr); needPush = true; } // lần đầu: gộp tiến trình cũ lên tài khoản
+        else r = d.read || {};
+        var rp = d.prog || null;
+        if (rp && (!lp || (rp.t || 0) > (lp.t || 0))) pr = rp; else if (lp && (!rp || (lp.t || 0) > (rp.t || 0))) needPush = true;
+      }
+      set(READ, r, true); if (pr) set(PROG, pr, true);
+      meta.uid = uid; set(SYNC, meta, true);
+      p = get(PROG, null); paint(); showContinue();
+      state = 'ok'; ui();
+      if (needPush) push(fb);
+    }, function () { state = 'err'; ui(); });
+  }
+  onLocal = function (k) {
+    if (!user || !fbP) return;
+    if (k === READ) { clearTimeout(tRead); tRead = setTimeout(function () { fbP.then(push); }, 600); }
+    else if (!tProg) { // vị trí đọc: gửi tối đa ~10 giây một lần
+      tProg = setTimeout(function () { tProg = 0; lastProg = Date.now(); fbP.then(push); }, Math.max(1500, 10000 - (Date.now() - lastProg)));
+    }
+  };
+  function flush() { if (tProg && user && fbP) { clearTimeout(tProg); tProg = 0; lastProg = Date.now(); fbP.then(push); } }
+  document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'hidden') flush(); });
+  window.addEventListener('pagehide', flush);
+
+  function signIn() {
+    state = 'busy'; ui();
+    loadFb().then(function (fb) {
+      var pv = new fb.A.GoogleAuthProvider(); pv.setCustomParameters({ prompt: 'select_account' });
+      return fb.A.signInWithPopup(fb.auth, pv).catch(function (e) {
+        if (e && (e.code === 'auth/popup-blocked' || e.code === 'auth/operation-not-supported-in-environment')) {
+          set(SYNC, { pending: 1 }, true); return fb.A.signInWithRedirect(fb.auth, pv);
+        }
+        throw e;
+      });
+    }).catch(function (e) {
+      state = e && (e.code === 'auth/popup-closed-by-user' || e.code === 'auth/cancelled-popup-request') ? 'off' : 'err'; ui();
+    });
+  }
+  function signOut() { if (!fbP) return; flush(); fbP.then(function (fb) { fb.A.signOut(fb.auth); }); }
+
+  // giao diện: một dòng trong bảng "Cài đặt đọc" + một dòng gợi ý dưới nút Đọc tiếp ở trang chủ
+  var acctRow = document.createElement('div');
+  acctRow.className = 'row acct';
+  acctRow.innerHTML = '<span>Tài khoản</span><div class="acct-r"><span class="acct-who"></span><button type="button" class="acct-btn" data-acct></button></div>';
+  var acctNote = document.createElement('p'); acctNote.className = 'acct-note';
+  sheet.querySelector('.sheet').appendChild(acctRow); sheet.querySelector('.sheet').appendChild(acctNote);
+  var hint = null, cn = document.getElementById('continue-note');
+  if (cn) { hint = document.createElement('p'); hint.className = 'acct-hint'; cn.parentNode.insertBefore(hint, cn.nextSibling); }
+  function nm() { return user ? (user.displayName || user.email || 'Tài khoản Google') : ''; }
+  function ui() {
+    var b = acctRow.querySelector('.acct-btn'), who = acctRow.querySelector('.acct-who');
+    b.textContent = user ? 'Đăng xuất' : 'Đăng nhập Google'; b.disabled = state === 'busy' && !user;
+    who.textContent = user ? nm() : ''; who.hidden = !user;
+    acctNote.textContent = user
+      ? (state === 'busy' ? 'Đang đồng bộ tiến trình đọc…' : state === 'err' ? 'Chưa đồng bộ được, kiểm tra mạng rồi tải lại trang.' : 'Dấu đã đọc và vị trí "Đọc tiếp" được lưu theo tài khoản, dùng được trên mọi thiết bị.')
+      : (state === 'err' ? 'Đăng nhập không thành công, thử lại nhé.' : 'Đăng nhập để lưu dấu đã đọc và vị trí "Đọc tiếp" trên mọi thiết bị. Không đăng nhập thì vẫn lưu trên trình duyệt này.');
+    if (hint) hint.innerHTML = user
+      ? 'Đã đăng nhập: <b></b> · tiến trình đọc được đồng bộ'
+      : '<button type="button" class="linkish" data-acct>Đăng nhập Google</button> để lưu tiến trình đọc trên mọi thiết bị';
+    if (hint && user) hint.querySelector('b').textContent = nm();
+  }
+  document.addEventListener('pointerdown', function (e) { if (e.target.closest('[data-acct]') && !user) loadFb(); }, true);
+  document.addEventListener('click', function (e) {
+    if (!e.target.closest('[data-acct]')) return;
+    if (user) signOut(); else signIn();
+  });
+  ui();
+  var meta0 = get(SYNC, null);
+  if (meta0 && (meta0.uid || meta0.pending)) { state = 'busy'; loadFb(); ui(); }
 })();
