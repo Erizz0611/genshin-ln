@@ -10,6 +10,7 @@
   var root = document.documentElement, s = get(KEY, {});
   s.fs = s.fs || 18; s.lh = s.lh || 1.8; s.font = s.font || 'serif'; s.theme = s.theme || 'light';
 
+  var THEMES = { light: 'Sáng', sepia: 'Giấy', dark: 'Tối' };
   // ----- cài đặt đọc -----
   var sheet = document.getElementById('settings'), fsVal = document.getElementById('fs-val');
   function apply() {
@@ -21,10 +22,11 @@
     sheet.querySelectorAll('[data-lh]').forEach(function (b) { b.classList.toggle('on', +b.dataset.lh === +s.lh); });
     sheet.querySelectorAll('[data-font]').forEach(function (b) { b.classList.toggle('on', b.dataset.font === s.font); });
     sheet.querySelectorAll('[data-theme]').forEach(function (b) { b.classList.toggle('on', b.dataset.theme === s.theme); });
+    document.querySelectorAll('[data-theme-name]').forEach(function (e) { e.textContent = THEMES[s.theme] || 'Sáng'; });
     set(KEY, s);
   }
   apply();
-  document.querySelectorAll('[data-open-settings]').forEach(function (b) { b.onclick = function () { sheet.hidden = false; }; });
+  document.querySelectorAll('[data-open-settings]').forEach(function (b) { b.onclick = function () { sideOpen(false); sheet.hidden = false; }; });
   sheet.addEventListener('click', function (e) {
     var b = e.target.closest('button');
     if (e.target === sheet || (b && b.hasAttribute('data-close-settings'))) { sheet.hidden = true; return; }
@@ -36,6 +38,30 @@
     apply();
   });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') sheet.hidden = true; });
+
+  // ----- thanh bên trái (máy tính: cố định; điện thoại: ngăn kéo mở bằng nút menu) -----
+  var side = document.getElementById('side'), scrim = document.querySelector('.side-scrim'), menuBtn = document.querySelector('[data-open-side]');
+  function sideOpen(o) {
+    if (!side) return;
+    document.body.classList.toggle('side-open', o);
+    if (scrim) scrim.hidden = !o;
+    if (menuBtn) menuBtn.setAttribute('aria-expanded', o);
+  }
+  document.addEventListener('click', function (e) {
+    if (e.target.closest('[data-open-side]')) { sideOpen(true); return; }
+    if (e.target.closest('[data-close-side]') || (document.body.classList.contains('side-open') && e.target.closest('.rail a'))) sideOpen(false);
+    if (e.target.closest('[data-theme-cycle]')) {
+      var ks = Object.keys(THEMES); s.theme = ks[(ks.indexOf(s.theme) + 1) % ks.length]; apply();
+    }
+  });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') sideOpen(false); });
+  function sideCont() {
+    var a = side && side.querySelector('[data-continue]'), pr = get(PROG, null);
+    if (!a || !pr || !pr.url) return;
+    a.href = (side.dataset.root || '') + pr.url; a.hidden = false;
+    a.querySelector('[data-continue-t]').textContent = pr.title || '';
+  }
+  sideCont();
 
   // ----- trang chương -----
   var reader = document.querySelector('.reader');
@@ -85,6 +111,7 @@
   paint();
   var cont = document.getElementById('continue');
   function showContinue() {
+    sideCont();
     if (!cont || !p || !p.url) return;
     cont.href = p.url; cont.hidden = false;
     var note = document.getElementById('continue-note');
@@ -256,6 +283,21 @@
       ? 'Đã đăng nhập: <b></b> · tiến trình đọc được đồng bộ'
       : '<button type="button" class="linkish" data-acct>Đăng nhập Google</button> để lưu tiến trình đọc trên mọi thiết bị';
     if (hint && user) hint.querySelector('b').textContent = nm();
+    var sa = document.getElementById('side-acct');
+    if (sa) {
+      if (user) {
+        sa.innerHTML = '<span class="sa-av" aria-hidden="true"></span><span class="sa-t"><b></b><span class="sa-s"></span></span><button type="button" class="sa-out" data-acct>Đăng xuất</button>';
+        var av = sa.querySelector('.sa-av');
+        if (user.photoURL) { var im = document.createElement('img'); im.src = user.photoURL; im.alt = ''; im.referrerPolicy = 'no-referrer'; av.appendChild(im); }
+        else av.textContent = nm().charAt(0).toUpperCase();
+        sa.querySelector('b').textContent = nm();
+        var st = sa.querySelector('.sa-s'); st.className = 'sa-s ' + state;
+        st.textContent = state === 'busy' ? 'Đang đồng bộ…' : state === 'err' ? 'Chưa đồng bộ được' : 'Đã đồng bộ';
+      } else {
+        sa.innerHTML = '<button type="button" class="sa-in" data-acct' + (state === 'busy' ? ' disabled' : '') + '>Đăng nhập Google</button><span class="sa-note"></span>';
+        sa.querySelector('.sa-note').textContent = state === 'err' ? 'Đăng nhập không thành công, thử lại nhé.' : 'Lưu tiến trình đọc trên mọi thiết bị';
+      }
+    }
   }
   document.addEventListener('pointerdown', function (e) { if (e.target.closest('[data-acct]') && !user) loadFb(); }, true);
   document.addEventListener('click', function (e) {
