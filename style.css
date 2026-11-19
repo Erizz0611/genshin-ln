@@ -199,3 +199,13 @@ body.noscroll{overflow:hidden}
  .chnav .btn{padding:0 12px}
  .text p{text-align:left}
 }
+/* tài khoản Google (đồng bộ tiến trình) */
+.sheet .row.acct{flex-wrap:wrap}
+.acct-r{display:flex;align-items:center;gap:8px;min-width:0;flex-wrap:wrap;justify-content:flex-end}
+.acct-who{font-size:14px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:180px}
+.acct-btn{min-height:40px;padding:0 12px;border-radius:10px;border:1px solid var(--line);background:var(--bg);color:var(--ink);font:500 14px var(--sans);cursor:pointer}
+.acct-btn:disabled{opacity:.6;cursor:default}
+.acct-note{margin:0;font-size:13px;line-height:1.5;color:var(--muted)}
+.acct-hint{font-size:13px!important;color:var(--muted);margin-top:4px}
+.acct-hint b{font-weight:600;color:var(--ink)}
+.linkish{border:0;background:none;padding:0;color:var(--accent);font:inherit;font-weight:600;cursor:pointer;text-decoration:underline;text-underline-offset:2px}
