@@ -43,6 +43,16 @@ def avatar(name):
 # ---------- khung trang ----------
 VER = hashlib.md5(open(WEB + 'style.css', 'rb').read() + open(WEB + 'app.js', 'rb').read()).hexdigest()[:8]  # chống trình duyệt giữ bản cũ
 
+
+def _ico(d): return f'<svg class="ico" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">{d}</svg>'
+ICO = {
+    'book': _ico('<path d="M4 5.5C4 4.7 4.7 4 5.5 4H11v16H5.5c-.8 0-1.5-.7-1.5-1.5zM20 5.5c0-.8-.7-1.5-1.5-1.5H13v16h5.5c.8 0 1.5-.7 1.5-1.5z"/>'),
+    'mark': _ico('<path d="M7 3.5h10v17l-5-3.6-5 3.6z"/>'),
+    'people': _ico('<circle cx="9" cy="8" r="3.2"/><path d="M3 19c.6-3.2 3-5 6-5s5.4 1.8 6 5M15.5 4.8a3.2 3.2 0 0 1 0 6.4M17.5 14.4c1.9.6 3.1 2.2 3.5 4.6"/>'),
+    'aa': _ico('<path d="M3 18 8 6l5 12M4.8 14h6.4M14.5 18l3-7.5 3 7.5M15.6 15.5h3.8"/>'),
+    'theme': _ico('<circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor"/>'),
+}
+
 def page(title, body, root='', cls='', extra_head=''):
     t = html.escape(title + (' — ' + SITE if title != SITE else ''))
     return f'''<!doctype html>
@@ -58,9 +68,22 @@ def page(title, body, root='', cls='', extra_head=''):
 <script>try{{var s=JSON.parse(localStorage.getItem('ln-settings')||'{{}}');var d=document.documentElement;d.dataset.theme=s.theme||'light';d.dataset.font=s.font||'serif';d.style.setProperty('--fs',(s.fs||18)+'px');d.style.setProperty('--lh',s.lh||1.8)}}catch(e){{}}</script>
 {extra_head}</head>
 <body class="{cls}">
-<header class="topbar"><a class="brand" href="{root}index.html"><img src="{root}img/icon.png" alt=""><span>Genshin Impact LN</span></a>
-<nav class="mainnav"><a href="{root}index.html#muc-luc" data-nav-home>Mục lục</a><a href="{root}nhan-vat.html" data-nav-prof>Nhân vật</a>
-<button class="icon-btn" data-open-settings aria-label="Cài đặt đọc">Aa</button></nav></header>
+<header class="topbar"><button class="icon-btn menu-btn" data-open-side aria-label="Mở menu" aria-controls="side" aria-expanded="false"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button><a class="brand" href="{root}index.html"><img src="{root}img/icon.png" alt=""><span>Genshin Impact LN</span></a>
+<button class="icon-btn" data-open-settings aria-label="Cài đặt đọc">Aa</button></header>
+<aside class="rail" id="side" data-root="{root}" aria-label="Thanh điều hướng">
+<a class="side-brand" href="{root}index.html"><img src="{root}img/icon.png" alt=""><span><b>Genshin Impact LN</b><small>Hành Trình Của Nhà Lữ Hành</small></span></a>
+<nav class="side-nav" aria-label="Điều hướng chính">
+<a class="si" href="{root}index.html#muc-luc" data-si="home">{ICO['book']}<span>Mục lục</span></a>
+<a class="si" href="#" data-continue hidden>{ICO['mark']}<span>Đọc tiếp<small data-continue-t></small></span></a>
+<div class="sg">Tra cứu</div>
+<a class="si" href="{root}nhan-vat.html" data-si="prof">{ICO['people']}<span>Hồ sơ nhân vật</span></a>
+<div class="sg">Công cụ</div>
+<button type="button" class="si" data-open-settings>{ICO['aa']}<span>Cài đặt đọc</span></button>
+<button type="button" class="si" data-theme-cycle>{ICO['theme']}<span>Nền: <b data-theme-name>Sáng</b></span></button>
+</nav>
+<div class="side-acct" id="side-acct"></div>
+</aside>
+<div class="side-scrim" data-close-side hidden></div>
 {body}
 <div class="settings" id="settings" hidden>
   <div class="sheet" role="dialog" aria-label="Cài đặt đọc">
