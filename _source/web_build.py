@@ -59,7 +59,7 @@ def page(title, body, root='', cls='', extra_head=''):
 {extra_head}</head>
 <body class="{cls}">
 <header class="topbar"><a class="brand" href="{root}index.html"><img src="{root}img/icon.png" alt=""><span>Genshin Impact LN</span></a>
-<nav><a href="{root}index.html#muc-luc">Mục lục</a><a href="{root}nhan-vat.html">Nhân vật</a>
+<nav class="mainnav"><a href="{root}index.html#muc-luc" data-nav-home>Mục lục</a><a href="{root}nhan-vat.html" data-nav-prof>Nhân vật</a>
 <button class="icon-btn" data-open-settings aria-label="Cài đặt đọc">Aa</button></nav></header>
 {body}
 <div class="settings" id="settings" hidden>
@@ -152,8 +152,9 @@ first = ch_url(*order[0])
 home = f'''<main class="home">
 <section class="hero"><div class="hero-text"><div class="kick">{esc(SERIES)}</div><h1>Genshin Impact</h1><div class="sub-h">Hành Trình Của Nhà Lữ Hành</div>
 <p>{esc(DESC)}</p>
-<div class="btns"><a class="btn primary" href="{first}">Đọc từ đầu</a><a class="btn" id="continue" hidden href="#">Đọc tiếp</a><a class="btn" href="nhan-vat.html">Hồ sơ nhân vật</a></div>
-<p class="continue-note" id="continue-note" hidden></p></div>
+<div class="btns"><a class="btn primary" href="{first}">Đọc từ đầu</a><a class="btn" id="continue" hidden href="#">Đọc tiếp</a></div>
+<p class="continue-note" id="continue-note" hidden></p>
+<nav class="lookup" aria-label="Tra cứu"><span class="lk-l">Tra cứu</span><a class="lk" href="nhan-vat.html"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><circle cx="9" cy="8" r="3.2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M3 19c.6-3.2 3-5 6-5s5.4 1.8 6 5M15.5 4.8a3.2 3.2 0 0 1 0 6.4M17.5 14.4c1.9.6 3.1 2.2 3.5 4.6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>Hồ sơ nhân vật</a></nav></div>
 <img class="hero-img" src="{hero}" alt="Nhà Lữ Hành"></section>
 <div class="toc-lyt"><nav class="actnav" aria-label="Đi tới màn"><div class="an-h">Các màn</div>{''.join(nav)}</nav>
 <section class="toc" id="muc-luc"><h2>Mục lục</h2>{''.join(toc)}</section></div>
